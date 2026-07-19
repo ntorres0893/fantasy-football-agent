@@ -1,0 +1,4 @@
+# Scratch / local
+*.tmp
+.DS_Store
+scratchpad/
