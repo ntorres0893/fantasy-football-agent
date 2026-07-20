@@ -5,7 +5,18 @@
 > **⚠️ Verify contested 2026 offseason details (team changes, injuries) against a
 > live source before the draft** — some are still firming up in camp.
 
-## 🚑 Injuries / status clouds (2026-07-19)
+## 🚑 Injuries / status clouds
+### Update 2026-07-20
+- **Malik Nabers (WR, NYG)** — now expected to **open camp on the PUP list**
+  after a secondary knee procedure; GM Joe Schoen insists he'll be fine Week 1,
+  but he's behind schedule. Risk confirmed — treat as a discount/upside stash.
+- **Quinshon Judkins (RB, CLE)** — looked strong at OTAs pushing off the injured
+  leg; should have full trust by camp. Trending up.
+- **Bo Nix (QB, DEN)** — full go for camp despite the ankle. No draft concern.
+- **Patrick Mahomes (QB, KC)** — trending toward **full clearance** by camp
+  (mid-Dec ACL surgery, ~9-month QB timeline lines up with Week 1).
+
+### 2026-07-19
 - **Malik Nabers (WR, NYG)** — knee procedure; multiple reports he could miss
   ~4–5 games / possible PUP. Elite talent but you may miss September. Discount.
 - **Christian McCaffrey (RB, SF)** — health/workload; coming off a ~450-touch
@@ -34,6 +45,17 @@
 - **Tyreek Hill** — released by MIA, **unsigned** (medical); major faller.
 - **Stefon Diggs** — unsigned as camps open; faller.
 - **Travis Kelce** — back with KC; age/committee bust risk at TE.
+
+## 📈 Risers / fallers (2026-07-20)
+- **Risers:** **Adonai Mitchell** (WR, NYJ) climbing on camp buzz (~pick 15);
+  **Jordan Mason** (RB, MIN) locked into a bigger role post-Aaron Jones;
+  **Jonathon Brooks** (RB, CAR) up ~1.5 rounds, could overtake Chuba Hubbard as
+  lead back; **Kenneth Gainwell** (RB, TB) cracks top 100.
+- **Fallers:** **Brandon Aiyuk** (WR, SF) cratering — down 54 spots since May,
+  another 14 last week; situation worsening — avoid at old price. **Chuba
+  Hubbard** (RB, CAR) threatened by Brooks. **Rashee Rice** (WR, KC) drifting
+  down in some trackers. **James Conner / Alvin Kamara** aging out of redraft
+  relevance.
 
 ## 💤 Sleepers / values (PPR)
 - **Bhayshul Tuten (RB, JAX)** — lead-back path with Etienne gone; mid-round.
