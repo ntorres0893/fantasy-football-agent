@@ -6,6 +6,15 @@
 > live source before the draft** — some are still firming up in camp.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-07-21
+- **Bucky Irving (RB, TB)** — says he'll be **good to go for camp** after shoulder
+  surgery. Positive for a Tier-4 RB target; draft with confidence.
+- **Tucker Kraft (TE, GB)** — recovering from **ACL**; likely starts camp on the
+  active/PUP list but expects to be full-go Week 1. New risk flag on a TE2 target.
+- **Jacoby Brissett (QB, ARI)** — skipped voluntary workouts, wants a starter's
+  pay; possible camp hold-out/hold-in. Watch as it affects ARI skill players
+  (Marvin Harrison Jr., rookie Jeremiyah Love).
+
 ### Update 2026-07-20
 - **Malik Nabers (WR, NYG)** — now expected to **open camp on the PUP list**
   after a secondary knee procedure; GM Joe Schoen insists he'll be fine Week 1,
@@ -45,6 +54,14 @@
 - **Tyreek Hill** — released by MIA, **unsigned** (medical); major faller.
 - **Stefon Diggs** — unsigned as camps open; faller.
 - **Travis Kelce** — back with KC; age/committee bust risk at TE.
+
+## 🆓 Free-agent market (2026-07-21)
+- **Stefon Diggs** — biggest unsigned name; **5+ teams** reportedly checking in
+  after a 1,000-yard 2025. If he lands somewhere with targets, his value jumps
+  from "undraftable" to a late-round dart — watch for a signing.
+- **Brandon Aiyuk (WR, SF)** — could still be **traded**; a new team could
+  stabilize his cratering value (see fallers). Hold off until the situation sets.
+- **Jadeveon Clowney** unsigned (edge; IDP-only relevance).
 
 ## 📈 Risers / fallers (2026-07-20)
 - **Risers:** **Adonai Mitchell** (WR, NYJ) climbing on camp buzz (~pick 15);
