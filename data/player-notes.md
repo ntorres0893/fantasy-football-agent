@@ -6,6 +6,15 @@
 > live source before the draft** — some are still firming up in camp.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-07-22
+- **Camp opens:** Cardinals & Panthers (HOF Game teams) are the first to report;
+  on-field news begins now. Rest of the league in by July 28.
+- **Browns QB competition:** a healthy **Deshaun Watson** is pushing to reclaim
+  QB1 over **Shedeur Sanders**. Muddy QB = caps the ceiling for CLE pass-catchers,
+  but keep watching **Quinshon Judkins** (RB) — the run game is the safer bet here.
+- **Julian Hill (TE, NE) season-ending knee** — depth only; confirms **Hunter
+  Henry** as New England's clear TE1 (streaming-tier for us).
+
 ### Update 2026-07-21
 - **Bucky Irving (RB, TB)** — says he'll be **good to go for camp** after shoulder
   surgery. Positive for a Tier-4 RB target; draft with confidence.
