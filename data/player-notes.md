@@ -6,6 +6,15 @@
 > live source before the draft** — some are still firming up in camp.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-07-23
+- **Malik Nabers (WR, NYG)** — HC John Harbaugh **won't rule him out for Week 1**,
+  but beat reporters still expect him to miss ~the first month / possibly open on
+  PUP. Net: unchanged caution — upside stash only, not a relied-on starter.
+- **Cam Skattebo (RB, NYG)** — ankle fracture but **positive rehab; no real Week 1
+  risk**. A deeper Giants backfield name to monitor for late-round/handcuff value.
+- PUP designations today are mostly defense/IDP (Nick Emmanwori SEA, Harold Landry
+  NE) — not relevant for a 10-team ESPN standard roster.
+
 ### Update 2026-07-22
 - **Camp opens:** Cardinals & Panthers (HOF Game teams) are the first to report;
   on-field news begins now. Rest of the league in by July 28.
