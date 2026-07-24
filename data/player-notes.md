@@ -6,6 +6,20 @@
 > live source before the draft** — some are still firming up in camp.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-07-24
+- **Zach Charbonnet (RB, SEA)** — placed on **PUP** (knee) to open camp. Confirms
+  he misses early season → boosts Seattle's lead back's early-year workload.
+- **Jonathan Taylor (RB, IND)** — thin depth behind him (rookie Seth McGowan,
+  2nd-yr DJ Giddens competing for RB2). Good workload security for a Round-2 RB.
+- **Bhayshul Tuten (RB, JAX)** — has a clear **path to win the lead job** in an
+  open camp competition. Reinforces him as a mid-round sleeper.
+- **Jacoby Brissett (QB, ARI)** — **practicing** amid his contract dispute (not
+  holding out) — cools yesterday's ARI storyline.
+- **Tyreek Hill (WR)** — rehabbing, "feels good," but **no return timetable** and
+  still unsigned. Remains off the draftable board for now.
+- **Fernando Mendoza (QB) → Raiders** agree to deal — dynasty/SF only; likely
+  sits behind Kirk Cousins in redraft.
+
 ### Update 2026-07-23
 - **Malik Nabers (WR, NYG)** — HC John Harbaugh **won't rule him out for Week 1**,
   but beat reporters still expect him to miss ~the first month / possibly open on
