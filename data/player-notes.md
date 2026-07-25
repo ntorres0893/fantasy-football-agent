@@ -6,6 +6,16 @@
 > live source before the draft** — some are still firming up in camp.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-07-25
+- **Patrick Mahomes (QB, KC)** — ✅ **cleared to fully participate** to begin camp
+  (ACL recovery complete). Removes the cloud. Boosts KC pass-catchers, esp.
+  **Rashee Rice** (WR2 target) and Travis Kelce's floor. Mahomes back to a normal
+  QB-stream/mid tier — no discount needed now.
+- **Alec Pierce (WR, IND)** — offseason **ankle surgery**; not a lock to be ready
+  for camp start. Deep-WR/late-round monitor only.
+- **Baltimore WR room** wide open behind Zay Flowers & Rashod Bateman (young guys
+  competing) — no clear draftable third option yet.
+
 ### Update 2026-07-24
 - **Zach Charbonnet (RB, SEA)** — placed on **PUP** (knee) to open camp. Confirms
   he misses early season → boosts Seattle's lead back's early-year workload.
