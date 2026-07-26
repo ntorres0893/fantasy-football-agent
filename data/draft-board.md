@@ -31,7 +31,7 @@ This is the queue we draft from. In a 10-team snake, picks 1–10 = Round 1,
 |---|--------|-----|------|-------|
 | 11 | Drake London | WR | ATL | Target share king; ATL QB battle |
 | 12 | Jonathan Taylor | RB | IND | Volume RB1 |
-| 13 | Malik Nabers | WR | NYG | ⚠️ knee procedure — may miss ~4–5 games; big discount/risk |
+| 13 | Malik Nabers | WR | NYG | 🔼 avoided PUP (7/26) — tracking closer to Week 1; discount shrinking, monitor reps |
 | 14 | Ashton Jeanty | RB | LV | Yr2 breakout candidate |
 | 15 | Saquon Barkley | RB | PHI | Elite behind great OL |
 | 16 | A.J. Brown | WR | NE | ⚠️ traded to NE; riser w/ Drake Maye |

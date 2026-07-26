@@ -6,6 +6,18 @@
 > live source before the draft** — some are still firming up in camp.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-07-26
+- **Malik Nabers (WR, NYG)** — 🔼 **AVOIDED the PUP list** to start camp. Big
+  positive vs. the earlier "opens on PUP / misses a month" fear — he's tracking
+  closer to Week 1 than expected. Still monitor his practice reps, but the steep
+  discount is shrinking. Upgrade from "risky stash" toward "buy-the-dip upside."
+- **Stefon Diggs (WR, FA)** — NFL **closed its off-field review with no
+  violation**, clearing his path to sign. Still a free agent as of the 25th, but a
+  deal is likely in the coming weeks (a New England reunion has been floated —
+  ⚠️ unconfirmed/conflicting). Landing spot still decides his fantasy value.
+- **Kyle Shanahan (49ers HC)** — concussion from a July car accident; 49ers open
+  camp without him, expected back during camp. No direct fantasy impact.
+
 ### Update 2026-07-25
 - **Patrick Mahomes (QB, KC)** — ✅ **cleared to fully participate** to begin camp
   (ACL recovery complete). Removes the cloud. Boosts KC pass-catchers, esp.
