@@ -6,6 +6,18 @@
 > live source before the draft** — some are still firming up in camp.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-07-27
+- **Jacoby Brissett (QB, ARI)** — got a **raise**, ending the contract dispute.
+  Cardinals QB is settled (Brissett starts, rookie Carson Beck waits) → removes
+  the cloud over ARI skill players (**Marvin Harrison Jr.**, rookie RB
+  **Jeremiyah Love**). Mild positive for their draft outlook.
+- **Stefon Diggs (WR, FA)** — **Commanders** emerging as the team he finds
+  "intriguing" (Ravens also a fit); he's targeting a **WR2 role for a quality QB**,
+  is healthy (no ACL rehab this year) and "highly motivated." Yesterday's NE-
+  reunion talk looks less likely (NE released him in March). Landing spot pending.
+- **Jonathon Brooks (RB, CAR)** — hype building further; increasingly viewed as a
+  candidate to take the Carolina lead job. Sleeper arrow still up.
+
 ### Update 2026-07-26
 - **Malik Nabers (WR, NYG)** — 🔼 **AVOIDED the PUP list** to start camp. Big
   positive vs. the earlier "opens on PUP / misses a month" fear — he's tracking
