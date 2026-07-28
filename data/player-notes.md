@@ -6,6 +6,17 @@
 > live source before the draft** — some are still firming up in camp.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-07-28
+- **Travis Hunter (WR/CB, JAX)** — fully recovered (torn LCL) and cleared, BUT
+  Jacksonville plans to use him **primarily at cornerback**, only working him into
+  the WR rotation. Caps his fantasy-WR ceiling → treat as a boom/bust late-round
+  flex, not a set starter. Don't overpay on name/hype.
+- **New England backfield** — Terrell Jennings on the active/NFI list muddies the
+  RB3 race behind **Rhamondre Stevenson** and 2nd-yr **TreVeyon Henderson**. Watch
+  the Stevenson/Henderson split — Henderson has the upside if he wins passing-down
+  work. (Both are mid-round-ish RB fliers depending on the split.)
+- All 32 teams now in camp; padded practices imminent → expect RB separation soon.
+
 ### Update 2026-07-27
 - **Jacoby Brissett (QB, ARI)** — got a **raise**, ending the contract dispute.
   Cardinals QB is settled (Brissett starts, rookie Carson Beck waits) → removes
