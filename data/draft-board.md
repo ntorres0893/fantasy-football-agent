@@ -93,7 +93,7 @@ This is the queue we draft from. In a 10-team snake, picks 1–10 = Round 1,
 
 **TE** (pay up for the top 3, or wait — hard cliff after ~6–8)
 - T1: Bowers, McBride  ·  T1b (injury): Kittle⚠️ (misses early season)
-- T2: LaPorta, Tyler Warren, Tucker Kraft⚠️(ACL — camp PUP, expects Week 1)
+- T2: LaPorta, Tyler Warren, Tucker Kraft🔼(ACL/PUP but expects Week 1 — top-3 TE UPSIDE if healthy; value punt-TE target)
 - T3 (stream): Loveland, Fannin Jr., Kincaid (sleeper), Likely, J.Ferguson
 
 **D/ST & K:** draft in the **last two rounds only**; stream weekly in-season.

@@ -6,6 +6,18 @@
 > live source before the draft** — some are still firming up in camp.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-07-29
+- **Tucker Kraft (TE, GB)** — 🔼 opens camp on **active/PUP** but expected full-go
+  Week 1; if he looks good in preseason there's a case for a **top-3 fantasy TE**.
+  Upgraded outlook — a strong value if you punt the elite TE tier (draft him a
+  round or two after Bowers/McBride and get similar upside cheaper).
+- **Malik Nabers (WR, NYG)** — "**decent shot to be ready for Week 1**"; arrow
+  keeps pointing up after an offseason of negative reports. Buy-the-dip case grows.
+- **Stefon Diggs (WR, FA)** — publicly pitching himself ("no WR2 better than me");
+  **Rams** now floated as a fit (need WR insurance for Puka Nacua + aging Davante
+  Adams), alongside Commanders/Ravens. A LAR landing (Stafford) would give him real
+  flex value. Still unsigned.
+
 ### Update 2026-07-28
 - **Travis Hunter (WR/CB, JAX)** — fully recovered (torn LCL) and cleared, BUT
   Jacksonville plans to use him **primarily at cornerback**, only working him into
