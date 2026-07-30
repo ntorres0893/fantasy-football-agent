@@ -6,6 +6,22 @@
 > live source before the draft** — some are still firming up in camp.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-07-30 (pads are on — first real practice reports)
+- **Malik Nabers (WR, NYG)** — ✅ **participated in individual drills at full
+  speed.** The injury-fade case is essentially over; draft him as the elite
+  talent he is (still not on PUP). Big offseason-long worry now largely resolved.
+- **Luther Burden III (WR, CHI)** — 🔼 **riser**: got a TON of targets (inside &
+  outside), sharper routes in Ben Johnson's offense. Sleeper arrow up — a late-
+  round WR dart with real breakout upside. **Rome Odunze** also healthy/explosive;
+  Bears could support two fantasy WRs.
+- **Jonathon Brooks (RB, CAR)** — full participant in his **first padded
+  practice** (first real contact since the Dec-2024 ACL). Milestone met; hype
+  continues to build toward a possible lead-back role.
+- **Stefon Diggs (WR, FA)** — **Commanders** now the clear lean: he "likes the
+  idea" of Washington and would be the **immediate WR2 alongside Terry McLaurin**.
+  ⚠️ If he signs there, slightly trims **McLaurin's** target share (small WR3/flex
+  ding) while giving Diggs late-round flex value. Watch for the signing.
+
 ### Update 2026-07-29
 - **Tucker Kraft (TE, GB)** — 🔼 opens camp on **active/PUP** but expected full-go
   Week 1; if he looks good in preseason there's a case for a **top-3 fantasy TE**.
