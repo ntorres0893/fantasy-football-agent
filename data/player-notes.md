@@ -6,6 +6,22 @@
 > live source before the draft** — some are still firming up in camp.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-07-31
+- **Cam Skattebo (RB, NYG)** — ✅ **cleared for camp start** (back from a deltoid
+  ligament tear, ankle dislocation & compound fracture); handled a **full practice
+  workload** in team drills. Upgrade — a real Giants backfield piece to monitor for
+  lead-back/standalone value (deeper RB flier with upside).
+- **Jonathon Brooks (RB, CAR)** — HC Dave Canales praised him; made one of the
+  session's best plays, "no hesitation." Legit chance to **leapfrog Chuba Hubbard**.
+  Ascending — bump him up your late-round RB targets.
+- **Stefon Diggs (WR, FA)** — Washington still the lean (Jayden Daniels + DMV ties
+  cited); ESPN also floated the **Raiders** as a fit. Still unsigned. A WAS landing
+  with a dual-threat QB1 (Daniels) would be his best fantasy outcome.
+- **Carnell Tate (WR, TEN)** — ⚠️ temper the sleeper hype: Tennessee's WR room is
+  **very crowded/fluid** (Calvin Ridley, FA Wan'Dale Robinson, Elic Ayomanor,
+  Chimere Dike). Target competition is real — draft only at a deep discount.
+- **Titans WR "Brazzell"** — season-ending LCL (to IR); not fantasy-relevant.
+
 ### Update 2026-07-30 (pads are on — first real practice reports)
 - **Malik Nabers (WR, NYG)** — ✅ **participated in individual drills at full
   speed.** The injury-fade case is essentially over; draft him as the elite
