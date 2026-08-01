@@ -6,6 +6,24 @@
 > live source before the draft** — some are still firming up in camp.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-08-01
+- **Ricky Pearsall (WR, SF)** — 🔻 **PCL injury** with swelling; 49ers have "some
+  concern." In response, SF reportedly moving to **bring back Deebo Samuel**.
+  *Impact:* fade Pearsall for now; if **Deebo returns to SF**, he's a fantasy-
+  relevant WR add (monitor — reported, not official). Muddies the SF WR room
+  (also Mike Evans there per earlier reports).
+- **Alec Pierce (WR, IND)** — opened on **Active/PUP** (ankle recovery behind
+  schedule); GM expects return in the **first half of August**. Minor negative;
+  deep-WR monitor only.
+- **Isaac Guerendo (RB, SF)** — on **Active/PUP** (pectoral). Dents the CMC
+  handcuff picture in SF for now.
+- **Quinshon Judkins (RB, CLE)** — progressing well, into 7-on-7 work. On track.
+- **Washington WR room is crowded** (Antonio Williams, Van Jefferson, Dyami Brown,
+  Luke McCaffrey, Jaylin Lane behind McLaurin) — tempers the "Diggs = clean WR2"
+  idea if he signs there. **Terry McLaurin** remains the clear alpha regardless.
+- **Stefon Diggs (WR, FA)** — still unsigned; a **Bills reunion** now also floated
+  alongside Washington. Landing spot still pending.
+
 ### Update 2026-07-31
 - **Cam Skattebo (RB, NYG)** — ✅ **cleared for camp start** (back from a deltoid
   ligament tear, ankle dislocation & compound fracture); handled a **full practice
