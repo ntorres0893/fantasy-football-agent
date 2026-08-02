@@ -84,7 +84,7 @@ This is the queue we draft from. In a 10-team snake, picks 1–10 = Round 1,
 - T2: London, Nabers⚠️, A.J. Brown, Rice, N.Collins
 - T3: Olave, Pickens, T.McMillan, McConkey, G.Wilson, Higgins, Adams
 - T4: DeVonta Smith, McLaurin, Waddle⚠️, MHJ, Metcalf, Zay Flowers, Evans, Odunze
-- Depth/upside: Egbuka, Burden III, J.Williams, Sutton, Pittman, Godwin, Meyers, Ridley, Pearsall
+- Depth/upside: Egbuka, Burden III🔼, J.Williams, Sutton, Pittman, Godwin, Meyers, Ridley, Deebo Samuel (SF, 1-yr — flex/WR4), Pearsall🔻(PCL, missing practice)
 
 **QB** (1-QB year — WAIT; target Rounds 6–10)
 - T1: Allen, L.Jackson

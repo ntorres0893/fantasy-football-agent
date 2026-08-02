@@ -6,6 +6,17 @@
 > live source before the draft** — some are still firming up in camp.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-08-02
+- **Deebo Samuel Sr. (WR, SF)** — ✅ **signed (confirmed, 1-yr deal)** after the
+  Pearsall injury. Adds a PPR-friendly YAC/gadget WR with rushing usage → **late-
+  round flex/WR4 with upside** in a good offense (Purdy). Added to the board.
+- **Ricky Pearsall (WR, SF)** — 🔻 swelling in the PCL knee **forced him to miss
+  practice**; slips further. Fade until healthy — Deebo/Evans/Jennings ahead of him
+  in the SF pecking order for now.
+- **Chris Brazzell (WR, TEN rookie)** — opted for **season-ending surgery** (LCL).
+  Confirmed out; not fantasy-relevant.
+- (Diggs still unsigned — no new landing-spot movement today.)
+
 ### Update 2026-08-01
 - **Ricky Pearsall (WR, SF)** — 🔻 **PCL injury** with swelling; 49ers have "some
   concern." In response, SF reportedly moving to **bring back Deebo Samuel**.
