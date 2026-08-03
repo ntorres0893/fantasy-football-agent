@@ -29,7 +29,7 @@ This is the queue we draft from. In a 10-team snake, picks 1–10 = Round 1,
 ## Round 2 (picks 11–20)
 | # | Player | Pos | Team | Notes |
 |---|--------|-----|------|-------|
-| 11 | Drake London | WR | ATL | Target share king; ATL QB battle |
+| 11 | Drake London | WR | ATL | Target share king; ⚠️ Tua back flare-up (8/3) — monitor ATL QB |
 | 12 | Jonathan Taylor | RB | IND | Volume RB1 |
 | 13 | Malik Nabers | WR | NYG | 🔼 avoided PUP (7/26) — tracking closer to Week 1; discount shrinking, monitor reps |
 | 14 | Ashton Jeanty | RB | LV | Yr2 breakout candidate |
@@ -84,7 +84,7 @@ This is the queue we draft from. In a 10-team snake, picks 1–10 = Round 1,
 - T2: London, Nabers⚠️, A.J. Brown, Rice, N.Collins
 - T3: Olave, Pickens, T.McMillan, McConkey, G.Wilson, Higgins, Adams
 - T4: DeVonta Smith, McLaurin, Waddle⚠️, MHJ, Metcalf, Zay Flowers, Evans, Odunze
-- Depth/upside: Egbuka, Burden III🔼, J.Williams, Sutton, Pittman, Godwin, Meyers, Ridley, Deebo Samuel (SF, 1-yr — flex/WR4), Pearsall🔻(PCL, missing practice)
+- Depth/upside: Egbuka, Burden III🔼, J.Williams, Sutton, Pittman, Godwin, Meyers, Ridley, Deebo Samuel (SF, 1-yr — flex/WR4), ~~Pearsall~~🔻🔻(possible season-ending knee surgery — undraftable)
 
 **QB** (1-QB year — WAIT; target Rounds 6–10)
 - T1: Allen, L.Jackson

@@ -6,6 +6,17 @@
 > live source before the draft** — some are still firming up in camp.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-08-03
+- **Ricky Pearsall (WR, SF)** — 🔻🔻 SF is **evaluating surgery that could sideline
+  him for ALL of 2026.** Effectively **undraftable** now (deep dynasty stash only).
+  Cements **Deebo Samuel** as the SF WR beneficiary.
+- **Tua Tagovailoa (QB, ATL)** — **back "flare-up."** New cloud over the Falcons'
+  passing game just as the offense was settling. *Watch **Drake London** (Round-2
+  WR) — his floor dips if Tua is limited or the Penix uncertainty resurfaces.*
+- **Stefon Diggs (WR, FA)** — still unsigned; Washington "considering a wideout"
+  with Diggs of interest (competing group: Antonio Williams, Treylon Burks, Dyami
+  Brown, Van Jefferson). No signing yet.
+
 ### Update 2026-08-02
 - **Deebo Samuel Sr. (WR, SF)** — ✅ **signed (confirmed, 1-yr deal)** after the
   Pearsall injury. Adds a PPR-friendly YAC/gadget WR with rushing usage → **late-
