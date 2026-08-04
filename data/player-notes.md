@@ -6,6 +6,22 @@
 > live source before the draft** — some are still firming up in camp.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-08-04
+- **Joe Mixon (RB, HOU)** — 🔻 lingering **ankle**; placed on the **NFI list** and
+  sidelined during camp. New cloud on a startable RB — downgrade until we get a
+  timeline; **Dameon Pierce / Woody Marks** would gain value if he misses time.
+- **Ricky Pearsall (WR, SF)** — **officially RULED OUT for 2026** (PCL surgery).
+  Confirmed off the board.
+- **George Kittle (TE, SF)** — on **PUP** with a chance to be activated; if he
+  stays on it he misses **at least the first 4 weeks.** Keep him in the TE1b/risk
+  bucket — don't pay top-3 TE price given the early-season cloud.
+- **Patrick Mahomes (QB, KC)** — taking **all first-team reps**, looks great, but
+  wearing a **bulky left knee brace.** Net positive; brace is a minor note.
+- **De'Zhaun Stribling (WR, SF rookie)** — 🔼 Purdy praising him ("baller," great
+  routes). With Pearsall out, a **deep SF sleeper** worth a late dart.
+- **Jadarian Price (RB, SEA rookie)** — splitting first-team reps with George
+  Holani (Charbonnet on PUP). Sleeper in an **open Seattle backfield.**
+
 ### Update 2026-08-03
 - **Ricky Pearsall (WR, SF)** — 🔻🔻 SF is **evaluating surgery that could sideline
   him for ALL of 2026.** Effectively **undraftable** now (deep dynasty stash only).
