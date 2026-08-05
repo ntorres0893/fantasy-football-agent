@@ -6,6 +6,19 @@
 > live source before the draft** — some are still firming up in camp.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-08-05
+- **Malik Nabers (WR, NYG)** — ✅ **practiced for the first time since the ACL**;
+  "feels better than expected," on track for **Week 1**. The offseason injury story
+  is essentially closed — draft him as an elite WR (can still be a slight value if
+  a leaguemate remembers the scare).
+- **NYG backfield is a committee** — HC Harbaugh says **Tyrone Tracy Jr. gets a
+  "big role"** and that Tracy & **Cam Skattebo** will "compete for everything" and
+  play a lot together. *Tempers Skattebo's standalone value* — both are RB2/flex
+  committee pieces, not a clear bell-cow. Draft accordingly.
+- **Kenyon Sadiq (TE, NYJ rookie)** — minor hernia-surgery setback, "miss some
+  time." Not fantasy-relevant.
+- (Joe Mixon still on NFI from 8/4 — no new timeline yet.)
+
 ### Update 2026-08-04
 - **Joe Mixon (RB, HOU)** — 🔻 lingering **ankle**; placed on the **NFI list** and
   sidelined during camp. New cloud on a startable RB — downgrade until we get a
