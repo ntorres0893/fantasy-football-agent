@@ -6,6 +6,20 @@
 > live source before the draft** — some are still firming up in camp.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-08-06
+- **✅ Stefon Diggs SIGNED — Washington Commanders.** The FA watch is resolved. He
+  joins Jayden Daniels' ascending offense as the **WR2 behind Terry McLaurin** →
+  now a **mid-round fantasy WR3/flex** with real volume/upside. **Added to the
+  board.** McLaurin stays the alpha but takes a slight target-share trim (still a
+  solid WR2/3). A dual-threat QB1 in Daniels is a good fantasy environment.
+- **Joe Mixon (RB, HOU)** — expected to **miss the entire preseason** (ankle, still
+  on NFI). No Week-1 timeline yet; hold the downgrade until the team commits.
+- **HOF Game tonight (Cardinals–Panthers, 8pm ET):** watch **Jonathon Brooks**
+  (CAR) for live snaps. **Jeremiyah Love** (ARI) is being **held out** (rest, not
+  injury) — normal for a projected starter.
+- **Jalon Walker Jr. (ATL, edge)** — torn ACL, out for 2026. **IDP only** (not
+  relevant for a 10-team ESPN standard roster).
+
 ### Update 2026-08-05
 - **Malik Nabers (WR, NYG)** — ✅ **practiced for the first time since the ACL**;
   "feels better than expected," on track for **Week 1**. The offseason injury story
