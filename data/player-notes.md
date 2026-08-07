@@ -6,6 +6,25 @@
 > live source before the draft** — some are still firming up in camp.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-08-07 (post–HOF Game)
+- **HOF Game takeaways (CAR–ARI, low signal — vanilla D, starters rested):**
+  - **Jonathon Brooks (RB, CAR)** — **did not play** (rested/cautious with his
+    return). No new info; stock unchanged, still an ascending late RB.
+  - **Trey Benson (RB, ARI)** — **knee discomfort** kept him out. Minor cloud on
+    the ARI RB behind rookie Jeremiyah Love; monitor.
+  - **Bam Knight (RB, ARI rookie)** — 12-60 with a 15-yd run, but vs. a vanilla
+    defense → **noise, not signal.** Deep dynasty/dart only.
+  - **Ja'Tavion Sanders (TE, CAR)** — ankle; fell to **3rd on the depth chart**
+    behind Mitchell Evans. Drop him off deep-TE radar for now.
+- **Makai Lemon (WR, PHI rookie)** — 🔻 **hamstring**, missed a 2nd straight
+  practice; recurring soft-tissue issues. Downgrade the rookie sleeper — fade
+  until he's practicing cleanly.
+- **Malik Nabers (WR, NYG)** — reports frame the **worst case as missing 1–2
+  games**; still on track and draftable as an elite WR (minor realistic tempering
+  of "locked for Week 1").
+- **Chase Brown (RB, CIN)** — stock ticking **up** in camp; solidifies him as a
+  Round-4 RB2 target.
+
 ### Update 2026-08-06
 - **✅ Stefon Diggs SIGNED — Washington Commanders.** The FA watch is resolved. He
   joins Jayden Daniels' ascending offense as the **WR2 behind Terry McLaurin** →
