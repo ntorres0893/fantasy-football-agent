@@ -6,6 +6,19 @@
 > live source before the draft** — some are still firming up in camp.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-08-08
+- **Jeremiyah Love (RB, ARI)** — 🔻 **backfield is now crowded.** Arizona signed
+  **Tyler Allgeier** (2yr/$12.25M); Love & Allgeier **traded off first-team series
+  (Allgeier took the first)**, with Trey Benson, Bam Knight, Corey Kiner also
+  around and **James Conner trending down/not seen.** *Downgrade the "immediate
+  bell-cow RB1" thesis → treat Love as a committee RB with upside, not a locked
+  starter.* This tempers our top-rookie call.
+- **Jahmyr Gibbs (RB, DET)** — ✅ signed a **3yr/$75.75M extension**; back with the
+  team. Removes any holdout worry — your **1.01/1.02-caliber RB** is fully locked.
+- **Matthew Golden (WR, GB)** — 🔼 steps into a bigger role after **Romeo Doubs
+  signed with New England**; deep-sleeper WR arrow up in Green Bay.
+- **Malik Nabers (WR, NYG)** — still on track for Week 1 (reinforced).
+
 ### Update 2026-08-07 (post–HOF Game)
 - **HOF Game takeaways (CAR–ARI, low signal — vanilla D, starters rested):**
   - **Jonathon Brooks (RB, CAR)** — **did not play** (rested/cautious with his
@@ -314,8 +327,10 @@
 - **Travis Kelce** — projected worst fantasy season yet.
 
 ## 🌱 Rookies to know (2026 class — weak for redraft)
-- **Jeremiyah Love (RB, ARI)** — class's best; projected three-down lead back →
-  legit weekly-starter upside. The one rookie to prioritize in redraft.
+- **Jeremiyah Love (RB, ARI)** — class's best talent, BUT ⚠️ (updated 8/8) the ARI
+  backfield is now **crowded** (Tyler Allgeier added; Love/Allgeier splitting
+  first-team series). Still draft-worthy for the upside, but **temper to a
+  committee RB**, not a locked bell-cow. Value/ADP likely dips.
 - **Carnell Tate (WR, TEN)** — best redraft rookie WR; immediate go-to target.
 - **Jordyn Tyson (WR, NO)** — WR2 behind Olave; volume upside.
 - **Makai Lemon (WR, PHI)** — steps in as No. 2 behind DeVonta Smith post-AJB.
