@@ -6,6 +6,17 @@
 > live source before the draft** — some are still firming up in camp.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-08-09
+- **Khalil Shakir (WR, BUF)** — 🔻 listed **"week-to-week"** (Bills nursing several
+  injuries). New cloud on Buffalo's top target — downgrade slightly; monitor for a
+  Week-1 timeline before drafting him as a WR3.
+- **Vikings QB battle (Kyler Murray vs. J.J. McCarthy)** — still unsettled and
+  called the year's most pivotal QB competition. *Watch for **Justin Jefferson**
+  (your top-6 WR) and Jordan Addison:* Jefferson stays elite regardless, but a
+  shaky QB result would trim his ceiling — track who wins the job.
+- **Nabers / Mahomes** unchanged (both trending fine); **Pearsall, Brazzell** out
+  for the year; **Mixon** still on NFI; **Makai Lemon** still out (hamstring).
+
 ### Update 2026-08-08
 - **Jeremiyah Love (RB, ARI)** — 🔻 **backfield is now crowded.** Arizona signed
   **Tyler Allgeier** (2yr/$12.25M); Love & Allgeier **traded off first-team series

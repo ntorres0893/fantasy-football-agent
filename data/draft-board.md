@@ -20,7 +20,7 @@ This is the queue we draft from. In a 10-team snake, picks 1–10 = Round 1,
 | 3 | Ja'Marr Chase | WR | CIN | Elite target hog |
 | 4 | Puka Nacua | WR | LAR | PPR machine |
 | 5 | Jaxon Smith-Njigba | WR | SEA | Ascending WR1 |
-| 6 | Justin Jefferson | WR | MIN | Elite; QB situation to watch |
+| 6 | Justin Jefferson | WR | MIN | Elite; ⚠️ MIN QB battle (Murray vs McCarthy) unsettled — still a top-6 WR, monitor |
 | 7 | Christian McCaffrey | RB | SF | ⚠️ ~450-touch/age fade risk (see notes) |
 | 8 | Amon-Ra St. Brown | WR | DET | Rock-solid PPR floor |
 | 9 | CeeDee Lamb | WR | DAL | Volume monster |
