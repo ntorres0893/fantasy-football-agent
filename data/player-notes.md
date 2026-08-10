@@ -6,6 +6,18 @@
 > live source before the draft** — some are still firming up in camp.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-08-10
+- **Luther Burden III (WR, CHI)** — 🔻 **groin injury** (Saturday); expected to miss
+  "a little bit of time." Cools our sleeper riser — hold the interest but don't
+  chase it up the board while he's hurt; re-evaluate when he's practicing.
+- **Christian Kirk (WR, SF)** — **calf** injury, severity unknown. More SF WR
+  uncertainty (Pearsall already out) → **improves De'Zhaun Stribling's path** to
+  snaps behind Mike Evans. Stribling deep-sleeper arrow ticks back up.
+- **Jadarian Price (RB, SEA rookie)** — missed a 2nd straight practice (knee
+  soreness), "back in a few days." Minor ding to the SEA-backfield sleeper.
+- **Isaiah Davis (RB, NYJ)** — minor knee, out ~a couple weeks (deep Jets RB
+  competition behind Breece Hall). Not relevant for your core.
+
 ### Update 2026-08-09
 - **Khalil Shakir (WR, BUF)** — 🔻 listed **"week-to-week"** (Bills nursing several
   injuries). New cloud on Buffalo's top target — downgrade slightly; monitor for a

@@ -85,7 +85,7 @@ This is the queue we draft from. In a 10-team snake, picks 1–10 = Round 1,
 - T3: Olave, Pickens, T.McMillan, McConkey, G.Wilson, Higgins, Adams
 - T4: DeVonta Smith, McLaurin(slight trim — Diggs now WAS WR2), Waddle⚠️, MHJ, Metcalf, Zay Flowers, Evans, Odunze
 - T4/mid-round add: **Stefon Diggs** (signed WAS 8/6 — WR2 w/ Jayden Daniels; WR3/flex)
-- Depth/upside: Egbuka, Burden III🔼, J.Williams, Sutton, Pittman, Godwin, Meyers, Ridley, Deebo Samuel (SF, 1-yr — flex/WR4), De'Zhaun Stribling (SF rookie — deep sleeper), ~~Pearsall~~ (OUT 2026 — PCL surgery)
+- Depth/upside: Egbuka, Burden III🔻(groin — miss some time), J.Williams, Sutton, Godwin, Meyers, Ridley, Deebo Samuel (SF, 1-yr — flex/WR4), De'Zhaun Stribling🔼(SF rookie — path opening, Kirk calf), ~~Pearsall~~ (OUT 2026 — PCL surgery)
 
 **QB** (1-QB year — WAIT; target Rounds 6–10)
 - T1: Allen, L.Jackson
