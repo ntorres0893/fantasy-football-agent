@@ -6,6 +6,24 @@
 > live source before the draft** — some are still firming up in camp.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-08-11
+- **Luther Burden III (WR, CHI)** — now expected to **miss the entire preseason**
+  (groin), hopeful for Week 1. Risky at ~pick 58 ADP → **Rome Odunze gets a boost**
+  as the safer Bears WR. Keep Burden only as a discounted late dart.
+- **Rome Odunze (WR, CHI)** — 🔼 value up with Burden sidelined; firmer WR4/flex.
+- **Arizona backfield — Allgeier pulling ahead:** **Tyler Allgeier is getting the
+  MAJORITY of first-team reps**, Love the rest, and **James Conner hasn't taken an
+  11-on-11 rep** (slow return from his 2025 injury). *Further tempers Jeremiyah
+  Love; **Allgeier** is now the sneaky early-down value in that committee.*
+- **Jaylen Waddle (WR, DEN)** — **leg strain**, held out this week; Sean Payton
+  expects him back next week. Minor — monitor, no big draft change.
+- **Isiah Pacheco (RB, DET)** — sprained MCL (Gibbs' handcuff); coach expects Week
+  1. Minor handcuff note.
+- **Laremy Tunsil (LT, WAS)** — torn triceps. Hurts Washington's OL → mild negative
+  for the whole WAS offense (Daniels/McLaurin/Diggs protection). Worth monitoring.
+- **Malik Nabers (WR, NYG)** — participated in **9 of 10** camp practices; trending
+  to Week 1. Fade concerns essentially gone.
+
 ### Update 2026-08-10
 - **Luther Burden III (WR, CHI)** — 🔻 **groin injury** (Saturday); expected to miss
   "a little bit of time." Cools our sleeper riser — hold the interest but don't

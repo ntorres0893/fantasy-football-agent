@@ -77,13 +77,13 @@ This is the queue we draft from. In a 10-team snake, picks 1–10 = Round 1,
 - T2: McCaffrey⚠️, Achane⚠️, J.Taylor
 - T3: Jeanty, Barkley, Cook, Henry, Jacobs, K.Williams
 - T4 (RB2): C.Brown, Bucky Irving, Kenneth Walker III⚠️, Breece Hall
-- Value/committee: Bhayshul Tuten (JAX), Rachaad White, Jaydon Blue, Jonathon Brooks, Kenneth Gainwell
+- Value/committee: Bhayshul Tuten (JAX), Rachaad White, Jaydon Blue, Jonathon Brooks🔼, Kenneth Gainwell, Tyler Allgeier🔼(ARI — leading 1st-team reps over Love)
 
 **WR** (deep in PPR — you can wait if you go RB early)
 - T1: Chase, Nacua, JSN, Jefferson, ARSB, Lamb
 - T2: London, Nabers⚠️, A.J. Brown, Rice, N.Collins
 - T3: Olave, Pickens, T.McMillan, McConkey, G.Wilson, Higgins, Adams
-- T4: DeVonta Smith, McLaurin(slight trim — Diggs now WAS WR2), Waddle⚠️, MHJ, Metcalf, Zay Flowers, Evans, Odunze
+- T4: DeVonta Smith, McLaurin(slight trim — Diggs now WAS WR2), Waddle⚠️(leg strain — back ~next wk), MHJ, Metcalf, Zay Flowers, Evans, Odunze🔼(Burden out for preseason)
 - T4/mid-round add: **Stefon Diggs** (signed WAS 8/6 — WR2 w/ Jayden Daniels; WR3/flex)
 - Depth/upside: Egbuka, Burden III🔻(groin — miss some time), J.Williams, Sutton, Godwin, Meyers, Ridley, Deebo Samuel (SF, 1-yr — flex/WR4), De'Zhaun Stribling🔼(SF rookie — path opening, Kirk calf), ~~Pearsall~~ (OUT 2026 — PCL surgery)
 
