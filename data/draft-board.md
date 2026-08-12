@@ -21,7 +21,7 @@ This is the queue we draft from. In a 10-team snake, picks 1–10 = Round 1,
 | 4 | Puka Nacua | WR | LAR | PPR machine |
 | 5 | Jaxon Smith-Njigba | WR | SEA | Ascending WR1 |
 | 6 | Justin Jefferson | WR | MIN | Elite; ⚠️ MIN QB battle (Murray vs McCarthy) unsettled — still a top-6 WR, monitor |
-| 7 | Christian McCaffrey | RB | SF | ⚠️ ~450-touch/age fade risk (see notes) |
+| 7 | Christian McCaffrey | RB | SF | ⚠️ ~450-touch/age fade risk; DNP 8/12 — monitor before paying top-7 |
 | 8 | Amon-Ra St. Brown | WR | DET | Rock-solid PPR floor |
 | 9 | CeeDee Lamb | WR | DAL | Volume monster |
 | 10 | De'Von Achane | RB | MIA | ⚠️ efficiency/QB-situation risk |
@@ -45,7 +45,7 @@ This is the queue we draft from. In a 10-team snake, picks 1–10 = Round 1,
 |---|--------|-----|------|-------|
 | 21 | **Trey McBride** | **TE** | ARI | 2025 TE1; elite — last of the pay-up TEs |
 | 22 | Derrick Henry | RB | BAL | Age but still bell-cow |
-| 23 | Josh Jacobs | RB | GB | Three-down |
+| 23 | Josh Jacobs | RB | GB | Three-down; ⚠️ groin (8/12) — out ≥1 more week, monitor Week-1 timeline |
 | 24 | Kyren Williams | LAR | RB | Volume + goal line |
 | 25 | Chris Olave | WR | NO | Target hog if healthy |
 | 26 | George Pickens | WR | DAL | Big-play WR |

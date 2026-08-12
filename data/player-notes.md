@@ -6,6 +6,18 @@
 > live source before the draft** — some are still firming up in camp.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-08-12
+- **Josh Jacobs (RB, GB)** — 🔻 **groin**; hasn't practiced ~a week and HC Matt
+  LaFleur says he's out **at least another week.** New cloud on a Tier-3/Round-3 RB.
+  Not season-threatening yet, but monitor for a Week-1 timeline; if it lingers,
+  slide him down a few spots. **Emanuel Wilson / Chris Brooks** would gain
+  contingency value if it drags on.
+- **Christian McCaffrey (RB, SF)** — **did not practice** (reason not specified).
+  With his age + ~450-touch 2025, treat any DNP as a real monitor item, not
+  routine. Watch closely before drafting him top-7.
+- **Nabers / Mahomes / Stribling(🔼)** unchanged (all trending as noted);
+  **Burden** still out for the preseason; **Kirk** calf (helps Stribling).
+
 ### Update 2026-08-11
 - **Luther Burden III (WR, CHI)** — now expected to **miss the entire preseason**
   (groin), hopeful for Week 1. Risky at ~pick 58 ADP → **Rome Odunze gets a boost**
