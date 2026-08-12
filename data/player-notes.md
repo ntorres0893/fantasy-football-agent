@@ -5,6 +5,13 @@
 > **⚠️ Verify contested 2026 offseason details (team changes, injuries) against a
 > live source before the draft** — some are still firming up in camp.
 
+> **🔔 SCORING LOCKED (8/12): STANDARD / non-PPR (0 pts per reception).** Re-weight
+> everything for yards + TDs. Pass-catching RBs (Achane) & slot/possession WRs
+> (McConkey, Waddle-usage) are worth **less** than their PPR labels below suggest;
+> pure rushers (Henry, J.Taylor, Saquon, Kyren) & TD/big-play WRs (Evans, Metcalf,
+> N.Collins) are worth **more**. The "(PPR)" tags in older sections are historical —
+> the draft board (`data/draft-board.md`) is the standard-scoring source of truth.
+
 ## 🚑 Injuries / status clouds
 ### Update 2026-08-12
 - **Josh Jacobs (RB, GB)** — 🔻 **groin**; hasn't practiced ~a week and HC Matt

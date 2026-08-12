@@ -7,7 +7,7 @@ season — even though you've been out of football for a while.
 ## Who this is for
 
 Manager: **ntorres0893@gmail.com**
-League: **10-team, PPR (1 pt/reception), ESPN, snake draft**
+League: **10-team, STANDARD (non-PPR), ESPN, snake draft** · **Draft: Sept 3, 2026**
 Status: First league in ~a decade — coming in cold and rebuilding football IQ fast.
 
 ## How it works

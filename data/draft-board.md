@@ -1,107 +1,114 @@
-# 📋 2026 Draft Board — 10-Team PPR (ESPN Snake)
+# 📋 2026 Draft Board — 10-Team STANDARD (non-PPR), ESPN Snake
 
-> **Last updated:** 2026-07-19 (initial build from mid-July consensus ADP)
-> **⚠️ VERIFY BEFORE DRAFT:** It's mid-July — ADP is still moving with camp
-> news, injuries, and unsigned free agents. Re-check a live ADP page
-> (ESPN, FantasyPros PPR ADP, or FantasyFootballCalculator) the day of your
-> draft. The daily morning brief updates this board as news breaks. A few 2026
-> offseason details still conflict across sources (flagged with ⚠️ below).
+> **Last updated:** 2026-08-12 · **Scoring: STANDARD / non-PPR (0 pts per
+> reception)** · **Draft: Thursday, Sept 3, 2026** · **Slot: TBD**
+> **⚠️ VERIFY BEFORE DRAFT:** Standard-scoring ADP is less widely published than
+> PPR — this board is the PPR consensus **re-tiered for standard** (movers marked
+> 🟢up / 🔴down). Re-check a live *standard* ADP page (ESPN, FantasyPros → set
+> scoring to Standard) on draft morning. The daily brief keeps this current.
 
-This is the queue we draft from. In a 10-team snake, picks 1–10 = Round 1,
-11–20 = Round 2, etc. Take **best available by tier**, not by raw name.
+**How standard changes the board:** no points for catches → value = **yards + TDs**.
+Pure-rush RBs and TD/big-play WRs rise; pass-catching RBs and slot/possession WRs
+fall. Early rounds lean **more RB-heavy** than PPR.
+
+Take **best available by tier**. 10-team snake: picks 1–10 = R1, 11–20 = R2, etc.
 
 ---
 
 ## Round 1 (picks 1–10)
 | # | Player | Pos | Team | Notes |
 |---|--------|-----|------|-------|
-| 1 | Jahmyr Gibbs | RB | DET | Tier-1 RB, three-down, co-1.01 |
-| 2 | Bijan Robinson | RB | ATL | Tier-1 RB, workhorse |
-| 3 | Ja'Marr Chase | WR | CIN | Elite target hog |
-| 4 | Puka Nacua | WR | LAR | PPR machine |
-| 5 | Jaxon Smith-Njigba | WR | SEA | Ascending WR1 |
-| 6 | Justin Jefferson | WR | MIN | Elite; ⚠️ MIN QB battle (Murray vs McCarthy) unsettled — still a top-6 WR, monitor |
-| 7 | Christian McCaffrey | RB | SF | ⚠️ ~450-touch/age fade risk; DNP 8/12 — monitor before paying top-7 |
-| 8 | Amon-Ra St. Brown | WR | DET | Rock-solid PPR floor |
-| 9 | CeeDee Lamb | WR | DAL | Volume monster |
-| 10 | De'Von Achane | RB | MIA | ⚠️ efficiency/QB-situation risk |
+| 1 | Jahmyr Gibbs | RB | DET | Elite three-down; extension signed |
+| 2 | Bijan Robinson | RB | ATL | Workhorse |
+| 3 | Ja'Marr Chase | WR | CIN | Elite WR — yards + TDs, holds in standard |
+| 4 | Justin Jefferson | WR | MIN | Elite; ⚠️ MIN QB battle — still top pick |
+| 5 | CeeDee Lamb | WR | DAL | Volume + TDs |
+| 6 | Jonathan Taylor | RB | IND | 🟢 rises in standard — pure volume/TDs, thin depth behind |
+| 7 | Puka Nacua | WR | LAR | Still elite (yards), slight dip w/o PPR |
+| 8 | Saquon Barkley | RB | PHI | 🟢 elite rusher behind great OL |
+| 9 | Christian McCaffrey | RB | SF | ⚠️ age/450-touch + DNP 8/12 — value more PPR; monitor |
+| 10 | Derrick Henry | RB | BAL | 🟢 TD/yardage monster — standard-friendly |
 
 ## Round 2 (picks 11–20)
 | # | Player | Pos | Team | Notes |
 |---|--------|-----|------|-------|
-| 11 | Drake London | WR | ATL | Target share king; ⚠️ Tua back flare-up (8/3) — monitor ATL QB |
-| 12 | Jonathan Taylor | RB | IND | Volume RB1 |
-| 13 | Malik Nabers | WR | NYG | ✅ practiced 8/5 (first since ACL), on track Week 1 — draft as elite WR; slight value if scare lingers |
-| 14 | Ashton Jeanty | RB | LV | Yr2 breakout candidate |
-| 15 | Saquon Barkley | RB | PHI | Elite behind great OL |
-| 16 | A.J. Brown | WR | NE | ⚠️ traded to NE; riser w/ Drake Maye |
-| 17 | Rashee Rice | WR | KC | Mahomes' top target |
-| 18 | Nico Collins | WR | HOU | WR1 upside |
-| 19 | **Brock Bowers** | **TE** | LV | **First TE — elite; worth here if you want the position locked** |
-| 20 | James Cook | RB | BUF | TD-dependent but strong |
+| 11 | Amon-Ra St. Brown | WR | DET | 🔴 dips slightly (reception-heavy), still strong |
+| 12 | Jaxon Smith-Njigba | WR | SEA | Ascending |
+| 13 | Nico Collins | WR | HOU | Big-play WR holds well in standard |
+| 14 | Ashton Jeanty | RB | LV | Yr2 breakout |
+| 15 | James Cook | RB | BUF | TD-dependent — fine in standard |
+| 16 | Josh Jacobs | RB | GB | ⚠️ groin (out ≥1 wk) — monitor |
+| 17 | De'Von Achane | RB | MIA | 🔴 falls in standard (receiving-dependent + MIA offense) |
+| 18 | Drake London | WR | ATL | ⚠️ Tua back flare-up |
+| 19 | Malik Nabers | WR | NYG | ✅ healthy — practiced full speed; elite talent |
+| 20 | Brock Bowers | TE | LV | First TE — elite; slight PPR-lean, still worth it |
 
 ## Round 3 (picks 21–30)
 | # | Player | Pos | Team | Notes |
 |---|--------|-----|------|-------|
-| 21 | **Trey McBride** | **TE** | ARI | 2025 TE1; elite — last of the pay-up TEs |
-| 22 | Derrick Henry | RB | BAL | Age but still bell-cow |
-| 23 | Josh Jacobs | RB | GB | Three-down; ⚠️ groin (8/12) — out ≥1 more week, monitor Week-1 timeline |
-| 24 | Kyren Williams | LAR | RB | Volume + goal line |
-| 25 | Chris Olave | WR | NO | Target hog if healthy |
-| 26 | George Pickens | WR | DAL | Big-play WR |
-| 27 | **Josh Allen** | **QB** | BUF | **First QB — only "reach" QB worth Rd 3** |
-| 28 | Tetairoa McMillan | WR | CAR | Yr2 ascending |
-| 29 | Ladd McConkey | WR | LAC | PPR volume |
-| 30 | Garrett Wilson | WR | NYJ | Talent > situation |
+| 21 | Kyren Williams | RB | LAR | 🟢 volume + goal-line, standard-friendly |
+| 22 | Trey McBride | TE | ARI | Elite TE (last pay-up TE) |
+| 23 | A.J. Brown | WR | NE | Big-play WR; riser w/ Drake Maye |
+| 24 | Rashee Rice | WR | KC | Mahomes cleared |
+| 25 | Chase Brown | RB | CIN | 🟢 stock up in camp; lead back |
+| 26 | Bucky Irving | RB | TB | Healthy; three-down |
+| 27 | Josh Allen | QB | BUF | First QB — only "reach" QB |
+| 28 | DK Metcalf | WR | PIT | 🟢 TD/big-play — rises in standard |
+| 29 | Tee Higgins | WR | CIN | TD upside |
+| 30 | Davante Adams | WR | LAR | TD scorer |
 
 ## Round 4 (picks 31–40)
 | # | Player | Pos | Team | Notes |
 |---|--------|-----|------|-------|
-| 31 | Chase Brown | RB | CIN | Lead back, PPR usage |
-| 32 | Tee Higgins | WR | CIN | WR2 with WR1 weeks |
-| 33 | Davante Adams | WR | LAR | Reunited w/ McVay-era value |
-| 34 | DeVonta Smith | WR | PHI | Steady; more targets post-AJB |
-| 35 | Lamar Jackson | QB | BAL | Elite dual-threat QB2-if-you-wait |
-| 36 | Terry McLaurin | WR | WAS | Daniels' top target |
-| 37 | Jaylen Waddle | WR | DEN | ⚠️ new team (Denver per most sources) |
-| 38 | Marvin Harrison Jr. | WR | ARI | Talent breakout bet |
-| 39 | DK Metcalf | WR | PIT | TD upside |
-| 40 | Sam LaPorta | TE | DET | First of the Tier-2 TEs |
+| 31 | Mike Evans | WR | SF/TB* | 🟢 red-zone TD monster — standard riser (*confirm team) |
+| 32 | George Pickens | WR | DAL | Big-play |
+| 33 | Garrett Wilson | WR | NYJ | Talent > situation |
+| 34 | Chris Olave | WR | NO | Yards if healthy |
+| 35 | Lamar Jackson | QB | BAL | Elite dual-threat if you wait |
+| 36 | Marvin Harrison Jr. | WR | ARI | Breakout bet; ARI QB settled |
+| 37 | DeVonta Smith | WR | PHI | More targets post-AJB |
+| 38 | Terry McLaurin | WR | WAS | ⚠️ slight trim (Diggs now WR2) |
+| 39 | Jaylen Waddle | WR | DEN | ⚠️ leg strain (back ~next wk); slot-lean dips a bit |
+| 40 | Sam LaPorta | TE | DET | First Tier-2 TE |
 
 ---
 
-## Positional tiers (for tier-cliff decisions)
+## Positional tiers (standard scoring)
 
-**RB**
+**RB** (more valuable early in standard — secure your core)
 - T1: Gibbs, Bijan
-- T2: McCaffrey⚠️, Achane⚠️, J.Taylor
-- T3: Jeanty, Barkley, Cook, Henry, Jacobs, K.Williams
-- T4 (RB2): C.Brown, Bucky Irving, Kenneth Walker III⚠️, Breece Hall
-- Value/committee: Bhayshul Tuten (JAX), Rachaad White, Jaydon Blue, Jonathon Brooks🔼, Kenneth Gainwell, Tyler Allgeier🔼(ARI — leading 1st-team reps over Love)
+- T2: J.Taylor🟢, Saquon🟢, McCaffrey⚠️, Henry🟢
+- T3: Jeanty, Cook, Jacobs⚠️, K.Williams🟢, C.Brown🟢, Bucky Irving
+- T4 (RB2/flex): Breece Hall, Kenneth Walker III⚠️, Tony Pollard, Chuba Hubbard⚠️
+- Value/committee: Bhayshul Tuten (JAX), Rachaad White, Jonathon Brooks🔼, Tyler Allgeier🔼 (ARI — leading reps over Love), Jeremiyah Love (committee now)
 
-**WR** (deep in PPR — you can wait if you go RB early)
-- T1: Chase, Nacua, JSN, Jefferson, ARSB, Lamb
-- T2: London, Nabers⚠️, A.J. Brown, Rice, N.Collins
-- T3: Olave, Pickens, T.McMillan, McConkey, G.Wilson, Higgins, Adams
-- T4: DeVonta Smith, McLaurin(slight trim — Diggs now WAS WR2), Waddle⚠️(leg strain — back ~next wk), MHJ, Metcalf, Zay Flowers, Evans, Odunze🔼(Burden out for preseason)
-- T4/mid-round add: **Stefon Diggs** (signed WAS 8/6 — WR2 w/ Jayden Daniels; WR3/flex)
-- Depth/upside: Egbuka, Burden III🔻(groin — miss some time), J.Williams, Sutton, Godwin, Meyers, Ridley, Deebo Samuel (SF, 1-yr — flex/WR4), De'Zhaun Stribling🔼(SF rookie — path opening, Kirk calf), ~~Pearsall~~ (OUT 2026 — PCL surgery)
+**WR** (value by YARDS + TDs, not catches)
+- T1: Chase, Jefferson⚠️, Lamb, Nacua, ARSB🔴
+- T2: JSN, N.Collins, London⚠️, Nabers✅, A.J. Brown, Rice
+- T3: Metcalf🟢, Higgins, Adams, Evans🟢, Pickens, G.Wilson, Olave
+- T4: MHJ, DeVonta Smith, McLaurin⚠️, Waddle🔴, Zay Flowers, Odunze🔼
+- 🔴 fade-a-bit in standard (PPR-lean): Ladd McConkey, Jaylen Waddle, slot/possession types
+- Depth/upside: Egbuka, Burden III🔻(groin — out preseason), Sutton, Godwin, Meyers, Ridley, Deebo Samuel(🔴 PPR-lean but rushing helps), De'Zhaun Stribling🔼, Matthew Golden🔼
 
 **QB** (1-QB year — WAIT; target Rounds 6–10)
-- T1: Allen, L.Jackson
-- T2: J.Daniels, Hurts, Drake Maye, Burrow
-- T3 (stream range): C.Williams, Stafford⚠️(age), Bo Nix, Prescott, K.Murray, Mahomes
+- T1: Allen, L.Jackson · T2: J.Daniels, Hurts, Drake Maye, Burrow
+- T3 (stream): C.Williams, Nix, Prescott, K.Murray(if wins MIN job), Mahomes✅
 
-**TE** (pay up for the top 3, or wait — hard cliff after ~6–8)
-- T1: Bowers, McBride  ·  T1b (injury): Kittle⚠️ (misses early season)
-- T2: LaPorta, Tyler Warren, Tucker Kraft🔼(ACL/PUP but expects Week 1 — top-3 TE UPSIDE if healthy; value punt-TE target)
-- T3 (stream): Loveland, Fannin Jr., Kincaid (sleeper), Likely, J.Ferguson
+**TE** (reception-lean tempers value slightly in standard; still a cliff after top ~6)
+- T1: Bowers, McBride · T1b: Kittle⚠️(PUP — misses early weeks)
+- T2: LaPorta, Tyler Warren, Tucker Kraft🔼(top-3 upside if healthy)
+- T3 (stream): Loveland, Fannin Jr., Kincaid, Likely, Hunter Henry
 
-**D/ST & K:** draft in the **last two rounds only**; stream weekly in-season.
+**D/ST & K:** last two rounds only; stream weekly.
 
 ---
 
-## Draft-slot cheat notes (fill in once slot is known)
-- Early (1–3): likely a Tier-1 RB (Gibbs/Bijan) or elite WR at 1.01–1.03.
-- Middle (4–7): elite WR value; RB2 becomes the Round 3 priority.
-- Late (8–10): back-to-back at the 1/2 turn — grab two of the elite WR/RB pool.
+## Standard-scoring draft-slot cheat notes (fill once slot is known)
+- **Early (1–3):** take a Tier-1 RB (Gibbs/Bijan) — RB is even more valuable in
+  standard. At 1.03, elite WR (Chase) is fine too.
+- **Middle (4–7):** elite WR or a rising standard RB (J.Taylor/Saquon/Henry);
+  prioritize your RB core by Round 3.
+- **Late (8–10):** at the turn, grab **two** — pair an elite RB with an elite WR;
+  RB depth dries up fast in standard, so lean one of the two to RB.
+- **General:** in standard, aim to leave Rounds 1–4 with a **strong RB room** —
+  the position is scarcer and you can't backfill receptions on the wire.

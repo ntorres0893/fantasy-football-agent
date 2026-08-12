@@ -1,70 +1,74 @@
-# 🧠 Draft Strategy — 10-Team PPR (2026)
+# 🧠 Draft Strategy — 10-Team STANDARD (non-PPR), 2026
 
-The philosophy behind the board. Read this once so the live picks make sense.
+The philosophy behind the board. Read once so the live picks make sense.
+**Scoring: Standard / non-PPR — 0 points per reception.**
 
-## The big picture for a 10-team PPR league
-- **Shallow league = star-driven.** Only 100 players start league-wide. Quality
-  is abundant on waivers, so **draft for ceiling, not safety** — swing for elite
-  outcomes and let the wire fix your depth.
-- **PPR inflates receptions.** Every catch = 1 point. Pass-catching RBs, high-target
-  WRs, and target-hog TEs rise. Pure-TD, low-catch players fall.
-- **RB gets thin fast; WR stays deep.** Roughly 12–13 of the first ~22 picks are
-  RBs. There's a big WR pool with startable talent into Round 5–6. Translation:
-  **if you take WR early, lock your RB2 by Round 3–4** before the committee tier.
+## The big picture for a 10-team standard league
+- **Shallow league = star-driven.** Only 100 players start league-wide. Quality is
+  abundant on waivers, so **draft for ceiling**, and let the wire fix depth.
+- **No PPR = value is yards + TDs.** Catches don't score, so **target/reception
+  volume matters less** and **efficiency, big plays, and touchdowns matter more.**
+- **RB is even more valuable than in PPR.** Without reception points propping up
+  WRs, the scarce, high-touch, TD-scoring RBs carry more relative weight. Roughly
+  the first ~2–3 rounds skew RB. **Leave Rounds 1–4 with a strong RB room** — you
+  can't backfill RB on the wire the way you can WR.
 
 ## Round-by-round framework
 
-**Rounds 1–2 — Take elite, RB/WR only.**
-- 1.01–1.02 are the only true Tier-1 RBs (Gibbs, Bijan). After that, the elite WR
-  pool (Chase, Nacua, JSN, Jefferson, ARSB, Lamb) is the safest value in PPR.
-- Do NOT draft QB, D/ST, or K here. TE only if elite (see below).
+**Rounds 1–2 — Elite RB/WR, RB-leaning.**
+- The two clear Tier-1 RBs (Gibbs, Bijan) are premium. After them, mix elite WRs
+  (Chase, Jefferson, Lamb, Nacua) with rising standard RBs (Jonathan Taylor,
+  Saquon, Derrick Henry). No QB/TE/D/K here (TE only if you truly want Bowers/McBride).
 
-**Rounds 3–5 — Build your RB/WR core.**
-- Aim for **5 of your first 7 picks at RB/WR.** You can start up to 5 of them
-  (2 RB, 2 WR, FLEX), plus you need bye/injury depth.
-- This is where RB depth dries up — don't leave these rounds with only one RB
-  unless you're deliberately running **Zero-RB** (loading elite WRs early, then
-  attacking RB value + upside handcuffs from Round 5 on).
+**Rounds 3–5 — Build a strong RB/WR core, secure RB2 early.**
+- In standard, the RB middle class thins fast. **Lock your RB2 by Round 3–4**
+  (Kyren Williams, Chase Brown, Bucky Irving, James Cook tier) before the committee
+  zone. Add WRs by **yards + TD profile**, not catch volume.
 
-**Rounds 6–10 — QB, complete the core, best-value swings.**
-- **QB:** it's a **1-QB year** — no need to reach. Grab a Tier-2/3 QB here
-  (Daniels, Hurts, Maye, Burrow, Nix, Prescott). Dual-threat QBs give a rushing
-  floor. Only take Allen/Jackson earlier if they fall to real value.
-- Keep adding high-upside WR/RB. Target a couple of **sleepers** from the notes.
+**Rounds 6–10 — QB, complete the core, TD-upside swings.**
+- **QB:** 1-QB year — wait. Grab a Tier-2/3 QB here (Daniels, Hurts, Maye, Burrow,
+  Nix, Prescott). Dual-threat QBs add a rushing floor. Only reach for Allen/Jackson
+  if they fall to value.
+- Add WR/RB with **touchdown upside** (red-zone roles, goal-line backs, big-play WRs
+  like Metcalf/Evans).
 
-**Rounds 11–13 — Upside darts + your late TE (if punting the position).**
-- Bench swings: backups a snap away from a lead role, ascending rookies,
-  buy-the-dip talents.
+**Rounds 11–13 — Upside darts + late TE (if punting).**
+- Ascending backfield winners, buy-the-dip talents, high-TD bench swings.
 
-**Last 2 rounds — D/ST and K. Never earlier.** Stream both weekly in-season.
+**Last 2 rounds — D/ST and K. Never earlier.** Stream weekly.
 
-## The three viable builds (we pick based on your slot + the board)
-1. **Robust-RB / Hero-RB:** grab an elite RB early (esp. from an early slot),
-   then hammer WR value. Safest floor given RB scarcity.
-2. **Zero-RB:** stack elite WRs (and maybe an elite TE) Rounds 1–4, then attack
-   RB upside/committee-winners from Round 5. High-ceiling, needs active waiver play
-   — very workable in a shallow 10-team league.
-3. **Balanced BPA:** just take the best value by tier each pick. Usually where we
-   land if the board doesn't force a lean.
+## Archetypes that MOVE in standard (vs. PPR)
+- **Up 🟢:** pure-volume rushers (Henry, J.Taylor, Saquon, Kyren), goal-line backs,
+  and TD/big-play WRs (Mike Evans, DK Metcalf, Nico Collins).
+- **Down 🔴:** pass-catching/third-down RBs (De'Von Achane), and slot/possession WRs
+  who live on receptions (Ladd McConkey, Jaylen Waddle-type usage). They still
+  play — just don't pay the PPR price.
 
-## TE decision (there's a hard cliff)
-- **Pay up** for **Bowers or McBride** (mid-2nd to 3rd) for a weekly positional
-  edge, **or** **wait** and stream — the drop after the top ~6–8 TEs is small, so
-  there's little penalty for punting. **Avoid the mushy middle** (paying a Round-6
-  price for a TE who scores like a streamer).
+## The three viable builds
+1. **Robust-RB / Hero-RB (favored in standard):** grab elite RB(s) early, then hit
+   WR value. Safest given RB scarcity without PPR.
+2. **Balanced BPA:** best value by tier each pick — where we usually land.
+3. **Zero-RB:** viable but *riskier in standard* — WRs give back some value without
+   receptions, so don't punt RB as hard as you would in PPR.
 
-## Positional targets by ADP (quick reference)
-- **Anchor RB:** Rounds 1–3.  **RB2:** by Round 4 (committee tier starts ~Rd 4).
-- **WR1/WR2:** Rounds 1–5 (deep pool — patient here).
-- **QB1:** Rounds 6–10 (stream-friendly year).
-- **TE1:** Round 2–3 (elite) OR Round 10+ (stream).
-- **FLEX depth, sleepers:** Rounds 6–13.  **D/ST, K:** final 2 rounds.
+## TE decision (still a cliff)
+- **Pay up** for **Bowers or McBride** (R2–3) for a weekly edge, **or wait and
+  stream.** Reception-lean tempers TE value slightly in standard, so the "wait"
+  path is very defensible. **Avoid the mushy middle.** (Value watch: **Tucker Kraft**
+  — top-3 upside at a discount if healthy.)
+
+## Positional targets by round (standard)
+- **Anchor RB:** R1–3. **RB2:** by R3–4 (committee zone starts early).
+- **WR1/WR2:** R1–5 — value by yards + TDs.
+- **QB1:** R6–10 (stream-friendly). **TE1:** R2–3 (elite) or R10+ (stream).
+- **Depth/sleepers:** R6–13. **D/ST, K:** final 2 rounds.
 
 ## Discipline rules
-- Draft **best value by tier**, and take the **last player in a tier** before the
-  cliff even if a lesser need.
-- Don't chase byes/handcuffs early in a 10-team league — upside beats insurance.
-- Fandom doesn't pick players. The board does. (You can always override live.)
+- Best value **by tier**; take the last player in a tier before the cliff.
+- In standard, when torn between a WR and an RB of similar value early, **lean RB.**
+- Don't overpay for a high-catch, low-TD WR — his PPR ranking overstates his
+  standard value.
+- Fandom doesn't pick players; the board does (you can always override live).
 
-> This strategy adapts to your **draft slot** once you confirm it — the live
-> assistant (`agent/draft-assistant-prompt.md`) turns it into pick-by-pick calls.
+> Adapts to your **draft slot** once known — the live assistant
+> (`agent/draft-assistant-prompt.md`) turns this into pick-by-pick calls on 9/3.
