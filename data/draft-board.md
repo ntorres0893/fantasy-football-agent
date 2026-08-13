@@ -24,7 +24,7 @@ Take **best available by tier**. 10-team snake: picks 1–10 = R1, 11–20 = R2,
 | 4 | Justin Jefferson | WR | MIN | Elite; ⚠️ MIN QB battle — still top pick |
 | 5 | CeeDee Lamb | WR | DAL | Volume + TDs |
 | 6 | Jonathan Taylor | RB | IND | 🟢 rises in standard — pure volume/TDs, thin depth behind |
-| 7 | Puka Nacua | WR | LAR | Still elite (yards), slight dip w/o PPR |
+| 7 | Puka Nacua | WR | LAR | Still elite (yards); ⚠️ groin (8/13) — could miss a few days, monitor |
 | 8 | Saquon Barkley | RB | PHI | 🟢 elite rusher behind great OL |
 | 9 | Christian McCaffrey | RB | SF | ⚠️ age/450-touch + DNP 8/12 — value more PPR; monitor |
 | 10 | Derrick Henry | RB | BAL | 🟢 TD/yardage monster — standard-friendly |
@@ -60,7 +60,7 @@ Take **best available by tier**. 10-team snake: picks 1–10 = R1, 11–20 = R2,
 ## Round 4 (picks 31–40)
 | # | Player | Pos | Team | Notes |
 |---|--------|-----|------|-------|
-| 31 | Mike Evans | WR | SF/TB* | 🟢 red-zone TD monster — standard riser (*confirm team) |
+| 31 | Mike Evans | WR | SF/TB* | 🟢 red-zone TD monster — standard riser; ⚠️ minor quad, expected back Wk1 (*confirm team) |
 | 32 | George Pickens | WR | DAL | Big-play |
 | 33 | Garrett Wilson | WR | NYJ | Talent > situation |
 | 34 | Chris Olave | WR | NO | Yards if healthy |

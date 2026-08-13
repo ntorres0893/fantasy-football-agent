@@ -13,6 +13,18 @@
 > the draft board (`data/draft-board.md`) is the standard-scoring source of truth.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-08-13 (first brief under STANDARD scoring)
+- **Puka Nacua (WR, LAR)** — 🔻 left practice with a **groin**; could miss "a few
+  days." Elite WR (still a top-tier standard WR on yards/TDs), so a short absence
+  isn't a draft-killer — but monitor closely; groins can linger.
+- **Mike Evans (WR, SF)** — nursing a **quad**; team cautious, **expects him back
+  to start the season.** Minor. He's a standard-scoring riser (red-zone TD monster)
+  — no real change unless the quad drags.
+- **Josh Jacobs (GB)** — still out (groin); no new timeline. **McCaffrey** DNP flag
+  still open — watch. **Nabers** on track. **Burden** out for preseason.
+- **Preseason Week 1 begins tonight** (6 games) — first live look + initial team
+  depth charts are out (first official hierarchies to read).
+
 ### Update 2026-08-12
 - **Josh Jacobs (RB, GB)** — 🔻 **groin**; hasn't practiced ~a week and HC Matt
   LaFleur says he's out **at least another week.** New cloud on a Tier-3/Round-3 RB.
