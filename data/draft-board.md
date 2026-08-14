@@ -79,8 +79,8 @@ Take **best available by tier**. 10-team snake: picks 1–10 = R1, 11–20 = R2,
 - T1: Gibbs, Bijan
 - T2: J.Taylor🟢, Saquon🟢, McCaffrey⚠️, Henry🟢
 - T3: Jeanty, Cook, Jacobs⚠️, K.Williams🟢, C.Brown🟢, Bucky Irving
-- T4 (RB2/flex): Breece Hall, Kenneth Walker III⚠️, Tony Pollard, Chuba Hubbard⚠️
-- Value/committee: Bhayshul Tuten (JAX), Rachaad White, Jonathon Brooks🔼, Tyler Allgeier🔼 (ARI — leading reps over Love), Jeremiyah Love (committee now)
+- T4 (RB2/flex): Breece Hall, Kenneth Walker III⚠️, Tony Pollard, Chuba Hubbard🔻(hamstring, week-to-week)
+- Value/committee: Jonathon Brooks🔼🔼 (CAR — Hubbard hurt, lead-back path opening), Bhayshul Tuten (JAX), Rachaad White, Tyler Allgeier🔼 (ARI — leading reps over Love), Jeremiyah Love (committee now)
 
 **WR** (value by YARDS + TDs, not catches)
 - T1: Chase, Jefferson⚠️, Lamb, Nacua, ARSB🔴

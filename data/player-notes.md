@@ -13,6 +13,21 @@
 > the draft board (`data/draft-board.md`) is the standard-scoring source of truth.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-08-14 (post–Preseason Wk1 Thursday)
+- **Chuba Hubbard (RB, CAR)** — 🔻 **week-to-week (hamstring).** This opens the
+  Carolina lead-back door further for **Jonathon Brooks** 🔼🔼 — Brooks is now a
+  priority late-round RB target (ascending role + Hubbard hurt). In standard, a
+  potential lead rusher on the cheap is exactly what you want.
+- **Malik Nabers (WR, NYG)** — ✅ on track to **play Week 1 vs Dallas.** Injury
+  saga essentially closed; draft as an elite WR.
+- **Jeremiyah Love (RB, ARI)** — flashed "quick feet + power" in his preseason
+  debut (small sample vs backups). Mild positive, but **Allgeier still led camp
+  reps** — remains a committee for now; don't over-re-rate on one exhibition.
+- **Patriots RB3:** Terrell Jennings to IR; 7th-rd **Jam Miller** now in the mix
+  behind Stevenson/Henderson (deep only).
+- **Mike Evans** (quad) still expected back Wk1; **Burden** still out (Odunze up);
+  **Pacheco** (MCL) tracking Wk1.
+
 ### Update 2026-08-13 (first brief under STANDARD scoring)
 - **Puka Nacua (WR, LAR)** — 🔻 left practice with a **groin**; could miss "a few
   days." Elite WR (still a top-tier standard WR on yards/TDs), so a short absence

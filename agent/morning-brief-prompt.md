@@ -42,16 +42,16 @@ to `ntorres0893@gmail.com`, then commit the brief to the repo.
 
 5. **Write the brief** to `briefs/YYYY-MM-DD.md` using the template below.
 
-6. **Deliver.**
-   - **Primary (always works):** End the run with the full brief as your final
-     message. The Routine's email + push completion notification delivers this
-     to the manager's inbox/phone. This is the reliable channel for automated
-     runs, which do **not** carry the Gmail connector.
-   - **Best-effort (only if the Gmail tool is available in this session):** create
-     a Gmail draft to `ntorres0893@gmail.com`, subject
-     `🏈 Fantasy Morning Brief — <Mon DD>`, HTML body = the brief formatted for
-     phone reading. If the Gmail tool isn't present, skip this silently — do not
-     treat it as a failure.
+6. **Deliver.** (This Routine fires into the primary session, which HAS the Gmail
+   connector.)
+   - **Preferred:** **SEND** the brief to the inbox with the Gmail `send_message`
+     tool → to `ntorres0893@gmail.com`, subject `🏈 Fantasy Morning Brief — <Mon DD>`,
+     HTML body = the brief formatted for phone reading (short sections, bold player
+     names, lead with the 1–3 most important items).
+   - **Fallback:** if `send_message` isn't available, use `create_draft` instead
+     (lands in Drafts). If no Gmail tool at all, skip silently and rely on the
+     final-message summary — don't treat it as a failure.
+   - Always also end the run with the full brief as your final message.
 
 7. **Commit & push** the new brief and any data updates to the working branch.
 
