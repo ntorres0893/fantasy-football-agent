@@ -1,7 +1,8 @@
 # Manager Profile
 
 ## Contact & delivery
-- **Email:** ntorres0893@gmail.com
+- **Email:** ntorres0893@gmail.com (briefs now **sent to inbox** via Gmail)
+- **Team name:** Claude Me Daddy · **League:** Chatt's Original Cool Kids
 - **Morning brief delivery:** Email, ~7:00 AM (timezone: **assumed Eastern** —
   confirm and the schedule will be adjusted)
 

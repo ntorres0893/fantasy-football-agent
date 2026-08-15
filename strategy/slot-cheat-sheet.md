@@ -1,12 +1,11 @@
-# 🎯 Draft-Slot Cheat Sheet — 10-Team STANDARD (non-PPR)
+# 🎯 Draft-Slot Cheat Sheet — 10-Team FULL PPR
 
-> Built 2026-08-13 off the current standard-scoring board (`data/draft-board.md`).
-> Injuries baked in: Nacua (minor groin), McCaffrey (age/DNP flag), Jacobs (groin),
-> Achane (🔴 falls in standard). **Verify names on draft morning** — camp news moves.
-> This is your "any slot" prep; once you know your real slot, I'll tailor it further.
+> Rebuilt 2026-08-15 for **PPR** off `data/draft-board.md`. Injuries baked in:
+> Nacua (minor groin), McCaffrey (age/DNP), Jacobs (groin), Hubbard (hamstring →
+> Brooks up), Kittle (PUP). **Verify names on draft morning.** Once you know your
+> real slot, I'll tailor this further. Team: **Claude Me Daddy.**
 
-## Snake basics (10 teams)
-Your pick numbers by slot (first 3 picks):
+## Snake basics (10 teams) — your first 3 picks by slot
 
 | Slot | Pick 1 | Pick 2 | Pick 3 |
 |------|--------|--------|--------|
@@ -21,89 +20,72 @@ Your pick numbers by slot (first 3 picks):
 | 9 | 1.09 (#9) | 2.02 (#12) | 3.09 (#29) |
 | 10 | 1.10 (#10) | 2.01 (#11) | 3.10 (#30) |
 
-**Turn advantage:** slots **1 & 10** pick back-to-back at every turn (e.g., 10 gets
-#10 and #11) — great for grabbing two studs before a run. Slots 1–3 get an elite
-anchor but a long wait; slots 8–10 get tightly-spaced pairs.
+**Turn advantage:** slots **1 & 10** pick back-to-back at every turn (grab a pair
+before a run). Slots 1–3 get an elite anchor but a long wait; 8–10 get tight pairs.
+
+## The universal PPR rule
+WR is deep — you can wait on it. The **scarce, premium early asset is a
+pass-catching RB.** Prioritize three-down backs who catch passes; stay patient on
+the WR pool; wait on QB (R6–10) and D/K (last 2 rounds).
 
 ---
 
-## The universal standard-scoring rule
-**Leave Rounds 1–4 with a strong RB room.** RB is scarce without PPR — you can't
-fix it on waivers. When two players are close in value early, **lean RB.** Value
-WRs by **yards + TDs**, not catches. Wait on QB (R6–10) and D/K (last 2 rounds).
+## Slot-by-slot game plan (PPR)
 
----
-
-## Slot-by-slot game plan
-
-### Slot 1 — pick #1, then #20 & #21 (back-to-back)
-- **1.01: Jahmyr Gibbs** (elite three-down RB — the standard-scoring 1.01).
-- **The wait is long** (18 picks). At #20/#21 you get a **pair** — grab the best
-  WR still falling (e.g., **Malik Nabers / Drake London / Nico Collins tier**) +
-  an RB2 (**James Cook / Josh Jacobs**). Aim **1 WR + 1 RB** here.
-- Plan: elite RB → then hammer the WR/RB values that slid to your double-pick.
+### Slot 1 — #1, then #20 & #21 (back-to-back)
+- **1.01: Jahmyr Gibbs** (elite pass-catching RB — the PPR 1.01).
+- Long wait, then a **pair** at #20/#21: grab an elite WR who slid (**Nabers /
+  Rice / A.J. Brown tier**) + a pass-catching RB2 (**James Cook**). Aim WR + RB.
 
 ### Slot 2 — #2, then #19 & #22
-- **1.02: Bijan Robinson** (elite workhorse RB).
-- At #19: best WR available (**Nabers/Collins**); at #22: RB2 or **Trey McBride**
-  (elite TE) if you want the position edge.
-- Plan: RB anchor → WR + (RB2 or elite TE).
+- **1.02: Bijan Robinson.**
+- At #19/#22: best WR (**Nabers/Collins**) + **Trey McBride** (elite TE) or an RB2.
 
 ### Slot 3 — #3, then #18 & #23
-- **1.03: Ja'Marr Chase** (elite WR — worth it even in standard; yards + TDs).
-- At #18/#23: you'll want RB — target the **James Cook / Josh Jacobs / Kyren
-  Williams** tier before the committee zone. Grab **2 RBs** if the board pushes WRs.
-- Plan: elite WR → then secure your RB core aggressively.
+- **1.03: Ja'Marr Chase** (elite WR — the safest PPR floor/ceiling).
+- Alt: **Puka Nacua** if you'd rather (watch the minor groin). At #18/#23: A.J.
+  Brown / pass-catching RB. Secure an RB soon.
 
 ### Slot 4 — #4, then #17 & #24
-- **1.04: Justin Jefferson** (elite WR; ⚠️ MIN QB battle but still elite).
-- Alt if you prefer RB: **Jonathan Taylor** may still be here at #4 — strong
-  standard pick. Either is defensible; **lean JT if you want to bank RB scarcity.**
-- At #17/#24: RB2 + WR. Plan: elite anchor → balance.
+- **1.04: Puka Nacua or Justin Jefferson** (elite WRs) — Nacua if groin's a
+  non-issue; Jefferson is a hair safer health-wise. Either is great.
+- At #17/#24: **Rashee Rice** (WR) + **Josh Jacobs/RB**. Balance.
 
 ### Slot 5 — #5, then #16 & #25
-- **1.05: CeeDee Lamb** (elite WR) **or Jonathan Taylor** if he's there (standard
-  RB value). At #5, if JT is gone, Lamb; if you want RB, JT.
-- At #16/#25: **Josh Jacobs/RB** + a WR (**Metcalf/Higgins** TD types).
-- Plan: elite anchor → then RB2 quickly (middle slots must not wait on RB).
+- **1.05: Justin Jefferson or Jaxon Smith-Njigba** (elite target hogs).
+- At #16/#25: **Ashton Jeanty** (RB) + **Ladd McConkey** (🟢 PPR WR). Lock an RB.
 
 ### Slot 6 — #6, then #15 & #26
-- **1.06: Jonathan Taylor** (🟢 excellent standard RB value here) **or Puka Nacua**
-  (if you trust the groin). **Lean JT** — RB scarcity + healthy.
-- At #15/#26: **James Cook** (RB) + WR value.
-- Plan: RB → RB2/WR. You're positioned to leave R3 with 2 RBs — do it.
+- **1.06: Jaxon Smith-Njigba or Amon-Ra St. Brown** (PPR WR studs), or **De'Von
+  Achane** if you want the scarce pass-catching RB. **Lean Achane** if you value RB.
+- At #15/#26: **Saquon** (RB) + WR value.
 
 ### Slot 7 — #7, then #14 & #27
-- **1.07: Saquon Barkley** (🟢 elite standard rusher) over an injured Nacua here.
-  If you love Nacua's talent and the groin's minor, he's fine too — but RB is safer.
-- At #14/#27: **Ashton Jeanty** (RB) + first QB (**Josh Allen**) or a WR.
-- Plan: RB anchor → RB2 + start filling WR.
+- **1.07: Amon-Ra St. Brown / CeeDee Lamb / De'Von Achane** — best available; in
+  PPR, **Achane** here is great value if you want RB.
+- At #14/#27: **Nico Collins** (WR) + first QB (**Allen**) or RB2.
 
 ### Slot 8 — #8, then #13 & #28
-- **1.08: Saquon / Derrick Henry / Nico Collins** — best available; in standard
-  **lean the RB (Saquon or Henry)** if either is there.
-- At #13/#28: **Nico Collins** (WR) + **DK Metcalf** (🟢 TD/big-play WR).
-- Plan: RB → WR pair. Solid, balanced build.
+- **1.08: CeeDee Lamb or Achane** (best available; lean the pass-catching RB if WRs
+  are your strength later).
+- At #13/#28: **Malik Nabers** (WR, healthy) + **Garrett Wilson** or an RB.
 
 ### Slot 9 — #9, then #12 & #29
-- **1.09: Derrick Henry** (🟢 TD/yardage monster — great standard value) over the
-  McCaffrey age/DNP risk. (McCaffrey is the pick only if you're comfortable with
-  the flag.)
-- At #12/#29: **Jaxon Smith-Njigba** (WR) + RB2.
-- Plan: standard-friendly RB → WR + RB2. Strong spot.
+- **1.09: De'Von Achane or Christian McCaffrey** — Achane (cleaner) vs. McCaffrey
+  (higher ceiling but age/DNP flag). **Lean Achane** unless you love CMC's price.
+- At #12/#29: **Jonathan Taylor** (RB) + WR. Strong RB-RB or RB-WR start.
 
 ### Slot 10 — #10, then #11 (back-to-back)
-- **1.10 + 2.01: DERRICK HENRY + AMON-RA ST. BROWN** (or best RB + best WR on the
-  board). The turn lets you **pair an RB and a WR** immediately — ideal.
-- Then #30/#31: **Kyren Williams / Metcalf / Evans** tier.
-- Plan: the easiest slot to plan — take two studs at the turn, lean one to RB.
+- **1.10 + 2.01: ACHANE + DRAKE LONDON** (or best RB + best WR available) — the
+  turn lets you **pair a pass-catching RB and a target-hog WR** immediately. Ideal.
+- Then #30/#31: **Chase Brown / Kyren** (pass-catching RB) tier.
 
 ---
 
-## Quick "who over who" calls in standard (tiebreakers)
-- **RB over WR** when values are close early (scarcity).
-- **Derrick Henry / Jonathan Taylor / Saquon** ↑ (pure rush + TDs).
-- **De'Von Achane** ↓ (receiving-dependent) — don't reach at his PPR ADP.
-- **Mike Evans / DK Metcalf / Nico Collins** ↑ (TDs/big plays hold without PPR).
-- **Ladd McConkey / slot WRs** ↓ (catch-volume value evaporates).
-- **TE:** pay for **Bowers/McBride** early OR wait for **Tucker Kraft**/stream.
+## Quick "who over who" calls in PPR (tiebreakers)
+- **Pass-catching RB over pure rusher** (Achane/Cook/Kyren > Henry-type when close).
+- **Target-hog WRs** ↑ (ARSB, Nacua, McConkey, Waddle) — receptions are points.
+- **Derrick Henry** ↓ a touch (few catches) — still fine for TDs, just not a reach.
+- **WR is deep** — patient is fine; **pass-catching RB is scarce** — grab early.
+- **TE:** pay for **Bowers/McBride** early OR wait for **Tucker Kraft**/stream
+  (Kittle 🔻 on PUP — avoid the premium).

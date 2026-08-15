@@ -5,12 +5,12 @@
 > **⚠️ Verify contested 2026 offseason details (team changes, injuries) against a
 > live source before the draft** — some are still firming up in camp.
 
-> **🔔 SCORING LOCKED (8/12): STANDARD / non-PPR (0 pts per reception).** Re-weight
-> everything for yards + TDs. Pass-catching RBs (Achane) & slot/possession WRs
-> (McConkey, Waddle-usage) are worth **less** than their PPR labels below suggest;
-> pure rushers (Henry, J.Taylor, Saquon, Kyren) & TD/big-play WRs (Evans, Metcalf,
-> N.Collins) are worth **more**. The "(PPR)" tags in older sections are historical —
-> the draft board (`data/draft-board.md`) is the standard-scoring source of truth.
+> **🔔 SCORING CONFIRMED (8/15): FULL PPR — 1 pt per reception** (from ESPN
+> screenshot; supersedes the brief 8/12 "standard" assumption). Weight by yards +
+> TDs **+ receptions.** Pass-catching RBs (Achane, Cook, Kyren, Chase Brown) &
+> target-hog/slot WRs (ARSB, Nacua, McConkey, Waddle) are **premium**; pure-rush
+> low-catch backs (Henry) give a little back. The draft board
+> (`data/draft-board.md`) is the **PPR** source of truth.
 
 ## 🚑 Injuries / status clouds
 ### Update 2026-08-15
