@@ -13,6 +13,19 @@
 > the draft board (`data/draft-board.md`) is the standard-scoring source of truth.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-08-15
+- **George Kittle (TE, SF)** — 🔻 officially on **PUP** (torn Achilles). He wants to
+  play the Week-1 game in Melbourne vs. the Rams, but there's **no guarantee** he's
+  activated in time. Confirms: don't pay a top-3 TE price — our **Tucker Kraft**
+  value / stream-and-wait plan is the better play.
+- **Luther Burden III (WR, CHI)** — Bears **signed Ray-Ray McCloud** after the
+  groin injury, hinting Burden's Week-1 return is **not a lock.** Burden = deeper
+  discount dart; **Rome Odunze** value firms up again.
+- **Reinforced (no change):** Nabers (Week-1 track, avoided PUP), Mike Evans (quad,
+  back for opener), Chuba Hubbard (hamstring → Brooks up), Pacheco (MCL, Wk1 hopeful).
+- Note: some outlets list RBs "trending up on opportunity" (Judkins, Swift, Cook,
+  Love) — mostly role/injury re-rankings; nothing that overrides our board yet.
+
 ### Update 2026-08-14 (post–Preseason Wk1 Thursday)
 - **Chuba Hubbard (RB, CAR)** — 🔻 **week-to-week (hamstring).** This opens the
   Carolina lead-back door further for **Jonathon Brooks** 🔼🔼 — Brooks is now a

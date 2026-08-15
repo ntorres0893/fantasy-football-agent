@@ -95,7 +95,7 @@ Take **best available by tier**. 10-team snake: picks 1–10 = R1, 11–20 = R2,
 - T3 (stream): C.Williams, Nix, Prescott, K.Murray(if wins MIN job), Mahomes✅
 
 **TE** (reception-lean tempers value slightly in standard; still a cliff after top ~6)
-- T1: Bowers, McBride · T1b: Kittle⚠️(PUP — misses early weeks)
+- T1: Bowers, McBride · T1b: Kittle🔻(officially on PUP — Achilles; Wk1 not guaranteed, don't pay up)
 - T2: LaPorta, Tyler Warren, Tucker Kraft🔼(top-3 upside if healthy)
 - T3 (stream): Loveland, Fannin Jr., Kincaid, Likely, Hunter Henry
 
