@@ -86,7 +86,7 @@ Take **best available by tier**. 10-team snake: picks 1–10 = R1, 11–20 = R2,
 - T2: London⚠️, Nabers✅, N.Collins, Rice, A.J. Brown
 - T3: Olave, Pickens, McConkey🟢, G.Wilson, Higgins, Adams, T.McMillan
 - T4: DeVonta Smith, MHJ, McLaurin⚠️, Waddle🟢⚠️, Metcalf, Zay Flowers, Evans⚠️(quad), Odunze🔼
-- Depth/upside: Egbuka, Burden III🔻(groin — Wk1 in doubt), Sutton, Godwin, Meyers, Ridley, Stefon Diggs (WAS WR2 w/ Daniels), Deebo Samuel🟢(SF — PPR-friendly), De'Zhaun Stribling🔼, Matthew Golden🔼
+- Depth/upside: Deebo Samuel🔼🟢 (SF — PPR flex, tier up post-Pearsall), Stefon Diggs (WAS WR2 w/ Daniels), Egbuka, Burden III🔻(groin — Wk1 in doubt), Sutton, Godwin, Meyers, Ridley, De'Zhaun Stribling🔼, Matthew Golden🔼
 
 **QB** (1-QB year — WAIT; Rounds 6–10)
 - T1: Allen, L.Jackson · T2: J.Daniels, Hurts, Drake Maye, Burrow

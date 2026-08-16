@@ -13,6 +13,18 @@
 > (`data/draft-board.md`) is the **PPR** source of truth.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-08-16 (first brief on confirmed PPR)
+- **Jeremiyah Love (RB, ARI)** — 🔻 **sore ankle, out ≥1 week** (from the opener).
+  On top of Allgeier leading camp reps and Conner returning, the rookie's redraft
+  case keeps shrinking — **committee/upside dart only**, don't reach.
+- **Deebo Samuel (WR, SF)** — 🔼 **crossing a tier up** in the reshuffled Niners WR
+  room (post-Pearsall). In **PPR** his catches + rushing usage make him a **solid
+  flex** now, not just a dart. **De'Zhaun Stribling** also 🔼 rising (deep sleeper).
+- **Jonathon Brooks (RB, CAR)** — 🔼 up ~11 spots to ~No. 101 (Hubbard's hamstring).
+  Ascending sleeper knocking on the top 100 — grab him as a late-round RB swing.
+- **Reinforced:** Burden out (preseason), Kittle PUP, Nabers Week-1 track, Pacheco
+  (MCL, Wk1 hopeful), Nacua (minor groin), Jacobs (groin).
+
 ### Update 2026-08-15
 - **George Kittle (TE, SF)** — 🔻 officially on **PUP** (torn Achilles). He wants to
   play the Week-1 game in Melbourne vs. the Rams, but there's **no guarantee** he's
