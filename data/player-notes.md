@@ -13,6 +13,22 @@
 > (`data/draft-board.md`) is the **PPR** source of truth.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-08-16 (mock-draft prep pass)
+- **Alec Pierce (WR, IND)** — ✅ expected **off PUP within the week**, in line for
+  Week 1 with **no games missed.** Added to the board (~R8). Low-cost WR4/flex.
+- **George Kittle (TE, SF)** — mixed signal: still officially on **PUP**, but he's
+  been seen **back on the field for non-contact drills.** *No change to our plan* —
+  a player doing non-contact work off PUP is not a top-3 TE price. **Kraft/stream
+  stays the call.** Re-check on draft morning; if he's activated, he's a value.
+- **Isaiah Likely (TE, NYG)** — 🔼 **value flag.** Followed Harbaugh to New York
+  and profiles as the **clear TE1** there, but is going roughly **two rounds after
+  LaPorta** (~pick 96 ADP). Best "wait on TE" landing spot behind Kraft.
+- **Jayden Higgins (WR, HOU)** — 🔼 with **Kirk gone and Dell still rehabbing**, the
+  Texans' 2025 second-rounder should see a bigger share behind Nico Collins.
+- **Board extended to 120 players** (`data/draft-board.md`, Rounds 5–12) so mocks
+  and the real draft don't run dry after Round 4. Rounds 5+ are directional —
+  **verify team labels on draft morning.**
+
 ### Update 2026-08-15
 - **George Kittle (TE, SF)** — 🔻 officially on **PUP** (torn Achilles). He wants to
   play the Week-1 game in Melbourne vs. the Rams, but there's **no guarantee** he's
