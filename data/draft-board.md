@@ -79,7 +79,7 @@ Take **best available by tier**. 10-team snake: picks 1–10 = R1, 11–20 = R2,
 - T2: McCaffrey⚠️, Achane🟢, J.Taylor
 - T3: Saquon, Jeanty, Cook, Henry🔴, Jacobs⚠️, K.Williams, C.Brown🟢
 - T4 (RB2/flex): Bucky Irving, Breece Hall, Kenneth Walker III⚠️, Chuba Hubbard🔻(hamstring)
-- Value/committee: Jonathon Brooks🔼🔼 (CAR — Hubbard hurt), Bhayshul Tuten (JAX), Rachaad White, Tyler Allgeier🔼 (ARI), Jeremiyah Love (committee), Kenneth Gainwell
+- Value/committee: Jonathon Brooks🔼🔼 (CAR — Hubbard hurt), Jeremiyah Love🔼 (ARI — led game snaps 16:6 over Allgeier; ⚠️ minor ankle, out this wk — buy-the-dip), Bhayshul Tuten (JAX), Rachaad White, Tyler Allgeier, Kenneth Gainwell
 
 **WR** (deep in PPR — patient; value target volume)
 - T1: Chase, Nacua⚠️, JSN, Jefferson⚠️, ARSB🟢, Lamb

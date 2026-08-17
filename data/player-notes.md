@@ -13,6 +13,22 @@
 > (`data/draft-board.md`) is the **PPR** source of truth.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-08-17
+- **Jeremiyah Love (RB, ARI)** — 🔼 **role correction:** in the preseason game he
+  **started over Allgeier and out-snapped him 16:6** — the staff is signaling he'll
+  play a lot right away (better than the "Allgeier leading camp reps" read). BUT he
+  was **rolled up on (ankle)** on his last snap and **won't practice this week.**
+  Net: **his stock is back up on role**, with a short-term injury cloud — a
+  buy-the-dip target if his ADP dropped on the committee scare. Confirm the ankle
+  is minor before draft day.
+- **Marquez Callaway (WR, NO)** — 🔼 preseason **5-104-2**; climbing (WR79→~WR60,
+  could crack top 50). Small sample, but a **PPR deep-sleeper** to monitor.
+- **Jam Miller (RB, NE)** — 14-55; inside track on the Patriots RB3 (Jennings to
+  IR). Deep/handcuff only.
+- **Reinforced:** Hubbard hamstring → Brooks up; Burden out; Nabers Week-1 track;
+  Evans (quad) back for opener; Pacheco (MCL) hopeful Wk1; Skattebo sharing NYG top
+  spot with Tracy Jr. (committee).
+
 ### Update 2026-08-16 (first brief on confirmed PPR)
 - **Jeremiyah Love (RB, ARI)** — 🔻 **sore ankle, out ≥1 week** (from the opener).
   On top of Allgeier leading camp reps and Conner returning, the rookie's redraft
