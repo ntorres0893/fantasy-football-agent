@@ -13,6 +13,20 @@
 > (`data/draft-board.md`) is the **PPR** source of truth.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-08-18
+- **Jeremiyah Love (RB, ARI)** — ⚠️ **correction/worse:** the ankle is a **HIGH ankle
+  sprain** (not just "sore"). Won't practice this week and **won't play preseason
+  Wk2.** High ankle sprains often linger 2–4+ weeks → real risk to his Week-1
+  availability, ~2.5 wks out. **Temper yesterday's buy-the-dip** — role is good, but
+  the injury now offsets it. Only draft at a discount as an upside stash; monitor.
+- **Breece Hall (RB, NYJ)** — went down **untouched after a catch (possible groin)**;
+  HC Aaron Glenn "didn't think it's a big deal." New flag on an RB2/flex — monitor a
+  day or two before trusting it.
+- **J.K. Dobbins (RB, DEN)** — 🔼 back from Lisfranc as **Denver's RB1 ahead of RJ
+  Harvey** (soft-tissue risk noted). Sleeper RB if healthy; **RJ Harvey down.**
+- **Chuba Hubbard** — ADP gap to **Jonathon Brooks** narrowing (RB32 vs RB36);
+  Brooks rising still. Burden out (Odunze up), Pacheco (MCL) hopeful Wk1.
+
 ### Update 2026-08-17
 - **Jeremiyah Love (RB, ARI)** — 🔼 **role correction:** in the preseason game he
   **started over Allgeier and out-snapped him 16:6** — the staff is signaling he'll
