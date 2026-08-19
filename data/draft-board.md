@@ -65,7 +65,7 @@ Take **best available by tier**. 10-team snake: picks 1–10 = R1, 11–20 = R2,
 | 34 | Marvin Harrison Jr. | WR | ARI | Breakout bet; ARI QB settled |
 | 35 | Lamar Jackson | QB | BAL | Elite dual-threat if you wait |
 | 36 | Terry McLaurin | WR | WAS | ⚠️ slight trim (Diggs now WR2) |
-| 37 | Jaylen Waddle | WR | DEN | 🟢 PPR value; ⚠️ leg strain (back ~soon) |
+| 37 | Jaylen Waddle | WR | DEN | 🔼 confirmed DEN WR1 (~WR42); PPR target volume — Sutton behind him |
 | 38 | DK Metcalf | WR | PIT | TD upside |
 | 39 | Jonathon Brooks | RB | CAR | 🔼🔼 Hubbard hurt — lead-back path; ascending late RB |
 | 40 | Sam LaPorta | TE | DET | First Tier-2 TE |
@@ -78,7 +78,7 @@ Take **best available by tier**. 10-team snake: picks 1–10 = R1, 11–20 = R2,
 - T1: Gibbs, Bijan
 - T2: McCaffrey⚠️, Achane🟢, J.Taylor
 - T3: Saquon, Jeanty, Cook, Henry🔴, Jacobs⚠️, K.Williams, C.Brown🟢
-- T4 (RB2/flex): Bucky Irving, Breece Hall⚠️(possible groin 8/17 — team downplaying, monitor), Kenneth Walker III⚠️, Chuba Hubbard🔻(hamstring)
+- T4 (RB2/flex): Cam Skattebo🔼🔼(NYG lead back, ~RB18), D'Andre Swift🔼(CHI — Monangai out), Bucky Irving, Breece Hall⚠️(possible groin 8/17 — monitor), Kenneth Walker III⚠️, Chuba Hubbard🔻(hamstring)
 - Value/committee: Jonathon Brooks🔼🔼 (CAR — Hubbard hurt), J.K. Dobbins🔼 (DEN — RB1 ahead of RJ Harvey, soft-tissue risk), Jeremiyah Love⚠️ (ARI — led snaps 16:6 BUT HIGH ankle sprain, Wk1 at risk — discount stash only), Bhayshul Tuten (JAX), Rachaad White, Tyler Allgeier, Kenneth Gainwell
 
 **WR** (deep in PPR — patient; value target volume)

@@ -13,6 +13,20 @@
 > (`data/draft-board.md`) is the **PPR** source of truth.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-08-19
+- **Cam Skattebo (RB, NYG)** — 🔼🔼 **separated as the Giants' lead back**: now going
+  ~**RB18** vs. Tyrone Tracy at RB44. Startable **RB2/flex** in PPR (he catches
+  passes) — real riser; added to the mid-round RB mix.
+- **D'Andre Swift (RB, CHI)** — 🔼 boosted: **Kyle Monangai** (hyperextended knee)
+  is out multiple weeks → Swift's workload + pass-down role more secure. PPR RB2/flex.
+- **Jaylen Waddle (WR, DEN)** — 🔼 clear **Denver WR1** (up to ~WR42); **Courtland
+  Sutton falls** behind him. Waddle's target volume → PPR value up.
+- **Jeremiyah Love (RB, ARI)** — high ankle sprain, but Cardinals now "**hopeful he's
+  ready Week 1**." Slightly less dire than 8/18 — still a monitor/discount, not a
+  confident pick.
+- **Stefon Diggs (WR, WAS)** — ~WR49 ADP as a Daniels target next to McLaurin — a
+  nice PPR value for the role. **Tank Dell (HOU)** may sit all preseason (deep only).
+
 ### Update 2026-08-18
 - **Jeremiyah Love (RB, ARI)** — ⚠️ **correction/worse:** the ankle is a **HIGH ankle
   sprain** (not just "sore"). Won't practice this week and **won't play preseason
