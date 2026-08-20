@@ -13,6 +13,19 @@
 > (`data/draft-board.md`) is the **PPR** source of truth.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-08-20
+- **Christian McCaffrey (RB, SF)** — 🔻 **missed practice AGAIN (Sunday, "tightness")**
+  and is being **dropped to the back end of Round 1.** The DNP flag is now a trend,
+  not a one-off. *Action: don't spend a top-8 pick on him — value him around
+  picks 10–13; there's a real soft-tissue/age risk building. Monitor closely.*
+- **Jayden Higgins (WR, HOU rookie)** — ruled **out for 2026 (torn ACL).** Removes a
+  target competitor in Houston → small **boost to Nico Collins** (and Christian
+  Kirk/Tank Dell). Collins' WR1 target share firms up.
+- **Bucky Irving (RB, TB)** — 🔼 up to ~RB51, firming as a **top-tier three-down RB**;
+  opened camp at full speed post-shoulder surgery (health concern gone). Good RB2.
+- **Reinforced:** Nabers trending to a Week-1 appearance; Brooks still rising
+  (Hubbard hurt); Skattebo RB18; Jeremiyah Love (high ankle sprain) value dinged.
+
 ### Update 2026-08-19
 - **Cam Skattebo (RB, NYG)** — 🔼🔼 **separated as the Giants' lead back**: now going
   ~**RB18** vs. Tyrone Tracy at RB44. Startable **RB2/flex** in PPR (he catches

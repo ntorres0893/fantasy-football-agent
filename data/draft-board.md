@@ -25,7 +25,7 @@ Take **best available by tier**. 10-team snake: picks 1–10 = R1, 11–20 = R2,
 | 6 | Jaxon Smith-Njigba | WR | SEA | Ascending target hog |
 | 7 | Amon-Ra St. Brown | WR | DET | 🟢 PPR reception monster |
 | 8 | CeeDee Lamb | WR | DAL | Volume + TDs |
-| 9 | Christian McCaffrey | RB | SF | ⚠️ age/450-touch + DNP watch (still elite PPR when healthy) |
+| 9 | Christian McCaffrey | RB | SF | 🔻 SLIDING — missed practice again ("tightness"); value ~picks 10–13, NOT top-8; soft-tissue/age risk building |
 | 10 | De'Von Achane | RB | MIA | 🟢 back up in PPR — receiving-heavy back |
 
 ## Round 2 (picks 11–20)
@@ -34,7 +34,7 @@ Take **best available by tier**. 10-team snake: picks 1–10 = R1, 11–20 = R2,
 | 11 | Drake London | WR | ATL | Target share king; ⚠️ Tua back flare-up |
 | 12 | Jonathan Taylor | RB | IND | Volume RB1; thin depth behind him |
 | 13 | Malik Nabers | WR | NYG | ✅ healthy — Week-1 track; elite talent |
-| 14 | Nico Collins | WR | HOU | WR1 upside |
+| 14 | Nico Collins | WR | HOU | 🔼 WR1 target share firms up (Jayden Higgins out for year, ACL) |
 | 15 | Saquon Barkley | RB | PHI | Elite behind great OL |
 | 16 | Ashton Jeanty | RB | LV | Yr2 breakout |
 | 17 | Rashee Rice | WR | KC | Mahomes cleared (full reps) |
@@ -78,7 +78,7 @@ Take **best available by tier**. 10-team snake: picks 1–10 = R1, 11–20 = R2,
 - T1: Gibbs, Bijan
 - T2: McCaffrey⚠️, Achane🟢, J.Taylor
 - T3: Saquon, Jeanty, Cook, Henry🔴, Jacobs⚠️, K.Williams, C.Brown🟢
-- T4 (RB2/flex): Cam Skattebo🔼🔼(NYG lead back, ~RB18), D'Andre Swift🔼(CHI — Monangai out), Bucky Irving, Breece Hall⚠️(possible groin 8/17 — monitor), Kenneth Walker III⚠️, Chuba Hubbard🔻(hamstring)
+- T4 (RB2/flex): Cam Skattebo🔼🔼(NYG lead back, ~RB18), D'Andre Swift🔼(CHI — Monangai out), Bucky Irving🔼(healthy, ~RB51), Breece Hall⚠️(possible groin 8/17 — monitor), Kenneth Walker III⚠️, Chuba Hubbard🔻(hamstring)
 - Value/committee: Jonathon Brooks🔼🔼 (CAR — Hubbard hurt), J.K. Dobbins🔼 (DEN — RB1 ahead of RJ Harvey, soft-tissue risk), Jeremiyah Love⚠️ (ARI — led snaps 16:6 BUT HIGH ankle sprain, Wk1 at risk — discount stash only), Bhayshul Tuten (JAX), Rachaad White, Tyler Allgeier, Kenneth Gainwell
 
 **WR** (deep in PPR — patient; value target volume)
