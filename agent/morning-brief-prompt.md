@@ -38,6 +38,8 @@ to `ntorres0893@gmail.com`, then commit the brief to the repo.
 4. **Update the repo** where warranted:
    - New injury/role news → update `data/player-notes.md` and, if it changes
      rankings, `data/draft-board.md`.
+   - **Update `data/watch-list.md`** — add/upgrade/downgrade/retire names as their
+     status changes. This is the running list the brief's Watch List renders from.
    - Keep edits surgical and note the date of the change.
 
 5. **Write the brief** to `briefs/YYYY-MM-DD.md` using the template below.
@@ -57,33 +59,48 @@ to `ntorres0893@gmail.com`, then commit the brief to the repo.
 
 ## Brief template
 
+> **No duplication rule:** the headline names the single biggest item; the
+> "What changed today" section carries the day's NEW movers **once**. Do NOT
+> restate the same players in a separate "top of the brief" bullet list — that was
+> the old repetitive format. New news lives in exactly one place.
+
 ```markdown
 # 🏈 Morning Brief — <Weekday, Mon DD, YYYY>
-*Phase: <Pre-draft | Draft week | Week N> · Days to draft: <n> (pre-draft only)*
+*Scoring: FULL PPR · Draft: Sept 3 (<n> days) · Team: Claude Me Daddy*
 
-## ☀️ Top of the brief
-- <The 1–3 things that matter most today, one line each.>
+**Headline:** <one sentence — the single most important thing today.>
 
-## 🚑 Injuries & status
-- <Player (POS, TEAM): what happened, timeline, fantasy impact + draft/lineup action.>
+## 🆕 What changed today
+- **Player (POS·TM):** what happened → the action (draft/value/monitor/fade/stash).
+  <Only genuinely NEW items vs. the last brief. If quiet, say "quiet day" and keep
+  it to 1–2 lines.>
 
-## 🔁 News & moves that shift value
-- <Trades, depth-chart changes, camp battles, coaching notes → who's up/down.>
-
-## 📈 Board / ADP watch  (pre-draft)
-- <Risers, fallers, and any changes I made to data/draft-board.md and why.>
+## 👀 Watch list  (pre-draft — render from data/watch-list.md)
+Show a broad, scannable snapshot so the manager tracks MANY names, not just today's
+movers. Group compactly; ~4–8 names per group, most draft-relevant first:
+- **🚑 Injury watch:** <name (status → action), …>
+- **🟢 Rising:** <names> · **🔻 Falling:** <names>
+- **⚔️ Battles:** <team: lean> …
+- **❌ Out for year:** <names>
+(Full detail lives in `data/watch-list.md`; the brief shows the highlights.)
 
 ## 🎯 Action items for you
-- <Concrete things: "confirm your draft slot", "consider bumping X up a tier",
-   in-season: "start A over B this week", "add C off waivers".>
+- <Concrete: draft slot, draft time, "bump X a tier," run a mock; in-season:
+   start/sit, waiver adds.>
 
 ## 🧠 Learn-with-me
-- <One short teaching note to build football IQ — a concept behind today's news.>
+- <One short teaching note — the concept behind today's news.>
 ```
+
+- In-season, swap the Watch List for a **start/sit + waiver** snapshot from
+  `in-season-playbook.md` (same "many names, scannable" spirit).
 
 ## Tone & rules
 - Concise, confident, and **explain the "why"** — the manager is relearning
   football. Lead with actions.
-- Only report **new** information vs. the last brief; don't repeat yesterday.
+- Only report **new** information vs. the last brief; **never** repeat a player in
+  two sections of the same brief.
+- The Watch List is the exception to "only new" — it's a rolling snapshot of many
+  monitored names, refreshed (not necessarily new) each day.
 - If a day is genuinely quiet, say so briefly rather than padding.
 - Never fabricate news or injuries. If sources conflict, say so.
