@@ -29,9 +29,12 @@
    one-week hole — worth a tiebreaker nudge between similarly-ranked players.
 6. **D/ST and K genuinely can wait** — correctly left empty until the very end
    in Mock #1. Keep doing that; don't let a "shiny" kicker tempt an early pick.
-7. **Feed picks in batches during mocks, keep my replies to ~2-3 lines during
-   live picks** — full breakdowns happen after, not mid-draft, so we can move
-   fast when picks are flying.
+7. **HARD RULE: one-line picks during live drafts/mocks.** You have ~30 seconds
+   per pick. Format is `🟢 <Player> (<POS>) — <3–6 word reason>`. No roster
+   recap, no runner-up, no "why" paragraph, no legend — every pick, no
+   exceptions, until the manager asks for more or the draft ends. Full
+   breakdowns and roster reviews happen in post-draft recap only. (See
+   `strategy/draft-day-playbook.md` § Speed Rule.)
 
 ---
 

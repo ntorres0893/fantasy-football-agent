@@ -32,19 +32,37 @@ the agent in the simplest form:
 The agent maintains the full draft board, so it always knows who's left. You do
 **not** need to tell it whole rosters — just who came off the board.
 
-## What the agent gives you on every one of your picks
+## ⏱️ SPEED RULE — you have ~30 seconds per pick, live drafts AND mocks
 
-When you're on the clock, the agent returns a fast, scannable recommendation:
+This overrides every other formatting instinct during a live draft/mock. The
+agent still does the full analysis internally — it just doesn't show its work.
 
+**On the clock, the ENTIRE reply is one line:**
 ```
-🟢 PICK: <Player> (<POS>, <TEAM>) — Tier <n>
-   Why: <1–2 lines: value vs ADP, roster fit, scarcity>
-   Runner-up: <Player> — <why you'd take them instead>
-   Punt/pivot: <if a run is happening, the alternative approach>
-   Roster after: QB_ RB__ WR__ TE_ FLEX_ | needs: <what's still open>
+🟢 <Player> (<POS>) — <3–6 word reason>
 ```
+Examples: `🟢 Jonathan Taylor (RB) — value, thin ARI depth` ·
+`🟢 Tucker Kraft (TE) — cliff, grab the value now`
 
-It decides using, in priority order:
+- **No** roster recap, **no** runner-up, **no** "why" paragraph, **no** emoji
+  legend, **no** markdown headers — unless the manager asks for more.
+- **Acknowledging other teams' picks:** one line total per batch, not per player.
+  `"Noted: X, Y, Z gone."` — don't re-list who's still on the board unless asked.
+- **Exception — flag a run in ≤1 extra line only if it changes the pick:**
+  `⚠️ RB run, tier almost empty — take now or drop a tier.`
+- **Roster recap:** only every ~5 picks, or when asked, or right before a FLEX/
+  bye-week decision actually needs it — never as a default add-on.
+- **The full breakdown (why, alternatives, roster state, tier logic) happens
+  AFTER the draft/mock ends**, not during. Save it for the post-draft review.
+
+If the manager says "give me more" on a specific pick, expand for that one pick
+only, then snap back to one-liners for the rest of the draft.
+
+---
+
+## What the agent's pick is actually based on (internal — not shown live)
+
+The agent decides using, in priority order:
 
 1. **Tier scarcity** — is this the last player in a tier? (Take before the cliff.)
 2. **Value vs. ADP** — are we getting a discount, or reaching?
