@@ -75,14 +75,17 @@ to `ntorres0893@gmail.com`, then commit the brief to the repo.
   <Only genuinely NEW items vs. the last brief. If quiet, say "quiet day" and keep
   it to 1–2 lines.>
 
-## 👀 Watch list  (pre-draft — render from data/watch-list.md)
-Show a broad, scannable snapshot so the manager tracks MANY names, not just today's
-movers. Group compactly; ~4–8 names per group, most draft-relevant first:
-- **🚑 Injury watch:** <name (status → action), …>
-- **🟢 Rising:** <names> · **🔻 Falling:** <names>
-- **⚔️ Battles:** <team: lean> …
-- **❌ Out for year:** <names>
-(Full detail lives in `data/watch-list.md`; the brief shows the highlights.)
+## 📊 Draft board by position  (pre-draft — render from data/watch-list.md)
+Organize BY POSITION and show **who to draft high vs. low** at each — this is what
+the manager wants this close to the draft. Cover **every** position (QB, RB, WR, TE,
+D/ST, K). Keep each compact; flag status inline (🟢🔻⚠️✅❌💎). Shape per position:
+- **QB:** wait — name the R6–10 targets + late streamers; "don't draft before R6."
+- **RB:** Early/R1 → mid → RB2/flex → late sleepers → avoid/fade.
+- **WR:** Early/R1–2 → WR2/WR3 → flex/upside → avoid/fade.
+- **TE:** the two to pay up for → value target → stream late → don't-pay-up.
+- **D/ST & K:** one line each — last two rounds, stream (note the scoring quirks).
+Bold the day's movers so "what changed" connects to the board. Full detail lives in
+`data/watch-list.md`; the email shows the highlights.
 
 ## 🎯 Action items for you
 - <Concrete: draft slot, draft time, "bump X a tier," run a mock; in-season:
