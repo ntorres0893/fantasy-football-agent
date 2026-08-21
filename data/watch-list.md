@@ -3,7 +3,7 @@
 > Every position, ranked **high → low** by where to draft. Tier bullets list plain
 > names for scanning; the **Flags** sub-bullets below each position call out anyone
 > with an injury/role concern or a notable move — one player per line, with why.
-> *Last updated: 2026-08-20.* Full context in `data/player-notes.md`.
+> *Last updated: 2026-08-21.* Full context in `data/player-notes.md`.
 
 ---
 
@@ -24,8 +24,8 @@
 - **Flags:**
     - ⚠️ Christian McCaffrey — "tightness," missed practice again → value ~picks 10–13, NOT top-8
     - ⚠️ Josh Jacobs — groin, out ≥1 week → target only if he slides
-    - ⚠️ Breece Hall — possible groin (team downplaying) → monitor a few days
-    - ⚠️ Jeremiyah Love — high ankle sprain, Week 1 at risk → stash only
+    - ⚠️ Breece Hall — groin confirmed, out 2–3 weeks → downgrade a half-tier for now
+    - ⚠️ Jeremiyah Love — high ankle sprain, may miss the season opener → pure stash, don't bank on Wk1
     - 🔻 Chuba Hubbard — hamstring, week-to-week → fade a bit
     - 🟢 Cam Skattebo — separated as NYG lead back (~RB18) → draft as RB2/flex
     - 🟢 D'Andre Swift — Monangai (knee) out → workload more secure
@@ -39,7 +39,8 @@
 - **Rounds 7+ (flex / upside):** Jaylen Waddle, Terry McLaurin, Zay Flowers, Rome Odunze, Deebo Samuel, Stefon Diggs, Emeka Egbuka, De'Zhaun Stribling, Matthew Golden
 - **Avoid / fade:** Courtland Sutton, Luther Burden III (cheap dart only)
 - **Flags:**
-    - ✅ Malik Nabers — practiced full speed → Week-1 track; draft as elite
+    - ✅ Malik Nabers — team drills resumed, Week-1 track intact; draft as elite
+    - ⚠️ Emeka Egbuka — day-to-day/week-to-week, Bucs HC unsure on Wk1 → monitor before drafting as a lock WR3
     - ⚠️ Puka Nacua — minor groin (few days) → draft, monitor
     - ⚠️ Justin Jefferson — MIN QB battle → elite regardless, just watch
     - ⚠️ Drake London — Tua back flare-up → monitor

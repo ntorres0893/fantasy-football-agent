@@ -13,6 +13,23 @@
 > (`data/draft-board.md`) is the **PPR** source of truth.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-08-21
+- **Breece Hall (RB, NYJ)** — 🔻 groin confirmed, **out 2–3 weeks** (upgraded from
+  "monitor" to a real timeline). *Action: real dent to his RB2 floor; downgrade a
+  half-tier until closer to Week 1.*
+- **Jeremiyah Love (RB, ARI)** — 🔻🔻 **worse than 8/19 read**: will miss preseason
+  Week 2 **and may be out for the season opener.** *Action: pure stash now, not a
+  buy-the-dip — don't bank on Week 1.*
+- **Emeka Egbuka (WR, TB)** — ⚠️ new flag: **day-to-day/week-to-week**; Bucs HC
+  unsure if he's ready for Week 1. *Action: monitor before drafting as a lock WR3.*
+- **Malik Nabers (WR, NYG)** — back doing **team drills** but not yet in joint
+  practices; still unlikely to play preseason but Week-1 track intact. *No change
+  to draft plan — still elite.*
+- **Zach Charbonnet (RB, SEA)** — 🔼 rebounded (~No. 134) after last week's dip.
+  Deep-league monitor only.
+- **Deebo Samuel (WR, SF)** — confirmed starting alongside Mike Evans and rookie
+  De'Zhaun Stribling in the reshuffled SF WR room (Pearsall out for year).
+
 ### Update 2026-08-20
 - **Christian McCaffrey (RB, SF)** — 🔻 **missed practice AGAIN (Sunday, "tightness")**
   and is being **dropped to the back end of Round 1.** The DNP flag is now a trend,
