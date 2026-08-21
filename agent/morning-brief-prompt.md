@@ -78,7 +78,13 @@ to `ntorres0893@gmail.com`, then commit the brief to the repo.
 ## 📊 Draft board by position  (pre-draft — render from data/watch-list.md)
 Organize BY POSITION and show **who to draft high vs. low** at each — this is what
 the manager wants this close to the draft. Cover **every** position (QB, RB, WR, TE,
-D/ST, K). Keep each compact; flag status inline (🟢🔻⚠️✅❌💎). Shape per position:
+D/ST, K).
+
+**Readability rule (important):** do NOT tag a status emoji onto every name — that's
+visual noise. Keep names plain inside each tier (the tier label already says
+high-vs-low), and **consolidate** all injury/role flags into ONE short "Watch:" line
+per position. At most one emoji per position *header* for navigation; none inline on
+names. Shape per position:
 - **QB:** wait — name the R6–10 targets + late streamers; "don't draft before R6."
 - **RB:** Early/R1 → mid → RB2/flex → late sleepers → avoid/fade.
 - **WR:** Early/R1–2 → WR2/WR3 → flex/upside → avoid/fade.
