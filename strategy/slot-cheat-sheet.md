@@ -4,6 +4,10 @@
 > Nacua (minor groin), McCaffrey (age/DNP), Jacobs (groin), Hubbard (hamstring →
 > Brooks up), Kittle (PUP). **Verify names on draft morning.** Once you know your
 > real slot, I'll tailor this further. Team: **Claude Me Daddy.**
+>
+> **Before running any mock or the real draft:** read `strategy/mock-draft-log.md`
+> first — the "Standing lessons" section carries forward what worked and what
+> didn't from every prior mock.
 
 ## Snake basics (10 teams) — your first 3 picks by slot
 

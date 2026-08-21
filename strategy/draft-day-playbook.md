@@ -11,9 +11,12 @@ playbook."* The agent loads your board, your slot, and tracks every pick.
 1. **Confirm league settings** in `profile/league-settings.md` — especially your
    **draft slot** and roster requirements.
 2. Run a final morning brief for last-minute injury/inactive news.
-3. The agent generates a **slot-specific game plan**: your likely targets at each
+3. **Read `strategy/mock-draft-log.md`** — apply the "Standing lessons" from every
+   prior mock (WR depth discipline, bye-week checks, back-to-back turn strategy,
+   staying flexible on QB timing, etc.) to the real draft.
+4. The agent generates a **slot-specific game plan**: your likely targets at each
    of your picks, plus 2–3 fallback names per pick in case they're gone.
-4. Open `data/draft-log.md` (created fresh on draft day) to record picks.
+5. Open `data/draft-log.md` (created fresh on draft day) to record picks.
 
 ---
 
