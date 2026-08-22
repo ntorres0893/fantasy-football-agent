@@ -13,6 +13,24 @@
 > (`data/draft-board.md`) is the **PPR** source of truth.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-08-22
+- **Seattle backfield resolved (for now):** **George Holani** is listed **RB1**;
+  Zach Charbonnet still not ready (ACL recovery lingering — a real risk to his
+  Week-1 availability) and Emmanuel Wilson has missed a lot of camp too. *Action:
+  Holani is the deep SEA-backfield add to know; Charbonnet's draft price should
+  reflect real Week-1 doubt, not just "PUP."*
+- **Matthew Golden (WR, GB)** — 🔼🔼 upgraded: now **projected to LEAD the Packers
+  in targets** (not just "bigger role"). Nice value around WR40. *Action: bump him
+  up your late-WR list.*
+- **Alec Pierce (WR, IND)** — 🔼 expected **off PUP**, trending toward a **Week-1**
+  return. *Action: no longer a fade — back to a viable deep-WR flier.*
+- **Breece Hall (RB, NYJ)** — despite the groin, praised for **passing-down work**;
+  could outperform his ~RB15 price. *Action: don't overreact to yesterday's
+  downgrade — still a solid RB2 ceiling once healthy.*
+- Reinforced: Jeremiyah Love (high ankle, Week-1 doubt); Nabers (team drills, no
+  joint practices yet, still trending fine); Pearsall/Deebo/Stribling/Evans (SF WR
+  room) unchanged.
+
 ### Update 2026-08-21
 - **Breece Hall (RB, NYJ)** — 🔻 groin confirmed, **out 2–3 weeks** (upgraded from
   "monitor" to a real timeline). *Action: real dent to his RB2 floor; downgrade a

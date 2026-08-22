@@ -3,7 +3,7 @@
 > Every position, ranked **high → low** by where to draft. Tier bullets list plain
 > names for scanning; the **Flags** sub-bullets below each position call out anyone
 > with an injury/role concern or a notable move — one player per line, with why.
-> *Last updated: 2026-08-21.* Full context in `data/player-notes.md`.
+> *Last updated: 2026-08-22.* Full context in `data/player-notes.md`.
 
 ---
 
@@ -24,7 +24,8 @@
 - **Flags:**
     - ⚠️ Christian McCaffrey — "tightness," missed practice again → value ~picks 10–13, NOT top-8
     - ⚠️ Josh Jacobs — groin, out ≥1 week → target only if he slides
-    - ⚠️ Breece Hall — groin confirmed, out 2–3 weeks → downgrade a half-tier for now
+    - ⚠️ Breece Hall — groin, out 2–3 weeks, but praised for passing-down work → don't overreact, solid RB2 ceiling once healthy
+    - 🔻 Zach Charbonnet — ACL recovery lingering, real Week-1 doubt → George Holani is SEA's RB1 for now
     - ⚠️ Jeremiyah Love — high ankle sprain, may miss the season opener → pure stash, don't bank on Wk1
     - 🔻 Chuba Hubbard — hamstring, week-to-week → fade a bit
     - 🟢 Cam Skattebo — separated as NYG lead back (~RB18) → draft as RB2/flex
@@ -36,11 +37,13 @@
 - **Rounds 1–2 (elite):** Ja'Marr Chase, Puka Nacua, Justin Jefferson, Jaxon Smith-Njigba, Amon-Ra St. Brown, CeeDee Lamb
 - **Rounds 2–4 (WR1/WR2):** Drake London, Malik Nabers, Nico Collins, Rashee Rice, A.J. Brown
 - **Rounds 4–6 (WR2/WR3):** Ladd McConkey, Chris Olave, George Pickens, Garrett Wilson, Tee Higgins, Davante Adams, DK Metcalf, Marvin Harrison Jr., DeVonta Smith
-- **Rounds 7+ (flex / upside):** Jaylen Waddle, Terry McLaurin, Zay Flowers, Rome Odunze, Deebo Samuel, Stefon Diggs, Emeka Egbuka, De'Zhaun Stribling, Matthew Golden
+- **Rounds 7+ (flex / upside):** Jaylen Waddle, Terry McLaurin, Zay Flowers, Rome Odunze, Deebo Samuel, Stefon Diggs, Emeka Egbuka, De'Zhaun Stribling, Matthew Golden, Alec Pierce
 - **Avoid / fade:** Courtland Sutton, Luther Burden III (cheap dart only)
 - **Flags:**
     - ✅ Malik Nabers — team drills resumed, Week-1 track intact; draft as elite
     - ⚠️ Emeka Egbuka — day-to-day/week-to-week, Bucs HC unsure on Wk1 → monitor before drafting as a lock WR3
+    - 🔼🔼 Matthew Golden — now projected to LEAD GB in targets → nice value ~WR40
+    - 🔼 Alec Pierce — expected off PUP, trending to Week 1 → back to a viable flier
     - ⚠️ Puka Nacua — minor groin (few days) → draft, monitor
     - ⚠️ Justin Jefferson — MIN QB battle → elite regardless, just watch
     - ⚠️ Drake London — Tua back flare-up → monitor
