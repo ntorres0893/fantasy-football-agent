@@ -3,7 +3,7 @@
 > Every position, ranked **high → low** by where to draft. Tier bullets list plain
 > names for scanning; the **Flags** sub-bullets below each position call out anyone
 > with an injury/role concern or a notable move — one player per line, with why.
-> *Last updated: 2026-08-22.* Full context in `data/player-notes.md`.
+> *Last updated: 2026-08-23.* Full context in `data/player-notes.md`.
 
 ---
 
@@ -18,14 +18,16 @@
 ## 🏃 RB — premium in PPR; secure your core early
 - **Round 1 (elite):** Jahmyr Gibbs, Bijan Robinson, De'Von Achane, Jonathan Taylor, Saquon Barkley
 - **Rounds 2–4 (RB1/RB2):** Ashton Jeanty, James Cook, Kyren Williams, Derrick Henry, Chase Brown, Bucky Irving
-- **Rounds 5–8 (RB2 / flex):** Cam Skattebo, D'Andre Swift, Breece Hall, Kenneth Walker III
-- **Late / sleepers (R9+):** Jonathon Brooks, J.K. Dobbins, Bhayshul Tuten, Rachaad White, Tyler Allgeier
-- **Avoid / fade:** Jeremiyah Love, RJ Harvey, Chuba Hubbard
+- **Rounds 5–8 (RB2 / flex):** Cam Skattebo, D'Andre Swift, Breece Hall, Kenneth Walker III, Jonathon Brooks
+- **Late / sleepers (R9+):** J.K. Dobbins, Bhayshul Tuten, Rachaad White, Tyler Allgeier, George Holani
+- **Avoid / fade:** Jeremiyah Love, RJ Harvey, Chuba Hubbard, Zach Charbonnet
 - **Flags:**
     - ⚠️ Christian McCaffrey — "tightness," missed practice again → value ~picks 10–13, NOT top-8
     - ⚠️ Josh Jacobs — groin, out ≥1 week → target only if he slides
     - ⚠️ Breece Hall — groin, out 2–3 weeks, but praised for passing-down work → don't overreact, solid RB2 ceiling once healthy
     - 🔻 Zach Charbonnet — ACL recovery lingering, real Week-1 doubt → George Holani is SEA's RB1 for now
+    - 🔼🔼🔼 Jonathon Brooks — has PASSED Hubbard; starting nod + first-team reps in CAR's opener → no longer speculative, draft ahead of Hubbard
+    - 🔻 J.K. Dobbins — sidelined with an undisclosed injury → downgrade to monitor until diagnosis
     - ⚠️ Jeremiyah Love — high ankle sprain, may miss the season opener → pure stash, don't bank on Wk1
     - 🔻 Chuba Hubbard — hamstring, week-to-week → fade a bit
     - 🟢 Cam Skattebo — separated as NYG lead back (~RB18) → draft as RB2/flex

@@ -13,6 +13,25 @@
 > (`data/draft-board.md`) is the **PPR** source of truth.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-08-23
+- **Jonathon Brooks (RB, CAR)** — 🔼🔼🔼 **has officially passed Chuba Hubbard** in
+  rankings. Drew the **starting nod** in CAR's preseason opener, worked with the
+  **first-team unit**, and HC Dave Canales has praised his conditioning. Hubbard
+  remains week-to-week (hamstring). *Action: this is no longer a speculative
+  sleeper — Brooks is trending toward CAR's lead-back job. Bump him solidly into
+  the RB2/flex mix, ahead of Hubbard.*
+- **J.K. Dobbins (RB, DEN)** — 🔻 sidelined with an **undisclosed injury**; managers
+  are now drafting the next man up (Denver backup) more aggressively. *Action:
+  downgrade Dobbins to a monitor until we get a diagnosis; DEN backfield muddier
+  again.*
+- **Malik Nabers (WR, NYG)** — continues trending well, now **~WR32** overall.
+  Still no joint practices, still unlikely to play preseason, but Week-1 outlook
+  unchanged. *No action — still elite, just reinforcing.*
+- **Michael Wilson (WR, ARI)** — flashed in Week 1 preseason, jumped ~8 spots in
+  ADP. Deep-league watch only.
+- Reinforced: Holani SEA RB1 (Charbonnet still not ready); Golden leading GB
+  targets; Breece Hall groin but good role; Jeremiyah Love high-ankle Week-1 doubt.
+
 ### Update 2026-08-22
 - **Seattle backfield resolved (for now):** **George Holani** is listed **RB1**;
   Zach Charbonnet still not ready (ACL recovery lingering — a real risk to his
