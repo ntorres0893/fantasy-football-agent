@@ -3,7 +3,7 @@
 > Every position, ranked **high → low** by where to draft. Tier bullets list plain
 > names for scanning; the **Flags** sub-bullets below each position call out anyone
 > with an injury/role concern or a notable move — one player per line, with why.
-> *Last updated: 2026-08-23.* Full context in `data/player-notes.md`.
+> *Last updated: 2026-08-24.* Full context in `data/player-notes.md`.
 
 ---
 
@@ -22,6 +22,7 @@
 - **Late / sleepers (R9+):** J.K. Dobbins, Bhayshul Tuten, Rachaad White, Tyler Allgeier, George Holani
 - **Avoid / fade:** Jeremiyah Love, RJ Harvey, Chuba Hubbard, Zach Charbonnet
 - **Flags:**
+    - ⚠️⚠️ Ashton Jeanty — scary knee scare, now believed just a sprained ankle, but Week-1 availability uncertain → don't autopick at original ADP, check his status right before your draft
     - ⚠️ Christian McCaffrey — "tightness," missed practice again → value ~picks 10–13, NOT top-8
     - ⚠️ Josh Jacobs — groin, out ≥1 week → target only if he slides
     - ⚠️ Breece Hall — groin, out 2–3 weeks, but praised for passing-down work → don't overreact, solid RB2 ceiling once healthy

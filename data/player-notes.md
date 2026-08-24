@@ -13,6 +13,23 @@
 > (`data/draft-board.md`) is the **PPR** source of truth.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-08-24
+- **Ashton Jeanty (RB, LV)** — ⚠️⚠️ **scary moment, but survived the scare.** Went
+  down on a diving catch unable to bear weight (whole team took a knee) — feared
+  serious knee injury. **Now believed to be a sprained ankle**, not long-term, but
+  **Week-1 availability is uncertain** and the Raiders don't have a firm timeline
+  yet. *Action: real flag on a Round 1-2 caliber RB — don't autopick him at
+  original ADP; check for a confirmed Week-1 timeline before your draft. His
+  backup **Mike Washington Jr. (rookie)** is a name to know (119 preseason rush
+  yds) if Jeanty's out.*
+- **Ollie Gordon II (RB, MIA)** — rib injury, no timetable. Deep-bench monitor only.
+- **Jakobi Meyers (WR, NE)** — praised as the Patriots' best camp WR; 3-56-1 in
+  preseason. Deep-league riser to know.
+- **Tetairoa McMillan + Jalen Coker (WR, CAR)** — both trending to dominate CAR
+  targets; Coker moved into Round-9 WR4 range.
+- **Dalton Kincaid (TE, BUF)** — stayed healthy all preseason; real chance at his
+  highest career snap share. Solid streaming/TE2 option.
+
 ### Update 2026-08-23
 - **Jonathon Brooks (RB, CAR)** — 🔼🔼🔼 **has officially passed Chuba Hubbard** in
   rankings. Drew the **starting nod** in CAR's preseason opener, worked with the
