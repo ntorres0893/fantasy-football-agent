@@ -39,10 +39,10 @@ agent still does the full analysis internally — it just doesn't show its work.
 
 **On the clock, the ENTIRE reply is one line:**
 ```
-🟢 <Player> (<POS>) — <3–6 word reason>
+🟢 <Player> (<POS>, <TEAM>) — <3–6 word reason>
 ```
-Examples: `🟢 Jonathan Taylor (RB) — value, thin ARI depth` ·
-`🟢 Tucker Kraft (TE) — cliff, grab the value now`
+Examples: `🟢 Jonathan Taylor (RB, IND) — value, thin depth behind him` ·
+`🟢 Tucker Kraft (TE, GB) — cliff, grab the value now`
 
 - **No** roster recap, **no** runner-up, **no** "why" paragraph, **no** emoji
   legend, **no** markdown headers — unless the manager asks for more.

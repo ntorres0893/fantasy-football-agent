@@ -74,28 +74,30 @@ Take **best available by tier**. 10-team snake: picks 1–10 = R1, 11–20 = R2,
 
 ## Positional tiers (PPR)
 
+> Team abbreviation follows every player name.
+
 **RB** (pass-catching backs premium)
-- T1: Gibbs, Bijan
-- T2: McCaffrey⚠️, Achane🟢, J.Taylor
-- T3: Saquon, Jeanty, Cook, Henry🔴, Jacobs⚠️, K.Williams, C.Brown🟢
-- T4 (RB2/flex): Cam Skattebo🔼🔼(NYG lead back, ~RB18), D'Andre Swift🔼(CHI — Monangai out), Bucky Irving🔼(healthy, ~RB51), Breece Hall⚠️(possible groin 8/17 — monitor), Kenneth Walker III⚠️, Chuba Hubbard🔻(hamstring)
-- Value/committee: Jonathon Brooks🔼🔼 (CAR — Hubbard hurt), J.K. Dobbins🔼 (DEN — RB1 ahead of RJ Harvey, soft-tissue risk), Jeremiyah Love⚠️ (ARI — led snaps 16:6 BUT HIGH ankle sprain, Wk1 at risk — discount stash only), Bhayshul Tuten (JAX), Rachaad White, Tyler Allgeier, Kenneth Gainwell
+- T1: Gibbs (DET), Bijan (ATL)
+- T2: McCaffrey (SF)⚠️, Achane (MIA)🟢, J.Taylor (IND)
+- T3: Saquon (PHI), Jeanty (LV)⚠️, Cook (BUF), Henry (BAL)🔴, Jacobs (GB)⚠️, K.Williams (LAR), C.Brown (CIN)🟢
+- T4 (RB2/flex): Cam Skattebo (NYG)🔼🔼(lead back, ~RB18), D'Andre Swift (CHI)🔼(Monangai out), Bucky Irving (TB)🔼(healthy, ~RB51), Breece Hall (NYJ)⚠️(groin, out 2-3 wks — good role, don't overreact), Kenneth Walker III (SEA)⚠️, Chuba Hubbard (CAR)🔻(hamstring — passed by Brooks)
+- Value/committee: Jonathon Brooks (CAR)🔼🔼🔼 (passed Hubbard — starting nod, first-team reps), J.K. Dobbins (DEN)🔻(undisclosed injury — monitor), Jeremiyah Love (ARI)⚠️ (led snaps 16:6 BUT high ankle sprain, may miss opener — discount stash only), George Holani (SEA) (RB1 while Charbonnet's ACL lingers), Bhayshul Tuten (JAX), Rachaad White (TB), Tyler Allgeier (ARI), Kenneth Gainwell (TB)
 
 **WR** (deep in PPR — patient; value target volume)
-- T1: Chase, Nacua⚠️, JSN, Jefferson⚠️, ARSB🟢, Lamb
-- T2: London⚠️, Nabers✅, N.Collins, Rice, A.J. Brown
-- T3: Olave, Pickens, McConkey🟢, G.Wilson, Higgins, Adams, T.McMillan
-- T4: DeVonta Smith, MHJ, McLaurin⚠️, Waddle🟢⚠️, Metcalf, Zay Flowers, Evans⚠️(quad), Odunze🔼
-- Depth/upside: Deebo Samuel🔼🟢 (SF — PPR flex, tier up post-Pearsall), Stefon Diggs (WAS WR2 w/ Daniels), Egbuka, Burden III🔻(groin — Wk1 in doubt), Sutton, Godwin, Meyers, Ridley, De'Zhaun Stribling🔼, Matthew Golden🔼
+- T1: Chase (CIN), Nacua (LAR)⚠️, JSN (SEA), Jefferson (MIN)⚠️, ARSB (DET)🟢, Lamb (DAL)
+- T2: London (ATL)⚠️, Nabers (NYG)✅, N.Collins (HOU)🔼, Rice (KC), A.J. Brown (NE)
+- T3: Olave (NO), Pickens (DAL), McConkey (LAC)🟢, G.Wilson (NYJ), Higgins (CIN), Adams (LAR), T.McMillan (CAR)
+- T4: DeVonta Smith (PHI), MHJ (ARI), McLaurin (WAS)⚠️, Waddle (DEN)🟢🔼(confirmed DEN WR1), Metcalf (PIT), Zay Flowers (BAL), Evans (SF)⚠️(quad), Odunze (CHI)🔼
+- Depth/upside: Deebo Samuel (SF)🔼🟢 (PPR flex, tier up post-Pearsall), Stefon Diggs (WAS) (WR2 w/ Daniels), Egbuka (TB)⚠️(day-to-day, monitor), Burden III (CHI)🔻(groin — Wk1 in doubt), Sutton (DEN)🔻, Godwin (TB), Meyers (NE)🔼(best NE camp WR), Ridley (TEN), De'Zhaun Stribling (SF)🔼, Matthew Golden (GB)🔼🔼(projected to lead GB targets), Alec Pierce (IND)🔼(off PUP), Jalen Coker (CAR)🔼
 
 **QB** (1-QB year — WAIT; Rounds 6–10)
-- T1: Allen, L.Jackson · T2: J.Daniels, Hurts, Drake Maye, Burrow
-- T3 (stream): C.Williams, Nix, Prescott, K.Murray(if wins MIN job), Mahomes✅
+- T1: Allen (BUF), L.Jackson (BAL) · T2: J.Daniels (WAS), Hurts (PHI), Drake Maye (NE), Burrow (CIN)
+- T3 (stream): C.Williams (CHI), Nix (DEN), Prescott (DAL), K.Murray (MIN, if wins job), Mahomes (KC)✅
 
 **TE** (elite target-hogs premium in PPR; hard cliff after top ~6)
-- T1: Bowers, McBride · T1b: Kittle🔻(on PUP — Achilles; Wk1 not guaranteed)
-- T2: LaPorta, Tyler Warren, Tucker Kraft🔼(top-3 upside if healthy — value)
-- T3 (stream): Loveland, Fannin Jr., Kincaid, Likely, Hunter Henry
+- T1: Bowers (LV), McBride (ARI) · T1b: Kittle (SF)🔻(on PUP — Achilles; Wk1 not guaranteed)
+- T2: LaPorta (DET), Tyler Warren (IND), Tucker Kraft (GB)🔼(top-3 upside if healthy — value)
+- T3 (stream): Loveland (CHI), Fannin Jr. (CLE), Kincaid (BUF)🔼(healthy all camp), Likely (BAL), Hunter Henry (NE)
 
 **D/ST & K:** last two rounds only; stream weekly (K: big-leg guys get a bump).
 

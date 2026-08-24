@@ -84,9 +84,15 @@ D/ST, K).
 visual noise. Keep names plain inside each tier (the tier label already says
 high-vs-low). Put the injury/role flags in a **"Flags:" bullet with one indented
 sub-bullet per player** — each line = one status emoji + player + one-line why/action
-(e.g., "⚠️ Josh Jacobs — groin, out ≥1 wk → target only if he slides"). This keeps
-tiers glanceable while each flag stays legible on its own line. Include a small flag
-legend once. Shape per position:
+(e.g., "⚠️ Josh Jacobs (GB) — groin, out ≥1 wk → target only if he slides"). This
+keeps tiers glanceable while each flag stays legible on its own line. Include a small
+flag legend once.
+
+**Team-tag rule:** every player name, in tier lists AND flags, gets its team
+abbreviation in parens the first time it's mentioned in a section — `Player Name
+(TEAM)` in tier lists, `Player (POS, TEAM)` in the "What changed today" section.
+Keep `data/watch-list.md` and `data/draft-board.md` consistent with this too when
+editing them. Shape per position:
 - **QB:** wait — name the R6–10 targets + late streamers; "don't draft before R6."
 - **RB:** Early/R1 → mid → RB2/flex → late sleepers → avoid/fade.
 - **WR:** Early/R1–2 → WR2/WR3 → flex/upside → avoid/fade.

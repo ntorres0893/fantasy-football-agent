@@ -557,14 +557,15 @@
 - **Quentin Johnston (WR, LAC)** — biggest draft-capital riser; new OC's YAC scheme.
 - **Carnell Tate (WR, TEN)** — rookie, first WR off the board; pro-ready volume.
 - **Kenneth Gainwell (RB, TB)** — PPR receiving profile; RB2-usable if Irving dinged.
-- **Rachaad White / Jaydon Blue / Jonathon Brooks** — ascending backfield values.
+- **Rachaad White (RB, TB) / Jaydon Blue (RB, DAL) / Jonathon Brooks (RB, CAR)** —
+  ascending backfield values.
 
 ## ⛔ Busts / overvalued (fade in PPR)
-- **Christian McCaffrey** — 450-touch fade at his age; going top-7.
-- **De'Von Achane** — efficiency regression + messy MIA offense.
-- **Kenneth Walker III** — going ~RB6/top-15 without clearly earning it.
-- **Matthew Stafford** — age 38; don't pay the reigning-MVP tax.
-- **Travis Kelce** — projected worst fantasy season yet.
+- **Christian McCaffrey (RB, SF)** — 450-touch fade at his age; going top-7.
+- **De'Von Achane (RB, MIA)** — efficiency regression + messy MIA offense.
+- **Kenneth Walker III (RB, SEA)** — going ~RB6/top-15 without clearly earning it.
+- **Matthew Stafford (QB, LAR)** — age 38; don't pay the reigning-MVP tax.
+- **Travis Kelce (TE, KC)** — projected worst fantasy season yet.
 
 ## 🌱 Rookies to know (2026 class — weak for redraft)
 - **Jeremiyah Love (RB, ARI)** — class's best talent, BUT ⚠️ (updated 8/8) the ARI
