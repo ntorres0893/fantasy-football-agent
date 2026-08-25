@@ -3,7 +3,7 @@
 > Every position, ranked **high → low** by where to draft. Tier bullets list plain
 > names for scanning; the **Flags** sub-bullets below each position call out anyone
 > with an injury/role concern or a notable move — one player per line, with why.
-> Team abbreviation follows every player name. *Last updated: 2026-08-24.*
+> Team abbreviation follows every player name. *Last updated: 2026-08-25.*
 > Full context in `data/player-notes.md`.
 
 ---
@@ -26,7 +26,7 @@
     - ⚠️⚠️ Ashton Jeanty (LV) — scary knee scare, now believed just a sprained ankle, but Week-1 availability uncertain → don't autopick at original ADP, check his status right before your draft
     - ⚠️ Christian McCaffrey (SF) — "tightness," missed practice again → value ~picks 10–13, NOT top-8
     - ⚠️ Josh Jacobs (GB) — groin, out ≥1 week → target only if he slides
-    - ⚠️ Breece Hall (NYJ) — groin, out 2–3 weeks, but praised for passing-down work → don't overreact, solid RB2 ceiling once healthy
+    - ✅ Breece Hall (NYJ) — played nearly every snap on the opening preseason drive, real passing-down role confirmed → could outperform his ~RB15 price
     - 🔻 Zach Charbonnet (SEA) — ACL recovery lingering, real Week-1 doubt → George Holani (SEA) is the RB1 for now
     - 🔼🔼🔼 Jonathon Brooks (CAR) — has PASSED Hubbard; starting nod + first-team reps in CAR's opener → no longer speculative, draft ahead of Hubbard
     - 🔻 J.K. Dobbins (DEN) — sidelined with an undisclosed injury → downgrade to monitor until diagnosis
@@ -41,13 +41,14 @@
 - **Rounds 1–2 (elite):** Ja'Marr Chase (CIN), Puka Nacua (LAR), Justin Jefferson (MIN), Jaxon Smith-Njigba (SEA), Amon-Ra St. Brown (DET), CeeDee Lamb (DAL)
 - **Rounds 2–4 (WR1/WR2):** Drake London (ATL), Malik Nabers (NYG), Nico Collins (HOU), Rashee Rice (KC), A.J. Brown (NE)
 - **Rounds 4–6 (WR2/WR3):** Ladd McConkey (LAC), Chris Olave (NO), George Pickens (DAL), Garrett Wilson (NYJ), Tee Higgins (CIN), Davante Adams (LAR), DK Metcalf (PIT), Marvin Harrison Jr. (ARI), DeVonta Smith (PHI)
-- **Rounds 7+ (flex / upside):** Jaylen Waddle (DEN), Terry McLaurin (WAS), Zay Flowers (BAL), Rome Odunze (CHI), Deebo Samuel (SF), Stefon Diggs (WAS), Emeka Egbuka (TB), De'Zhaun Stribling (SF), Matthew Golden (GB), Alec Pierce (IND)
+- **Rounds 7+ (flex / upside):** Jaylen Waddle (DEN), Terry McLaurin (WAS), Zay Flowers (BAL), Rome Odunze (CHI), Deebo Samuel (SF), Stefon Diggs (WAS), Emeka Egbuka (TB), De'Zhaun Stribling (SF), Matthew Golden (GB), Alec Pierce (IND), Kayshon Boutte (HOU)
 - **Avoid / fade:** Courtland Sutton (DEN), Luther Burden III (CHI) (cheap dart only)
 - **Flags:**
     - ✅ Malik Nabers (NYG) — team drills resumed, Week-1 track intact; draft as elite
     - ⚠️ Emeka Egbuka (TB) — day-to-day/week-to-week, Bucs HC unsure on Wk1 → monitor before drafting as a lock WR3
     - 🔼🔼 Matthew Golden (GB) — now projected to LEAD Green Bay in targets → nice value ~WR40
     - 🔼 Alec Pierce (IND) — expected off PUP, trending to Week 1 → back to a viable flier
+    - 🔼 Kayshon Boutte (HOU) — traded from NE, lands as HOU's WR2 behind Nico Collins (Higgins out, Dell hurt) → late-round dart
     - ⚠️ Puka Nacua (LAR) — minor groin (few days) → draft, monitor
     - ⚠️ Justin Jefferson (MIN) — MIN QB battle → elite regardless, just watch
     - ⚠️ Drake London (ATL) — Tua back flare-up → monitor

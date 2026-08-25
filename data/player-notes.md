@@ -13,6 +13,24 @@
 > (`data/draft-board.md`) is the **PPR** source of truth.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-08-25
+- **Kayshon Boutte (WR, NE → HOU)** — 🔼 **traded to Houston** (for a 2028 7th +
+  Jaylen Reed) with Jayden Higgins out for the year and Tank Dell still recovering.
+  Lands as Houston's **WR2 behind Nico Collins.** *Action: late-round dart, more of
+  a matchup-streamer than a lock starter — don't overpay, but a nice late-round
+  add given the crowded-out Houston WR room.*
+- **Breece Hall (RB, NYJ)** — reinforced positive: played **nearly every snap on
+  the opening drive** vs. TB, 4 carries, with Geno Smith at QB and real
+  passing-down upside. *Action: confirms yesterday's "don't overreact to the
+  groin" read — solid RB2 ceiling, could outperform his ~RB15 price.*
+- **Ashton Jeanty (RB, LV)** — reinforced: still believed to be a **sprained
+  ankle**, not long-term, but Week-1 truly uncertain; **Mike Washington Jr.**
+  stepped into first-team work when Jeanty left practice. *No change from
+  yesterday's flag — check status before your pick.*
+- Reinforced, no change: Holani SEA RB1 (Charbonnet still not ready); Nabers no
+  joint practices yet but Week-1 track intact; Jeremiyah Love high-ankle Week-1
+  doubt; Ollie Gordon II (MIA) rib, no timetable.
+
 ### Update 2026-08-24
 - **Ashton Jeanty (RB, LV)** — ⚠️⚠️ **scary moment, but survived the scare.** Went
   down on a diving catch unable to bear weight (whole team took a knee) — feared
