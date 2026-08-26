@@ -3,7 +3,9 @@
 > Every position, ranked **high → low** by where to draft. Tier bullets list plain
 > names for scanning; the **Flags** sub-bullets below each position call out anyone
 > with an injury/role concern or a notable move — one player per line, with why.
-> Team abbreviation follows every player name. *Last updated: 2026-08-25.*
+> Team abbreviation follows every player name. *Last updated: 2026-08-26.*
+> ⚠️ **NFL roster cuts to 53 players: Sunday Aug 30, 6pm ET** — 3 days before your
+> draft. Re-check any unresolved position battle on draft morning.
 > Full context in `data/player-notes.md`.
 
 ---
@@ -44,7 +46,7 @@
 - **Rounds 7+ (flex / upside):** Jaylen Waddle (DEN), Terry McLaurin (WAS), Zay Flowers (BAL), Rome Odunze (CHI), Deebo Samuel (SF), Stefon Diggs (WAS), Emeka Egbuka (TB), De'Zhaun Stribling (SF), Matthew Golden (GB), Alec Pierce (IND), Kayshon Boutte (HOU)
 - **Avoid / fade:** Courtland Sutton (DEN), Luther Burden III (CHI) (cheap dart only)
 - **Flags:**
-    - ✅ Malik Nabers (NYG) — team drills resumed, Week-1 track intact; draft as elite
+    - ✅ Malik Nabers (NYG) — no non-contact jersey, full 11-on-11 drills; draft as elite, discount basically gone
     - ⚠️ Emeka Egbuka (TB) — day-to-day/week-to-week, Bucs HC unsure on Wk1 → monitor before drafting as a lock WR3
     - 🔼🔼 Matthew Golden (GB) — now projected to LEAD Green Bay in targets → nice value ~WR40
     - 🔼 Alec Pierce (IND) — expected off PUP, trending to Week 1 → back to a viable flier

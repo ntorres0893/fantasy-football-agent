@@ -13,6 +13,24 @@
 > (`data/draft-board.md`) is the **PPR** source of truth.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-08-26
+- **Malik Nabers (WR, NYG)** — 🔼 real step forward: seen at practice **without a
+  non-contact jersey** and participating in **11-on-11 drills.** This is a genuine
+  upgrade from "team drills only" — the clearest positive signal yet for a Week-1
+  return. *Action: draft with full confidence, discount is basically gone.*
+- **Trey Benson (RB, ARI)** — ❌ **cut by the Cardinals.** Simplifies the crowded
+  ARI backfield (was Allgeier/Love/Conner/Benson/Knight/Kiner) — one fewer body in
+  the committee. *Action: minor positive for Allgeier and Love's shares; remove
+  Benson from your board.*
+- **⚠️ Key date: NFL roster cuts deadline is Sunday, Aug 30 at 6pm ET** — teams
+  must trim to 53 players, just **3 days before your draft.** Depth-chart battles
+  we've been tracking (ARI RB, SEA RB, NE RB, etc.) could get real final clarity
+  in this window. *Action: re-check the position battles you're unsure on the
+  morning of your draft — some will have resolved by then.*
+- Reinforced: Jeanty still uncertain (Mike Washington Jr. impressing in his
+  absence); Holani SEA RB1; PFF has Gibbs/Bijan atop RB, Nacua atop WR — consistent
+  with our board.
+
 ### Update 2026-08-25
 - **Kayshon Boutte (WR, NE → HOU)** — 🔼 **traded to Houston** (for a 2028 7th +
   Jaylen Reed) with Jayden Higgins out for the year and Tank Dell still recovering.
