@@ -13,6 +13,26 @@
 > (`data/draft-board.md`) is the **PPR** source of truth.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-08-27
+- **Ashton Jeanty (RB, LV)** — 🔼 slightly better news: Ian Rapoport reports the
+  sprain is **"more low than high"** ankle-wise (low-ankle sprains heal faster
+  than high ones). Still no firm timeline, but this is a genuine positive
+  refinement. His ADP hasn't moved much (~pick 14) — the market isn't panicking.
+  *Action: still check status on draft morning, but lean a bit more confident.*
+- **Jeremiyah Love (RB, ARI)** — 🔼 concrete target set: Cardinals **hoping for
+  the Sept. 13 regular-season opener vs. the Chargers.** Making "**steady
+  progress**" but stays out of practice this week. *Action: this is more
+  specific and slightly more optimistic than "may miss the opener" — still a
+  discount stash, but the outlook is trending the right way.*
+- **Jordan Mason (RB, MIN)** — 🔼 biggest RB riser of the week, jumped ~16 spots
+  (now ~RB92), overtaking Blake Corum in the backup pecking order. Deep-league
+  watch only, but real camp momentum.
+- **De'Zhaun Stribling (WR, SF)** — 🔼 rose ~28 spots, now just outside the
+  published WR48. Confirms our "rising SF sleeper" read — good late-round dart.
+- **Jordyn Tyson (WR, NO rookie)** — 🔻 **hamstring**; fell to ~WR60 with a
+  **mid-October** target return. *Action: downgrade this rookie sleeper hard —
+  he'll miss a chunk of the season; not a Week-1 roster piece.*
+
 ### Update 2026-08-26
 - **Malik Nabers (WR, NYG)** — 🔼 real step forward: seen at practice **without a
   non-contact jersey** and participating in **11-on-11 drills.** This is a genuine
