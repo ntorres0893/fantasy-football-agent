@@ -3,7 +3,7 @@
 > Every position, ranked **high → low** by where to draft. Tier bullets list plain
 > names for scanning; the **Flags** sub-bullets below each position call out anyone
 > with an injury/role concern or a notable move — one player per line, with why.
-> Team abbreviation follows every player name. *Last updated: 2026-08-27.*
+> Team abbreviation follows every player name. *Last updated: 2026-08-28.*
 > ⚠️ **NFL roster cuts to 53 players: Sunday Aug 30, 6pm ET** — 3 days before your
 > draft. Re-check any unresolved position battle on draft morning.
 > Full context in `data/player-notes.md`.
@@ -22,14 +22,14 @@
 - **Round 1 (elite):** Jahmyr Gibbs (DET), Bijan Robinson (ATL), De'Von Achane (MIA), Jonathan Taylor (IND), Saquon Barkley (PHI)
 - **Rounds 2–4 (RB1/RB2):** Ashton Jeanty (LV), James Cook (BUF), Kyren Williams (LAR), Derrick Henry (BAL), Chase Brown (CIN), Bucky Irving (TB)
 - **Rounds 5–8 (RB2 / flex):** Cam Skattebo (NYG), D'Andre Swift (CHI), Breece Hall (NYJ), Kenneth Walker III (SEA), Jonathon Brooks (CAR)
-- **Late / sleepers (R9+):** J.K. Dobbins (DEN), Bhayshul Tuten (JAX), Rachaad White (TB), Tyler Allgeier (ARI), George Holani (SEA)
+- **Late / sleepers (R9+):** J.K. Dobbins (DEN), Bhayshul Tuten (JAX), Rachaad White (TB), Tyler Allgeier (ARI), George Holani (SEA), Jonah Coleman (DEN, deep handcuff)
 - **Avoid / fade:** Jeremiyah Love (ARI), RJ Harvey (DEN), Chuba Hubbard (CAR), Zach Charbonnet (SEA)
 - **Flags:**
     - ⚠️ Ashton Jeanty (LV) — sprain graded "more low than high" ankle (good sign), still no firm timeline → check status on draft morning, lean a bit more confident
     - ⚠️ Christian McCaffrey (SF) — "tightness," missed practice again → value ~picks 10–13, NOT top-8
     - ⚠️ Josh Jacobs (GB) — groin, out ≥1 week → target only if he slides
     - ✅ Breece Hall (NYJ) — played nearly every snap on the opening preseason drive, real passing-down role confirmed → could outperform his ~RB15 price
-    - 🔻 Zach Charbonnet (SEA) — ACL recovery lingering, real Week-1 doubt → George Holani (SEA) is the RB1 for now
+    - 🔻 Zach Charbonnet (SEA) — now officially on Active/PUP → confirms Holani (SEA) as the real Week-1 starter
     - 🔼🔼🔼 Jonathon Brooks (CAR) — has PASSED Hubbard; starting nod + first-team reps in CAR's opener → no longer speculative, draft ahead of Hubbard
     - 🔻 J.K. Dobbins (DEN) — sidelined with an undisclosed injury → downgrade to monitor until diagnosis
     - ⚠️ Jeremiyah Love (ARI) — high ankle sprain, "steady progress," targeting the Sept 13 opener vs LAC → still a discount stash, but trending the right way
@@ -53,7 +53,7 @@
     - 🔼 Kayshon Boutte (HOU) — traded from NE, lands as HOU's WR2 behind Nico Collins (Higgins out, Dell hurt) → late-round dart
     - 🔼 De'Zhaun Stribling (SF) — rose ~28 spots, just outside published WR48 → good late-round dart
     - 🔻 Jordyn Tyson (NO) — hamstring, fell to ~WR60, mid-October return target → not a Week-1 piece, downgrade hard
-    - ⚠️ Puka Nacua (LAR) — minor groin (few days) → draft, monitor
+    - ⚠️⚠️ Puka Nacua (LAR) — still out of practice, Rams deliberately taking it slow with the groin; draft is 6 days away → verify his status morning of 9/3 before an early pick
     - ⚠️ Justin Jefferson (MIN) — MIN QB battle → elite regardless, just watch
     - ⚠️ Drake London (ATL) — Tua back flare-up → monitor
     - 🟢 Nico Collins (HOU) — Jayden Higgins out for year → WR1 target share up

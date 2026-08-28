@@ -13,6 +13,27 @@
 > (`data/draft-board.md`) is the **PPR** source of truth.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-08-28
+- **Puka Nacua (WR, LAR)** — ⚠️ elevate this one: still **out of practice** as of
+  Tuesday; the Rams are **deliberately taking it slow** with the groin. Reports say
+  it "doesn't seem serious," but with your draft **6 days away**, this has gone
+  from "monitor" to a real thing to verify before you pick him top-5 overall.
+  *Action: check his practice status the morning of 9/3 — still likely fine given
+  his talent, but confirm before locking him into an early pick.*
+- **Jonah Coleman (RB, DEN rookie)** — 🔼 emerging as the **true Dobbins handcuff**
+  (ahead of RJ Harvey for that specific role) given Dobbins' recurring durability
+  flags. ADP ~RB54/pick 131. *Action: deep bench stash, not a redraft priority
+  unless Dobbins' injury situation worsens.*
+- **Zach Charbonnet (RB, SEA)** — now **officially on Active/PUP**; confirms
+  Holani as the real Week-1 starter, not just a depth-chart guess.
+- **Emeka Egbuka (WR, TB)** — reinforced: still day-to-day/week-to-week (toe), HC
+  Bowles genuinely unsure on Week 1. *No change — still a monitor, not a lock WR3.*
+- **Makai Lemon (WR, PHI rookie)** — 🔻 worse: sidelined **two full weeks** now with
+  the hamstring (was 2 missed practices). *Action: further discount this rookie
+  sleeper — untrustworthy for Week 1 value right now.*
+- **Ashton Jeanty (RB, LV)** — reinforced: still "low not high" ankle, but **Mike
+  Washington Jr.** continues to look stellar, complicating a clean return timeline.
+
 ### Update 2026-08-27
 - **Ashton Jeanty (RB, LV)** — 🔼 slightly better news: Ian Rapoport reports the
   sprain is **"more low than high"** ankle-wise (low-ankle sprains heal faster
