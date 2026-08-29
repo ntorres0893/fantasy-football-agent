@@ -3,7 +3,7 @@
 > Every position, ranked **high → low** by where to draft. Tier bullets list plain
 > names for scanning; the **Flags** sub-bullets below each position call out anyone
 > with an injury/role concern or a notable move — one player per line, with why.
-> Team abbreviation follows every player name. *Last updated: 2026-08-28.*
+> Team abbreviation follows every player name. *Last updated: 2026-08-29.*
 > ⚠️ **NFL roster cuts to 53 players: Sunday Aug 30, 6pm ET** — 3 days before your
 > draft. Re-check any unresolved position battle on draft morning.
 > Full context in `data/player-notes.md`.
@@ -34,7 +34,7 @@
     - 🔻 J.K. Dobbins (DEN) — sidelined with an undisclosed injury → downgrade to monitor until diagnosis
     - ⚠️ Jeremiyah Love (ARI) — high ankle sprain, "steady progress," targeting the Sept 13 opener vs LAC → still a discount stash, but trending the right way
     - 🔻 Chuba Hubbard (CAR) — hamstring, week-to-week → fade a bit
-    - 🟢 Cam Skattebo (NYG) — separated as lead back (~RB18) → draft as RB2/flex
+    - 🟢🟢 Cam Skattebo (NYG) — separated as lead back (~RB18); Tyrone Tracy Jr. left a preseason game with a neck injury → Skattebo's workload path even safer
     - 🟢 D'Andre Swift (CHI) — Monangai (knee) out → workload more secure
     - 🟢 Jonathon Brooks (CAR) — Hubbard hurt → lead-back path opening (late sleeper)
     - 🟢 Bucky Irving (TB) — healthy post-shoulder → solid RB2
@@ -49,11 +49,11 @@
     - ✅ Malik Nabers (NYG) — no non-contact jersey, full 11-on-11 drills; draft as elite, discount basically gone
     - ⚠️ Emeka Egbuka (TB) — day-to-day/week-to-week, Bucs HC unsure on Wk1 → monitor before drafting as a lock WR3
     - 🔼🔼 Matthew Golden (GB) — now projected to LEAD Green Bay in targets → nice value ~WR40
-    - 🔼 Alec Pierce (IND) — expected off PUP, trending to Week 1 → back to a viable flier
+    - ✅ Alec Pierce (IND) — officially activated off PUP, on track for Week 1 → confirmed viable flier
     - 🔼 Kayshon Boutte (HOU) — traded from NE, lands as HOU's WR2 behind Nico Collins (Higgins out, Dell hurt) → late-round dart
     - 🔼 De'Zhaun Stribling (SF) — rose ~28 spots, just outside published WR48 → good late-round dart
     - 🔻 Jordyn Tyson (NO) — hamstring, fell to ~WR60, mid-October return target → not a Week-1 piece, downgrade hard
-    - ⚠️⚠️ Puka Nacua (LAR) — still out of practice, Rams deliberately taking it slow with the groin; draft is 6 days away → verify his status morning of 9/3 before an early pick
+    - ⚠️⚠️⚠️ Puka Nacua (LAR) — nearing TWO WEEKS off practice (psoas soreness near the groin), McVay's "back next week" timeline already extended once → real risk for a top-5 pick; have a same-tier contingency (Jefferson/JSN/ARSB) ready on draft day
     - ⚠️ Justin Jefferson (MIN) — MIN QB battle → elite regardless, just watch
     - ⚠️ Drake London (ATL) — Tua back flare-up → monitor
     - 🟢 Nico Collins (HOU) — Jayden Higgins out for year → WR1 target share up

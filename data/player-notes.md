@@ -13,6 +13,24 @@
 > (`data/draft-board.md`) is the **PPR** source of truth.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-08-29
+- **Puka Nacua (WR, LAR)** — ⚠️⚠️⚠️ **escalating, watch closely.** Now ticking
+  toward **two full weeks** off the practice field (soreness specified as his
+  **psoas**, near the groin). Did side-field work with a trainer (minor positive),
+  but HC McVay's earlier "back next week" timeline has **already been extended
+  once.** Team is being cautious with Week 1 vs. SF in mind. *Action: this is now
+  a genuine drafting risk for a likely top-5 pick — have a same-tier contingency
+  ready (Jefferson/JSN/ARSB) in case he's still not full-go by 9/3. Don't ignore
+  this one.*
+- **Tyrone Tracy Jr. (RB, NYG)** — left Friday's preseason game with an apparent
+  **neck injury.** *Action: this only reinforces Cam Skattebo's path to a bigger
+  workload share in the Giants backfield — good news for Skattebo's redraft value.*
+- **Alec Pierce (WR, IND)** — ✅ **officially activated off PUP** (Aug 27), on
+  track for Week 1. *Confirms Wednesday's read — a real deep-WR add now.*
+- **Rhamondre Stevenson (RB, NE)** — held out of the preseason finale (likely just
+  veteran rest, no confirmed injury). *No action — normal end-of-preseason
+  management, don't overreact.*
+
 ### Update 2026-08-28
 - **Puka Nacua (WR, LAR)** — ⚠️ elevate this one: still **out of practice** as of
   Tuesday; the Rams are **deliberately taking it slow** with the groin. Reports say
