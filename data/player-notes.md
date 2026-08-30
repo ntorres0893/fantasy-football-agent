@@ -13,6 +13,20 @@
 > (`data/draft-board.md`) is the **PPR** source of truth.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-08-30 (roster cutdown day — deadline 6pm ET tonight)
+- **Puka Nacua (WR, LAR)** — status **unchanged from yesterday**: confirmed
+  diagnosis is **psoas soreness**; still a non-participant (was out again
+  Thursday's joint practice vs. Saints). McVay again says "back next week." *No
+  new escalation, but no resolution either — the flag from yesterday stands as-is.
+  Keep your contingency plan ready.*
+- **⚠️ Today is the 53-man roster cutdown deadline (6pm ET).** Every team trims to
+  53 players today — this is the single biggest news day left before your draft.
+  Cuts, claims, and practice-squad moves will land through tonight and tomorrow.
+  *Action: tomorrow's brief will cover the real fallout — check it closely, since
+  it's just 3 days before you draft.*
+- Reinforced, no change: Trey Benson (ARI) already cut; Charbonnet (SEA) on PUP;
+  Alec Pierce (IND) off PUP; Monangai (CHI) hyperextended knee → Swift bigger role.
+
 ### Update 2026-08-29
 - **Puka Nacua (WR, LAR)** — ⚠️⚠️⚠️ **escalating, watch closely.** Now ticking
   toward **two full weeks** off the practice field (soreness specified as his

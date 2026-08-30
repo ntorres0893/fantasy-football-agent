@@ -3,9 +3,10 @@
 > Every position, ranked **high → low** by where to draft. Tier bullets list plain
 > names for scanning; the **Flags** sub-bullets below each position call out anyone
 > with an injury/role concern or a notable move — one player per line, with why.
-> Team abbreviation follows every player name. *Last updated: 2026-08-29.*
-> ⚠️ **NFL roster cuts to 53 players: Sunday Aug 30, 6pm ET** — 3 days before your
-> draft. Re-check any unresolved position battle on draft morning.
+> Team abbreviation follows every player name. *Last updated: 2026-08-30.*
+> ⚠️ **TODAY: NFL roster cuts to 53 players, deadline 6pm ET** — 3 days before your
+> draft. Full fallout covered in tomorrow's brief; re-check any unresolved
+> position battle on draft morning.
 > Full context in `data/player-notes.md`.
 
 ---
