@@ -13,6 +13,30 @@
 > (`data/draft-board.md`) is the **PPR** source of truth.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-08-31 (post-cutdown fallout)
+- **Puka Nacua (WR, LAR)** — ✅ **RESOLVED, positive.** Returned to Rams practice
+  Sunday (8/31) for the first time in weeks and is on track for the Week 1 opener
+  vs. the 49ers in Australia. *Action: the escalating flag from 8/28-8/30 is now
+  cleared — safe to draft him in his normal range, contingency plan no longer
+  needed.*
+- **Josh Jacobs (RB, GB)** — ❌ placed on the **Commissioner's Exempt List**,
+  cannot practice or play to start the season. Stems from a May 2026 arrest
+  (originally multiple charges including strangulation/suffocation and domestic
+  battery); the Brown County DA reduced it to two misdemeanors (battery, criminal
+  damage to property), but the NFL is holding him out regardless. No return
+  timeline. *Action: move him off the RB2 tier entirely — fade/avoid until he's
+  reinstated. Green Bay already covered the hole (see below).*
+- **Kaleb Johnson (RB, GB)** — 🔼 acquired via trade from Pittsburgh (GB sent a
+  2028 6th-round pick) *before* the Jacobs news broke, now positioned as
+  Green Bay's lead back while Jacobs is out. Still learning the playbook and may
+  split early with Lloyd. *Action: deep-league dart/late-round stash only for
+  now — don't reach, monitor practice reps this week.*
+- **Roschon Johnson (RB, CHI)** — 🟢 made Chicago's 53-man roster (had been
+  speculated as a cut candidate) and steps into **RB2 behind D'Andre Swift**,
+  since Kyle Monangai will miss the start of the season. Has real goal-line/
+  TD-vulture upside. *Action: viable late-round RB4/handcuff, especially in
+  TD-heavy formats.*
+
 ### Update 2026-08-30 (roster cutdown day — deadline 6pm ET tonight)
 - **Puka Nacua (WR, LAR)** — status **unchanged from yesterday**: confirmed
   diagnosis is **psoas soreness**; still a non-participant (was out again

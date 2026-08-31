@@ -3,10 +3,7 @@
 > Every position, ranked **high → low** by where to draft. Tier bullets list plain
 > names for scanning; the **Flags** sub-bullets below each position call out anyone
 > with an injury/role concern or a notable move — one player per line, with why.
-> Team abbreviation follows every player name. *Last updated: 2026-08-30.*
-> ⚠️ **TODAY: NFL roster cuts to 53 players, deadline 6pm ET** — 3 days before your
-> draft. Full fallout covered in tomorrow's brief; re-check any unresolved
-> position battle on draft morning.
+> Team abbreviation follows every player name. *Last updated: 2026-08-31.*
 > Full context in `data/player-notes.md`.
 
 ---
@@ -23,12 +20,14 @@
 - **Round 1 (elite):** Jahmyr Gibbs (DET), Bijan Robinson (ATL), De'Von Achane (MIA), Jonathan Taylor (IND), Saquon Barkley (PHI)
 - **Rounds 2–4 (RB1/RB2):** Ashton Jeanty (LV), James Cook (BUF), Kyren Williams (LAR), Derrick Henry (BAL), Chase Brown (CIN), Bucky Irving (TB)
 - **Rounds 5–8 (RB2 / flex):** Cam Skattebo (NYG), D'Andre Swift (CHI), Breece Hall (NYJ), Kenneth Walker III (SEA), Jonathon Brooks (CAR)
-- **Late / sleepers (R9+):** J.K. Dobbins (DEN), Bhayshul Tuten (JAX), Rachaad White (TB), Tyler Allgeier (ARI), George Holani (SEA), Jonah Coleman (DEN, deep handcuff)
-- **Avoid / fade:** Jeremiyah Love (ARI), RJ Harvey (DEN), Chuba Hubbard (CAR), Zach Charbonnet (SEA)
+- **Late / sleepers (R9+):** J.K. Dobbins (DEN), Bhayshul Tuten (JAX), Rachaad White (TB), Tyler Allgeier (ARI), George Holani (SEA), Roschon Johnson (CHI), Jonah Coleman (DEN, deep handcuff), Kaleb Johnson (GB, deep dart)
+- **Avoid / fade:** Josh Jacobs (GB, on Commissioner's Exempt List — out indefinitely), Jeremiyah Love (ARI), RJ Harvey (DEN), Chuba Hubbard (CAR), Zach Charbonnet (SEA)
 - **Flags:**
     - ⚠️ Ashton Jeanty (LV) — sprain graded "more low than high" ankle (good sign), still no firm timeline → check status on draft morning, lean a bit more confident
     - ⚠️ Christian McCaffrey (SF) — "tightness," missed practice again → value ~picks 10–13, NOT top-8
-    - ⚠️ Josh Jacobs (GB) — groin, out ≥1 week → target only if he slides
+    - ❌ Josh Jacobs (GB) — placed on the Commissioner's Exempt List (May arrest, reduced to misdemeanors; NFL holding him out regardless) → cannot practice or play, no timeline; do not draft
+    - 🔼 Kaleb Johnson (GB) — traded from PIT (GB sent a 2028 6th) just before the Jacobs news, now GB's lead-back option → still learning the playbook, may split with Lloyd; deep stash only, don't reach
+    - 🟢 Roschon Johnson (CHI) — made the 53-man roster, steps into RB2 behind Swift with Monangai out to start the year → real goal-line/TD-vulture upside, viable late-round handcuff
     - ✅ Breece Hall (NYJ) — played nearly every snap on the opening preseason drive, real passing-down role confirmed → could outperform his ~RB15 price
     - 🔻 Zach Charbonnet (SEA) — now officially on Active/PUP → confirms Holani (SEA) as the real Week-1 starter
     - 🔼🔼🔼 Jonathon Brooks (CAR) — has PASSED Hubbard; starting nod + first-team reps in CAR's opener → no longer speculative, draft ahead of Hubbard
@@ -54,7 +53,7 @@
     - 🔼 Kayshon Boutte (HOU) — traded from NE, lands as HOU's WR2 behind Nico Collins (Higgins out, Dell hurt) → late-round dart
     - 🔼 De'Zhaun Stribling (SF) — rose ~28 spots, just outside published WR48 → good late-round dart
     - 🔻 Jordyn Tyson (NO) — hamstring, fell to ~WR60, mid-October return target → not a Week-1 piece, downgrade hard
-    - ⚠️⚠️⚠️ Puka Nacua (LAR) — nearing TWO WEEKS off practice (psoas soreness near the groin), McVay's "back next week" timeline already extended once → real risk for a top-5 pick; have a same-tier contingency (Jefferson/JSN/ARSB) ready on draft day
+    - ✅ Puka Nacua (LAR) — returned to practice Sunday (8/31) for the first time in weeks, on track for Week 1 vs. SF in Australia → resolved, safe to draft in his normal range, contingency no longer needed
     - ⚠️ Justin Jefferson (MIN) — MIN QB battle → elite regardless, just watch
     - ⚠️ Drake London (ATL) — Tua back flare-up → monitor
     - 🟢 Nico Collins (HOU) — Jayden Higgins out for year → WR1 target share up
@@ -85,7 +84,8 @@
 | Team | Battle | Lean / watch |
 |------|--------|--------------|
 | ARI RB | Tyler Allgeier / Jeremiyah Love / James Conner | committee; Love hurt (high ankle) |
-| CHI RB | D'Andre Swift lead (Monangai out) | Swift |
+| CHI RB | D'Andre Swift lead (Monangai out, Roschon Johnson RB2) | Swift; stash Roschon |
+| GB RB | Kaleb Johnson lead (Jacobs on Exempt List) | Johnson; don't reach yet |
 | NE RB | Rhamondre Stevenson / TreVeyon Henderson | Henderson upside |
 | MIN QB | Kyler Murray vs J.J. McCarthy | Jefferson elite either way |
 | WAS WR | Terry McLaurin + Stefon Diggs | McLaurin alpha; Diggs value |
