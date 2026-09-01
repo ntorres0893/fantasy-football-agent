@@ -13,6 +13,21 @@
 > (`data/draft-board.md`) is the **PPR** source of truth.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-09-01 (waivers/practice squads settled, quiet day)
+- **Ashton Jeanty (RB, LV)** — 🟢 HC Klint Kubiak said Friday the team is
+  **"counting on" Jeanty being ready for Week 1**, more concrete positive language
+  than the prior "no firm timeline." Ankle sprain still graded low (not high).
+  *Action: draft with a bit more confidence — still confirm on draft morning (9/3),
+  but this is a good-news update.*
+- **Waiver claims (Aug 31, 1pm ET deadline) and practice-squad formation** wrapped
+  up leaguewide — 29 players changed clubs on waivers. No fantasy-rosterable names
+  moved for our purposes; mostly depth-chart churn. *Action: none needed.*
+- **Dylan Laube (RB, NE)** — 🔼 minor role bump in the Stevenson/Henderson backfield
+  battle per depth-chart trackers. *Action: still a deep watch-only name, not
+  droppable-worthy yet — Henderson remains the upside lean.*
+- No new injury escalations today; McCaffrey, Egbuka, Jeremiyah Love, Charbonnet,
+  Nacua, Jacobs, Kaleb Johnson, Roschon Johnson all unchanged from yesterday.
+
 ### Update 2026-08-31 (post-cutdown fallout)
 - **Puka Nacua (WR, LAR)** — ✅ **RESOLVED, positive.** Returned to Rams practice
   Sunday (8/31) for the first time in weeks and is on track for the Week 1 opener

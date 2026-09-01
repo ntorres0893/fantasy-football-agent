@@ -3,7 +3,7 @@
 > Every position, ranked **high → low** by where to draft. Tier bullets list plain
 > names for scanning; the **Flags** sub-bullets below each position call out anyone
 > with an injury/role concern or a notable move — one player per line, with why.
-> Team abbreviation follows every player name. *Last updated: 2026-08-31.*
+> Team abbreviation follows every player name. *Last updated: 2026-09-01.*
 > Full context in `data/player-notes.md`.
 
 ---
@@ -23,7 +23,7 @@
 - **Late / sleepers (R9+):** J.K. Dobbins (DEN), Bhayshul Tuten (JAX), Rachaad White (TB), Tyler Allgeier (ARI), George Holani (SEA), Roschon Johnson (CHI), Jonah Coleman (DEN, deep handcuff), Kaleb Johnson (GB, deep dart)
 - **Avoid / fade:** Josh Jacobs (GB, on Commissioner's Exempt List — out indefinitely), Jeremiyah Love (ARI), RJ Harvey (DEN), Chuba Hubbard (CAR), Zach Charbonnet (SEA)
 - **Flags:**
-    - ⚠️ Ashton Jeanty (LV) — sprain graded "more low than high" ankle (good sign), still no firm timeline → check status on draft morning, lean a bit more confident
+    - 🟢 Ashton Jeanty (LV) — HC Kubiak says team is "counting on" him for Week 1 (ankle still low-grade) → more confident than before, still confirm on draft morning
     - ⚠️ Christian McCaffrey (SF) — "tightness," missed practice again → value ~picks 10–13, NOT top-8
     - ❌ Josh Jacobs (GB) — placed on the Commissioner's Exempt List (May arrest, reduced to misdemeanors; NFL holding him out regardless) → cannot practice or play, no timeline; do not draft
     - 🔼 Kaleb Johnson (GB) — traded from PIT (GB sent a 2028 6th) just before the Jacobs news, now GB's lead-back option → still learning the playbook, may split with Lloyd; deep stash only, don't reach
