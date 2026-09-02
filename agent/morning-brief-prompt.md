@@ -104,6 +104,9 @@ Bold the day's movers so "what changed" connects to the board. Full detail lives
 ## 🎯 Action items for you
 - <Concrete: draft slot, draft time, "bump X a tier," run a mock; in-season:
    start/sit, waiver adds.>
+- **Draft week, once the slot is confirmed:** always restate it (e.g. "You're
+  slot 8 — picks #8, #13, #28") and point to `strategy/slot-cheat-sheet.md` for
+  the full plan, so it's never buried after the day it was confirmed.
 
 ## 🧠 Learn-with-me
 - <One short teaching note — the concept behind today's news.>
