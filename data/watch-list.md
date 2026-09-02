@@ -3,7 +3,7 @@
 > Every position, ranked **high → low** by where to draft. Tier bullets list plain
 > names for scanning; the **Flags** sub-bullets below each position call out anyone
 > with an injury/role concern or a notable move — one player per line, with why.
-> Team abbreviation follows every player name. *Last updated: 2026-09-01.*
+> Team abbreviation follows every player name. *Last updated: 2026-09-02 — draft eve.*
 > Full context in `data/player-notes.md`.
 
 ---
@@ -23,7 +23,7 @@
 - **Late / sleepers (R9+):** J.K. Dobbins (DEN), Bhayshul Tuten (JAX), Rachaad White (TB), Tyler Allgeier (ARI), George Holani (SEA), Roschon Johnson (CHI), Jonah Coleman (DEN, deep handcuff), Kaleb Johnson (GB, deep dart)
 - **Avoid / fade:** Josh Jacobs (GB, on Commissioner's Exempt List — out indefinitely), Jeremiyah Love (ARI), RJ Harvey (DEN), Chuba Hubbard (CAR), Zach Charbonnet (SEA)
 - **Flags:**
-    - 🟢 Ashton Jeanty (LV) — HC Kubiak says team is "counting on" him for Week 1 (ankle still low-grade) → more confident than before, still confirm on draft morning
+    - 💎 Ashton Jeanty (LV) — HC Kubiak "counting on" him for Wk1, AND ADP has fallen to ~Pick 18 → real value now, confirm on draft morning but lean confident
     - ⚠️ Christian McCaffrey (SF) — "tightness," missed practice again → value ~picks 10–13, NOT top-8
     - ❌ Josh Jacobs (GB) — placed on the Commissioner's Exempt List (May arrest, reduced to misdemeanors; NFL holding him out regardless) → cannot practice or play, no timeline; do not draft
     - 🔼 Kaleb Johnson (GB) — traded from PIT (GB sent a 2028 6th) just before the Jacobs news, now GB's lead-back option → still learning the playbook, may split with Lloyd; deep stash only, don't reach
@@ -42,11 +42,12 @@
 ## 🙌 WR — deep pool; be patient, but elites are worth it
 - **Rounds 1–2 (elite):** Ja'Marr Chase (CIN), Puka Nacua (LAR), Justin Jefferson (MIN), Jaxon Smith-Njigba (SEA), Amon-Ra St. Brown (DET), CeeDee Lamb (DAL)
 - **Rounds 2–4 (WR1/WR2):** Drake London (ATL), Malik Nabers (NYG), Nico Collins (HOU), Rashee Rice (KC), A.J. Brown (NE)
-- **Rounds 4–6 (WR2/WR3):** Ladd McConkey (LAC), Chris Olave (NO), George Pickens (DAL), Garrett Wilson (NYJ), Tee Higgins (CIN), Davante Adams (LAR), DK Metcalf (PIT), Marvin Harrison Jr. (ARI), DeVonta Smith (PHI)
+- **Rounds 4–6 (WR2/WR3):** Ladd McConkey (LAC), Chris Olave (NO), George Pickens (DAL), Garrett Wilson (NYJ), Tee Higgins (CIN), Davante Adams (LAR), DK Metcalf (PIT), Marvin Harrison Jr. (ARI), DeVonta Smith (PHI), Mike Evans (SF)
 - **Rounds 7+ (flex / upside):** Jaylen Waddle (DEN), Terry McLaurin (WAS), Zay Flowers (BAL), Rome Odunze (CHI), Deebo Samuel (SF), Stefon Diggs (WAS), Emeka Egbuka (TB), De'Zhaun Stribling (SF), Matthew Golden (GB), Alec Pierce (IND), Kayshon Boutte (HOU)
 - **Avoid / fade:** Courtland Sutton (DEN), Luther Burden III (CHI) (cheap dart only), Jordyn Tyson (NO) (hamstring — mid-Oct return)
 - **Flags:**
-    - ✅ Malik Nabers (NYG) — no non-contact jersey, full 11-on-11 drills; draft as elite, discount basically gone
+    - ⚠️ Malik Nabers (NYG) — HC says "reasonable to assume" he plays Wk1, but Nabers himself won't commit yet (still checking boxes with trainers) → draft as a talented WR1/2, but don't assume the discount is fully gone
+    - ⚠️ Mike Evans (SF) — multiple minor camp ailments, but plan is to play Week 1 → fine value late if he's still on the board, no need to reach
     - ⚠️ Emeka Egbuka (TB) — day-to-day/week-to-week, Bucs HC unsure on Wk1 → monitor before drafting as a lock WR3
     - 🔼🔼 Matthew Golden (GB) — now projected to LEAD Green Bay in targets → nice value ~WR40
     - ✅ Alec Pierce (IND) — officially activated off PUP, on track for Week 1 → confirmed viable flier
@@ -86,7 +87,7 @@
 | ARI RB | Tyler Allgeier / Jeremiyah Love / James Conner | committee; Love hurt (high ankle) |
 | CHI RB | D'Andre Swift lead (Monangai out, Roschon Johnson RB2) | Swift; stash Roschon |
 | GB RB | Kaleb Johnson lead (Jacobs on Exempt List) | Johnson; don't reach yet |
-| NE RB | Rhamondre Stevenson / TreVeyon Henderson | Henderson upside |
+| NE RB | Rhamondre Stevenson / TreVeyon Henderson | Henderson upside; still not full-go (ankle) |
 | MIN QB | Kyler Murray vs J.J. McCarthy | Jefferson elite either way |
 | WAS WR | Terry McLaurin + Stefon Diggs | McLaurin alpha; Diggs value |
 | DEN | Jaylen Waddle WR1 / J.K. Dobbins RB1 | Waddle & Dobbins up; Sutton/Harvey down |

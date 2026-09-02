@@ -13,6 +13,26 @@
 > (`data/draft-board.md`) is the **PPR** source of truth.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-09-02 (draft eve — final prep day)
+- **Malik Nabers (WR, NYG)** — ⚠️ **walk it back slightly.** HC John Harbaugh says
+  "it's reasonable to assume" Nabers plays Week 1 and could shed the no-contact
+  jersey that week — but Nabers himself won't commit yet ("the most important
+  thing is my health"), still has boxes to check with trainers/doctors. This is
+  more cautious than the earlier "no non-contact jersey, discount basically gone"
+  note. *Action: still draft him as a talented WR1/2, but don't assume a zero
+  discount — a small value gap is fair given he's still not 100% cleared.*
+- **TreVeyon Henderson (RB, NE)** — still rehabbing a right ankle, not yet cleared
+  for full practice participation. *Action: keeps the Stevenson/Henderson NE
+  backfield battle unresolved — Henderson still the fantasy relevant profile if he
+  wins the role, but not a lock for Week 1 usage.*
+- **Ashton Jeanty (RB, LV)** — 💎 ADP has fallen to around **Pick 18** over the
+  past week, a real value dip given his talent/opportunity. *Action: he's likely
+  falling into value range on draft day — a good sign for anyone drafting outside
+  the top half of Round 1.*
+- **Mike Evans (WR, SF)** — dealing with multiple minor ailments this camp, but
+  the plan is for him to play Week 1. *Action: worth a late add-on flag as a
+  vet flex/WR3 option if he's still on the board late; no need to reach.*
+
 ### Update 2026-09-01 (waivers/practice squads settled, quiet day)
 - **Ashton Jeanty (RB, LV)** — 🟢 HC Klint Kubiak said Friday the team is
   **"counting on" Jeanty being ready for Week 1**, more concrete positive language
