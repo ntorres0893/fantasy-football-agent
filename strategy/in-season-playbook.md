@@ -7,18 +7,30 @@ The goal every week: **set the lineup with the best odds to win your matchup.**
 
 ## Weekly cadence
 
+> ⚠️ **There is no single weekly lock.** Each platform locks a player at *that
+> player's own game's kickoff*, not one Sunday deadline — a lineup slot with a
+> Thursday Night Football (or Friday/international) player locks days before
+> the rest of your roster. **Every week, before doing anything else, check the
+> NFL schedule against your current roster and flag anyone playing early** so
+> that slot gets decided on its own timeline, not lumped into "Sunday."
+
 | Day | What the agent does |
 |-----|--------------------|
 | **Tue AM** | Waiver-wire report: who to add/drop, FAAB/priority guidance based on injuries, snap counts, and breakout usage from the week prior. |
-| **Wed–Fri AM** | Morning briefs continue: injury designations (Q/D/O), practice reports, weather, Vegas lines moving. |
-| **Sat AM** | Early lineup pass for any Sat/international games; flag decisions to make. |
-| **Sun AM (lock day)** | **Final lineup call.** Optimal starters vs. your specific opponent, with the reasoning and the close calls. Loud alerts for any late inactives before the 1 PM lock. |
-| **Mon** | Monday-night context; set expectations vs. opponent's remaining players. |
+| **Wed AM** | **Cross-check the week's NFL schedule against your roster.** Identify anyone on a Thursday/Friday/international early game in EITHER league and call it out explicitly — that decision needs to be made by Wednesday night/Thursday morning, before the injury-report cycle for the Sunday slate even finishes. Don't let a TNF starter get decided as an afterthought during the "final lineup call." |
+| **Wed–Fri AM** | Morning briefs continue: injury designations (Q/D/O), practice reports, weather, Vegas lines moving — for the Sunday/Monday slate. |
+| **Thu (before kickoff)** | **Early lock-in.** Confirm/finalize any lineup slot filled by a Thursday-night player — this is a real, separate deadline, not a preview. |
+| **Sat AM** | Early lineup pass for any Saturday/international games (some weeks have them); flag decisions to make. |
+| **Sun AM (lock day for the Sunday/Monday slate)** | **Final lineup call** for everyone NOT already locked Thursday. Optimal starters vs. your specific opponent, with the reasoning and the close calls. Loud alerts for any late inactives before each remaining player's individual kickoff. |
+| **Mon (before kickoff)** | Confirm any Monday Night Football starters; Monday-night context for the matchup. |
 
 ## The weekly lineup decision
 
 The agent sets your lineup using, in order:
 
+0. **Kickoff timing** — is this player's game Thu/Fri/Sat (locks early) or
+   Sun/Mon (locks with the main slate)? Decide and communicate early-locking
+   slots on their own schedule, well before the "Sunday" pass.
 1. **Health & status** — never start an OUT player; sweat every Questionable one.
 2. **Matchup** — opponent defense strength vs. your player's position, pace,
    and game script (is the team likely trailing → more passing?).
