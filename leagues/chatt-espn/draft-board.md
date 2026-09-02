@@ -3,8 +3,12 @@
 > **Last updated:** 2026-08-15 · **Scoring: FULL PPR (1 pt/reception)** ✅ confirmed
 > · **Draft: Thursday, Sept 3, 2026** · **Slot: TBD** · Team: **Claude Me Daddy**
 > **⚠️ VERIFY BEFORE DRAFT:** re-check a live **PPR** ADP page (ESPN / FantasyPros
-> PPR) on draft morning. Injury flags current as of 8/15; the daily brief updates
-> this.
+> PPR) on draft morning. Injury flags current as of 8/15 and **this table itself
+> is not updated daily** — `leagues/chatt-espn/watch-list.md` is the actively
+> maintained day-to-day source; always cross-check it before trusting a name
+> here. Two corrections as of 9/2: **Josh Jacobs (GB) is off the board entirely**
+> (Commissioner's Exempt List) and **Kenneth Walker III is now KC, not SEA**
+> (signed in free agency) — both fixed below, but treat this file as secondary.
 
 **PPR logic:** every catch = 1 pt → pass-catching RBs, high-target WRs, and
 target-hog TEs are premium; pure rushers slide slightly. **WR pool is deep** — you
@@ -48,7 +52,7 @@ Take **best available by tier**. 10-team snake: picks 1–10 = R1, 11–20 = R2,
 | 21 | Trey McBride | TE | ARI | Elite PPR TE (last pay-up TE); ARI QB settled |
 | 22 | Kyren Williams | RB | LAR | Volume + goal line + catches |
 | 23 | Derrick Henry | RB | BAL | 🔴 slips slightly (few catches), still elite TDs/yds |
-| 24 | Josh Jacobs | RB | GB | ⚠️ groin (out ≥1 wk) — monitor |
+| 24 | Kenneth Walker III | RB | KC | 🔼🔼 CORRECTED: signed with KC in FA (was mislisted as SEA), unquestioned RB1 in an elite offense; minor foot injury note, verify draft morning. *(Josh Jacobs removed — Commissioner's Exempt List, off the board entirely.)* |
 | 25 | Ladd McConkey | WR | LAC | 🟢 PPR slot value |
 | 26 | Chris Olave | WR | NO | Target hog if healthy |
 | 27 | Josh Allen | QB | BUF | First QB — only "reach" QB |
@@ -79,9 +83,9 @@ Take **best available by tier**. 10-team snake: picks 1–10 = R1, 11–20 = R2,
 **RB** (pass-catching backs premium)
 - T1: Gibbs (DET), Bijan (ATL)
 - T2: McCaffrey (SF)⚠️, Achane (MIA)🟢, J.Taylor (IND)
-- T3: Saquon (PHI), Jeanty (LV)⚠️, Cook (BUF), Henry (BAL)🔴, Jacobs (GB)⚠️, K.Williams (LAR), C.Brown (CIN)🟢
-- T4 (RB2/flex): Cam Skattebo (NYG)🔼🔼(lead back, ~RB18), D'Andre Swift (CHI)🔼(Monangai out), Bucky Irving (TB)🔼(healthy, ~RB51), Breece Hall (NYJ)⚠️(groin, out 2-3 wks — good role, don't overreact), Kenneth Walker III (SEA)⚠️, Chuba Hubbard (CAR)🔻(hamstring — passed by Brooks)
-- Value/committee: Jonathon Brooks (CAR)🔼🔼🔼 (passed Hubbard — starting nod, first-team reps), J.K. Dobbins (DEN)🔻(undisclosed injury — monitor), Jeremiyah Love (ARI)⚠️ (led snaps 16:6 BUT high ankle sprain, may miss opener — discount stash only), George Holani (SEA) (RB1 while Charbonnet's ACL lingers), Bhayshul Tuten (JAX), Rachaad White (TB), Tyler Allgeier (ARI), Kenneth Gainwell (TB)
+- T3: Saquon (PHI), Jeanty (LV)⚠️, Kenneth Walker III (KC)🔼🔼(corrected from SEA — new team, RB1 in FA), Cook (BUF), Henry (BAL)🔴, K.Williams (LAR), C.Brown (CIN)🟢. *(Josh Jacobs removed — Exempt List, do not draft.)*
+- T4 (RB2/flex): Cam Skattebo (NYG)🔼🔼(lead back, ~RB18), D'Andre Swift (CHI)🔼(Monangai out), Bucky Irving (TB)🔼(healthy, ~RB51), Breece Hall (NYJ)⚠️(groin, out 2-3 wks — good role, don't overreact), Chuba Hubbard (CAR)🔻(hamstring — passed by Brooks)
+- Value/committee: Jonathon Brooks (CAR)🔼🔼🔼 (passed Hubbard — starting nod, first-team reps), J.K. Dobbins (DEN)🔻(undisclosed injury — monitor), Jeremiyah Love (ARI)⚠️ (led snaps 16:6 BUT high ankle sprain, may miss opener — discount stash only), George Holani (SEA) vs. Jadarian Price (SEA, rookie R1) — sources conflict on the Week-1 lead, don't commit to either, Bhayshul Tuten (JAX), Rachaad White (TB), Tyler Allgeier (ARI), Kenneth Gainwell (TB)
 
 **WR** (deep in PPR — patient; value target volume)
 - T1: Chase (CIN), Nacua (LAR)⚠️, JSN (SEA), Jefferson (MIN)⚠️, ARSB (DET)🟢, Lamb (DAL)

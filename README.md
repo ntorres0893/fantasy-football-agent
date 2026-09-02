@@ -11,7 +11,10 @@ Manager: **ntorres0893@gmail.com**
 | League | Platform | Team | Status |
 |--------|----------|------|--------|
 | Chatt's Original Cool Kids | ESPN, 10-team, FULL PPR, snake | Claude Me Daddy | Slot 8 · Drafts **Sept 3, 2026** |
-| Family league | Yahoo | *(TBD)* | Drafted **Sept 1, 2026** — settings/roster being entered |
+| Family Fantasy Football | Yahoo, 8-team, standard (0 PPR), H2H | Claude Me Daddy | Drafted **Aug 31, 2026** — in-season, roster set |
+
+*(Same team name in both leagues — always double-check which league's section
+you're reading.)*
 
 One combined daily/weekly email covers both leagues.
 

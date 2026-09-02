@@ -17,9 +17,32 @@
 > Brown) & target-hog/slot WRs (ARSB, Nacua, McConkey, Waddle) are **premium**;
 > pure-rush low-catch backs (Henry) give a little back. The Chatt-ESPN draft board
 > (`leagues/chatt-espn/draft-board.md`) is the **PPR** source of truth for that
-> league. **Family-Yahoo scoring TBD** — see `leagues/family-yahoo/league-settings.md`.
+> league.
+>
+> **🔔 Family-Yahoo SCORING (9/2, likely confirmed): STANDARD — 0 pts per
+> reception** (no "Reception" line in the provided settings — flag if wrong).
+> **Opposite emphasis from Chatt-ESPN:** yardage + TDs only, so bell-cow
+> rushers and true WR1s (volume in yards/TDs) matter more; possession/slot
+> receivers matter less. Passing/rushing/receiving TD = 6 (not the usual 4/6
+> split), with big-game yardage bonuses (300/400 pass, 100/150 rush/rec) —
+> see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-09-02 PM (board-accuracy correction, found while researching the Yahoo league)
+- **Kenneth Walker III (RB) — CORRECTED to Chiefs (KC), not Seattle.** Signed a
+  3-yr/$45M free agency deal with KC after winning Super Bowl LX MVP with
+  Seattle; Isiah Pacheco left for Detroit, so Walker is KC's unquestioned RB1.
+  This was wrong on the Chatt-ESPN board (`leagues/chatt-espn/watch-list.md`,
+  `draft-board.md`) the entire draft-prep window — now fixed and bumped up to
+  the Rounds 2-4 (RB1/RB2) tier. Minor foot injury noted in practice reports,
+  not considered a Week 1 threat currently — verify draft morning.
+- **Seattle RB room, corrected:** with Walker gone, Seattle drafted **Jadarian
+  Price** in Round 1 (pick 32) as his replacement. Zach Charbonnet remains on
+  Active/PUP (ACL) — out at least the first 4 games, unchanged. Sources
+  conflict on whether **George Holani or Jadarian Price** is the real Week-1
+  lead back; don't commit hard to either as a mid-round target, but Price is
+  worth a very late-round rookie dart given his draft capital.
+
 ### Update 2026-09-02 (draft eve — final prep day)
 - **Malik Nabers (WR, NYG)** — ⚠️ **walk it back slightly.** HC John Harbaugh says
   "it's reasonable to assume" Nabers plays Week 1 and could shed the no-contact

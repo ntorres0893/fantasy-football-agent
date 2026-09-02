@@ -6,11 +6,11 @@
   confirm and the schedule will be adjusted). **One combined email covers both
   leagues below** — see `agent/morning-brief-prompt.md`.
 
-## Leagues (plays in two)
+## Leagues (plays in two — same team name in both, watch for mix-ups)
 | League | Platform | Team | Path | Status |
 |--------|----------|------|------|--------|
-| Chatt's Original Cool Kids | ESPN | Claude Me Daddy | `leagues/chatt-espn/` | Slot 8, drafts Sept 3, 2026 |
-| Family league | Yahoo | *(TBD)* | `leagues/family-yahoo/` | Drafted Sept 1, 2026 — settings/roster still being entered |
+| Chatt's Original Cool Kids | ESPN, 10-team, FULL PPR | Claude Me Daddy | `leagues/chatt-espn/` | Slot 8, drafts Sept 3, 2026 |
+| Family Fantasy Football | Yahoo, 8-team, standard (0 PPR) | Claude Me Daddy | `leagues/family-yahoo/` | Drafted Aug 31, 2026 — in-season, roster set |
 
 ## Context
 - First fantasy league in **~a decade**. Rebuilding football knowledge from close

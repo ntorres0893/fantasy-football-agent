@@ -18,18 +18,20 @@
 
 ## 🏃 RB — premium in PPR; secure your core early
 - **Round 1 (elite):** Jahmyr Gibbs (DET), Bijan Robinson (ATL), De'Von Achane (MIA), Jonathan Taylor (IND), Saquon Barkley (PHI)
-- **Rounds 2–4 (RB1/RB2):** Ashton Jeanty (LV), James Cook (BUF), Kyren Williams (LAR), Derrick Henry (BAL), Chase Brown (CIN), Bucky Irving (TB)
-- **Rounds 5–8 (RB2 / flex):** Cam Skattebo (NYG), D'Andre Swift (CHI), Breece Hall (NYJ), Kenneth Walker III (SEA), Jonathon Brooks (CAR)
-- **Late / sleepers (R9+):** J.K. Dobbins (DEN), Bhayshul Tuten (JAX), Rachaad White (TB), Tyler Allgeier (ARI), George Holani (SEA), Roschon Johnson (CHI), Jonah Coleman (DEN, deep handcuff), Kaleb Johnson (GB, deep dart)
+- **Rounds 2–4 (RB1/RB2):** Ashton Jeanty (LV), Kenneth Walker III (KC), James Cook (BUF), Kyren Williams (LAR), Derrick Henry (BAL), Chase Brown (CIN), Bucky Irving (TB)
+- **Rounds 5–8 (RB2 / flex):** Cam Skattebo (NYG), D'Andre Swift (CHI), Breece Hall (NYJ), Jonathon Brooks (CAR)
+- **Late / sleepers (R9+):** J.K. Dobbins (DEN), Bhayshul Tuten (JAX), Rachaad White (TB), Tyler Allgeier (ARI), George Holani (SEA), Jadarian Price (SEA, rookie), Roschon Johnson (CHI), Jonah Coleman (DEN, deep handcuff), Kaleb Johnson (GB, deep dart)
 - **Avoid / fade:** Josh Jacobs (GB, on Commissioner's Exempt List — out indefinitely), Jeremiyah Love (ARI), RJ Harvey (DEN), Chuba Hubbard (CAR), Zach Charbonnet (SEA)
 - **Flags:**
+    - 🚨 **CORRECTION:** Kenneth Walker III is now with the **Chiefs (KC)**, not Seattle — signed a 3-yr/$45M deal in free agency after winning Super Bowl LX MVP with Seattle, and is KC's unquestioned RB1 (Pacheco left for Detroit). This was wrong on our board the whole draft-prep window — **bump him up**, he's a workhorse back in an elite offense. Minor foot injury noted in practice reports, not considered a Week 1 threat currently — verify draft morning.
     - 💎 Ashton Jeanty (LV) — HC Kubiak "counting on" him for Wk1, AND ADP has fallen to ~Pick 18 → real value now, confirm on draft morning but lean confident
     - ⚠️ Christian McCaffrey (SF) — "tightness," missed practice again → value ~picks 10–13, NOT top-8
     - ❌ Josh Jacobs (GB) — placed on the Commissioner's Exempt List (May arrest, reduced to misdemeanors; NFL holding him out regardless) → cannot practice or play, no timeline; do not draft
     - 🔼 Kaleb Johnson (GB) — traded from PIT (GB sent a 2028 6th) just before the Jacobs news, now GB's lead-back option → still learning the playbook, may split with Lloyd; deep stash only, don't reach
     - 🟢 Roschon Johnson (CHI) — made the 53-man roster, steps into RB2 behind Swift with Monangai out to start the year → real goal-line/TD-vulture upside, viable late-round handcuff
     - ✅ Breece Hall (NYJ) — played nearly every snap on the opening preseason drive, real passing-down role confirmed → could outperform his ~RB15 price
-    - 🔻 Zach Charbonnet (SEA) — now officially on Active/PUP → confirms Holani (SEA) as the real Week-1 starter
+    - 🔻 Zach Charbonnet (SEA) — on Active/PUP (ACL), out at least the first 4 games → not draftable yet
+    - ⚠️ George Holani (SEA) vs. Jadarian Price (SEA, rookie 1st-rounder) — sources conflict on the Week-1 lead: some list Holani as the starter with Price as primary backup, others say Price is being built up as the lead with Holani in a 3rd-down role → don't commit hard to either as your RB2 target, monitor final depth chart on draft morning; Price is a rookie flier worth a very late-round dart given his draft capital (Round 1, pick 32)
     - 🔼🔼🔼 Jonathon Brooks (CAR) — has PASSED Hubbard; starting nod + first-team reps in CAR's opener → no longer speculative, draft ahead of Hubbard
     - 🔻 J.K. Dobbins (DEN) — sidelined with an undisclosed injury → downgrade to monitor until diagnosis
     - ⚠️ Jeremiyah Love (ARI) — high ankle sprain, "steady progress," targeting the Sept 13 opener vs LAC → still a discount stash, but trending the right way
