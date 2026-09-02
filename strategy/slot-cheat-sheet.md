@@ -74,11 +74,19 @@ the WR pool; wait on QB (R6–10) and D/K (last 2 rounds).
   best available; in PPR, **Achane** here is great value if you want RB.
 - At #14/#27: **Nico Collins (WR, HOU)** + first QB (**Josh Allen, BUF**) or RB2.
 
-### Slot 8 — #8, then #13 & #28
-- **1.08: CeeDee Lamb (DAL) or Achane (MIA)** (best available; lean the
-  pass-catching RB if WRs are your strength later).
-- At #13/#28: **Malik Nabers (WR, NYG, healthy)** + **Garrett Wilson (WR, NYJ)** or
-  an RB.
+### Slot 8 — ✅ CONFIRMED REAL SLOT (Sept 3 draft) — #8, then #13 & #28
+- **1.08: CeeDee Lamb (DAL) or De'Von Achane (MIA)** (best available; lean the
+  pass-catching RB if WRs are your strength later — Achane is the safer PPR pick
+  if both are live).
+- At #13/#28: target a **pass-catching RB2** (Jeanty (LV) — now real value at
+  ADP ~18 — or Chase Brown (CIN)/Kyren Williams (LAR) if they slid) + a
+  **WR1/2** (Nabers (NYG, small discount fair — not 100% cleared) or Nico
+  Collins (HOU)/Rice (KC) if available). Aim RB + WR out of this pair, same as
+  slot 1's plan since #13 is close to the R2 turn.
+- **Do NOT touch Josh Jacobs (GB)** — Commissioner's Exempt List, off the board
+  entirely regardless of price.
+- **9/3-morning re-checks before you're on the clock:** Nacua's practice status
+  (should be a non-issue now), Jeanty's ankle, Nabers' contact-jersey status.
 
 ### Slot 9 — #9, then #12 & #29
 - **1.09: De'Von Achane (MIA) or Christian McCaffrey (SF)** — Achane (cleaner) vs.
