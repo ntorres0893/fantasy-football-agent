@@ -58,4 +58,4 @@
 - **Slot:** tell the agent your pick the moment ESPN sets it → slot-specific plan.
 - **Draft time (ET/your tz):** needed to time a pre-draft prep + the live assistant.
 - **Live draft:** 9/3 — open a session, say *"It's draft day — let's run the
-  playbook"* (`strategy/draft-day-playbook.md`).
+  playbook"* (`leagues/chatt-espn/draft-day-playbook.md`).

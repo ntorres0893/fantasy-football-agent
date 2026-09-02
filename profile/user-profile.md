@@ -2,9 +2,15 @@
 
 ## Contact & delivery
 - **Email:** ntorres0893@gmail.com (briefs now **sent to inbox** via Gmail)
-- **Team name:** Claude Me Daddy · **League:** Chatt's Original Cool Kids
 - **Morning brief delivery:** Email, ~7:00 AM (timezone: **assumed Eastern** —
-  confirm and the schedule will be adjusted)
+  confirm and the schedule will be adjusted). **One combined email covers both
+  leagues below** — see `agent/morning-brief-prompt.md`.
+
+## Leagues (plays in two)
+| League | Platform | Team | Path | Status |
+|--------|----------|------|------|--------|
+| Chatt's Original Cool Kids | ESPN | Claude Me Daddy | `leagues/chatt-espn/` | Slot 8, drafts Sept 3, 2026 |
+| Family league | Yahoo | *(TBD)* | `leagues/family-yahoo/` | Drafted Sept 1, 2026 — settings/roster still being entered |
 
 ## Context
 - First fantasy league in **~a decade**. Rebuilding football knowledge from close
@@ -21,7 +27,7 @@
 | Favorite real teams | TBD | We avoid letting fandom drive picks, but good to know |
 | Players to avoid | None yet | Add names you don't want to roster |
 | Zero-RB / Hero-RB / Robust-RB | **Undecided** | The playbook covers all three; we pick based on your slot + how the board falls |
-| Autodraft fallback ranking | Maintained in `data/draft-board.md` | If you can't make the draft live, this is the queue |
+| Autodraft fallback ranking | Maintained in `leagues/chatt-espn/draft-board.md` | If you can't make the draft live, this is the queue |
 
 ## Learning goals
 - Understand positional scarcity (why RB/TE differ from WR/QB).

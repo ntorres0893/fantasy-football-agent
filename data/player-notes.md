@@ -1,16 +1,23 @@
-# 🗒️ Player Notes — Running Intel
+# 🗒️ Player Notes — Running Intel (shared across leagues)
 
-> Updated by the daily morning brief as news breaks. Newest notes on top of each
-> section. Initial build: 2026-07-19.
-> **⚠️ Verify contested 2026 offseason details (team changes, injuries) against a
-> live source before the draft** — some are still firming up in camp.
+> **🌐 Shared across BOTH leagues** (`leagues/chatt-espn/` and
+> `leagues/family-yahoo/`) — this file tracks NFL-wide injury/role news, which is
+> identical regardless of which fantasy league you're setting a lineup in. Scoring
+> and roster decisions are league-specific — see each league's own
+> `league-settings.md` and roster/board file for how to weight these notes.
+>
+> Updated by the daily brief as news breaks. Newest notes on top of each section.
+> Initial build: 2026-07-19.
+> **⚠️ Verify contested 2026 details (team changes, injuries) against a live
+> source before acting** — some are still firming up.
 
-> **🔔 SCORING CONFIRMED (8/15): FULL PPR — 1 pt per reception** (from ESPN
-> screenshot; supersedes the brief 8/12 "standard" assumption). Weight by yards +
-> TDs **+ receptions.** Pass-catching RBs (Achane, Cook, Kyren, Chase Brown) &
-> target-hog/slot WRs (ARSB, Nacua, McConkey, Waddle) are **premium**; pure-rush
-> low-catch backs (Henry) give a little back. The draft board
-> (`data/draft-board.md`) is the **PPR** source of truth.
+> **🔔 Chatt-ESPN SCORING CONFIRMED (8/15): FULL PPR — 1 pt per reception** (from
+> ESPN screenshot; supersedes the brief 8/12 "standard" assumption). Weight by
+> yards + TDs **+ receptions.** Pass-catching RBs (Achane, Cook, Kyren, Chase
+> Brown) & target-hog/slot WRs (ARSB, Nacua, McConkey, Waddle) are **premium**;
+> pure-rush low-catch backs (Henry) give a little back. The Chatt-ESPN draft board
+> (`leagues/chatt-espn/draft-board.md`) is the **PPR** source of truth for that
+> league. **Family-Yahoo scoring TBD** — see `leagues/family-yahoo/league-settings.md`.
 
 ## 🚑 Injuries / status clouds
 ### Update 2026-09-02 (draft eve — final prep day)

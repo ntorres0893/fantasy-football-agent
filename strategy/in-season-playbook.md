@@ -61,7 +61,11 @@ with great fantasy playoff matchups.
 ---
 
 ### What the agent needs from you in-season
-- Confirm the league is set up as in `league-settings.md`.
-- Each week, tell it (or connect it to) your **opponent** and any **roster
-  moves** you've made so its picture stays accurate. The repo is its memory —
-  we keep `data/` current.
+- Confirm each league is set up in its own `leagues/<league>/league-settings.md`
+  (`leagues/chatt-espn/` and `leagues/family-yahoo/`). This playbook's rules
+  apply to both — the settings file is what tells the agent *how* to score and
+  build the roster for each one.
+- Each week, tell it (or connect it to) your **opponent in each league** and
+  any **roster moves** you've made so its picture stays accurate. The repo is
+  its memory — we keep each league's own folder current, plus the shared
+  `data/player-notes.md`.

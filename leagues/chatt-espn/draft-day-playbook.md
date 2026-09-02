@@ -8,15 +8,15 @@ playbook."* The agent loads your board, your slot, and tracks every pick.
 
 ## Before the draft (do this the morning of)
 
-1. **Confirm league settings** in `profile/league-settings.md` — especially your
+1. **Confirm league settings** in `leagues/chatt-espn/league-settings.md` — especially your
    **draft slot** and roster requirements.
 2. Run a final morning brief for last-minute injury/inactive news.
-3. **Read `strategy/mock-draft-log.md`** — apply the "Standing lessons" from every
+3. **Read `leagues/chatt-espn/mock-draft-log.md`** — apply the "Standing lessons" from every
    prior mock (WR depth discipline, bye-week checks, back-to-back turn strategy,
    staying flexible on QB timing, etc.) to the real draft.
 4. The agent generates a **slot-specific game plan**: your likely targets at each
    of your picks, plus 2–3 fallback names per pick in case they're gone.
-5. Open `data/draft-log.md` (created fresh on draft day) to record picks.
+5. Open `leagues/chatt-espn/draft-log.md` (created fresh on draft day) to record picks.
 
 ---
 
@@ -107,7 +107,7 @@ but it's your pick. You can always override; just say "take X anyway."
 
 ## After the draft
 
-- The agent saves the final roster to `data/draft-log.md` and writes a
+- The agent saves the final roster to `leagues/chatt-espn/draft-log.md` and writes a
   **team review**: strengths, weaknesses, which bye weeks are stacked, and the
   **first week's waiver targets** to shore up holes.
 - We flip into **in-season mode** (`strategy/in-season-playbook.md`).

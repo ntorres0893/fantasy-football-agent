@@ -1,12 +1,12 @@
 # 🎯 Draft-Slot Cheat Sheet — 10-Team FULL PPR
 
-> Rebuilt 2026-08-15 for **PPR** off `data/draft-board.md`. Injuries baked in:
+> Rebuilt 2026-08-15 for **PPR** off `leagues/chatt-espn/draft-board.md`. Injuries baked in:
 > Nacua (LAR, minor groin), McCaffrey (SF, age/DNP), Jacobs (GB, groin), Hubbard
 > (CAR, hamstring → Jonathon Brooks up), Kittle (SF, PUP). **Verify names on draft
 > morning.** Once you know your real slot, I'll tailor this further. Team name:
 > **Claude Me Daddy.**
 >
-> **Before running any mock or the real draft:** read `strategy/mock-draft-log.md`
+> **Before running any mock or the real draft:** read `leagues/chatt-espn/mock-draft-log.md`
 > first — the "Standing lessons" section carries forward what worked and what
 > didn't from every prior mock.
 

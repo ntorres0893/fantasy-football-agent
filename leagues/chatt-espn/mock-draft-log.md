@@ -36,7 +36,7 @@
    recap, no runner-up, no "why" paragraph, no legend — every pick, no
    exceptions, until the manager asks for more or the draft ends. Full
    breakdowns and roster reviews happen in post-draft recap only. (See
-   `strategy/draft-day-playbook.md` § Speed Rule.)
+   `leagues/chatt-espn/draft-day-playbook.md` § Speed Rule.)
 
 ---
 
@@ -69,5 +69,5 @@ R. White (RB, TB, 7), T. Hockenson (TE, MIN, 9)
   live: 10&11 → 30&31 → 50&51..., not 10→20). Confirm turn math with the
   manager once at the start of a mock, then stick to it silently.
 
-**Reference:** `strategy/slot-cheat-sheet.md` (slot 10 plan followed closely for
-picks 1-11), `data/watch-list.md` (positional tiers used throughout).
+**Reference:** `leagues/chatt-espn/slot-cheat-sheet.md` (slot 10 plan followed closely for
+picks 1-11), `leagues/chatt-espn/watch-list.md` (positional tiers used throughout).
