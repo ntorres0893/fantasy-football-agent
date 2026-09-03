@@ -1,10 +1,15 @@
 # 🎯 Draft-Slot Cheat Sheet — 10-Team FULL PPR
 
 > Rebuilt 2026-08-15 for **PPR** off `leagues/chatt-espn/draft-board.md`. Injuries baked in:
-> Nacua (LAR, minor groin), McCaffrey (SF, age/DNP), Jacobs (GB, groin), Hubbard
-> (CAR, hamstring → Jonathon Brooks up), Kittle (SF, PUP). **Verify names on draft
-> morning.** Once you know your real slot, I'll tailor this further. Team name:
-> **Claude Me Daddy.**
+> McCaffrey (SF, age/DNP), Jacobs (GB, **now on Commissioner's Exempt List —
+> do not draft**), Hubbard (CAR, hamstring → Jonathon Brooks up), Kittle (SF, PUP).
+> **Verify names on draft morning.** Team name: **Claude Me Daddy.** Slot: **8.**
+>
+> 🚨 **9/3 update: Puka Nacua (LAR) has a NEW real risk — a suspension is
+> possible before Week 1** (unrelated NFL investigation, separate from the
+> groin, which had resolved). If he's in play at your pick, have a same-tier
+> alternative ready (Jefferson/JSN/ARSB) — see `leagues/chatt-espn/watch-list.md`
+> for full detail.
 >
 > **Before running any mock or the real draft:** read `leagues/chatt-espn/mock-draft-log.md`
 > first — the "Standing lessons" section carries forward what worked and what

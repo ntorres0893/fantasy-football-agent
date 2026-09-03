@@ -28,6 +28,23 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-09-03 (DRAFT DAY — major new risk on Puka Nacua)
+- **Puka Nacua (WR, LAR)** — 🚨 **NEW, significant: real suspension risk,
+  unrelated to the groin issue we'd tracked.** A Los Angeles woman filed a
+  civil lawsuit (March 2026) alleging Nacua "forcibly" bit her shoulder and
+  made an "unprovoked antisemitic statement" at a New Year's Eve outing; civil
+  trial date is set for March 2028, but the **NFL is separately investigating**
+  and a suspension is a real possibility **before Week 1** — ESPN's Adam
+  Schefter has reported it's possible Nacua doesn't play Week 1 vs. SF in
+  Australia. He avoided the Commissioner's Exempt List (unlike Josh Jacobs),
+  so this is a different, less-certain track — likely a 1-2 game suspension if
+  the NFL does act, based on precedent, but nothing is official yet. Nacua
+  reportedly entered a "holistic care facility" this offseason after other
+  offseason controversies. *Action: this reverses yesterday's "resolved, draft
+  with confidence" call. Re-instate the same-tier contingency plan
+  (Jefferson/JSN/ARSB) for tonight's draft — this is now the single biggest
+  risk on the board, bigger than the groin ever was.*
+
 ### Update 2026-09-02 PM (board-accuracy correction, found while researching the Yahoo league)
 - **Kenneth Walker III (RB) — CORRECTED to Chiefs (KC), not Seattle.** Signed a
   3-yr/$45M free agency deal with KC after winning Super Bowl LX MVP with

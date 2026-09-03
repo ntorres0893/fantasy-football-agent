@@ -24,7 +24,7 @@ Take **best available by tier**. 10-team snake: picks 1–10 = R1, 11–20 = R2,
 | 1 | Jahmyr Gibbs | RB | DET | Elite dual-threat RB — PPR 1.01; extension signed |
 | 2 | Bijan Robinson | RB | ATL | Workhorse + receiving |
 | 3 | Ja'Marr Chase | WR | CIN | Elite target hog |
-| 4 | Puka Nacua | WR | LAR | PPR machine; ⚠️ minor groin (few days) — monitor |
+| 4 | Puka Nacua | WR | LAR | PPR machine, BUT 🚨 real suspension risk from an unrelated civil-lawsuit/NFL investigation — possible he misses the Wk1 opener; have a same-tier contingency ready (see watch-list.md) |
 | 5 | Justin Jefferson | WR | MIN | Elite; ⚠️ MIN QB battle |
 | 6 | Jaxon Smith-Njigba | WR | SEA | Ascending target hog |
 | 7 | Amon-Ra St. Brown | WR | DET | 🟢 PPR reception monster |

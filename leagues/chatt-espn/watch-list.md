@@ -40,6 +40,8 @@
     - 🟢 D'Andre Swift (CHI) — Monangai (knee) out → workload more secure
     - 🟢 Jonathon Brooks (CAR) — Hubbard hurt → lead-back path opening (late sleeper)
     - 🟢 Bucky Irving (TB) — healthy post-shoulder → solid RB2
+    - ⚠️ Kyren Williams (LAR) — ESPN's Dan Graziano says the Blake Corum committee could narrow to ~50/50 → slightly less of a guaranteed bell-cow than his ADP assumes, worth a small discount
+    - 🟢 Jahmyr Gibbs (DET) — Isiah Pacheco (DET's new addition) will miss the first 4 games → Gibbs' workload even safer to open the season (already the presumptive 1.01, this just confirms it)
 
 ## 🙌 WR — deep pool; be patient, but elites are worth it
 - **Rounds 1–2 (elite):** Ja'Marr Chase (CIN), Puka Nacua (LAR), Justin Jefferson (MIN), Jaxon Smith-Njigba (SEA), Amon-Ra St. Brown (DET), CeeDee Lamb (DAL)
@@ -56,7 +58,7 @@
     - 🔼 Kayshon Boutte (HOU) — traded from NE, lands as HOU's WR2 behind Nico Collins (Higgins out, Dell hurt) → late-round dart
     - 🔼 De'Zhaun Stribling (SF) — rose ~28 spots, just outside published WR48 → good late-round dart
     - 🔻 Jordyn Tyson (NO) — hamstring, fell to ~WR60, mid-October return target → not a Week-1 piece, downgrade hard
-    - ✅ Puka Nacua (LAR) — returned to practice Sunday (8/31) for the first time in weeks, on track for Week 1 vs. SF in Australia → resolved, safe to draft in his normal range, contingency no longer needed
+    - 🚨🚨🚨 Puka Nacua (LAR) — NEW risk, unrelated to the groin: a civil lawsuit alleges he bit a woman's shoulder and made an antisemitic remark; the groin has resolved but the **NFL is separately investigating and a suspension before Week 1 is a real possibility** (Schefter: could miss the Australia opener vs. SF). He avoided the Exempt List, so it's not a lock he sits — but this REVERSES yesterday's "safe to draft" call → have Jefferson/JSN/ARSB ready as a same-tier contingency tonight, don't draft him assuming a clean Week 1
     - ⚠️ Justin Jefferson (MIN) — MIN QB battle → elite regardless, just watch
     - ⚠️ Drake London (ATL) — Tua back flare-up → monitor
     - 🟢 Nico Collins (HOU) — Jayden Higgins out for year → WR1 target share up
@@ -71,7 +73,7 @@
 - **Late / stream (R11+):** Colston Loveland (CHI), Harold Fannin Jr. (CLE), Dalton Kincaid (BUF), Isaiah Likely (BAL), Hunter Henry (NE)
 - **Flags:**
     - 💎 Tucker Kraft (GB) — top-3 TE upside at a discount if the ACL's fully behind him
-    - ⚠️ George Kittle (SF) — on PUP (Achilles), Week 1 not guaranteed → don't pay up
+    - 🟢 George Kittle (SF) — making the trip to Australia for the Wk1 opener, trending the right direction → still don't pay a premium price, but the outlook improved today
 
 ## 🛡️ D/ST — last two rounds only; stream weekly
 - Don't draft before ~Round 13. Scoring rewards facing **weak offenses** (points and
