@@ -50,7 +50,7 @@
 - **Rounds 7+ (flex / upside):** Jaylen Waddle (DEN), Terry McLaurin (WAS), Zay Flowers (BAL), Rome Odunze (CHI), Deebo Samuel (SF), Stefon Diggs (WAS), Emeka Egbuka (TB), De'Zhaun Stribling (SF), Matthew Golden (GB), Alec Pierce (IND), Kayshon Boutte (HOU)
 - **Avoid / fade:** Courtland Sutton (DEN), Luther Burden III (CHI) (cheap dart only), Jordyn Tyson (NO) (hamstring — mid-Oct return)
 - **Flags:**
-    - ⚠️ Malik Nabers (NYG) — HC says "reasonable to assume" he plays Wk1, but Nabers himself won't commit yet (still checking boxes with trainers) → draft as a talented WR1/2, but don't assume the discount is fully gone
+    - 🟢 Malik Nabers (NYG) — shed the no-contact jersey, now doing full 11-on-11 drills ("I feel real good"); still hasn't played in preseason and Wk1 (9/13 vs DAL) isn't locked, but trending better than this morning → draft as a talented WR1/2, small discount still fair but shrinking
     - ⚠️ Mike Evans (SF) — multiple minor camp ailments, but plan is to play Week 1 → fine value late if he's still on the board, no need to reach
     - ⚠️ Emeka Egbuka (TB) — day-to-day/week-to-week, Bucs HC unsure on Wk1 → monitor before drafting as a lock WR3
     - 🔼🔼 Matthew Golden (GB) — now projected to LEAD Green Bay in targets → nice value ~WR40
