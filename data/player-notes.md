@@ -28,6 +28,25 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-09-04 (post-draft, quiet day)
+- **Puka Nacua (WR, LAR):** still unresolved — the Rams are now also awaiting
+  a separate decision on OT Alaric Jackson, and per SI, "the Rams still await
+  decisions" on both. No suspension announced, nothing new since yesterday.
+  *Action: none — Chatt-ESPN draft is over, this now just matters for whoever
+  owns him (not our roster) and for the Australia opener (9/10).*
+- **Tetairoa McMillan (WR, CAR) — Family-Yahoo starter:** conflicting reports
+  today — one source says a knee injury held him out of all 3 preseason games
+  with possible Week 1 snap-count limits; another says he's returning from a
+  hamstring issue. Sources disagree on the actual injury. *Action: monitor
+  closely before the Yahoo Week 1 lineup lock (Sun 9/13) — don't treat him as
+  a lock-and-forget starter this week.*
+- **Kyler Murray (QB, MIN):** J.J. McCarthy reportedly lost the Vikings' QB2
+  battle to Carson Wentz — implies Murray remains the current QB1 in
+  Minnesota. *Relevant to our trade target*
+  (`leagues/chatt-espn/trade-targets.md`) — Murray still has a real starting
+  path, which helps his value as our potential Week 5 QB streamer if the
+  Pigskin Pugs trade goes through.
+
 ### Update 2026-09-03 (DRAFT DAY — major new risk on Puka Nacua)
 - **Puka Nacua (WR, LAR)** — 🚨 **NEW, significant: real suspension risk,
   unrelated to the groin issue we'd tracked.** A Los Angeles woman filed a

@@ -64,4 +64,8 @@
 
 ## Moves log
 *(waiver adds/drops, trades — dated entries, newest on top)*
+- 2026-09-04 — ⚠️ **Tetairoa McMillan (starter WR) flagged for monitoring:**
+  conflicting reports (knee w/ possible snap-count limits vs. a hamstring
+  issue). Not confirmed either way — recheck before the Week 1 lineup lock
+  (Sun 9/13), don't assume a clean bill of health.
 - 2026-09-02 — Initial roster recorded from Monday 8/31 draft.
