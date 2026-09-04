@@ -18,3 +18,20 @@ FLEX J. Warren, RB (bye 9) · D/ST Seahawks (bye 11) · K H. Mevis (bye 11)
 RB1 we flagged) — a genuinely strong RB core. QB is thin (Daniels + Dart,
 no proven QB2). WR is Brown/McMillan plus Evans/Washington off the bench —
 serviceable but not a strength.
+
+## Entire Team For Sale (drafted 1.02)
+
+**Starters:** QB J. Hurts (bye 10) · RB B. Robinson (bye 11), C. Skattebo
+(bye 8) · WR D. London (bye 11), T. Higgins (bye 6) · TE B. Bowers (bye 13) ·
+FLEX L. Burden III, WR (bye 10) · D/ST Steelers (bye 9) · K B. Aubrey (bye 14)
+
+**Bench:** A. Jones Sr. RB (bye 6) · J. Herbert QB (bye 7) · M. Wilson WR
+(bye 14) · D. Goedert TE (bye 10) · T. Hunter WR/CB (bye 7) · R. Doubs WR
+(bye 11) · M. Washington Jr. RB (bye 13)
+
+**Notes:** Bijan at 1.02 plus Skattebo gives real RB volume, and Bowers at
+TE is an every-week advantage over most of the league. Herbert as a Hurts
+backup is a strong QB room. Weak spot: only Higgins/London start at WR with
+Burden (a discount dart) at flex — thinnest WR corps of the rosters seen so
+far. Bye 11 is loaded for them (Bijan, London, Doubs) — worth remembering if
+you're ever deciding a Week 11 trade or streaming matchup against this team.
