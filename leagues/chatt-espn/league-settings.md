@@ -1,7 +1,10 @@
 # League Settings — SINGLE SOURCE OF TRUTH
 
 > ⚠️ Everything the agent recommends depends on this file.
-> Confirmed from the ESPN League Settings → Scoring screenshot (8/15).
+> Confirmed from the ESPN League Settings → Scoring screenshot (8/15), and
+> **re-verified against the full scoring table (9/3)** — matches exactly, with
+> a few extra line items (return-TD breakdown, block bonus, 1pt safety) added
+> below that weren't visible in the original screenshot.
 
 ## Confirmed
 
@@ -11,10 +14,10 @@
 | League name | Chatt's Original Cool Kids |
 | **Your team** | **Claude Me Daddy** |
 | Teams | 10 |
-| **Scoring** | **FULL PPR — 1.0 point per reception (REC = 1)** ✅ |
+| **Scoring** | **FULL PPR — 1.0 point per reception (REC = 1)** ✅ (re-confirmed 9/3) |
 | Draft type | Snake |
 | **Draft date** | **Thursday, September 3, 2026** ✅ |
-| Your draft slot | **TBD (1–10)** — still needed |
+| Your draft slot | **8** ✅ |
 
 ## Full scoring (from screenshot)
 
@@ -24,14 +27,20 @@
 - Rushing yards: **0.1/yd** (1 pt per 10) · Rush TD: **6** · 2pt rush: 2
 - Receiving yards: **0.1/yd** (1 pt per 10) · **Each reception: 1 (FULL PPR)** ·
   Rec TD: **6** · 2pt rec: 2
-- *(Fumbles-lost value not visible in screenshot — assume ~ −2; confirm.)*
+- *(Fumbles-lost value still not explicitly confirmed — not in either scoring
+  table provided; treat as a minor unknown, doesn't change strategy.)*
 
 **Kicker (distance-based — rewards long FGs)**
 - PAT: 1 · FG missed: −1 · FG 0–39: **3** · 40–49: **4** · 50–59: **5** · 60+: **6**
 - → slightly favors big-leg kickers when streaming K.
 
 **D/ST**
-- Sack: 1 · INT: 2 · Fumble rec: 2 · Safety: 2 · Def/ST TD: 6 · 2pt return: 2
+- Sack: 1 · INT: 2 · Fumble rec: 2 · Safety: 2 · 2pt return allowed: 2
+- **Return/defensive TDs, all worth 6:** kickoff return, punt return, INT
+  return, fumble return, blocked kick return.
+- **Blocked punt/PAT/FG (no return TD): 2** — separate, smaller bonus from
+  the return-TD score above.
+- **1-point safety: 1** (the rare blocked-kick-through-the-end-zone play).
 - Points allowed: 0 = **5**, 1–6 = 4, 7–13 = 3, 14–17 = 1, 28–34 = −1, 35–45 = −3,
   46+ = −5
 - Yards allowed: <100 = 5, 100–199 = 3, 200–299 = 2, 350–399 = −1, 400–449 = −3,
