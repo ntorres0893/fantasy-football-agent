@@ -28,6 +28,34 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-09-05 (real news on OUR OWN rostered players)
+- **Sam LaPorta (TE, DET) — Chatt-ESPN starter:** 🚨 **new concern, wasn't
+  flagged pre-draft.** Held out of practice and all Lions preseason games
+  with a hip injury (hit in the hip, coming off 2025 season-ending back
+  surgery). Returned to practice 8/25 and hasn't had a setback since, but HC
+  Dan Campbell won't commit to Week 1: "I feel like we'll be OK, but I don't
+  know." *Action: trending positive but genuinely uncertain — good thing we
+  have Hunter Henry as TE2 insurance. Re-check Thursday/Friday injury reports
+  before locking Sunday's lineup; be ready to start Henry if LaPorta is
+  Doubtful/Out.*
+- **Breece Hall (RB, NYJ) — Chatt-ESPN FLEX starter:** groin injury (this WAS
+  priced in pre-draft — "out 2-3 wks, don't overreact"). Update today: HC
+  Aaron Glenn says he's on track for Week 1, reported "moving well" in
+  agility drills. Trending positive, but groin injuries can linger — some
+  caution still warranted. *Action: no change needed yet, just monitor same
+  as LaPorta before Sunday's lock.*
+- **D'Andre Swift (RB, CHI):** left Thursday's practice with an apparent
+  injury, "appeared to be in significant discomfort" — not on our roster,
+  but worth knowing for league/waiver context (he's a name several Chatt-ESPN
+  teams considered).
+- **Tetairoa McMillan (WR, CAR) — Family-Yahoo starter:** yesterday's
+  conflicting reports (knee w/ snap limits vs. hamstring) appear to trace back
+  to old spring/minicamp foot-injury stories mixed into search results — no
+  evidence found of a current Week 1 issue, and he reportedly caught a pass
+  in the preseason. *Action: downgrade this from "genuine concern" to
+  "no action needed" — still worth a final glance before the lock, but this
+  looks like noise, not signal.*
+
 ### Update 2026-09-04 (post-draft, quiet day)
 - **Puka Nacua (WR, LAR):** still unresolved — the Rams are now also awaiting
   a separate decision on OT Alaric Jackson, and per SI, "the Rams still await

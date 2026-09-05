@@ -64,6 +64,11 @@
 
 ## Moves log
 *(waiver adds/drops, trades — dated entries, newest on top)*
+- 2026-09-05 — ✅ McMillan flag downgraded: yesterday's conflicting reports
+  look like stale spring/minicamp injury stories resurfacing, not a current
+  Week 1 issue. No confirmed current injury found; he reportedly caught a
+  pass in the preseason. Still worth a final glance before the lock, but no
+  longer a real concern.
 - 2026-09-04 — ⚠️ **Tetairoa McMillan (starter WR) flagged for monitoring:**
   conflicting reports (knee w/ possible snap-count limits vs. a hamstring
   issue). Not confirmed either way — recheck before the Week 1 lineup lock
