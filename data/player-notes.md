@@ -28,6 +28,20 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-09-06 (LaPorta trending strongly positive)
+- **Sam LaPorta (TE, DET) — Chatt-ESPN starter:** 🟢 good follow-up. Full
+  practice participant now, including multiple full-team periods in a padded
+  session — a real step up from Thursday's limited/no-commit status. Not an
+  official "he will play" yet, but this is the clearest positive signal since
+  the hip injury surfaced. *Action: still worth a final glance Thursday/Friday
+  before Sunday's lock, but confidence is rising — Henry stays the contingency
+  plan just in case.*
+- **Breece Hall (RB, NYJ) — Chatt-ESPN FLEX:** no change from yesterday —
+  still "expected to be ready" per HC Glenn, with the standard caveat that
+  groin injuries can linger. No new action.
+- Nothing new for Family-Yahoo today — McMillan remains a non-issue, rest of
+  the roster clean.
+
 ### Update 2026-09-05 (real news on OUR OWN rostered players)
 - **Sam LaPorta (TE, DET) — Chatt-ESPN starter:** 🚨 **new concern, wasn't
   flagged pre-draft.** Held out of practice and all Lions preseason games
