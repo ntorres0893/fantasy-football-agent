@@ -28,6 +28,13 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-09-07 (quiet day, LaPorta holding steady)
+- **Sam LaPorta (TE, DET):** no material change from yesterday — still no
+  official Week 1 word, but reports describe him moving fluidly through
+  heavy-contact drills and building rhythm with Goff. Indications remain
+  positive. *Action: none — same plan, final check later this week.*
+- Nothing new anywhere else across either roster today.
+
 ### Update 2026-09-06 (LaPorta trending strongly positive)
 - **Sam LaPorta (TE, DET) — Chatt-ESPN starter:** 🟢 good follow-up. Full
   practice participant now, including multiple full-team periods in a padded
