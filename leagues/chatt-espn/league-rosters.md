@@ -92,11 +92,12 @@ P. Nacua (11), C. Olave (8) · TE K. Pitts Sr. (11) · FLEX Z. Flowers, WR (13)
 **J. Jacobs RB (11) — on the Commissioner's Exempt List, a dead roster spot
 right now** · M. Stafford QB (11) · Q. Johnston WR (7) · I. Likely TE (8)
 
-**Notes:** This is the team that took the Nacua suspension risk at 1.06.
-Chase Brown/Irving give fine RB floor. Notably carrying Josh Jacobs on the
-bench doing nothing (Exempt List) — effectively a bench spot down until/unless
-he's reinstated. Worth knowing if Nacua does get suspended, this roster takes
-the biggest hit of anyone in the league.
+**Notes:** This is the team that took the Nacua suspension risk at 1.06 — it
+paid off: as of 9/8, Nacua is **cleared to play Week 1** with suspension risk
+having passed (Schefter says he may go the whole season with no discipline).
+Chase Brown/Irving give fine RB floor. Still notably carrying Josh Jacobs on
+the bench doing nothing (Exempt List) — effectively a bench spot down
+until/unless he's reinstated.
 
 ## Hammertime (drafted 1.07)
 

@@ -28,6 +28,25 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-09-08 (Nacua resolved; small LaPorta setback)
+- **Puka Nacua (WR, LAR):** ✅ **RESOLVED — cleared to play, suspension risk
+  has passed.** Adam Schefter reports a real chance Nacua goes through the
+  season "unscathed" with no discipline, and HC Sean McVay confirmed he's
+  expected to play Thursday's opener vs. SF in Australia (still dealing with
+  minor psoas soreness, not a Week 1 threat). *Not our roster (Cayenne You
+  Dig It?! owns him), but closes out a story we tracked all week.*
+- **Sam LaPorta (TE, DET) — Chatt-ESPN starter:** ⚠️ small step back. HC Dan
+  Campbell: "It flared up a little bit, it's a little aggravated... we'll
+  rest him for a little bit here and let it calm down." Not ruled out — team
+  still says they "feel good long-term about him" and the Week 1 timeline is
+  still considered likely — but this walks back some of the last 2 days'
+  positive momentum. *Action: this is now a real coin-flip situation heading
+  into the week. Henry is the standing contingency; check Thursday/Friday
+  practice reports closely before Sunday's lock.*
+- Everyone else on both rosters (Mahomes, Achane, Barkley, Rice, Metcalf,
+  Hall, Broncos D/ST — Daniels, Bijan, Chase Brown, Waddle, McMillan, Bowers,
+  McBride, Loop, Vikings D/ST) is expected to play Week 1, no new flags.
+
 ### Update 2026-09-07 (quiet day, LaPorta holding steady)
 - **Sam LaPorta (TE, DET):** no material change from yesterday — still no
   official Week 1 word, but reports describe him moving fluidly through
