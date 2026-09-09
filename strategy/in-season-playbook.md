@@ -13,6 +13,17 @@ The goal every week: **set the lineup with the best odds to win your matchup.**
 > the rest of your roster. **Every week, before doing anything else, check the
 > NFL schedule against your current roster and flag anyone playing early** so
 > that slot gets decided on its own timeline, not lumped into "Sunday."
+>
+> **This applies to BENCH contingency plans too, not just starters.** A bench
+> player earmarked as insurance for an injury-questionable starter is only
+> real insurance if his own game hasn't happened yet. If the backup's game
+> already passed while he sat on the bench, he can't be retroactively
+> inserted for points he already missed — check the contingency's kickoff
+> time, not just the starter's, when deciding whether a "we have a backup"
+> plan actually holds up. (Real example: a TE whose team played Wednesday
+> can't cover a TE1 who becomes a late Sunday scratch — by then his own game
+> is already over. The real fallback in that case is a waiver-wire streamer,
+> claimed proactively once the starter looks shaky, not the bench name.)
 
 | Day | What the agent does |
 |-----|--------------------|

@@ -62,6 +62,19 @@
   tracked in `data/player-notes.md` — worth a quick research pass before Week 1
   to know his role/handcuff status.
 
+## Week 1 lineup (set 9/9)
+
+Default lineup confirmed as optimal — everyone healthy, no bench alternative
+changes any call: Daniels (@ PHI, Sun), Bijan (@ PIT, Sun), Chase Brown (vs TB,
+Sun — best matchup on roster, CIN -3.5/50.5), Waddle (@ KC, Mon), McMillan (vs
+CHI, Sun — rain possible in Charlotte), Bowers (vs MIA, Sun), McBride flex
+(@ LAC, Sun — big underdog but volume-proof role), Loop (@ IND, Sun — great
+spot, BAL -3.5/47.5), Vikings D/ST (vs GB, Sun — tough matchup).
+
+Bench note: Jadarian Price (RB) played Wednesday 9/9 — already locked in for
+the week regardless of roster slot, not a factor since he wasn't a lineup
+consideration anyway.
+
 ## Moves log
 *(waiver adds/drops, trades — dated entries, newest on top)*
 - 2026-09-05 — ✅ McMillan flag downgraded: yesterday's conflicting reports

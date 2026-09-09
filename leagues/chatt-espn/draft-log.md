@@ -51,6 +51,28 @@ Slot 8 · Picks: 8, 13, 28, 33, 48, 53, 68, 73, 88, 93, 108, 113, 128, 133, 148,
 
 **Week 1 waiver/streaming targets:** none needed immediately — your bench already covers your RB room, and D/ST + K are still just streaming pieces if the matchup turns.
 
+## Week 1 lineup (set 9/9, vs. Stinky)
+
+| Slot | Player | Matchup | Note |
+|------|--------|---------|------|
+| QB | Mahomes | @ DEN, Mon | trending to start, not 100% official |
+| RB | Achane | @ LV, Sun 4:25 | |
+| RB | Barkley | vs WAS, Sun 4:25 | favored -5.5, plus spot |
+| WR | Rice | @ DEN, Mon | |
+| WR | Metcalf | vs ATL, Sun 1pm | favored -3.5 |
+| TE | LaPorta | vs NO, Sun 1pm | 🎲 game-time decision — best matchup on roster (DET -7, total 50) IF he plays |
+| FLEX | Hall (RB) | @ TEN, Sun 1pm | lower total (39.5), still lead role |
+| D/ST | Broncos | @ KC, Mon | tough matchup |
+| K | Dicker | vs ARI, Sun 4:25 | big favorite -9.5 |
+
+**⚠️ Known issue: Hunter Henry (TE, bench) is NOT a usable in-week
+contingency for LaPorta this week.** His team (NE) played Wednesday 9/9 —
+that game is over before LaPorta's Sunday status is finalized, and a
+player's lineup slot locks at *his own* kickoff. If LaPorta is downgraded
+Thu/Fri, the correct move is a waiver-wire streaming TE, not Henry. General
+lesson: a bench "contingency" plan needs its own kickoff checked too, not
+just the primary player's.
+
 ## Bye weeks (confirmed 9/3)
 
 | Wk | QB | RB | WR | TE | FLEX | D/ST | K |
