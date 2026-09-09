@@ -28,6 +28,27 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-09-09 (season opener day — real detail on Mahomes' injury severity)
+- **Patrick Mahomes (QB, KC) — Chatt-ESPN starter:** 🚨 more serious injury
+  than we had on file. He tore **both his ACL and LCL** (not just ACL) in
+  Week 15 of the 2025 season and, as a precaution, **sat out the entire 2026
+  preseason** — a detail that wasn't in our draft-prep notes. The good news:
+  HC Andy Reid says "most likely he'll be the guy" for Monday's opener at
+  Denver, calling it one of the more remarkable recoveries in recent memory,
+  and multiple outlets (SI, CBS, NFL.com) confirm he's expected to start,
+  barring a last-minute setback. Not officially locked in until closer to
+  Monday. *Action: no change to the lineup plan — he's still trending to
+  start — but treat him as a "watch through Monday" situation, and expect
+  some early-season rust risk even once he's playing, given zero preseason
+  reps.*
+- **Sam LaPorta (TE, DET):** no material change from yesterday — still
+  resting after the flare-up, still no official Week 1 word, still
+  considered likely per the recovery timeline. Same coin-flip as
+  yesterday, not worse.
+- **Jadarian Price (RB, SEA)** — our Family-Yahoo **bench** piece — plays
+  tonight in the Seahawks/Patriots opener. Not a lineup factor, just a note
+  since he's rostered.
+
 ### Update 2026-09-08 (Nacua resolved; small LaPorta setback)
 - **Puka Nacua (WR, LAR):** ✅ **RESOLVED — cleared to play, suspension risk
   has passed.** Adam Schefter reports a real chance Nacua goes through the
