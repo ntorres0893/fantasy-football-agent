@@ -28,6 +28,29 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-09-10 (LaPorta cleared; Bowers OUT — real Yahoo lineup change)
+- **Sam LaPorta (TE, DET) — Chatt-ESPN starter:** ✅ **RESOLVED, fully
+  positive.** Off the Lions' Week 1 injury report entirely — no limitations,
+  full health. The flare-up scare is over. *Action: start him with full
+  confidence, no hedge needed.*
+- **Patrick Mahomes (QB, KC) — Chatt-ESPN starter:** officially listed
+  Questionable, but HC Andy Reid says "very good chance" he starts Monday
+  barring a setback. No change from prior days — still trending to play.
+- **Breece Hall (RB, NYJ) — Chatt-ESPN FLEX:** officially Questionable
+  (groin), but "moving well on side fields" and fully expected to start vs.
+  TEN. No change from prior days.
+- **Brock Bowers (TE, LV) — Family-Yahoo starter:** 🚨 **CONFIRMED OUT for
+  Week 1.** Underwent meniscus trim surgery Tuesday (Schefter) after the
+  injury was found during camp. Trim (not a repair) is the less severe
+  option — typically 4-6 weeks, but the team is optimistic he beats that
+  timeline, expected to miss "a game or two." Michael Mayer takes over at TE
+  for Las Vegas. *Action: real Family-Yahoo lineup change needed this week —
+  move Trey McBride from flex into the TE slot, and promote a bench WR into
+  flex. Recommend Jameson Williams over Rome Odunze for that flex spot — he
+  projects higher (162.9 vs 106.1 season pts) AND has the better matchup
+  (DET -7, total 50, same elite spot as LaPorta) vs. Odunze's decent-but-lesser
+  CHI @ CAR spot.*
+
 ### Update 2026-09-09 (season opener day — real detail on Mahomes' injury severity)
 - **Patrick Mahomes (QB, KC) — Chatt-ESPN starter:** 🚨 more serious injury
   than we had on file. He tore **both his ACL and LCL** (not just ACL) in

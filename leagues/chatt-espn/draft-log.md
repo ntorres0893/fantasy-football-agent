@@ -60,7 +60,7 @@ Slot 8 · Picks: 8, 13, 28, 33, 48, 53, 68, 73, 88, 93, 108, 113, 128, 133, 148,
 | RB | Barkley | vs WAS, Sun 4:25 | favored -5.5, plus spot |
 | WR | Rice | @ DEN, Mon | |
 | WR | Metcalf | vs ATL, Sun 1pm | favored -3.5 |
-| TE | LaPorta | vs NO, Sun 1pm | 🎲 game-time decision — best matchup on roster (DET -7, total 50) IF he plays |
+| TE | LaPorta | vs NO, Sun 1pm | ✅ RESOLVED 9/10 — off the injury report entirely, full health, best matchup on the roster (DET -7, total 50) |
 | FLEX | Hall (RB) | @ TEN, Sun 1pm | lower total (39.5), still lead role |
 | D/ST | Broncos | @ KC, Mon | tough matchup |
 | K | Dicker | vs ARI, Sun 4:25 | big favorite -9.5 |

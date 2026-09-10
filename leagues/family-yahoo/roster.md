@@ -3,7 +3,7 @@
 > Full roster from the Monday, Aug 31, 2026 live draft (8-team, standard/0-PPR —
 > see `league-settings.md`). 13 players filled, IR slot empty.
 
-## Starting lineup (as currently set)
+## Starting lineup (season-long default — see Week 1 override below for 9/10+)
 
 | Slot | Player | Pos | Team | Bye |
 |------|--------|-----|------|-----|
@@ -17,16 +17,19 @@
 | K | Tyler Loop | K | BAL | 13 |
 | DEF | Vikings | DEF | MIN | 6 |
 
+*(This is the default/season-long slotting. For Week 1 specifically, Bowers is
+OUT — see the Week 1 lineup section below for the actual active lineup.)*
+
 ## Bench
 
 | Player | Pos | Team | Bye |
 |--------|-----|------|-----|
 | Rome Odunze | WR | CHI | 10 |
-| Jameson Williams | WR | DET | 6 |
+| Jameson Williams | WR | DET | 6 (Week 1: moved to active flex) |
 | Jadarian Price | RB | SEA | 11 |
 | Dak Prescott | QB | DAL | 14 |
 
-**IR:** empty
+**IR:** empty — recommend moving Brock Bowers here for Week 1 (see below)
 
 ## ⚠️ Bye-week flags (found immediately — worth planning around now)
 
@@ -62,14 +65,27 @@
   tracked in `data/player-notes.md` — worth a quick research pass before Week 1
   to know his role/handcuff status.
 
-## Week 1 lineup (set 9/9)
+## Week 1 lineup (set 9/9, UPDATED 9/10 — Bowers confirmed OUT)
 
-Default lineup confirmed as optimal — everyone healthy, no bench alternative
-changes any call: Daniels (@ PHI, Sun), Bijan (@ PIT, Sun), Chase Brown (vs TB,
-Sun — best matchup on roster, CIN -3.5/50.5), Waddle (@ KC, Mon), McMillan (vs
-CHI, Sun — rain possible in Charlotte), Bowers (vs MIA, Sun), McBride flex
-(@ LAC, Sun — big underdog but volume-proof role), Loop (@ IND, Sun — great
-spot, BAL -3.5/47.5), Vikings D/ST (vs GB, Sun — tough matchup).
+~~Default lineup confirmed as optimal~~ — **superseded 9/10:** Brock Bowers
+underwent meniscus trim surgery and is **confirmed OUT for Week 1** (Michael
+Mayer takes over at TE for LV). Real lineup change required:
+
+| Slot | Player | Matchup | Note |
+|------|--------|---------|------|
+| QB | Daniels | @ PHI, Sun 4:25pm | |
+| RB | Bijan | @ PIT, Sun 1pm | |
+| RB | Chase Brown | vs TB, Sun 1pm | best matchup on roster, CIN -3.5/50.5 |
+| WR | Waddle | @ KC, Mon | |
+| WR | McMillan | vs CHI, Sun 1pm | rain possible in Charlotte |
+| TE | **Trey McBride** (moved from flex) | @ LAC, Sun 4:25pm | big underdog +9.5, but volume-proof role — ARI's clear #1 target |
+| FLEX | **Jameson Williams** (WR, moved off bench) | vs NO, Sun 1pm | 🔄 replaces Bowers — chosen over Odunze: higher season proj. (162.9 vs 106.1) AND better matchup (DET -7, total 50 — same elite spot as LaPorta) |
+| K | Loop | @ IND, Sun 1pm | great spot, BAL -3.5/47.5 |
+| D/ST | Vikings | vs GB, Sun 4:25pm | tough matchup |
+
+**Bowers himself moves to IR or bench** (IR slot is open — use it, since he'll
+miss more than this week). Rome Odunze stays on the bench as the alternate
+flex option if Jameson Williams' role looks shakier by Sunday.
 
 Bench note: Jadarian Price (RB) played Wednesday 9/9 — already locked in for
 the week regardless of roster slot, not a factor since he wasn't a lineup
