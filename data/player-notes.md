@@ -28,6 +28,27 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-09-11 (Friday injury reports — everyone else trending clean)
+- **Patrick Mahomes (QB, KC):** fully participated in Thursday's practice —
+  an incremental positive step. Still officially Questionable pending final
+  medical clearance from the team, but "all signs point to" him starting
+  Monday. No change in the plan.
+- **Breece Hall (RB, NYJ):** practiced without limitations Wednesday,
+  expected to handle a full workload Sunday barring a snap-count
+  precaution. Trending clean.
+- **Jameson Williams (WR, DET) — our new Family-Yahoo flex starter:** minor
+  shoulder issue from mid-August has resolved, full practice participant,
+  locked into Week 1 lineups per consensus. One tempering note: New Orleans
+  had the 4th-ranked pass defense last season (179.2 yds/gm allowed) — still
+  the right start given no better bench option, just don't expect a huge
+  ceiling game.
+- Nothing new on Achane, Barkley, Rice, Metcalf, Dicker, Broncos D/ST,
+  Daniels, Bijan, Chase Brown, Waddle, McMillan, McBride, Loop, or the
+  Vikings D/ST — all clean.
+- Puka Nacua played Thursday's Australia opener (5 catches/74 yds in a
+  27-7 Rams loss) — modest by his standards but healthy and active. Not our
+  roster, league context only.
+
 ### Update 2026-09-10 (LaPorta cleared; Bowers OUT — real Yahoo lineup change)
 - **Sam LaPorta (TE, DET) — Chatt-ESPN starter:** ✅ **RESOLVED, fully
   positive.** Off the Lions' Week 1 injury report entirely — no limitations,
