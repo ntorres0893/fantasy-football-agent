@@ -28,6 +28,11 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-09-12 (quiet Saturday, no changes)
+- No new news on either roster today. Official inactive lists don't drop
+  until Sunday morning (11:30am ET for early games), so nothing further to
+  confirm until then. Both lineups stand as set.
+
 ### Update 2026-09-11 (Friday injury reports — everyone else trending clean)
 - **Patrick Mahomes (QB, KC):** fully participated in Thursday's practice —
   an incremental positive step. Still officially Questionable pending final
