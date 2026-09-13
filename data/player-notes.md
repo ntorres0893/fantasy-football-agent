@@ -28,6 +28,20 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-09-13 (GAME DAY — everyone trending clean)
+- **Patrick Mahomes (QB, KC):** reports now describe him as "ready and 100%"
+  for Week 1 — the most confident language yet after a full week of
+  positive signals. Still officially Questionable pending final clearance,
+  but trending as strong as it's been all week.
+- **Sam LaPorta (TE, DET):** on track to start fully healthy — no new
+  concerns since Monday's all-clear.
+- **Breece Hall (RB, NYJ):** trending to play per HC Aaron Glenn, practiced
+  without limitations, looks like a full recovery.
+- Nothing new for Daniels, Bijan, Chase Brown, Waddle, McMillan, McBride,
+  Jameson Williams, Loop, or the Vikings D/ST — all clean.
+- **Reminder:** official inactive lists release ~11:30am ET, 90 minutes
+  before the early games — that's the true final word, not today's reports.
+
 ### Update 2026-09-12 (quiet Saturday, no changes)
 - No new news on either roster today. Official inactive lists don't drop
   until Sunday morning (11:30am ET for early games), so nothing further to
