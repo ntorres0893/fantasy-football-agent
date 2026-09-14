@@ -28,6 +28,26 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-09-14 (WEEK 1 SUNDAY RESULTS — mostly great week for both rosters)
+**Chatt-ESPN (vs. Stinky):**
+- Achane: 11 car/36 yds + 4 rec/30 yds (66 total) — modest, MIA fell behind early and had to abandon the run (lost to LV)
+- Barkley: 83 rush yds, no TD — solid floor, no ceiling (PHI beat WAS 24-22)
+- Metcalf: 4 rec/40 yds on 10 targets — modest (PIT beat ATL 20-13)
+- LaPorta: 5 rec/48 yds, 0 TD — solid floor, no drama post-injury-scare (DET beat NO 31-30 OT)
+- Hall (FLEX): 102 rush yds + 1 TD + 2 rec/16 yds = 118 total — **great game** (NYJ beat TEN 23-10)
+- Dicker: **5-for-5 field goals incl. a 59-yarder** — great game in a distance-friendly scoring format (LAC beat ARI 26-14)
+- Mahomes/Rice/Broncos D/ST: play tonight (MNF, KC -3, total 42.5, 8:15pm ET) — one note of caution: KC's starting RT is reportedly a backup rookie facing Denver's Nik Bonitto, real pass-rush/injury-risk exposure for Mahomes to watch, though there's no lineup alternative regardless.
+
+**Family-Yahoo:**
+- Daniels: 18/34, 164 yds, 2 TD, 0 INT + a 13-yd scramble — solid (WAS lost to PHI 22-24)
+- Bijan: 21 car/83 yds + 8 rec/90 yds + 1 TD = **173 total yards — huge game** (ATL lost to PIT anyway)
+- Chase Brown: 16 car/56 yds + 1 rush TD + 5 rec/22 yds — solid PPR-style floor even in standard scoring (CIN beat TB 33-27)
+- McMillan: 5 rec/75 yds on 8 targets, **but lost a fumble** (-2 in our scoring) — good yardage undercut by the turnover (CAR lost to CHI 37-59, highest-scoring Week 1 game ever)
+- McBride (FLEX): 9 rec/95 yds/1 TD on 13 targets — **great game**, the Bowers-to-McBride swap paid off immediately (ARI upset LAC 26-14)
+- Loop: 3-for-3 FG incl. a 57-yard career long + 5-for-5 XP — great game (BAL beat IND 41-23)
+- Vikings D/ST: held GB to 22 points, 4 sacks, 1 INT — solid week despite a tough matchup on paper (MIN beat GB 39-22)
+- Waddle: plays tonight (MNF) — a "true WR1" role reportedly being unlocked in Denver's more aggressive passing scheme under new OC Davis Webb.
+
 ### Update 2026-09-13 (GAME DAY — everyone trending clean)
 - **Patrick Mahomes (QB, KC):** reports now describe him as "ready and 100%"
   for Week 1 — the most confident language yet after a full week of
