@@ -47,7 +47,9 @@ Murray target killed 9/15 after his Week 1 concussion (see above).
 **QB plan revised 9/15:** manager's call — QB is a deep, always-available
 position league-wide, so it's not worth spending the #1 waiver priority or a
 trade asset on backup QB depth right now. That priority instead went to a
-block claim (Michael Mayer, TE — see `draft-log.md` Waiver moves). The
-Stafford trade offer is paused, not dead — revisit as a depth move once QB
-priority isn't competing with real difference-maker blocks, or sooner if
-Mahomes has any health scare before the Week 5 bye.
+block claim (Devaughn Vele, WR — see `draft-log.md` Waiver moves; revised
+same day from an initial Michael Mayer/TE pick once Mayer's role was found to
+be contingent on an injured teammate). The Stafford trade offer is paused,
+not dead — revisit as a depth move once QB priority isn't competing with real
+difference-maker blocks, or sooner if Mahomes has any health scare before the
+Week 5 bye.

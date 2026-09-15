@@ -28,6 +28,32 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-09-15 (ESPN Week 2 waiver wire pickups article — full read)
+- **Devaughn Vele (WR, NO):** 7 targets, 69 yds, TD Week 1 — best game of his
+  career. Olave also went for 28.2 pts same game, confirming Shough/NO passing
+  game is legit, not a fluke. ESPN's own spend priority ranks him top of the
+  Week 2 WR adds. → **Added to Chatt-ESPN roster (see draft-log.md), block
+  claim, drop Hunter Henry.**
+- **Michael Mayer (TE, LV):** most-added player in ESPN fantasy last week (6
+  catches Week 1), BUT explicitly contingent — "Bowers (knee) might play in
+  Week 2." Considered and rejected as our block claim in favor of Vele for
+  that reason (see trade-targets.md revision history).
+- **Buccaneers D/ST:** ESPN's own advice matches our call — "always look for
+  whichever team faces the terrible Browns... go with Tampa Bay first."
+  Confirms our Week 2 D/ST stream (Broncos → Buccaneers).
+- **Tyler Shough (QB, NO):** 410 yds, 3 TD Week 1 (aided by OT); "borderline
+  QB1... underrated even in standard formats." Not pursuing — QB depth plan
+  is tabled per manager's call that QB is too deep to spend priority/trade
+  capital on right now.
+- **Kendre Miller (RB, NO):** split 18 carries with Etienne, TD; explicitly
+  flagged by ESPN as not a sure thing — "cannot assume this split continues,"
+  and Kamara (knee) "might play this month too." Confirms our earlier
+  low-confidence read — not pursuing.
+- Other names surfacing league-wide (no action for us — filling out the
+  market picture): Kaelon Black (RB, SF), Tyler Allgeier (RB, ARI), Jalen
+  Coker (WR, CAR — already owned by Jason Butts in our league), Caleb Douglas
+  (WR, MIA), Dontayvion Wicks (WR, PHI), Mike Gesicki (TE, CIN), 49ers D/ST.
+
 ### Update 2026-09-15 (Monday result UNVERIFIED — contradictory search data; Tuesday waiver check)
 - **Chiefs @ Broncos (Mahomes/Rice/Broncos D/ST, Waddle) — final result NOT
   confirmed.** Search returned genuinely contradictory accounts: one says

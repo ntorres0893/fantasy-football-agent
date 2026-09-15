@@ -36,8 +36,8 @@ Slot 8 · Picks: 8, 13, 28, 33, 48, 53, 68, 73, 88, 93, 108, 113, 128, 133, 148,
 
 **Bench (7, as of Week 2 waivers 9/15):** Rachaad White (RB, TB), Roschon
 Johnson (RB, CHI), Kaleb Johnson (RB, GB), Achane (RB, MIA — benched Week 2,
-tough matchup), Matthew Golden (WR, GB), Kayshon Boutte (WR, HOU), Michael
-Mayer (TE, LV — added off waivers, replaces Hunter Henry, dropped)
+tough matchup), Matthew Golden (WR, GB), Kayshon Boutte (WR, HOU), Devaughn
+Vele (WR, NO — added off waivers, replaces Hunter Henry, dropped)
 
 ## Team review
 
@@ -108,14 +108,20 @@ drafted tonight absorbs almost every bye collision on its own.**
 
 ## Waiver moves — Week 2 (submitted 9/15)
 
-1. **Add Michael Mayer (TE, LV), drop Hunter Henry (TE, NE)** — using our #1
+1. **Add Devaughn Vele (WR, NO), drop Hunter Henry (TE, NE)** — using our #1
    waiver priority (reverse order after finishing last in Week 1 scoring) as a
    **block claim, not a need claim.** Reasoning: QB is a deep, streamable
    position league-wide (per manager's call — "there will always be QBs to
-   pick up"), so it's the wrong thing to spend top priority on. Mayer is the
-   clearest real difference-maker on the wire — team-high 7 targets/6 catches
-   Week 1, genuine role — and TE has real scarcity value once someone grabs
-   him. Denying that to another team is worth more than a depth QB.
+   pick up"), so it's the wrong thing to spend top priority on.
+   **Revised 9/15 from an earlier Mayer (TE) plan** — Mayer's value is
+   borrowed from an injured teammate (Brock Bowers, knee) who "might play in
+   Week 2" per ESPN, so his role could evaporate any week Bowers suits up.
+   Vele's role isn't contingent like that: real WR2 volume (7 targets, 69 yds,
+   TD Week 1) in a passing offense that's actually producing (Olave went for
+   28.2 pts same game), and ESPN's own spend priority ranks him top among
+   Week 2 WR adds. Also fills a position we'd actually use, unlike a TE
+   sitting dead behind LaPorta. Confirmed unrostered across all 10 teams in
+   our league.
 2. **Add Buccaneers D/ST, drop Broncos D/ST** — pure Week 2 matchup stream,
    doesn't need top priority. TB -8.5, total 40.5 vs. CLE (much better spot
    than Broncos' -2.5/43.5 vs JAX). Browns' Deshaun Watson was a turnover
