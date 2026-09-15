@@ -25,16 +25,19 @@ Slot 8 · Picks: 8, 13, 28, 33, 48, 53, 68, 73, 88, 93, 108, 113, 128, 133, 148,
 
 ## Final roster (suggested starters vs. bench)
 
-**Starters:**
+**Starters (as of Week 2, see Week 2 lineup section below for current):**
 - QB: Patrick Mahomes (KC)
-- RB: De'Von Achane (MIA), Saquon Barkley (PHI)
+- RB: Saquon Barkley (PHI), Breece Hall (NYJ)
 - WR: Rashee Rice (KC), DK Metcalf (PIT)
 - TE: Sam LaPorta (DET)
-- FLEX: Breece Hall (RB, NYJ)
-- D/ST: Broncos (DEN)
+- FLEX: Deebo Samuel (WR, SF)
+- D/ST: Buccaneers (TB)
 - K: Cameron Dicker (LAC)
 
-**Bench (7):** Rachaad White (RB, TB), Roschon Johnson (RB, CHI), Kaleb Johnson (RB, GB), Deebo Samuel (WR, SF), Matthew Golden (WR, GB), Kayshon Boutte (WR, HOU), Hunter Henry (TE, NE)
+**Bench (7, as of Week 2 waivers 9/15):** Rachaad White (RB, TB), Roschon
+Johnson (RB, CHI), Kaleb Johnson (RB, GB), Achane (RB, MIA — benched Week 2,
+tough matchup), Matthew Golden (WR, GB), Kayshon Boutte (WR, HOU), Michael
+Mayer (TE, LV — added off waivers, replaces Hunter Henry, dropped)
 
 ## Team review
 
@@ -103,6 +106,25 @@ just the primary player's.
 **Bottom line: one real action item (Week 5 QB), otherwise the bench depth
 drafted tonight absorbs almost every bye collision on its own.**
 
+## Waiver moves — Week 2 (submitted 9/15)
+
+1. **Add Michael Mayer (TE, LV), drop Hunter Henry (TE, NE)** — using our #1
+   waiver priority (reverse order after finishing last in Week 1 scoring) as a
+   **block claim, not a need claim.** Reasoning: QB is a deep, streamable
+   position league-wide (per manager's call — "there will always be QBs to
+   pick up"), so it's the wrong thing to spend top priority on. Mayer is the
+   clearest real difference-maker on the wire — team-high 7 targets/6 catches
+   Week 1, genuine role — and TE has real scarcity value once someone grabs
+   him. Denying that to another team is worth more than a depth QB.
+2. **Add Buccaneers D/ST, drop Broncos D/ST** — pure Week 2 matchup stream,
+   doesn't need top priority. TB -8.5, total 40.5 vs. CLE (much better spot
+   than Broncos' -2.5/43.5 vs JAX). Browns' Deshaun Watson was a turnover
+   machine in Week 1 (INT, fumble, sacked 5x, 11 team penalties) — a genuinely
+   bad offense to defend.
+
+QB depth (Mayfield/Wentz) tabled for now — can be added later on low priority
+once these two claims clear; no one else is racing us for a backup QB.
+
 ## Week 2 lineup (set 9/15, vs. Jason Butts, away)
 
 ⏰ **Early lock: LaPorta.** DET @ BUF is Thursday night, 9/17, 8:15pm ET
@@ -117,7 +139,7 @@ drafted tonight absorbs almost every bye collision on its own.**
 | WR | Metcalf | @ NE | NE -5.5, total 42.5 |
 | TE | LaPorta | @ BUF | ⏰ **Thursday early lock** — BUF -3.5, total 53.5, best matchup on the roster |
 | FLEX | Deebo Samuel (WR) | vs MIA | SF -12.5, implied ~28 team pts — moved off bench |
-| D/ST | Broncos | vs JAX | DEN -2.5, total 43.5 |
+| D/ST | Buccaneers | vs CLE | TB -8.5, total 40.5 — streamed in over Broncos (see waiver moves above) |
 | K | Dicker | vs LV | LAC -6.5, total 45.5 |
 
 **Bench:** Achane sits this week — MIA is a 12.5-pt underdog @ SF, tough game

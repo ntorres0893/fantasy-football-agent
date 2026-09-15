@@ -42,6 +42,12 @@
 
 ## Status
 All targets above are proposals only — no offers sent yet as of 9/15/2026.
-Murray target killed 9/15 after his Week 1 concussion (see above) — send the
-Stafford offer instead. Update this file as offers go out / get accepted /
-rejected.
+Murray target killed 9/15 after his Week 1 concussion (see above).
+
+**QB plan revised 9/15:** manager's call — QB is a deep, always-available
+position league-wide, so it's not worth spending the #1 waiver priority or a
+trade asset on backup QB depth right now. That priority instead went to a
+block claim (Michael Mayer, TE — see `draft-log.md` Waiver moves). The
+Stafford trade offer is paused, not dead — revisit as a depth move once QB
+priority isn't competing with real difference-maker blocks, or sooner if
+Mahomes has any health scare before the Week 5 bye.
