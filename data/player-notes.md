@@ -28,6 +28,26 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-09-15 (Monday result UNVERIFIED — contradictory search data; Tuesday waiver check)
+- **Chiefs @ Broncos (Mahomes/Rice/Broncos D/ST, Waddle) — final result NOT
+  confirmed.** Search returned genuinely contradictory accounts: one says
+  Chiefs won 31-10 (Kenneth Walker III — now correctly on KC per our 9/2
+  correction — as the lead story, Mahomes modest); another gives a 27-23
+  final with stat lines citing players (Kareem Hunt, Royce Freeman, Phillip
+  Lindsay) who aren't on any 2026 roster we've tracked, and a nonsensical
+  "4-0 record" after a Week 1 game. Per the post-game recap discipline rule
+  (`strategy/in-season-playbook.md`), **not reporting either as fact** —
+  asked the manager directly for the real score/box score.
+- **Kyler Murray (QB, MIN):** confirmed via manager + search — concussion,
+  1st-quarter hit vs. GB, ruled out rest of game, Wentz relieved him and won.
+  Killed as a trade target (see `leagues/chatt-espn/trade-targets.md`).
+- **Tuesday waiver scan (general, not urgent for our rosters):** notable
+  Week 1 breakouts elsewhere in the league include Dontayvion Wicks (WR,
+  PHI — emerged with A.J. Brown hurt), Romeo Doubs (WR, GB — big route
+  share after a Brown-adjacent injury), Kaelon Black & Kendre Miller (RB
+  committee spots opening up). None address a real hole on either of our
+  rosters right now — flagging for awareness, not recommending an add.
+
 ### Update 2026-09-14 (WEEK 1 SUNDAY RESULTS — mostly great week for both rosters)
 **Chatt-ESPN (vs. Stinky):**
 - Achane: 11 car/36 yds + 4 rec/30 yds (66 total) — modest, MIA fell behind early and had to abandon the run (lost to LV)
