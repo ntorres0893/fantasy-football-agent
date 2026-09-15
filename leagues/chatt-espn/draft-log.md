@@ -107,7 +107,7 @@ just the primary player's.
 **Bottom line: one real action item (Week 5 QB), otherwise the bench depth
 drafted tonight absorbs almost every bye collision on its own.**
 
-## Waiver moves — Week 2 (submitted 9/15)
+## Waiver moves — Week 2 (submitted 9/15, confirmed via platform screenshot — processes morning of 9/16)
 
 1. **Add Devaughn Vele (WR, NO), drop Roschon Johnson (RB, CHI)** — using our
    #1 waiver priority (reverse order after finishing last in Week 1 scoring)
