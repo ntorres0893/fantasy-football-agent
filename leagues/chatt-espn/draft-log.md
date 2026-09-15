@@ -31,7 +31,7 @@ Slot 8 · Picks: 8, 13, 28, 33, 48, 53, 68, 73, 88, 93, 108, 113, 128, 133, 148,
 - WR: Rashee Rice (KC), DK Metcalf (PIT)
 - TE: Sam LaPorta (DET)
 - FLEX: Deebo Samuel (WR, SF)
-- D/ST: Buccaneers (TB)
+- D/ST: Broncos (DEN)
 - K: Cameron Dicker (LAC)
 
 **Bench (7, as of Week 2 waivers 9/15):** Rachaad White (RB, TB — team status
@@ -127,14 +127,12 @@ drafted tonight absorbs almost every bye collision on its own.**
    TE depth behind LaPorta for no good reason. Roschon Johnson is the actual
    dead roster spot: buried RB3 in Chicago behind D'Andre Swift and Kyle
    Monangai, and was inactive Week 1. He's the right cut, not Henry.
-2. **Add Buccaneers D/ST, drop Broncos D/ST** — pure Week 2 matchup stream,
-   doesn't need top priority. TB -8.5, total 40.5 vs. CLE (much better spot
-   than Broncos' -2.5/43.5 vs JAX). Browns' Deshaun Watson was a turnover
-   machine in Week 1 (INT, fumble, sacked 5x, 11 team penalties) — a genuinely
-   bad offense to defend.
+2. ~~Add Buccaneers D/ST, drop Broncos D/ST~~ — **REVERTED 9/15 per manager:
+   "no bucs defense."** Staying with Broncos D/ST this week. Only waiver move
+   going through this week is #1 (Vele).
 
 QB depth (Mayfield/Wentz) tabled for now — can be added later on low priority
-once these two claims clear; no one else is racing us for a backup QB.
+once the Vele claim clears; no one else is racing us for a backup QB.
 
 ## Week 2 lineup (set 9/15, vs. Jason Butts, away)
 
@@ -150,7 +148,7 @@ once these two claims clear; no one else is racing us for a backup QB.
 | WR | Metcalf | @ NE | NE -5.5, total 42.5 |
 | TE | LaPorta | @ BUF | ⏰ **Thursday early lock** — BUF -3.5, total 53.5, best matchup on the roster |
 | FLEX | Deebo Samuel (WR) | vs MIA | SF -12.5, implied ~28 team pts — moved off bench |
-| D/ST | Buccaneers | vs CLE | TB -8.5, total 40.5 — streamed in over Broncos (see waiver moves above) |
+| D/ST | Broncos | vs JAX | DEN -2.5, total 43.5 — staying put, D/ST stream reverted (see waiver moves above) |
 | K | Dicker | vs LV | LAC -6.5, total 45.5 |
 
 **Bench:** Achane sits this week — MIA is a 12.5-pt underdog @ SF, tough game
