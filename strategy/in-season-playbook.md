@@ -56,14 +56,20 @@ The agent sets your lineup using, in order:
    often carry real numbers (projected points, matchup grade, ECR rank) or an
    explicit start/sit verdict that already synthesizes projections + matchup +
    role — more useful than reconstructing it from Vegas lines alone.
-   **Known tool limits:** most projection sites (DraftSharks, Razzball, PFF's
-   own projections page, ESPN's projections tool) are blocked for direct page
-   fetch — only what WebSearch's own snippets surface is usable, and exact
-   week-specific point totals often live behind interactive tables that don't
-   show up in a snippet. Season-long per-game averages and positional ranks
-   usually DO surface; treat those as the reliable numeric signal, and be
-   explicit when a search only returned season-level or qualitative data
-   instead of a Week N number.
+   **Known tool limits (expanded 9/15):** direct page fetch is blocked for
+   essentially every major fantasy content site tested so far — DraftSharks,
+   Razzball, PFF's projections page, ESPN (all pages, not just projections/
+   injuries), FantasySquawk, FantasyPros, Bleacher Report, CBS Sports, and
+   reddit.com (the last one also unreachable via WebSearch's domain filter,
+   not just direct fetch). Assume any individual fantasy-content URL will be
+   `EGRESS_BLOCKED` rather than trying it first. Only WebSearch's own crawled
+   snippets are usable, and exact week-specific point totals or interactive
+   tool data (like a specific "experts vs. Vegas" tool page) often live
+   behind content that doesn't show up in a snippet at all. Season-long
+   per-game averages and positional ranks usually DO surface; treat those as
+   the reliable numeric signal, and be explicit when a search only returned
+   season-level, generic league-wide, or qualitative data instead of the
+   specific Week N / roster-relevant number requested.
 5. **Volume/role** — target share, snap share, red-zone touches trump name value.
 6. **Floor vs. ceiling by situation** — if you're the favorite, play floors; if
    you're the underdog that week, play ceilings. The agent adjusts to your
