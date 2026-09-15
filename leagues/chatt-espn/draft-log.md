@@ -103,6 +103,33 @@ just the primary player's.
 **Bottom line: one real action item (Week 5 QB), otherwise the bench depth
 drafted tonight absorbs almost every bye collision on its own.**
 
+## Week 2 lineup (set 9/15, vs. Jason Butts, away)
+
+⏰ **Early lock: LaPorta.** DET @ BUF is Thursday night, 9/17, 8:15pm ET
+(BUF -3.5, total 53.5) — locks well before the rest of the roster.
+
+| Slot | Player | Matchup | Note |
+|------|--------|---------|------|
+| QB | Mahomes | vs IND, SNF | KC -6.5, total 47.5 |
+| RB | Barkley | @ TEN | PHI -7, total 39.5 |
+| RB | Hall | vs GB | GB -4.5, total 44.5 — moved from FLEX into core RB2 |
+| WR | Rice | vs IND, SNF | |
+| WR | Metcalf | @ NE | NE -5.5, total 42.5 |
+| TE | LaPorta | @ BUF | ⏰ **Thursday early lock** — BUF -3.5, total 53.5, best matchup on the roster |
+| FLEX | Deebo Samuel (WR) | vs MIA | SF -12.5, implied ~28 team pts — moved off bench |
+| D/ST | Broncos | vs JAX | DEN -2.5, total 43.5 |
+| K | Dicker | vs LV | LAC -6.5, total 45.5 |
+
+**Bench:** Achane sits this week — MIA is a 12.5-pt underdog @ SF, tough game
+script for the RB room. Deebo takes the FLEX spot instead.
+
+**Why the swap:** Deebo's Week 1 wasn't a fluke — 6 catches on 7 targets, 48
+yards, a TD, plus a carry and return work, in a PPR-friendly role. Verified
+before locking in per the post-game recap discipline (real stat line, not
+just "had a good week"). Caveat: Deebo splits targets with Mike Evans, a
+rookie, and McCaffrey, so role isn't a guarantee every week — revisit if his
+target share drops.
+
 ## Action items before Week 1
 1. **Add a backup/streaming QB before Week 5** — top priority waiver action once
    the season's underway; don't leave it until bye week itself.
