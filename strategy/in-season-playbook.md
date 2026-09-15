@@ -48,11 +48,27 @@ The agent sets your lineup using, in order:
 3. **Vegas** — implied team totals and spreads are the single best public signal
    for expected scoring. High total + favored = good RB spot; high total +
    underdog = good pass-catcher spot.
-4. **Volume/role** — target share, snap share, red-zone touches trump name value.
-5. **Floor vs. ceiling by situation** — if you're the favorite, play floors; if
+4. **Consensus rankings & start/sit verdicts** — for any real bench-vs-starter
+   decision, pull actual numeric/ordinal signal, not just a qualitative
+   matchup read. Query FantasyPros ("<player> Week N ECR ranking"),
+   PFF ("<player> Week N fantasy projection matchup grade"), and CBS/Yahoo/
+   FantasyPros start-or-sit columns ("<position> Week N start sit"). These
+   often carry real numbers (projected points, matchup grade, ECR rank) or an
+   explicit start/sit verdict that already synthesizes projections + matchup +
+   role — more useful than reconstructing it from Vegas lines alone.
+   **Known tool limits:** most projection sites (DraftSharks, Razzball, PFF's
+   own projections page, ESPN's projections tool) are blocked for direct page
+   fetch — only what WebSearch's own snippets surface is usable, and exact
+   week-specific point totals often live behind interactive tables that don't
+   show up in a snippet. Season-long per-game averages and positional ranks
+   usually DO surface; treat those as the reliable numeric signal, and be
+   explicit when a search only returned season-level or qualitative data
+   instead of a Week N number.
+5. **Volume/role** — target share, snap share, red-zone touches trump name value.
+6. **Floor vs. ceiling by situation** — if you're the favorite, play floors; if
    you're the underdog that week, play ceilings. The agent adjusts to your
    matchup, not just raw projections.
-6. **Weather** — wind >15–20 mph and heavy precip downgrade passing/kicking.
+7. **Weather** — wind >15–20 mph and heavy precip downgrade passing/kicking.
 
 ## Post-game recap discipline (learned the hard way — Week 1, 2026)
 

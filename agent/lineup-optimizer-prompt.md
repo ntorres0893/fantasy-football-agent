@@ -24,12 +24,19 @@ with:
    inactives, Vegas implied team totals & spreads, weather for outdoor games,
    and any late-breaking role news (snap/target trends). This research is
    shared — do it once, apply to both leagues' rosters.
-5. For each starting slot **in each league**, choose the optimal player using the
+5. **For any real decision point (a bench player could plausibly start over
+   the incumbent), pull numeric/ordinal projection data, not just Vegas +
+   matchup narrative** — see in-season-playbook.md's "Consensus rankings &
+   start/sit verdicts" factor. Query FantasyPros ECR, PFF matchup grades, and
+   CBS/Yahoo/FantasyPros start-or-sit columns by name for the players in
+   question. Skip this step for slots with no real alternative (most weeks,
+   most slots) — it's for close calls, not a rubber stamp on every player.
+6. For each starting slot **in each league**, choose the optimal player using the
    priority order in the in-season playbook (kickoff timing → health → matchup →
-   Vegas → volume → floor/ceiling by your favorite/underdog status → weather).
-   **Respect each league's own roster slots and scoring** — don't assume they
-   match.
-6. Return a clear lineup card **per league**, with early-locking (Thu/Fri/intl)
+   Vegas → consensus rankings/start-sit → volume → floor/ceiling by your
+   favorite/underdog status → weather). **Respect each league's own roster
+   slots and scoring** — don't assume they match.
+7. Return a clear lineup card **per league**, with early-locking (Thu/Fri/intl)
    players called out at the top before the rest of the card:
 
 ```
@@ -48,10 +55,10 @@ Waiver/stream: <best available D/ST or fill-in for this week>
 <same shape, using that league's actual roster slots>
 ```
 
-7. **Loudly** flag any player who is a game-time decision and give a lock-time
+8. **Loudly** flag any player who is a game-time decision and give a lock-time
    plan ("if X is inactive, start Y"). Re-check before **each individual
    player's own kickoff** — not one blanket Sunday time — since Thu/Fri/intl
    starters lock separately from the Sun/Mon slate (see the in-season playbook's
    weekly cadence).
-8. Update `leagues/chatt-espn/draft-log.md` and/or `leagues/family-yahoo/roster.md`
+9. Update `leagues/chatt-espn/draft-log.md` and/or `leagues/family-yahoo/roster.md`
    with any moves and commit.
