@@ -8,13 +8,17 @@
 
 ## Priority targets (best value — their unused piece fixes our real gap)
 
-1. **Kyler Murray (QB, Pigskin Pugs)** for a spare RB (Roschon Johnson or
-   Kaleb Johnson). Murray is dead weight behind Josh Allen for them; for us
-   he directly plugs the Week 5 hole and has real rushing floor even in a
-   timeshare. Best offer on the board — close to a free upgrade.
-2. **Matthew Stafford (QB, Cayenne You Dig It?!)** for the same tier of RB.
-   Backup plan if the Murray offer doesn't land — Prescott is their guy,
-   Stafford is pure insurance sitting idle.
+1. ~~**Kyler Murray (QB, Pigskin Pugs)**~~ — **DEAD, 9/15.** Murray suffered a
+   concussion in the 1st quarter of Week 1 (helmet-to-helmet hit vs. GB),
+   ruled out for the rest of the game. Carson Wentz filled in and helped
+   Minnesota win 39-22 — meaning Murray may not even get a clean path back
+   to the starting job once cleared, on top of unpredictable concussion
+   recovery timing. He's now the opposite of what we need in emergency QB
+   insurance. Do not pursue.
+2. **Matthew Stafford (QB, Cayenne You Dig It?!)** for a spare RB (Roschon
+   Johnson or Kaleb Johnson) — **now the primary target**, not just backup.
+   Prescott is their guy, Stafford is pure insurance sitting idle. No known
+   issues with him as of 9/15.
 
 ## Upside plays (not urgent, worth floating)
 
@@ -37,5 +41,7 @@
   targets 1-4 above.
 
 ## Status
-All targets above are proposals only — no offers sent yet as of 9/3/2026.
-Update this file as offers go out / get accepted / rejected.
+All targets above are proposals only — no offers sent yet as of 9/15/2026.
+Murray target killed 9/15 after his Week 1 concussion (see above) — send the
+Stafford offer instead. Update this file as offers go out / get accepted /
+rejected.
