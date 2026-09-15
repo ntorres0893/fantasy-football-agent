@@ -159,11 +159,13 @@ stays on the bench this week too — one Week 1 game isn't enough signal to
 start him over an already-proven Deebo; revisit if his role holds up a
 second week.
 
-**Watch item (not a Week 2 lineup change):** our own bench RB Kaleb Johnson
-(GB) may have seen real touches Week 1 — ESPN's Love writeup confirms Josh
-Jacobs was absent for Green Bay. Worth checking Jacobs' status before
-Thursday; if he's out again, Johnson becomes a real deep-flex option down the
-line, not just a name sitting on the bench.
+**Correction 9/15 — Kaleb Johnson watch item retracted.** Verified directly:
+Johnson played zero offensive snaps in Week 1 (2 special-teams snaps only,
+did return kicks). He's actually third-string behind MarShawn Lloyd and
+Chris Brooks in the Packers backfield with Jacobs out, not next in line.
+The earlier note inferring he "may have seen real touches" was wrong —
+correcting rather than leaving it uncorrected in the log. Not a real bench
+asset right now.
 
 **Why the swap:** Deebo's Week 1 wasn't a fluke — 6 catches on 7 targets, 48
 yards, a TD, plus a carry and return work, in a PPR-friendly role. Verified

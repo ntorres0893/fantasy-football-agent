@@ -28,6 +28,18 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-09-15b (Reddit access check + Kaleb Johnson correction)
+- **Reddit is not reachable as a source.** Direct WebFetch to reddit.com
+  fails outright, and WebSearch's domain filter reports reddit.com isn't
+  accessible to the crawler either — this is a hard tool limitation, not a
+  one-off block. Do not plan on r/fantasyfootball as a usable source going
+  forward.
+- **Correction: Kaleb Johnson (RB, GB) is NOT a real handcuff/watch piece.**
+  Verified he played zero offensive snaps in Week 1 (2 special-teams snaps
+  only) — he's third-string behind MarShawn Lloyd and Chris Brooks even with
+  Josh Jacobs out. Retracts the earlier same-day note suggesting he "may have
+  seen real touches."
+
 ### Update 2026-09-15 (ESPN Week 2 waiver wire pickups article — full read)
 - **Devaughn Vele (WR, NO):** 7 targets, 69 yds, TD Week 1 — best game of his
   career. Olave also went for 28.2 pts same game, confirming Shough/NO passing
