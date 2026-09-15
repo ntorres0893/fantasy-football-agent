@@ -149,7 +149,16 @@ once these two claims clear; no one else is racing us for a backup QB.
 | K | Dicker | vs LV | LAC -6.5, total 45.5 |
 
 **Bench:** Achane sits this week — MIA is a 12.5-pt underdog @ SF, tough game
-script for the RB room. Deebo takes the FLEX spot instead.
+script for the RB room. Deebo takes the FLEX spot instead. Vele (new add)
+stays on the bench this week too — one Week 1 game isn't enough signal to
+start him over an already-proven Deebo; revisit if his role holds up a
+second week.
+
+**Watch item (not a Week 2 lineup change):** our own bench RB Kaleb Johnson
+(GB) may have seen real touches Week 1 — ESPN's Love writeup confirms Josh
+Jacobs was absent for Green Bay. Worth checking Jacobs' status before
+Thursday; if he's out again, Johnson becomes a real deep-flex option down the
+line, not just a name sitting on the bench.
 
 **Why the swap:** Deebo's Week 1 wasn't a fluke — 6 catches on 7 targets, 48
 yards, a TD, plus a carry and return work, in a PPR-friendly role. Verified
