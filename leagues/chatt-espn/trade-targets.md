@@ -48,8 +48,10 @@ Murray target killed 9/15 after his Week 1 concussion (see above).
 position league-wide, so it's not worth spending the #1 waiver priority or a
 trade asset on backup QB depth right now. That priority instead went to a
 block claim (Devaughn Vele, WR — see `draft-log.md` Waiver moves; revised
-same day from an initial Michael Mayer/TE pick once Mayer's role was found to
-be contingent on an injured teammate). The Stafford trade offer is paused,
-not dead — revisit as a depth move once QB priority isn't competing with real
+twice same day: first from an initial Michael Mayer/TE pick once Mayer's role
+was found to be contingent on an injured teammate, then the drop side of the
+deal moved off Hunter Henry — a real weekly TE contributor — onto Roschon
+Johnson, a buried RB3 in Chicago). The Stafford trade offer is paused, not
+dead — revisit as a depth move once QB priority isn't competing with real
 difference-maker blocks, or sooner if Mahomes has any health scare before the
 Week 5 bye.
