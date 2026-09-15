@@ -54,6 +54,43 @@ The agent sets your lineup using, in order:
    matchup, not just raw projections.
 6. **Weather** — wind >15–20 mph and heavy precip downgrade passing/kicking.
 
+## Post-game recap discipline (learned the hard way — Week 1, 2026)
+
+> ⚠️ **Never call a stat line "good" from raw yardage/TD counting stats alone.**
+> A first pass of Week 1 recaps described several modest-in-our-scoring
+> performances as a "great week" purely from box-score yardage — without
+> running a single stat line through either league's actual scoring formula,
+> and without checking the real result against the league. The manager caught
+> it: "we scored the least amount of points in the entire league." That's the
+> failure mode to never repeat.
+
+- **Always compute, never eyeball.** Before judging any performance, run it
+  through that league's real scoring formula in
+  `leagues/<league>/league-settings.md`. A 4-catch, 40-yard, no-TD WR game
+  reads as "fine" on a highlight reel and can be genuinely weak in a
+  reception-scoring league (or vice versa in a no-PPR league) — the raw stats
+  don't tell you the fantasy verdict, the math does.
+- **Never make a standings-relative claim without real data.** "Great week,"
+  "worst in the league," "top scorer" — none of these are sayable from web
+  search alone. Either compute an actual point total and compare it to real,
+  known opponent/league numbers, or say plainly "I can estimate X points, but
+  I don't have the real league total to compare it against."
+- **There is no platform API access to either league.** The agent cannot see
+  actual final scores, opponent lineups, or standings directly — ever. When a
+  recap needs that ground truth (a final score, whether a matchup was won,
+  where the team ranks), **ask the manager** for it (a screenshot or a quick
+  paste of the final score/standings) rather than estimating from search.
+- **Treat search results for a game that's live or very recently finished as
+  unreliable, not authoritative.** Live/recent-game search results can be
+  stale, inconsistent, or flatly contradictory across queries (one query
+  returning an early-game snapshot, another a late-game or final-sounding
+  one that doesn't match). When results disagree with each other, say so
+  explicitly and ask the manager for the real number rather than picking
+  whichever result sounds most confident.
+- Once real point totals are known (from the manager, or a stable/settled box
+  score), state them explicitly per player **and** as a team total — not just
+  narrative color like "huge game" or "quiet day."
+
 ## Head-to-head awareness
 
 The agent knows **who you're playing each week** and tailors advice: which of
@@ -92,3 +129,9 @@ with great fantasy playoff matchups.
   any **roster moves** you've made so its picture stays accurate. The repo is
   its memory — we keep each league's own folder current, plus the shared
   `data/player-notes.md`.
+- **After games finish, share the actual final score/result and, when it
+  matters, the league standings.** The agent has no API access to either
+  platform — it cannot see real final scores or standings on its own, only
+  what it can compute from public web data (which is often incomplete or
+  wrong for very recent games). A quick screenshot or paste turns an estimate
+  into a fact.
