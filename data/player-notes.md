@@ -28,6 +28,36 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-09-16 (MNF Week 1 result CONFIRMED; Week 2 Wed injury/schedule check)
+- **Chiefs @ Broncos Week 1 — CONFIRMED (resolves 9/15's contradictory data):
+  Chiefs won 31-10.** Real stat lines now stable across sources:
+  - **Mahomes (Chatt-ESPN QB):** 15/27, 184 pass yds, 2 pass TD, plus 7
+    carries for 23 rush yds and a rush TD. **Computed in our real FULL PPR
+    scoring: 184×0.04 + 2×4 + 23×0.1 + 6 = ~23.7 pts — a legitimately strong
+    QB1 week**, not just a highlight-reel line this time.
+  - **Rice (Chatt-ESPN WR):** caught a short pass and took it 13 yards for a
+    TD. Full catch/target line not confirmed by any source yet — at minimum
+    that's 1 reception + 6 (rec TD) + 1.3 (yardage) ≈ 8.3 pts from the one
+    play, likely more with other targets. Flagging as partial, not a full
+    stat line.
+  - **Waddle (Family-Yahoo WR) — CONFIRMED BAD GAME:** 1 catch for 2 yards
+    on 3 targets, including a dropped 3rd-down target. In 0-PPR that's
+    ~0.2 pts. New offense (Bo Nix, new OC Davis Webb) — one bad Week 1
+    isn't a season verdict, but real signal to watch, not explained away.
+  - Broncos D/ST allowed 31 — moot for us now, we already streamed off them.
+- **Brock Bowers (TE, LV) — Family-Yahoo's actual rostered starter:**
+  questionable for Week 2 @ LAC, expected to play but reports are split on
+  workload — Schefter says realistic chance he returns, but a medical expert
+  specifically flagged re-injury risk this early after a meniscus trim and
+  said playing Week 2 would be "probably... very cautious and limited snap
+  share." **Real decision point for our lineup** — see Family-Yahoo section
+  in today's brief.
+- **Sam LaPorta (TE, DET) — Chatt-ESPN's Thursday early-lock starter:** NOT
+  on Detroit's Week 2 injury report at all — clean, full-go for Thursday's
+  8:15pm ET game @ BUF. Detroit's offensive line is banged up (3 different
+  OL injuries this week, none season-ending) — minor context, not a lineup
+  changer, but worth knowing if Detroit's game script leans pass-heavy.
+
 ### Update 2026-09-15b (Reddit access check + Kaleb Johnson correction)
 - **Reddit is not reachable as a source.** Direct WebFetch to reddit.com
   fails outright, and WebSearch's domain filter reports reddit.com isn't

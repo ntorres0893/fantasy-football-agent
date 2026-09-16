@@ -91,6 +91,32 @@ Bench note: Jadarian Price (RB) played Wednesday 9/9 — already locked in for
 the week regardless of roster slot, not a factor since he wasn't a lineup
 consideration anyway.
 
+## Week 1 results (confirmed 9/16, standard/0-PPR scoring)
+- Daniels: 18/34, 164 yds, 2 TD, 0 INT + 13-yd scramble — solid (WAS lost to PHI 22-24)
+- Bijan: 21 car/83 yds + 8 rec/90 yds + 1 TD = 173 total yards — huge game (ATL lost to PIT anyway)
+- Chase Brown: 16 car/56 yds + 1 rush TD + 5 rec/22 yds — solid floor (CIN beat TB 33-27)
+- McMillan: 5 rec/75 yds on 8 targets, but lost a fumble (−2) — good yardage undercut by the turnover (CAR lost to CHI 37-59)
+- McBride (moved to TE): 9 rec/95 yds/1 TD on 13 targets — great game, the Bowers swap paid off immediately (ARI upset LAC 26-14)
+- Loop: 3-for-3 FG incl. a 57-yd career long + 5-for-5 XP — great game (BAL beat IND 41-23)
+- Vikings D/ST: held GB to 22, 4 sacks, 1 INT — solid week despite tough matchup on paper (MIN beat GB 39-22)
+- **Waddle: 1 catch/2 yds on 3 targets (incl. a dropped 3rd-down target) — genuinely bad game**, ~0.2 pts in our scoring. New Denver offense under new OC — one bad week, not a verdict yet, but a real watch item.
+
+## Week 2 — opponent not yet known (no platform API access; ask the manager)
+
+**Bowers decision:** questionable to return from his meniscus trim (@ LAC).
+Reports split — some say realistic chance he plays meaningful snaps, one
+medical opinion specifically warns Week 2 is early for a full workload and
+re-injury risk is real. **Leaning toward NOT rushing him back into the
+starting lineup yet** — keep McBride at TE and Jameson Williams at flex
+(exactly what worked last week) unless Bowers is confirmed full-workload,
+not just active, by Sunday's lock. Revisit Friday/Saturday practice reports.
+
+Other Week 2 matchups for context (opponent-independent, still useful for
+close calls): Daniels @ DAL · Bijan vs CAR · Chase Brown @ HOU (CIN +2.5) ·
+McMillan @ ATL · McBride vs SEA · Loop vs NO (BAL -8.5, a big home favorite —
+great kicker spot) · Vikings D/ST @ CHI (CHI -5.5, total 49.5 — tough spot,
+consider streaming).
+
 ## Moves log
 *(waiver adds/drops, trades — dated entries, newest on top)*
 - 2026-09-05 — ✅ McMillan flag downgraded: yesterday's conflicting reports
