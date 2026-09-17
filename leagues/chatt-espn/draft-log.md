@@ -25,18 +25,18 @@ Slot 8 · Picks: 8, 13, 28, 33, 48, 53, 68, 73, 88, 93, 108, 113, 128, 133, 148,
 
 ## Final roster (suggested starters vs. bench)
 
-**Starters (as of Week 2, see Week 2 lineup section below for current):**
+**Starters (as of Week 2, confirmed via app 9/17 — see Week 2 lineup section below):**
 - QB: Patrick Mahomes (KC)
 - RB: Saquon Barkley (PHI), Breece Hall (NYJ)
 - WR: Rashee Rice (KC), DK Metcalf (PIT)
 - TE: Sam LaPorta (DET)
-- FLEX: Deebo Samuel (WR, SF)
-- D/ST: Buccaneers (TB)
+- FLEX: De'Von Achane (RB, MIA)
+- D/ST: Broncos (DEN)
 - K: Cameron Dicker (LAC)
 
-**Bench (7, as of Week 2 waivers 9/15):** Rachaad White (RB, TB — team status
-being double-checked, see waiver moves note), Kaleb Johnson (RB, GB), Achane
-(RB, MIA — benched Week 2, tough matchup), Matthew Golden (WR, GB), Kayshon
+**Bench (7, as of Week 2 waivers 9/15, confirmed via app 9/17):** Rachaad White (RB, TB — team status
+being double-checked, see waiver moves note), Kaleb Johnson (RB, GB), Deebo Samuel
+(WR, SF — benched Week 2, see correction below), Matthew Golden (WR, GB), Kayshon
 Boutte (WR, HOU), Hunter Henry (TE, NE — kept, see waiver moves note),
 Devaughn Vele (WR, NO — added off waivers, replaces Roschon Johnson, dropped)
 
@@ -151,15 +151,26 @@ once the Vele claim clears; no one else is racing us for a backup QB.
 | WR | Rice | vs IND, SNF | |
 | WR | Metcalf | @ NE | NE -5.5, total 42.5 |
 | TE | LaPorta | @ BUF | ⏰ **Thursday early lock** — BUF -3.5, total 53.5, best matchup on the roster |
-| FLEX | Deebo Samuel (WR) | vs MIA | SF -12.5, implied ~28 team pts — moved off bench |
-| D/ST | Buccaneers | vs CLE | TB -8.5, total 40.5 — streamed in over Broncos (see waiver moves above) |
+| FLEX | Achane (RB) | @ SF | ⚠️ **REVERSED 9/17** — see correction below, staying with Achane after all |
+| D/ST | Broncos | vs JAX | Buccaneers claim did not go through (see waiver moves above) — staying with Broncos, fine matchup anyway (6.41 proj vs. opponent's 6.29) |
 | K | Dicker | vs LV | LAC -6.5, total 45.5 |
 
-**Bench:** Achane sits this week — MIA is a 12.5-pt underdog @ SF, tough game
-script for the RB room. Deebo takes the FLEX spot instead. Vele (new add)
-stays on the bench this week too — one Week 1 game isn't enough signal to
-start him over an already-proven Deebo; revisit if his role holds up a
-second week.
+**Bench:** Deebo Samuel, Vele, White, Golden, Boutte, Henry, Kaleb Johnson.
+
+**Correction 9/17 — reversing the Deebo-for-Achane swap.** Confirmed via
+ESPN's own in-app projections (a real data source, not our own estimate):
+**Achane projects 17.14 pts in FLEX vs. Deebo's 12.01 on the bench** — a
+5-point gap in Achane's favor despite the tough MIA @ SF matchup. This beats
+the Vegas-game-script-only reasoning used on 9/15 to bench him. **Reverting:
+Achane stays in FLEX, Deebo stays on the bench this week.** Good catch
+before Sunday's lock rather than after.
+
+**Waiver outcome confirmed 9/17:** Vele's claim succeeded (on roster,
+Roschon Johnson gone). The Buccaneers D/ST claim did not go through — Broncos
+remains the starter. Likely explanation: winning the Vele claim (priority 1)
+dropped our priority to the back of the list for the D/ST claim (priority 2),
+and another team beat us to the Browns-matchup streamer. No real cost here —
+Broncos vs. Texans projects as a near-even matchup anyway.
 
 **Correction 9/15 — Kaleb Johnson watch item retracted.** Verified directly:
 Johnson played zero offensive snaps in Week 1 (2 special-teams snaps only,

@@ -28,6 +28,20 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-09-17 (real ESPN in-app projections — a new usable source)
+- **When the manager screenshots the ESPN app's Matchup/Roster tabs, that's a
+  genuinely better source than our own web search estimates** — real
+  per-player weekly projections and actual live lineup/waiver state, not
+  inferred from Vegas lines or generic articles. Use it to sanity-check our
+  own reasoning when available, and prefer it over our own projection when
+  they disagree.
+- **Chatt-ESPN Week 2 confirmed via app:** Vele's waiver claim succeeded
+  (on roster). The Buccaneers D/ST claim did NOT go through — Broncos is
+  still the starter, likely lost priority after the Vele claim cleared.
+  **Achane (17.14 proj) vs. Deebo (12.01 proj) on the bench** reversed our
+  9/15 FLEX decision — see `leagues/chatt-espn/draft-log.md` for the full
+  correction. Achane stays in, Deebo stays benched this week.
+
 ### Update 2026-09-16 (MNF Week 1 result CONFIRMED; Week 2 Wed injury/schedule check)
 - **Chiefs @ Broncos Week 1 — CONFIRMED (resolves 9/15's contradictory data):
   Chiefs won 31-10.** Real stat lines now stable across sources:
