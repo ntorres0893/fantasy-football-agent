@@ -101,21 +101,40 @@ consideration anyway.
 - Vikings D/ST: held GB to 22, 4 sacks, 1 INT — solid week despite tough matchup on paper (MIN beat GB 39-22)
 - **Waddle: 1 catch/2 yds on 3 targets (incl. a dropped 3rd-down target) — genuinely bad game**, ~0.2 pts in our scoring. New Denver offense under new OC — one bad week, not a verdict yet, but a real watch item.
 
-## Week 2 — opponent not yet known (no platform API access; ask the manager)
+## Week 2 (confirmed via app 9/17 — opponent: Andrew)
 
-**Bowers decision:** questionable to return from his meniscus trim (@ LAC).
-Reports split — some say realistic chance he plays meaningful snaps, one
-medical opinion specifically warns Week 2 is early for a full workload and
-re-injury risk is real. **Leaning toward NOT rushing him back into the
-starting lineup yet** — keep McBride at TE and Jameson Williams at flex
-(exactly what worked last week) unless Bowers is confirmed full-workload,
-not just active, by Sunday's lock. Revisit Friday/Saturday practice reports.
+⏰ **Locks tonight: Jameson Williams (FLEX)** — DET @ BUF, Thu 8:15pm ET,
+same game as Chatt-ESPN's LaPorta. Lock this in before kickoff, not Sunday.
 
-Other Week 2 matchups for context (opponent-independent, still useful for
-close calls): Daniels @ DAL · Bijan vs CAR · Chase Brown @ HOU (CIN +2.5) ·
-McMillan @ ATL · McBride vs SEA · Loop vs NO (BAL -8.5, a big home favorite —
-great kicker spot) · Vikings D/ST @ CHI (CHI -5.5, total 49.5 — tough spot,
-consider streaming).
+Projected total: **104.48 (us) vs. 102.99 (Andrew)** — a near-even matchup,
+slight edge to us.
+
+| Slot | Player | Matchup | ESPN/Yahoo proj |
+|------|--------|---------|------|
+| QB | Daniels | @ DAL, Sun 4:25pm | 23.91 |
+| RB | Bijan | vs CAR, Sun 1pm | 18.35 |
+| RB | Chase Brown | @ HOU, Sun 1pm | 11.33 |
+| WR | Waddle | vs JAX, Sun 4:05pm | 8.78 |
+| WR | McMillan | @ ATL, Sun 1pm | 9.12 |
+| TE | McBride | vs SEA, Sun 4:25pm | 8.54 |
+| FLEX | Jameson Williams | @ BUF, **Thu 8:15pm** ⏰ | 8.33 |
+| K | Loop | vs NO, Sun 1pm | 9.05 |
+| D/ST | Vikings | @ CHI, Sun 1pm | 7.07 |
+
+**Bench:** Bowers (Q, TE, LV @ LAC Sun 4:05pm, proj 7.48 — below McBride's
+8.54, confirms staying benched is correct even with real numbers), Odunze
+(7.11), Jadarian Price (10.68 — can't start him regardless, no RB-eligible
+flex in this league), **Prescott (QB, DAL vs WAS, proj 25.91).**
+
+**Close call, real this time:** Prescott projects ~2 pts higher than Daniels
+in the same game (mirrored matchup). No injury concern on Daniels. Thin
+margin on a single week's number, and Daniels' rushing floor adds stability
+a pass-only projection undersells — leaning toward staying with Daniels, but
+flagging it as a legitimate option if a bigger edge shows up before lock.
+
+**Bowers decision, resolved by real data:** keep McBride at TE and Jameson
+Williams at flex — Bowers' own projection (7.48) is lower anyway, so this
+isn't even a close call once real numbers are in.
 
 ## Moves log
 *(waiver adds/drops, trades — dated entries, newest on top)*
