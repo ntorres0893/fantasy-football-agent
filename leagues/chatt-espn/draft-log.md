@@ -28,15 +28,15 @@ Slot 8 · Picks: 8, 13, 28, 33, 48, 53, 68, 73, 88, 93, 108, 113, 128, 133, 148,
 **Starters (as of Week 2, confirmed via app 9/17 — see Week 2 lineup section below):**
 - QB: Patrick Mahomes (KC)
 - RB: Saquon Barkley (PHI), Breece Hall (NYJ)
-- WR: Rashee Rice (KC), DK Metcalf (PIT)
+- WR: Rashee Rice (KC), Deebo Samuel (WR, SF)
 - TE: Sam LaPorta (DET)
 - FLEX: De'Von Achane (RB, MIA)
 - D/ST: Broncos (DEN)
 - K: Cameron Dicker (LAC)
 
-**Bench (7, as of Week 2 waivers 9/15, confirmed via app 9/17):** Rachaad White (RB, TB — team status
-being double-checked, see waiver moves note), Kaleb Johnson (RB, GB), Deebo Samuel
-(WR, SF — benched Week 2, see correction below), Matthew Golden (WR, GB), Kayshon
+**Bench (7, as of Week 2 lineup 9/17):** Rachaad White (RB, TB — team status
+being double-checked, see waiver moves note), Kaleb Johnson (RB, GB), DK Metcalf
+(WR, PIT — benched Week 2, see swap note below), Matthew Golden (WR, GB), Kayshon
 Boutte (WR, HOU), Hunter Henry (TE, NE — kept, see waiver moves note),
 Devaughn Vele (WR, NO — added off waivers, replaces Roschon Johnson, dropped)
 
@@ -149,13 +149,24 @@ once the Vele claim clears; no one else is racing us for a backup QB.
 | RB | Barkley | @ TEN | PHI -7, total 39.5 |
 | RB | Hall | vs GB | GB -4.5, total 44.5 — moved from FLEX into core RB2 |
 | WR | Rice | vs IND, SNF | |
-| WR | Metcalf | @ NE | NE -5.5, total 42.5 |
+| WR | Deebo Samuel | vs MIA | ⚠️ **SWAPPED IN 9/17 for Metcalf** — see below |
 | TE | LaPorta | @ BUF | ⏰ **Thursday early lock** — BUF -3.5, total 53.5, best matchup on the roster |
 | FLEX | Achane (RB) | @ SF | ⚠️ **REVERSED 9/17** — see correction below, staying with Achane after all |
 | D/ST | Broncos | vs JAX | Buccaneers claim did not go through (see waiver moves above) — staying with Broncos, fine matchup anyway (6.41 proj vs. opponent's 6.29) |
 | K | Dicker | vs LV | LAC -6.5, total 45.5 |
 
-**Bench:** Deebo Samuel, Vele, White, Golden, Boutte, Henry, Kaleb Johnson.
+**Bench:** DK Metcalf, Vele, White, Golden, Boutte, Henry, Kaleb Johnson.
+
+**Metcalf ↔ Deebo swap, 9/17.** Two real reasons, not a hunch: (1) SF rookie
+WR De'Zhaun Stribling had ankle surgery and is out ~10 weeks (target return
+~Nov 22) — locks in Deebo's expanded target share for essentially two months,
+not just this week. (2) Metcalf draws a tough matchup @ NE — Christian
+Gonzalez, one of the better young corners in the league, is expected to
+shadow him; he was already held to 4/9 targets for 40 yds in Week 1 against
+a lesser defense. Confirmed by ESPN's own projections too: Deebo (12.01) was
+already tabbed slightly ahead of Metcalf (11.18) before even factoring in the
+Gonzalez shadow coverage. Metcalf goes to the bench, Deebo starts at WR
+(Achane, not Deebo, still holds the FLEX spot — see above).
 
 **Correction 9/17 — reversing the Deebo-for-Achane swap.** Confirmed via
 ESPN's own in-app projections (a real data source, not our own estimate):
