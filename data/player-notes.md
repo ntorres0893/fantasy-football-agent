@@ -28,6 +28,32 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-09-18 (TNF result confirmed; Bowers trending worse, not better)
+- **Bills 41, Lions 31 (Thu 9/17) — confirmed final.** Josh Allen had 5 total
+  TDs; Jared Goff threw for 327 yds/4 TD in the loss.
+  - **LaPorta (Chatt-ESPN TE): 6 catches on 7 targets, 52 yds, 1 TD — a great
+    game.** Computed in our real scoring: 6 (rec) + 5.2 (yds) + 6 (rec TD) =
+    **17.2 pts.**
+  - **Jameson Williams (Family-Yahoo FLEX): stat line UNCONFIRMED.** Search
+    returned two directly contradictory headlines — "career-high 143 rec
+    yds in win" and "37 yds/TD in loss" (48-42 score) — neither matches our
+    actual 41-31 final, so both are almost certainly stale/wrong-game data.
+    **Not reporting a number.** Team offense scored 31 with 4 total passing
+    TDs, so he likely contributed positively, but no confirmed line yet —
+    will check again once the box score stabilizes.
+- **Brock Bowers (TE, LV) — Family-Yahoo bench:** did not practice Wed,
+  Thu, OR Fri — three straight DNPs, officially "day-to-day," per HC **Klint
+  Kubiak** (resolves an earlier name conflict between Kubiak/Carroll — Kubiak
+  is correct). Still theoretically possible for Monday's game vs. LAC, but
+  trending worse across the week, not better. **Reinforces staying with
+  McBride/Jameson Williams** — already the plan, now with more support.
+- **Jayden Daniels injury story from 9/17: appears to have been noise.**
+  No other source repeated it in today's research pass. Treating as resolved
+  false alarm per the flag raised yesterday — no change to the Family-Yahoo
+  QB plan.
+- No new negative flags found today on Mahomes, Rice, Barkley, Achane,
+  Deebo, Bijan, Chase Brown, McMillan, Loop, or the Vikings D/ST.
+
 ### Update 2026-09-17 (real ESPN in-app projections — a new usable source)
 - **When the manager screenshots the ESPN app's Matchup/Roster tabs, that's a
   genuinely better source than our own web search estimates** — real

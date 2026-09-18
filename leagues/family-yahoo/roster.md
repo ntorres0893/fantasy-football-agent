@@ -103,8 +103,16 @@ consideration anyway.
 
 ## Week 2 (confirmed via app 9/17 — opponent: Andrew)
 
-⏰ **Locks tonight: Jameson Williams (FLEX)** — DET @ BUF, Thu 8:15pm ET,
-same game as Chatt-ESPN's LaPorta. Lock this in before kickoff, not Sunday.
+✅ **Jameson Williams played 9/17** (DET lost to BUF 41-31, Goff 327 yds/4 TD).
+**Stat line unconfirmed** — search returned two directly contradictory
+numbers (143 yds "in win" vs. 37 yds/TD "in loss," neither matching our real
+41-31 result), almost certainly stale/wrong-game data. Not reporting a
+number; will check again once the box score stabilizes. Locked in either way.
+
+**Bowers update 9/18:** did not practice Wed, Thu, OR Fri — three straight
+DNPs, officially day-to-day per HC Klint Kubiak. Still theoretically
+possible Monday, but trending worse across the week. Reinforces staying with
+McBride/Jameson Williams for Sunday's lock.
 
 Projected total: **104.48 (us) vs. 102.99 (Andrew)** — a near-even matchup,
 slight edge to us.

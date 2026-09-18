@@ -150,7 +150,7 @@ once the Vele claim clears; no one else is racing us for a backup QB.
 | RB | Hall | vs GB | GB -4.5, total 44.5 — moved from FLEX into core RB2 |
 | WR | Rice | vs IND, SNF | |
 | WR | Deebo Samuel | vs MIA | ⚠️ **SWAPPED IN 9/17 for Metcalf** — see below |
-| TE | LaPorta | @ BUF | ⏰ **Thursday early lock** — BUF -3.5, total 53.5, best matchup on the roster |
+| TE | LaPorta | @ BUF | ✅ **LOCKED IN, played 9/17: 6 rec/7 tgt, 52 yds, 1 TD = 17.2 pts — great game** (DET lost 41-31) |
 | FLEX | Achane (RB) | @ SF | ⚠️ **REVERSED 9/17** — see correction below, staying with Achane after all |
 | D/ST | Broncos | vs JAX | Buccaneers claim did not go through (see waiver moves above) — staying with Broncos, fine matchup anyway (6.41 proj vs. opponent's 6.29) |
 | K | Dicker | vs LV | LAC -6.5, total 45.5 |
