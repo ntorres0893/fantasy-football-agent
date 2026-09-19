@@ -28,6 +28,22 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-09-19 (Saturday check — Bowers downgraded, Burrow clean)
+- **Brock Bowers (TE, LV) — Family-Yahoo bench: downgraded to DOUBTFUL** on
+  the final injury report (from Questionable). He did return to practice
+  Friday for the first time since the meniscus trim — real progress — but
+  HC Klint Kubiak said he'll be worked out pregame Monday before a final
+  call, i.e. a game-day decision. Doubtful is a real signal leaning toward
+  him not playing (or barely playing) even if activated. **Final call:
+  staying with McBride/Jameson Williams for Sunday's lock** — this is the
+  clearest data point yet supporting that plan.
+- **Joe Burrow (QB, CIN) — Chase Brown's own QB, Family-Yahoo RB:**
+  questionable with back tightness, but full participant in Friday's
+  practice and expected to start per HC Zac Taylor. Precautionary
+  designation, not a real threat to Chase Brown's game script.
+- No new flags on Mahomes, Rice, Barkley, Hall, Achane, Deebo, Daniels,
+  Bijan, Waddle, McMillan, McBride, Loop, or the Vikings D/ST.
+
 ### Update 2026-09-18 (TNF result confirmed; Bowers trending worse, not better)
 - **Bills 41, Lions 31 (Thu 9/17) — confirmed final.** Josh Allen had 5 total
   TDs; Jared Goff threw for 327 yds/4 TD in the loss.
