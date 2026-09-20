@@ -28,6 +28,19 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-09-20 (Sunday final check — all clear across both rosters)
+- **Rashee Rice (WR, KC) — Chatt-ESPN starter:** had a knee issue on the
+  Week 2 injury report earlier in the week that we hadn't logged yet — now
+  **removed from the report entirely, fully clear** for today's SNF game.
+- **Cooper Rush (QB, ATL) — Bijan Robinson's own QB, Family-Yahoo:** starting
+  again vs. CAR (Michael Penix Jr. still out, ACL recovery). Not a change
+  from Week 1 — Rush also started the opener — logging it since it wasn't
+  in our notes yet. A backup QB under center can mean a more run-heavy game
+  plan, which is neutral-to-positive for Bijan in our 0-PPR scoring.
+- No negative flags found on Mahomes, Barkley, Hall, Achane, Deebo, Daniels,
+  Chase Brown, Waddle, McMillan, McBride, Loop, or the Vikings D/ST — both
+  full Sunday lineups are clear to go as set.
+
 ### Update 2026-09-19 (Saturday check — Bowers downgraded, Burrow clean)
 - **Brock Bowers (TE, LV) — Family-Yahoo bench: downgraded to DOUBTFUL** on
   the final injury report (from Questionable). He did return to practice
