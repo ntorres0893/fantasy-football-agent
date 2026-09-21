@@ -101,6 +101,36 @@ consideration anyway.
 - Vikings D/ST: held GB to 22, 4 sacks, 1 INT — solid week despite tough matchup on paper (MIN beat GB 39-22)
 - **Waddle: 1 catch/2 yds on 3 targets (incl. a dropped 3rd-down target) — genuinely bad game**, ~0.2 pts in our scoring. New Denver offense under new OC — one bad week, not a verdict yet, but a real watch item.
 
+## Week 2 results (confirmed 9/21, standard/0-PPR scoring)
+- Daniels: 11/17, 96 yds, 1 pass TD + 7 car/69 yds before leaving with injury
+  (~16.7 pts in a half) — **🚨 dislocated his LEFT ELBOW late in the 1st half,
+  the same recurring injury that cost him 8 games combined in 2025.** No
+  fracture, but expect a real multi-week absence — see QB plan below.
+  (WAS lost to DAL 37-20)
+- Bijan: 16 car/72 yds + 3 rec/9 yds, no TD — modest in a 34-3 blowout loss (~8.1 pts)
+- Chase Brown: 20 car/80 yds + 3 rec/2 yds, no TD — solid floor (CIN beat HOU 20-6, ~8.2 pts)
+- Waddle: 8 rec/138 yds, no TD — **big bounce-back** after a bad Week 1 (DEN beat JAX, ~15.8 pts)
+- McMillan: 5 rec/101 yds, game-high on the team — great game (CAR beat ATL 34-3, ~12.1 pts)
+- McBride: 8 rec/41 yds, 1 TD — good TE week (ARI lost to SEA, ~10.1 pts)
+- Jameson Williams: played Thursday, exact stat line still unconfirmed (contradictory search data)
+- Vikings D/ST: **great week** — won 9-3 @ CHI, 2 sacks, a fumble recovery, a blocked FG (~15 pts)
+- Loop: excellent matchup (BAL -8.5, implied 28 pts) but exact in-game stat line unconfirmed
+
+## 🚨 QB plan going forward — Daniels injured, Prescott starts
+
+Jayden Daniels (dislocated elbow) is expected to miss real time — this is
+the same injury that cost him 8 games combined last season, and it recurred
+once already after an initial 4-week absence. Real timeline pending more
+tests Monday, but treat this as **multi-week, not a one-week fill-in
+situation.**
+
+**The plan: start Dak Prescott.** He's already been on our bench all season
+as the built-in hedge, and he just threw for 279 yds/4 TD (8-153/2 TD to
+CeeDee Lamb) in the same Week 2 game Daniels got hurt in — not a cold streamer
+pickup, a proven starting-caliber arm already on the roster. No waiver move
+needed. Revisit if Daniels' actual return timeline comes back shorter than
+expected, but plan around Prescott for at least the next several weeks.
+
 ## Week 2 (confirmed via app 9/17 — opponent: Andrew)
 
 ✅ **Jameson Williams played 9/17** (DET lost to BUF 41-31, Goff 327 yds/4 TD).
@@ -109,10 +139,9 @@ numbers (143 yds "in win" vs. 37 yds/TD "in loss," neither matching our real
 41-31 result), almost certainly stale/wrong-game data. Not reporting a
 number; will check again once the box score stabilizes. Locked in either way.
 
-**Bowers update 9/18:** did not practice Wed, Thu, OR Fri — three straight
-DNPs, officially day-to-day per HC Klint Kubiak. Still theoretically
-possible Monday, but trending worse across the week. Reinforces staying with
-McBride/Jameson Williams for Sunday's lock.
+**Bowers update — RULED OUT (inactive) for Sunday's game.** The Doubtful tag
+resolved to a scratch — confirms staying with McBride/Jameson Williams was
+exactly right.
 
 Projected total: **104.48 (us) vs. 102.99 (Andrew)** — a near-even matchup,
 slight edge to us.

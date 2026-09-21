@@ -145,15 +145,23 @@ once the Vele claim clears; no one else is racing us for a backup QB.
 
 | Slot | Player | Matchup | Note |
 |------|--------|---------|------|
-| QB | Mahomes | vs IND, SNF | KC -6.5, total 47.5 |
-| RB | Barkley | @ TEN | PHI -7, total 39.5 |
-| RB | Hall | vs GB | GB -4.5, total 44.5 — moved from FLEX into core RB2 |
-| WR | Rice | vs IND, SNF | |
-| WR | Deebo Samuel | vs MIA | ⚠️ **SWAPPED IN 9/17 for Metcalf** — see below |
+| QB | Mahomes | vs IND, SNF | ✅ 32/47, 382 yds, 3 TD = **27.3 pts** (KC won 33-30 OT) |
+| RB | Barkley | @ TEN | ✅ 4 car/9 yds ≈ 0.9 pts — **suffered a stinger, limited most of the game** (PHI won 24-20). Real flag for next week. |
+| RB | Hall | vs GB | ✅ 16 car/29 yds + 5 rec/63 yds = **14.2 pts** (NYJ lost 20-17 OT) |
+| WR | Rice | vs IND, SNF | ✅ 4 rec/83 yds, no TD = **12.3 pts** |
+| WR | Deebo Samuel | vs MIA | ✅ 3 rec/31 yds + 1 car/4 yds, no TD = **6.5 pts** (SF won 35-13) |
 | TE | LaPorta | @ BUF | ✅ **LOCKED IN, played 9/17: 6 rec/7 tgt, 52 yds, 1 TD = 17.2 pts — great game** (DET lost 41-31) |
-| FLEX | Achane (RB) | @ SF | ⚠️ **REVERSED 9/17** — see correction below, staying with Achane after all |
-| D/ST | Broncos | vs JAX | Buccaneers claim did not go through (see waiver moves above) — staying with Broncos, fine matchup anyway (6.41 proj vs. opponent's 6.29) |
-| K | Dicker | vs LV | LAC -6.5, total 45.5 |
+| FLEX | Achane (RB) | @ SF | ✅ 20 car/74 yds + 3 rec/19 yds, no TD = **12.3 pts** (MIA lost 35-13) |
+| D/ST | Broncos | vs JAX | ✅ won, overcame a 10-pt deficit — full box score TBD |
+| K | Dicker | vs LV | ✅ 2/2 FG, 2/2 PAT, missed a 58-yarder (LAC lost 26-14) — exact FG distances unconfirmed |
+
+**Week 2 team total (partial, D/ST + exact K pending): ~90.7 pts across 7 confirmed
+slots.** Real, computed, not eyeballed — see the post-game recap discipline.
+
+**Watch item for Week 3: Barkley's stinger.** Limited to 4 touches after
+getting hurt on Philadelphia's first offensive snap. Stingers are usually
+short-term, but check Wednesday's practice report before locking next week's
+lineup rather than assuming a clean bill of health.
 
 **Bench:** DK Metcalf, Vele, White, Golden, Boutte, Henry, Kaleb Johnson.
 

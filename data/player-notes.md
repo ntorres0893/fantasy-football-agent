@@ -28,6 +28,50 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-09-21 (Monday recap — Daniels dislocated elbow, real Week 2 point totals)
+- 🚨 **Jayden Daniels (QB, WAS) — Family-Yahoo starter: dislocated his LEFT
+  ELBOW** late in the 1st half vs. Dallas — the same recurring injury that
+  ended his 2025 season (missed 4 weeks, returned, re-injured it, missed the
+  final 4 games). X-rays showed no fracture, but he's expected to miss real
+  time — conservative recovery is typically 6-8 weeks, though his own
+  history with this exact injury could run longer. More tests Monday will
+  set the real timeline. **This is the headline of the week — see
+  `leagues/family-yahoo/roster.md` for the QB plan going forward
+  (Prescott, already on our bench, is the obvious next start).**
+- **Brock Bowers (TE, LV):** ruled OUT (inactive) for Sunday's game vs. LAC
+  — the Doubtful tag resolved to a scratch. Confirms staying with
+  McBride/Jameson Williams was exactly right.
+
+### Week 2 Sunday/Monday results, computed in real scoring:
+
+**Chatt-ESPN (FULL PPR):**
+- Mahomes: 32/47, 382 yds, 3 pass TD (KC beat IND 33-30 OT) = **27.3 pts**
+- Rice: 4 rec/83 yds, no TD = **12.3 pts**
+- Barkley: 4 car/9 yds — **suffered a stinger, limited to start of 2nd half
+  on** (PHI beat TEN 24-20) = **~0.9 pts, a real injury flag for next week**
+- Hall: 16 car/29 yds + 5 rec/63 yds (NYJ lost to GB 20-17 OT) = **14.2 pts**
+- Achane: 20 car/74 yds + 3 rec/19 yds (MIA lost to SF 35-13) = **12.3 pts**
+- Deebo: 3 rec/31 yds + 1 car/4 yds, no TD (SF won 35-13) = **6.5 pts**
+- LaPorta: already logged Thursday = **17.2 pts**
+- Broncos D/ST: won vs. JAX, overcame a 10-pt deficit — full box score TBD
+- Dicker: 2/2 FG, 2/2 PAT, missed a 58-yd attempt (LAC lost to LV 26-14) —
+  exact FG distances for the makes unconfirmed
+
+**Family-Yahoo (standard/0-PPR):**
+- Daniels (before injury): 11/17, 96 yds, 1 pass TD + 7 car/69 yds (WAS lost
+  to DAL 37-20) = **~16.7 pts in a half of football**
+- Bijan: 16 car/72 yds + 3 rec/9 yds, no TD (ATL lost to CAR 34-3) = **~8.1 pts**
+- Chase Brown: 20 car/80 yds + 3 rec/2 yds, no TD (CIN beat HOU 20-6) = **~8.2 pts**
+- Waddle: 8 rec/138 yds, no TD — **big bounce-back after a bad Week 1**
+  (DEN beat JAX) = **~15.8 pts**
+- McMillan: 5 rec/101 yds, game-high (CAR beat ATL 34-3) = **~12.1 pts**
+- McBride: 8 rec/41 yds, 1 TD (ARI lost to SEA) = **~10.1 pts**
+- Vikings D/ST: won 9-3 vs. CHI — 2 sacks, a fumble recovery, a blocked FG,
+  held Chicago to 3 points = **~15 pts, a great week**
+- Loop: matchup was excellent (Ravens -8.5, implied 28 team pts) — exact
+  in-game make/miss count unconfirmed by search, cumulative-season stats
+  came back instead of this-game-only numbers
+
 ### Update 2026-09-20 (Sunday final check — all clear across both rosters)
 - **Rashee Rice (WR, KC) — Chatt-ESPN starter:** had a knee issue on the
   Week 2 injury report earlier in the week that we hadn't logged yet — now
