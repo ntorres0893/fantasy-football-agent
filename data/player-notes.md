@@ -28,6 +28,27 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-09-22 (Tuesday — Daniels timeline still open, Barkley trending fine)
+- **Jayden Daniels (QB, WAS):** no fracture confirmed, but still no firm
+  return timeline — seeing specialists Tuesday and Wednesday this week,
+  expected (per HC Dan Quinn) back "this season," and reportedly trending
+  toward an IR move (4+ games). **Washington itself is starting Marcus
+  Mariota** — irrelevant to us, that's a different player on a different
+  roster than our own Dak Prescott. **No change to our plan: Prescott
+  starts** until Daniels has a real, confirmed return week.
+- **Saquon Barkley (RB, PHI) — Chatt-ESPN starter:** better news than
+  feared. Coach Sirianni said the stinger "did not sound like a major
+  injury" and called it "more cautious than anything." MRI today. Eagles
+  are hopeful he's good for the Week 3 MNF game vs. Chicago — extra
+  recovery time built in either way. Downgrading from "real flag" to
+  "probably fine, confirm Thursday/Friday."
+- **General Tuesday waiver scan:** nothing addresses a real hole on either
+  roster. Marcus Mariota is being pushed as a Daniels replacement
+  leaguewide — not relevant to us, we already have a stronger real option
+  (Prescott) rostered. Other notable Week 2 breakouts (Adonai Mitchell,
+  Rashod Bateman, Keon Coleman, Pat Freiermuth) don't fill a need on either
+  roster right now.
+
 ### Update 2026-09-21 (Monday recap — Daniels dislocated elbow, real Week 2 point totals)
 - 🚨 **Jayden Daniels (QB, WAS) — Family-Yahoo starter: dislocated his LEFT
   ELBOW** late in the 1st half vs. Dallas — the same recurring injury that
