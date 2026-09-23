@@ -28,6 +28,25 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-09-23 (Wednesday — Week 3 early-lock check, Barkley/Daniels still pending)
+- **⏰ Week 3 early lock: Bijan Robinson (Family-Yahoo RB, ATL)** — Falcons
+  @ Packers is **Thursday 9/24, 8:15pm ET** (GB -6.5/-7, total 44.5). No real
+  alternative on our roster either way, so this is a "lock the date in your
+  head" flag, not a start/sit decision — but it locks two full days before
+  the rest of the Sunday slate, so don't let it get decided as an
+  afterthought.
+- **No Chatt-ESPN starters play Thursday or internationally this week** —
+  the Ravens/Cowboys Rio game (Loop's Ravens, Family-Yahoo) is actually
+  **Sunday 9/27, not an early game** despite being international. Full
+  Sunday-slate lock applies as normal.
+- **Barkley:** no new negative news. Eagles' official injury report drops
+  Thursday; still trending toward playing Monday's MNF game vs. Chicago.
+  Check back Thursday/Friday.
+- **Daniels:** still no final return timeline — saw specialists this week,
+  surgery is genuinely on the table (depends on elbow stability), real
+  clarity expected Wednesday/Thursday per the team. IR (4+ games) remains
+  the likely outcome. **No change: Prescott stays the plan.**
+
 ### Update 2026-09-22 (Tuesday — Daniels timeline still open, Barkley trending fine)
 - **Jayden Daniels (QB, WAS):** no fracture confirmed, but still no firm
   return timeline — seeing specialists Tuesday and Wednesday this week,
