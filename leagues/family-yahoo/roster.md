@@ -137,6 +137,16 @@ Opponent (right side of the app): 104.52 projected.
 
 Recommended lineup: projects about 105.8 vs. 104.52 (107.3 if he starts Purdy).
 
+**Same-team stack check (manager raised it):** McMillan and Coker are both
+CAR, so they rise and fall together. Kept anyway, for three reasons:
+- Both have earned volume: Coker 8/138/2 TD then 8 of 9 targets for 66 yds;
+  McMillan 101 yds in Week 2.
+- Bryce Young has thrown for 287+ both weeks.
+- The alternatives don't really hedge. Boston is in the same game; Tucker
+  loses targets to Bowers.
+Boston is the lower-variance option if the manager prefers it, at about 1
+point of expected cost.
+
 **Waiver:** Jonah Coleman (RB, DEN) is the top RB add this week. Dobbins and
 Harvey both have hamstring injuries. Coleman led DEN in rushing in Week 2
 (10/39/TD, plus 3 catches). Adding him fixes the 2-RB hole. Drop Wicks.
