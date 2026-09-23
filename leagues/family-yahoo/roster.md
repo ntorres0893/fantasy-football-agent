@@ -101,6 +101,46 @@ consideration anyway.
 - Vikings D/ST: held GB to 22, 4 sacks, 1 INT — solid week despite tough matchup on paper (MIN beat GB 39-22)
 - **Waddle: 1 catch/2 yds on 3 targets (incl. a dropped 3rd-down target) — genuinely bad game**, ~0.2 pts in our scoring. New Denver offense under new OC — one bad week, not a verdict yet, but a real watch item.
 
+## Week 3 — researched 9/23, game by game (record 0-2; Week 2 was a loss)
+
+**Roster as of 9/23 (from app).** Manager overhauled after 0-2:
+- QB Prescott · RB Bijan, Tony Pollard (TEN)
+- WR McMillan, Tre Tucker (LV), Denzel Boston (CLE), Jalen Coker (CAR),
+  Dontayvion Wicks (PHI)
+- TE McBride, Bowers, Dalton Kincaid (BUF) · K Loop · DEF Bengals
+- No longer shown: Waddle, Chase Brown, Jameson Williams, Odunze, Price,
+  Vikings DEF. Daniels is presumably on IR. Asked the manager to confirm.
+- **Only 2 RBs on the roster.** No RB flex, so both must start every week and
+  there's no injury cover.
+
+Opponent (right side of the app): 104.52 projected.
+- QB Hurts @CHI Mon · RB Jeanty, Hall · WR Nacua (Q), Lamb
+- TE T. Warren · W/T London · K Fairbairn · DEF Jaguars
+- Purdy (24.83) sits on his bench, ahead of Hurts (22.02). If he swaps them,
+  add about 2.8 to his total.
+
+| Player (Yahoo proj) | Game | Line / total | What decides it | Call |
+|---|---|---|---|---|
+| Prescott (24.4) | DAL vs BAL, Rio, Sun 4:25 | BAL -3 / 52.5 (highest of the week) | BAL allows 245+ pass yds a game, 7.1 yds per attempt. Our league pays 6 per pass TD. Rio 72-81°F, field reportedly poor | Start |
+| Bijan (15.8) | ATL @ GB, **Thu 8:15** | GB -6.5 / 44.5 | ATL has 16 pts in 2 games; Penix may return. GB lost Micah Parsons | Start. **Locks Thursday** |
+| Pollard (12.5) | TEN @ NYG, Sun 1pm | NYG favored / 40.5 | TEN ~17.5 implied; Pollard has 99 scoreless yds in 2 games | Forced start (only 2 RBs). Swap for Coleman if added and Dobbins is out |
+| McMillan (9.3) | CAR @ CLE, Sun 1pm | CAR -2.5 / 40.5 | Low total. 101 yds last week | Start |
+| Coker (8.0, bench) | same game | CAR ~21.5 | 8/138/2 TD in Week 1; ankle fine by Week 2 | **Start at WR2** |
+| Tucker (5.65) | LV @ NO, Sun 4:25 | NO -3.5 / 43.5 | 5/119/TD last week without Bowers. Bowers returns and takes targets | Bench |
+| Boston (7.1) | CLE vs CAR | CLE ~19 | 93% of snaps, 7/154/2 TD in 2 games. CLE QB is shaky (Sanders may replace Watson) | Bench. First WR off the bench |
+| McBride (9.4, bench) | ARI @ SF, Sun 4:05 | SF -8.5 | ARI trailing = volume (8 of 10 targets caught last week) | **Start at TE** |
+| Kincaid (7.9) | BUF vs LAC, Sun 1pm | BUF -7 / ~50 | BUF ~28.5 implied, the best offense on this roster. Led BUF in targets. DJ Moore (AC sprain) may sit | **Start at W/T** |
+| Bowers (8.4, Q) | LV @ NO, Sun 4:25 | LV ~20 | Full practice Wednesday. First game after meniscus trim, so snaps may be managed. At 4:25, only Wicks could replace a late scratch | Bench this week |
+| Loop (9.8) | BAL @ DAL | BAL ~27.75 | Highest-total game. Poor field is a small risk | Start |
+| Bengals (8.7) | CIN @ PIT | CIN -3.5 / ~43 | Rodgers: 6 sacks under pressure. **Sacks are 2 pts here** | Start |
+| Wicks (5.6) | PHI @ CHI, Mon | PHI -4.5 | PHI likely leads vs. 3rd-string QB Keenum, so runs a lot | **Drop for Jonah Coleman if available** |
+
+Recommended lineup: projects about 105.8 vs. 104.52 (107.3 if he starts Purdy).
+
+**Waiver:** Jonah Coleman (RB, DEN) is the top RB add this week. Dobbins and
+Harvey both have hamstring injuries. Coleman led DEN in rushing in Week 2
+(10/39/TD, plus 3 catches). Adding him fixes the 2-RB hole. Drop Wicks.
+
 ## Week 2 results (confirmed 9/21, standard/0-PPR scoring)
 - Daniels: 11/17, 96 yds, 1 pass TD + 7 car/69 yds before leaving with injury
   (~16.7 pts in a half) — **🚨 dislocated his LEFT ELBOW late in the 1st half,
