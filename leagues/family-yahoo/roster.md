@@ -147,7 +147,17 @@ CAR, so they rise and fall together. Kept anyway, for three reasons:
 Boston is the lower-variance option if the manager prefers it, at about 1
 point of expected cost.
 
-**Waiver:** Jonah Coleman (RB, DEN) is the top RB add this week. Dobbins and
+**Waiver #1 (added 9/23): re-add Chase Brown (RB, CIN) if available. Drop
+Tucker and start Brown over Pollard.**
+- CIN -3.5 @ PIT, CIN ~23 implied. Pollard: TEN ~17.5, total 40.5.
+- Brown: 36 carries and 11 targets in 2 games, ~11 pts a game in this
+  scoring. Pollard: ~5 a game.
+- PIT allows 128 rush yds a game (8th most) and has 17 missed run tackles.
+- Pairs well with our Bengals DEF: a CIN lead means more Brown carries and
+  more PIT dropbacks to sack.
+- If he was dropped this week, he's on Yahoo's 2-day waiver, so claim now.
+
+**Waiver #2 (optional):** Jonah Coleman (RB, DEN) is the top RB add this week. Dobbins and
 Harvey both have hamstring injuries. Coleman led DEN in rushing in Week 2
 (10/39/TD, plus 3 catches). Adding him fixes the 2-RB hole. **Drop Tucker**
 (revised from Wicks on 9/23): Bowers's return hurts Tucker's role the most.
