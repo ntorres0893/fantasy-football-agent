@@ -241,8 +241,14 @@ Changed to FLEX, for two reasons:
    (TD-dependent). Wicks (9.9) is the weakest starter, and Wicks, Barkley, and
    Bigsby all play in the same Monday game, so FLEX stays editable until
    Monday 8:15pm ET.
-Rule: Barkley active → FLEX. Barkley out → Bigsby in FLEX. Wicks only if both
-are out.
+Rule (revised 9/23): Barkley active → Barkley in FLEX. Barkley out → start
+whichever of Wicks or Bigsby ESPN projects higher on Monday; lean Wicks.
+Why the change:
+- Eagles TE Goedert is out a few weeks (MCL sprain), which frees targets.
+- Wicks has been productive: 5 of 6 targets for 74 yds and 70% of snaps in
+  Week 2, and ~14 PPR points a game so far.
+- Bigsby's fill-in game was ~11.8 points on 2.5 yds per carry.
+- MNF weather is ideal: 68°F, 3 mph wind.
 
 **Opponent's lineup:** projected 116.86 to our 116.04 as the app has it now.
 - Their strong spots: Lamar (BAL–DAL, highest total of the week); Cook (BUF

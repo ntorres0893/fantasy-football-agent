@@ -133,7 +133,7 @@ Opponent (right side of the app): 104.52 projected.
 | Bowers (8.4, Q) | LV @ NO, Sun 4:25 | LV ~20 | Full practice Wednesday. First game after meniscus trim, so snaps may be managed. At 4:25, only Wicks could replace a late scratch | Bench this week |
 | Loop (9.8) | BAL @ DAL | BAL ~27.75 | Highest-total game. Poor field is a small risk | Start |
 | Bengals (8.7) | CIN @ PIT | CIN -3.5 / ~43 | Rodgers: 6 sacks under pressure. **Sacks are 2 pts here** | Start |
-| Wicks (5.6) | PHI @ CHI, Mon | PHI -4.5 | PHI likely leads vs. 3rd-string QB Keenum, so runs a lot | **Drop for Jonah Coleman if available** |
+| Wicks (5.6) | PHI @ CHI, Mon | PHI -4.5 / 43.5 | Revised 9/23. Goedert out (MCL), so more targets. 5 of 6 targets for 74 yds and 70% of snaps in Week 2; ~10 pts a game in this scoring. Clear weather. Risk: PHI runs with a lead vs. Keenum | **Coin flip with Coker; lean Wicks.** Different game from McMillan, so no stack. Yahoo's projection likely predates the Goedert news |
 
 Recommended lineup: projects about 105.8 vs. 104.52 (107.3 if he starts Purdy).
 
@@ -149,7 +149,8 @@ point of expected cost.
 
 **Waiver:** Jonah Coleman (RB, DEN) is the top RB add this week. Dobbins and
 Harvey both have hamstring injuries. Coleman led DEN in rushing in Week 2
-(10/39/TD, plus 3 catches). Adding him fixes the 2-RB hole. Drop Wicks.
+(10/39/TD, plus 3 catches). Adding him fixes the 2-RB hole. **Drop Tucker**
+(revised from Wicks on 9/23): Bowers's return hurts Tucker's role the most.
 
 ## Week 2 results (confirmed 9/21, standard/0-PPR scoring)
 - Daniels: 11/17, 96 yds, 1 pass TD + 7 car/69 yds before leaving with injury
