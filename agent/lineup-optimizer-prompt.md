@@ -24,6 +24,18 @@ with:
    inactives, Vegas implied team totals & spreads, weather for outdoor games,
    and any late-breaking role news (snap/target trends). This research is
    shared — do it once, apply to both leagues' rosters.
+4b. **Research every starter's actual NFL game, not just the player.** Build
+   one table row per starter and per realistic bench option:
+   - the game, day, and kickoff
+   - spread and total, with the team's implied total
+   - the opposing defense's rank vs. that position (use the rank the
+     platform app shows)
+   - injuries on BOTH sides, especially QBs, which change game script
+   - weather for outdoor games
+   - one line on what decides the game
+   Then do the same read on the **opponent's** lineup. Ask the manager for a
+   matchup screenshot if we don't have it. Log the table in the league's
+   roster file. Added 9/23 at the manager's request after an 0-2 start.
 5. **For any real decision point (a bench player could plausibly start over
    the incumbent), pull numeric/ordinal projection data, not just Vegas +
    matchup narrative** — see in-season-playbook.md's "Consensus rankings &

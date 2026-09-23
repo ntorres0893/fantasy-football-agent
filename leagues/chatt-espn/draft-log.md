@@ -25,20 +25,17 @@ Slot 8 · Picks: 8, 13, 28, 33, 48, 53, 68, 73, 88, 93, 108, 113, 128, 133, 148,
 
 ## Final roster (suggested starters vs. bench)
 
-**Starters (as of Week 2, confirmed via app 9/17 — see Week 2 lineup section below):**
-- QB: Patrick Mahomes (KC)
-- RB: Saquon Barkley (PHI), Breece Hall (NYJ)
-- WR: Rashee Rice (KC), Deebo Samuel (WR, SF)
-- TE: Sam LaPorta (DET)
-- FLEX: De'Von Achane (RB, MIA)
-- D/ST: Broncos (DEN)
-- K: Cameron Dicker (LAC)
+**Current roster (confirmed via app 9/23, Week 3). Record: 0-2.**
 
-**Bench (7, as of Week 2 lineup 9/17):** Rachaad White (RB, TB — team status
-being double-checked, see waiver moves note), Kaleb Johnson (RB, GB), DK Metcalf
-(WR, PIT — benched Week 2, see swap note below), Matthew Golden (WR, GB), Kayshon
-Boutte (WR, HOU), Hunter Henry (TE, NE — kept, see waiver moves note),
-Devaughn Vele (WR, NO — added off waivers, replaces Roschon Johnson, dropped)
+Manager's own moves after Week 2: added Dontayvion Wicks (WR, PHI), Rashod
+Bateman (WR, BAL), Tank Bigsby (RB, PHI), Bengals D/ST; dropped Hunter Henry,
+Kaleb Johnson, Kayshon Boutte, Broncos D/ST. **LaPorta is now the only TE.**
+Rachaad White is on WAS (the "TB" label was stale).
+
+- QB: Mahomes (KC) · RB: Achane (MIA), Hall (NYJ) · WR: Rice (KC), Golden (GB)
+- TE: LaPorta (DET) · FLEX: Wicks (PHI) · D/ST: Bengals · K: Dicker (LAC)
+- Bench: Barkley (PHI, Q), Bateman (BAL), Bigsby (PHI), Metcalf (PIT),
+  Deebo Samuel (SF), Vele (NO), White (WAS). IR: empty.
 
 ## Team review
 
@@ -205,6 +202,56 @@ before locking in per the post-game recap discipline (real stat line, not
 just "had a good week"). Caveat: Deebo splits targets with Mike Evans, a
 rookie, and McCaffrey, so role isn't a guarantee every week — revisit if his
 target share drops.
+
+## Week 2 result: LOSS (confirmed by manager 9/23)
+The 9/21 brief called this "a genuinely strong week" at ~90.7 points, without
+the opponent's score. That repeated the Week 1 mistake. Our total alone says
+nothing about a win.
+
+## Week 3 — vs. HammerTime (Cody Hammer). Researched 9/23, game by game.
+
+Lines as of 9/22-23. Implied team total = (total ÷ 2) ± (spread ÷ 2).
+
+| Our player | Game | Line / total | Team implied | What decides it | Call |
+|---|---|---|---|---|---|
+| Mahomes (19.6) | KC @ MIA, Sun 1pm | KC -11.5 / ~45 | KC ~28 | MIA lost edge rusher Chop Robinson and LB Ronnie Harrison (IR); MIA has scored 13 in both games | Start |
+| Rice (12.7) | KC @ MIA | same | KC ~28 | ESPN rates MIA 6th vs WR, but no pass rush means a clean pocket for Mahomes | Start |
+| Achane (19.4) | MIA vs KC, Sun 1pm | MIA +11.5 | MIA ~17 | Trailing script hurts his rushing, but he had 25 touches last week and catches passes | Start. Do not bench him for Bigsby |
+| Hall (16.2) | NYJ @ DET, Sun 1pm (dome) | DET -6.5 / 47.5 | NYJ ~20.5 | DET has allowed 4.8 yds per carry and 10 TDs in 2 games; his 5 catches last week protect him if NYJ trails | Start |
+| LaPorta (11.2) | DET vs NYJ | same | DET ~27 | NYJ defense is elite (4.0 yds per play, 3rd); ESPN rates them 4th vs TE | Start. Worst matchup of the starters, but no TE on the bench |
+| Golden (11.4) | ATL @ GB, **Thu 8:15pm** | GB -6.5 / 44.5 | GB ~25.5 | GB can't run without Jacobs, so more passing. ATL neutral vs WR (17th) | **Bench for Deebo** |
+| Deebo (12.3, bench) | ARI @ SF, Sun 4:05pm | SF -8.5 / 44.5-47.5 | SF ~27 | ESPN rates ARI 27th vs WR; Purdy is completing 80%; Stribling is out; Deebo also gets carries | **Start at WR2** (close call) |
+| Wicks (9.9) | PHI @ CHI, **Mon 8:15pm** | PHI -4.5 / 43.5 | PHI ~24 | Bears likely down to 3rd-string QB Case Keenum, so PHI leads and runs. Bad for a WR3 | Placeholder only |
+| Barkley (17.4, Q) | PHI @ CHI, Mon | same | PHI ~24 | Stinger. Coach says it's minor; a PHI lead means lots of carries | **FLEX if active** |
+| Bigsby (3.4, bench) | PHI @ CHI, Mon | same | PHI ~24 | Week 2 fill-in: 13 carries, 33 yds, 1 TD, 2 catches (~11.8 pts) | **FLEX only if Barkley is out** |
+| Bengals D/ST (6.5) | CIN @ PIT, Sun 1pm | CIN -3.5 / ~43 | PIT ~19.5 | Rodgers: 40% completions and 6 sacks when pressured; CIN is 7th in sack rate | Start (49ers D/ST vs. ARI is a small upgrade if it's a free agent) |
+| Dicker (9.1) | LAC @ BUF, Sun 1pm | BUF -7 / ~50 | LAC ~21.5 | 71°F, 5-10 mph wind; LAC drives likely stall vs. BUF | Start |
+
+Benched, no case to start: Metcalf (Rodgers has 0 completions of 20+ air yards;
+Metcalf is a deep threat), Vele (ESPN rates LV 4th vs WR), White (WAS–SEA total
+40.5), Bateman (BAL–DAL is the highest total of the week at 52.5, but he
+projects only 7.6).
+
+**Barkley plan (manager proposed: Bigsby in for Achane if Barkley sits).**
+Changed to FLEX, for two reasons:
+1. Timing. Achane plays Sunday 1pm and locks then. Barkley's final status may
+   not be known until Monday inactives (~6:45pm ET). Achane's slot can't wait
+   for that news.
+2. Value. Achane projects 19.4. Bigsby as the lead back projects about 10-12
+   (TD-dependent). Wicks (9.9) is the weakest starter, and Wicks, Barkley, and
+   Bigsby all play in the same Monday game, so FLEX stays editable until
+   Monday 8:15pm ET.
+Rule: Barkley active → FLEX. Barkley out → Bigsby in FLEX. Wicks only if both
+are out.
+
+**Opponent's lineup:** projected 116.86 to our 116.04 as the app has it now.
+- Their strong spots: Lamar (BAL–DAL, highest total of the week); Cook (BUF
+  -7 at home); Chiefs D/ST (best D/ST spot of the week vs. MIA's 13 points a
+  game).
+- Their soft spots: Swift faces PHI with CHI likely on its 3rd-string QB;
+  DJ Moore is listed Q.
+- Achane doing well also hurts their Chiefs D/ST.
+- Deebo for Golden: about 117.0 projected. Barkley active in FLEX: about 124.4.
 
 ## Action items before Week 1
 1. **Add a backup/streaming QB before Week 5** — top priority waiver action once
