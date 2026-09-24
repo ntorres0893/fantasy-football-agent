@@ -28,6 +28,27 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-09-24 (Thursday — two Thursday-night deadlines; Coleman idea dead)
+- **Michael Penix Jr. starts at QB for ATL tonight** @ GB, his first game back
+  from last November's ACL tear. That's an upgrade over Cooper Rush (4 INT and
+  a lost fumble in 2 games) and a better game script for Bijan (Family-Yahoo).
+- **Jayden Daniels (Family-Yahoo):** MRI shows no ligament damage, no surgery,
+  and the team isn't putting him on IR. He's out indefinitely, with a
+  re-evaluation around Washington's bye (our file lists that as Week 7; one
+  source said Week 12). A return this season is possible. Prescott stays the
+  starter.
+- **J.K. Dobbins (DEN) is expected to play Week 3** (limited in practice,
+  reported "good"). **Jonah Coleman (ankle) did not practice Wednesday.** That
+  kills Coleman as an add. Chase Brown is the only RB move for Family-Yahoo.
+- **DJ Moore (BUF, shoulder):** practiced Wednesday in a non-contact jersey,
+  may need an injection to play, still uncertain. If he sits, Kincaid
+  (Family-Yahoo) gets more targets, and Chatt-ESPN's opponent loses a starter
+  unless he swaps.
+- **Barkley:** no reliable update yet. Search returned a Bears-coach quote
+  that looks misattributed and an old "full practice" headline from a prior
+  season. Not reporting either. Philly's first official injury report comes
+  out this afternoon.
+
 ### Update 2026-09-23 (Wednesday — Week 3 early-lock check, Barkley/Daniels still pending)
 - **⏰ Week 3 early lock: Bijan Robinson (Family-Yahoo RB, ATL)** — Falcons
   @ Packers is **Thursday 9/24, 8:15pm ET** (GB -6.5/-7, total 44.5). No real

@@ -157,7 +157,9 @@ Tucker and start Brown over Pollard.**
   more PIT dropbacks to sack.
 - If he was dropped this week, he's on Yahoo's 2-day waiver, so claim now.
 
-**Waiver #2 (optional):** Jonah Coleman (RB, DEN) is the top RB add this week. Dobbins and
+**Waiver #2 — WITHDRAWN 9/24:** Dobbins is expected to play, and Coleman
+(ankle) didn't practice Wednesday. Don't add him. Original note kept below.
+Jonah Coleman (RB, DEN) is the top RB add this week. Dobbins and
 Harvey both have hamstring injuries. Coleman led DEN in rushing in Week 2
 (10/39/TD, plus 3 catches). Adding him fixes the 2-RB hole. **Drop Tucker**
 (revised from Wicks on 9/23): Bowers's return hurts Tucker's role the most.
