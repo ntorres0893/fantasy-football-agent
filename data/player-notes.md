@@ -28,6 +28,27 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-09-25 (Friday — TNF result; Eagles injury report changes MNF picture)
+- **Falcons 35, Packers 14 (Thu).** Penix's return worked: ATL outrushed GB
+  242 to 17.
+  - **Bijan (Family-Yahoo): 194 rush yds, 2 TD.** In our scoring that's 19.4
+    + 12 + the 150-yd bonus (+5, possibly +7 if Yahoo stacks it with the
+    100-yd bonus). **~36+ pts before any receiving.** Receiving line not
+    confirmed yet.
+  - **Golden (Chatt-ESPN): 5 rec, 100 yds, 1 TD = 21.0 PPR pts** (one source,
+    confirm in app). We recommended benching him for Deebo. If the manager
+    made that swap, Deebo needs 21+ Sunday to break even. That call was
+    projection-based (12.3 vs. 11.4) and it looks wrong in hindsight.
+- **Eagles Thursday injury report:**
+  - **Barkley: LIMITED, says he expects to play Monday.** Trending toward
+    starting.
+  - **Tank Bigsby: DNP (abdomen)** — new injury. If Barkley sits, Bigsby may
+    be out too, so Wicks is the fallback.
+  - **DeVonta Smith: DNP (hamstring).** If he misses Monday, Wicks becomes
+    PHI's top WR. That's a big boost for Wicks in both leagues, and it hurts
+    the Chatt-ESPN opponent, who starts Smith.
+  - Goedert: DNP (MCL, already known to be out).
+
 ### Update 2026-09-24 (Thursday — two Thursday-night deadlines; Coleman idea dead)
 - **Michael Penix Jr. starts at QB for ATL tonight** @ GB, his first game back
   from last November's ACL tear. That's an upgrade over Cooper Rush (4 INT and

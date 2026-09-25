@@ -137,6 +137,13 @@ Opponent (right side of the app): 104.52 projected.
 
 Recommended lineup: projects about 105.8 vs. 104.52 (107.3 if he starts Purdy).
 
+**Update 9/25:**
+- **Bijan ran for 194 yds and 2 TDs Thursday** (ATL 35-14). That's ~36+ pts in
+  our scoring before any receiving yards, a big head start.
+- The opponent's London (ATL WR) also played; his line isn't confirmed.
+- DeVonta Smith (PHI) did not practice Thursday. If he misses Monday, Wicks
+  is PHI's top WR, which strengthens the Wicks-over-Coker call.
+
 **Same-team stack check (manager raised it):** McMillan and Coker are both
 CAR, so they rise and fall together. Kept anyway, for three reasons:
 - Both have earned volume: Coker 8/138/2 TD then 8 of 9 targets for 66 yds;

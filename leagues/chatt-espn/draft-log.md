@@ -241,6 +241,15 @@ Changed to FLEX, for two reasons:
    (TD-dependent). Wicks (9.9) is the weakest starter, and Wicks, Barkley, and
    Bigsby all play in the same Monday game, so FLEX stays editable until
    Monday 8:15pm ET.
+**Update 9/25:**
+- **Golden scored 21.0 on Thursday** (5/100/TD). We recommended benching him
+  for Deebo. If that swap was made, Deebo needs 21+ to justify it. The call
+  looks wrong in hindsight.
+- **Barkley limited Thursday**, says he'll play.
+- **Bigsby DNP (abdomen)**, so Wicks is the real fallback.
+- **DeVonta Smith DNP (hamstring).** He's in the opponent's lineup. If Smith
+  sits, Wicks becomes PHI's WR1.
+
 Rule (revised 9/23): Barkley active → Barkley in FLEX. Barkley out → start
 whichever of Wicks or Bigsby ESPN projects higher on Monday; lean Wicks.
 Why the change:
