@@ -28,6 +28,26 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-09-26 (Saturday — Friday final reports)
+- **Barkley: FULL practice Friday.** Start him in FLEX Monday (Chatt-ESPN).
+- **DeVonta Smith: limited Friday**, back after Thursday's DNP, so likely
+  plays. The "opponent loses Smith" upside is fading.
+- Bigsby: limited Friday, backup role. Hollywood Brown (PHI WR, ankle) and
+  Goedert did not practice, which leaves Wicks a steady role.
+- **DJ Moore (BUF): Questionable, reportedly downgraded.** He's in the
+  Chatt-ESPN opponent's FLEX; if he sits, Kincaid (Family-Yahoo) gets more
+  targets.
+- **Bowers: Questionable.** No Friday practice (planned), and no pregame
+  workout this week, so he's trending to play. Family-Yahoo has him on the
+  bench anyway.
+- **Rice:** off the injury report, full practice.
+- **Tony Pollard:** conflicting reports. HC Saleh says he's a full
+  participant and cleared (ankle); a CBS headline says he wasn't seen
+  Friday. Check Sunday inactives (~11:30am ET). He plays at 1pm and is one of
+  only two RBs on the Family-Yahoo roster.
+- **Puka Nacua (Family-Yahoo opponent's WR)** is trending toward missing
+  Week 3.
+
 ### Update 2026-09-25 (Friday — TNF result; Eagles injury report changes MNF picture)
 - **Falcons 35, Packers 14 (Thu).** Penix's return worked: ATL outrushed GB
   242 to 17.
