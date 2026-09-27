@@ -28,6 +28,22 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-09-27 (Sunday game day — final checks)
+- **Tony Pollard (Family-Yahoo): will play** (ankle, limited 2 days).
+  Resolves yesterday's conflict.
+- **⛈️ Nor'easter hits TEN @ NYG:** 86-90% rain, sustained 17 mph wind,
+  gusts to ~41 mph. That suppresses passing and pushes both teams to run.
+  Neutral-to-positive for Pollard's carries; wet-ball fumble risk (−2 in
+  Yahoo) is real.
+- **Buffalo (LAC @ BUF) is fine:** 66°F, 8 mph with gusts ~17-21, no rain,
+  and the stadium design dampens wind. No downgrade for Dicker (Chatt) or
+  Kincaid (Yahoo).
+- WAS–SEA: light rain, 13 mph (only White on the Chatt bench is affected).
+- **DJ Moore (BUF): game-time decision.** He's in the Chatt-ESPN
+  opponent's lineup.
+- **Puka Nacua: doubtful** for SNF @ DEN. He's in the Family-Yahoo
+  opponent's lineup.
+
 ### Update 2026-09-26 (Saturday — Friday final reports)
 - **Barkley: FULL practice Friday.** Start him in FLEX Monday (Chatt-ESPN).
 - **DeVonta Smith: limited Friday**, back after Thursday's DNP, so likely
