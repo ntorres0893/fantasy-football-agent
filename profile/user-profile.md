@@ -2,8 +2,10 @@
 
 ## Contact & delivery
 - **Email:** ntorres0893@gmail.com (briefs now **sent to inbox** via Gmail)
-- **Morning brief delivery:** Email, ~7:00 AM (timezone: **assumed Eastern** —
-  confirm and the schedule will be adjusted). **One combined email covers both
+- **Morning brief delivery:** Email (the trigger fires ~11:05 UTC).
+- **Timezone: Pacific** (confirmed 9/27 from ESPN app screenshots showing 10:00
+  AM for 1pm ET kickoffs). **Give kickoff and lock times in PT**, e.g. Sunday
+  early games 10:00am PT, SNF/MNF 5:15-5:20pm PT, TNF 5:15pm PT. **One combined email covers both
   leagues below** — see `agent/morning-brief-prompt.md`.
 
 ## Leagues (plays in two — same team name in both, watch for mix-ups)

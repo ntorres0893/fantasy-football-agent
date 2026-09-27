@@ -250,6 +250,14 @@ Changed to FLEX, for two reasons:
 - **DeVonta Smith DNP (hamstring).** He's in the opponent's lineup. If Smith
   sits, Wicks becomes PHI's WR1.
 
+**Final lineup as set by manager 9/27 (from app):**
+- QB Mahomes · RB Achane, Barkley · WR **Golden (kept, 21.0 banked)**, Rice
+- TE LaPorta · FLEX Hall · D/ST Bengals · K Dicker. Deebo on the bench.
+- The manager didn't make the Deebo swap, which was the right result.
+- Suggested: swap Hall to RB and Barkley to FLEX before Hall's 10:00am PT
+  lock. In FLEX, a late Barkley scratch can be covered by Wicks or Bigsby;
+  the RB slot only takes Bigsby.
+
 Rule (revised 9/23): Barkley active → Barkley in FLEX. Barkley out → start
 whichever of Wicks or Bigsby ESPN projects higher on Monday; lean Wicks.
 Why the change:
