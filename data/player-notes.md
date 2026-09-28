@@ -28,6 +28,45 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-09-28 (Monday — Sunday results; two Chatt-ESPN RBs hurt)
+- 🚨 **De'Von Achane (MIA, Chatt-ESPN): non-contact left knee injury** in
+  the 1st quarter (3 carries, 17 yds), ruled out. HC Jeff Hafley: "does not
+  sound optimistic." MRI Monday. Treat as potentially long-term until the
+  MRI says otherwise. One headline claiming "good news" MRI results predates
+  the MRI, so it's not reported.
+- ⚠️ **Breece Hall (NYJ, Chatt-ESPN): thigh injury** in the 4th quarter,
+  ruled out (13/32 rushing, 3/23 receiving before leaving). Likely MRI;
+  severity unknown.
+- **Chatt-ESPN RB room is now thin:** Barkley (stinger, plays tonight),
+  Bigsby, White, plus two injured starters. **Tuesday waiver priority is RB.**
+
+### Week 3 Sunday results, computed in real scoring (MNF still to play)
+**Chatt-ESPN (FULL PPR):**
+- Mahomes 246 yds, 2 TD = **~17.8** (rushing and INTs not confirmed)
+- Rice 7/88 = **15.8**
+- Golden (Thu) **21.0**
+- Hall 13/32 + 3/23 = **8.5**
+- Achane 3/17 = **1.7**
+- Dicker: FGs of 21, 31, 33, 1 PAT, missed from 45 = **9.0**
+- LaPorta: had a 28-yd catch; full line not confirmed
+- Bengals D/ST: allowed 30 in a 30-27 loss, so likely a low score; sacks
+  and turnovers not confirmed
+- Barkley: MNF tonight
+- **Confirmed so far: ~73.8**, plus LaPorta, D/ST, Barkley
+
+**Family-Yahoo (0-PPR):**
+- Prescott 276 yds, 1 TD, 19 rush yds, plus a 2-pt pass = **~20.9**
+- Bijan (Thu) **~36+**
+- Pollard 17/74 = **7.4** (nor'easter game, NYG 12-7)
+- McMillan 2/17 = **1.7**
+- McBride 9/75 = **7.5**
+- Kincaid 2/38 with a lost fumble = **~1.8**
+- Loop: 56-yd walk-off FG (+6); his other kicks not confirmed
+- Bengals DEF: points allowed 28-34 bracket = −1, before sacks/turnovers
+- Wicks: MNF tonight
+- **Confirmed so far: ~81+**
+- **No win/loss claims** until the manager shares the matchup screens.
+
 ### Update 2026-09-27 (Sunday game day — final checks)
 - **Tony Pollard (Family-Yahoo): will play** (ankle, limited 2 days).
   Resolves yesterday's conflict.
