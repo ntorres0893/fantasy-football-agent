@@ -276,6 +276,28 @@ Why the change:
 - Achane doing well also hurts their Chiefs D/ST.
 - Deebo for Golden: about 117.0 projected. Barkley active in FLEX: about 124.4.
 
+## Week 4 prep (9/29) — @ Cayenne You Dig It! (Matt Duhon)
+- **Achane: torn ACL, out for the season.** Move to IR; that frees a spot.
+- **Hall: week-to-week** (quad), likely out Week 4.
+- Healthy RBs: Barkley, Bigsby, White. We need a starter now and a rest-of-
+  season RB2.
+
+Waiver claims, in order:
+1. **Ollie Gordon II (MIA).** Inherits Achane's lead role for the rest of
+   the season (17/41/TD Sunday after Achane left). Use the spot Achane's IR
+   move frees up.
+2. **Alvin Kamara (NO)** if available. Etienne has a hamstring injury, and
+   Kamara led NO in carries with 5 catches in Week 2, a good PPR fit. Drop
+   Vele or Bateman.
+3. Braelon Allen (NYJ) only as a short-term fill-in; Hall's return ends his
+   value.
+
+- **Week 5 is Mahomes + Rice's bye, vs. Pigskin Pugs** (our toughest
+  matchup). Plan a QB claim next Tuesday at the latest; the Stafford trade
+  idea is still an option.
+- Evans (SF) rib injury: Deebo may be SF's WR1 in Week 4. Revisit at
+  lineup time.
+
 ## Action items before Week 1
 1. **Add a backup/streaming QB before Week 5** — top priority waiver action once
    the season's underway; don't leave it until bye week itself.

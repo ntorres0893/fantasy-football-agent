@@ -28,6 +28,29 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-09-29 (Tuesday waiver day — Achane done for the season)
+- ❌ **De'Von Achane: torn ACL, out for the season** (MRI Monday). Chatt-ESPN
+  should move him to IR, which frees a roster spot. Miami's backfield is now
+  Ollie Gordon II (17/41/TD after Achane left), with Jaylen Wright (foot)
+  behind him.
+- **Breece Hall: quad/thigh, "week-to-week" after an encouraging MRI.**
+  Likely out Week 4 vs. CHI; a couple of weeks, not a month-plus.
+  Braelon Allen is the Jets RB to roster meanwhile.
+- **MNF: Bears 27, Eagles 7** (Keenum was efficient, PHI had 3 turnovers).
+  - Barkley: 15/82 + 1 catch for −2 yds = **9.0 PPR** (Chatt-ESPN).
+  - Wicks: 2 catches for 32 yds on 5 targets = **3.2** (Family-Yahoo).
+  - Hurts (Yahoo opponent): 16/25, 153 yds.
+- **Mike Evans (SF): rib injury**, day-to-day. If he misses time, Deebo
+  (Chatt-ESPN bench) is SF's top WR alongside Stribling's absence. Deebo had
+  an 80-yd hook-and-ladder TD on Sunday while on our bench; Golden's 21
+  still beat it.
+- **Week 4 RB waiver targets (leaguewide):** Ollie Gordon II (MIA,
+  rest-of-season lead back), Alvin Kamara (NO, Etienne hamstring; PPR
+  usage), Braelon Allen (NYJ, short-term while Hall is out), Kenny Gainwell.
+- Week 3 running totals: Chatt-ESPN ~82.8 + LaPorta + D/ST; Family-Yahoo
+  ~84.5 + DEF + Loop's other kicks. **Win/loss unknown** until the manager
+  shares final screens.
+
 ### Update 2026-09-28 (Monday — Sunday results; two Chatt-ESPN RBs hurt)
 - 🚨 **De'Von Achane (MIA, Chatt-ESPN): non-contact left knee injury** in
   the 1st quarter (3 carries, 17 yds), ruled out. HC Jeff Hafley: "does not
