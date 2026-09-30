@@ -28,6 +28,25 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-09-30 (Wednesday — Week 4 schedule check)
+- **Week 4 early/odd kickoffs (PT):**
+  - **TNF Thu 5:15pm:** PIT @ CLE (PIT -2.5 / 46.5). Involves Metcalf
+    (Chatt-ESPN bench) and Boston (Family-Yahoo bench). Only an early lock
+    if either gets started.
+  - **London Sun 6:30am PT:** IND vs WAS (IND -3 / 47). Rachaad White
+    (Chatt-ESPN bench) plays in it.
+  - **SNF:** DET @ CAR (50.5). LaPorta (Chatt-ESPN); McMillan and Coker
+    (Family-Yahoo).
+  - **MNF Mon 5:15pm:** ATL @ NO (NO -2.5). Bijan (Family-Yahoo), Kamara if
+    claimed (Chatt-ESPN), Vele (Chatt-ESPN bench).
+- **Travis Etienne (NO) ruled OUT for Week 4** (hamstring, "will miss
+  time"). **Kamara projects as NO's lead back plus nearly all passing-down
+  work**, which makes him the strongest Chatt-ESPN claim this week.
+- **Mike Evans (SF): day-to-day** (rib), and Shanahan says he could play vs.
+  DEN. So Deebo's WR1 bump isn't guaranteed.
+- Highest totals: JAX–CIN 51.5 (Bengals DEF faces a shootout); DET–CAR 50.5.
+  Biggest spreads: BAL -11.5 vs TEN, MIN -10 vs MIA.
+
 ### Update 2026-09-29 (Tuesday waiver day — Achane done for the season)
 - ❌ **De'Von Achane: torn ACL, out for the season** (MRI Monday). Chatt-ESPN
   should move him to IR, which frees a roster spot. Miami's backfield is now
