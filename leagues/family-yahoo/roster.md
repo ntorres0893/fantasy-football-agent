@@ -101,6 +101,32 @@ consideration anyway.
 - Vikings D/ST: held GB to 22, 4 sacks, 1 INT — solid week despite tough matchup on paper (MIN beat GB 39-22)
 - **Waddle: 1 catch/2 yds on 3 targets (incl. a dropped 3rd-down target) — genuinely bad game**, ~0.2 pts in our scoring. New Denver offense under new OC — one bad week, not a verdict yet, but a real watch item.
 
+## Week 4 — lineup as set by manager (app, 10/1), proj 104.89
+
+Starters (manager's own moves):
+- QB Tyler Shough (NO, Mon vs ATL)
+- RB Bijan (Mon @NO), Aaron Jones Sr. (MIN vs MIA)
+- WR Michael Wilson (ARI @NYG), McMillan (SNF vs DET)
+- TE Kincaid (vs NE) · W/T Kalif Raymond (CHI vs NYJ, 4.77 proj)
+- K Spencer Shrader (IND, London, Sun 9:30am ET) · DEF Vikings (vs MIA)
+- Bench includes Pollard (OUT); rest not yet seen.
+
+Research (ET):
+- ATL @ NO, NO -2.5 / 47.5. Etienne out.
+- MIA @ MIN, MIN -10.5 / 38.5. MIA allows the most RB fantasy points;
+  Jones has 20+ touches a game.
+- DET @ CAR, 50.5, 67-76% rain.
+- ARI @ NYG, NYG -1.5 / 43.5.
+- NE @ BUF, BUF -7 / 48.5. NE is Yahoo's #32 vs TE, the toughest.
+- NYJ @ CHI, CHI -3 / 42.5. Raymond led CHI in receiving 2 of 3 weeks;
+  6/90/TD in Week 3.
+- London IND vs WAS, IND -3 / 47.
+
+Pending: the bench. **If McBride is rostered: McBride at TE, Kincaid at W/T,
+Raymond to bench.** Bowers is debuting post-surgery and likely limited.
+Asked whether Prescott is still rostered, and whether to swap Pollard (OUT)
+for a playing RB.
+
 ## Week 3 — researched 9/23, game by game (record 0-2; Week 2 was a loss)
 
 **Roster as of 9/23 (from app).** Manager overhauled after 0-2:
