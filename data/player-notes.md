@@ -28,6 +28,20 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-10-01 (Thursday — Wednesday reports + Week 5 bye heads-up)
+- **Week 5 byes: Kansas City and Carolina.**
+  - Chatt-ESPN loses Mahomes and Rice. QB fill-in needed by next Tuesday's
+    claims.
+  - Family-Yahoo loses McMillan and Coker.
+- **Breece Hall: DNP Wednesday** (quad). Treat him as out for Week 4.
+- **Mike Evans: DNP Wednesday** (ribs), but reports expect him to play vs.
+  DEN, so Deebo stays SF's WR2.
+- **Brock Bowers: cleared and active for his season debut in Week 4.** A
+  real W/T option in Family-Yahoo after Kincaid's 1.8-pt Week 3.
+- Week 5 QB streamer names in circulation: Stafford (owned by Cayenne in
+  Chatt-ESPN, our Week 4 opponent and the old trade target) and Justin
+  Fields (NYJ). Check Chatt-ESPN free agents early next week.
+
 ### Update 2026-09-30 (Wednesday — Week 4 schedule check)
 - **Week 4 early/odd kickoffs (PT):**
   - **TNF Thu 5:15pm:** PIT @ CLE (PIT -2.5 / 46.5). Involves Metcalf
