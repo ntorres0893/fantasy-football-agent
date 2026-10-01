@@ -298,6 +298,25 @@ Waiver claims, in order:
 - Evans (SF) rib injury: Deebo may be SF's WR1 in Week 4. Revisit at
   lineup time.
 
+### Week 4 lineup as set by manager (app, 10/1) — projected 107.1 vs. 132.0 (38% win)
+- QB Mahomes (@LV) · RB Barkley (vs LAR), **Ollie Gordon II (landed)** (@MIN)
+- WR Rice (@LV), Golden (@TB) · TE LaPorta (@CAR SNF) · FLEX Deebo (vs DEN)
+- **D/ST Browns (vs PIT, TNF — locks Thu 8:15pm ET)** · **K Reichard (MIN)**
+- The manager swapped in the Browns D/ST and Reichard on his own.
+- Opponent (Cayenne): Prescott, Irving (Q), Hubbard, Ja'Marr Chase,
+  P. Washington, Juwan Johnson, Nacua (Q), Packers D/ST, Butker.
+
+Recommendations:
+1. **Vikings D/ST over Browns D/ST, if it's a free agent — decide before
+   TNF.** MIN -10.5 vs MIA (total 38.5, MIA ~14 implied, no Achane).
+   Browns face a PIT offense that scored 30 last week (PIT ~24.5 implied).
+   Garrett's status was unverifiable (contradictory reports).
+2. **If Kamara is rostered, start him over Gordon.** Wright is expected
+   back with a ~60/40 split in his favor, and MIA is a 10.5-pt underdog.
+   Kamara is NO's lead back on MNF (Etienne out).
+3. Everything else stands. Lines: KC -4.5/47.5 @LV; LAR -3/43.5 @PHI;
+   GB -4/39.5 @TB; DET -3.5/50.5 @CAR; SF -3/47.5 vs DEN.
+
 ## Action items before Week 1
 1. **Add a backup/streaming QB before Week 5** — top priority waiver action once
    the season's underway; don't leave it until bye week itself.
