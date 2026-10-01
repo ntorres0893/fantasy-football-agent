@@ -134,7 +134,20 @@ CHI RB is named Smith, so this is assumed to be D'Andre Swift.
 - Swift wouldn't start Week 4 over Bijan or Jones (he faces the NYJ
   defense), and Yahoo's 2-day trade review may delay him anyway.
 
-Pending: the bench. **If McBride is rostered: McBride at TE, Kincaid at W/T,
+**Resolved 10/1 (bench seen):** bench is Pollard (Q, @BAL, 8.37), McBride
+(9.75), Boston (TNF tonight, 7.22), Wicks (5.58). McBride is still rostered,
+so **the trade is sound**. Bowers no longer shows on the bench; he may
+already be traded.
+
+**Final Week 4 lineup:**
+- QB Shough · RB Bijan, A. Jones · WR M. Wilson, McMillan
+- **TE McBride** · **W/T Kincaid** · K Shrader · DEF Vikings
+- Bench: Raymond, Boston, Wicks, Pollard.
+- Kincaid over Boston at W/T is near-even (7.39 vs 7.22). Kincaid wins on
+  team total (~28 vs ~22), target leadership, and Sunday flexibility; Boston
+  locks Thursday. Recheck DJ Moore's status Sunday morning.
+
+Pending: nothing. **If McBride is rostered: McBride at TE, Kincaid at W/T,
 Raymond to bench.** Bowers is debuting post-surgery and likely limited.
 Asked whether Prescott is still rostered, and whether to swap Pollard (OUT)
 for a playing RB.
