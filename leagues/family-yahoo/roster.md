@@ -122,6 +122,18 @@ Research (ET):
   6/90/TD in Week 3.
 - London IND vs WAS, IND -3 / 47.
 
+**Trade proposed by manager (10/1): Bowers for "Smith, the CHI RB."** No
+CHI RB is named Smith, so this is assumed to be D'Andre Swift.
+- Swift: 20/84 Week 3, 80+ rush yds in 2 of 3 games, 4.7 YPC, no TD in 2
+  straight. CHI bye is Week 10, which covers Jones (MIN, Week 6) and Bijan
+  (ATL, Week 11).
+- Verdict: sound if McBride is still rostered (TE surplus for RB depth in a
+  no-RB-flex, 0-PPR league). A slight sell-low on Bowers coming off knee
+  surgery, so ask for a small add-on. Pass if McBride is gone, since Kincaid
+  would be the only TE.
+- Swift wouldn't start Week 4 over Bijan or Jones (he faces the NYJ
+  defense), and Yahoo's 2-day trade review may delay him anyway.
+
 Pending: the bench. **If McBride is rostered: McBride at TE, Kincaid at W/T,
 Raymond to bench.** Bowers is debuting post-surgery and likely limited.
 Asked whether Prescott is still rostered, and whether to swap Pollard (OUT)
