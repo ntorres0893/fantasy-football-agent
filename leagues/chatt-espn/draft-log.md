@@ -314,6 +314,9 @@ Recommendations:
 2. **If Kamara is rostered, start him over Gordon.** Wright is expected
    back with a ~60/40 split in his favor, and MIA is a 10.5-pt underdog.
    Kamara is NO's lead back on MNF (Etienne out).
+   **Update 10/1:** Kamara is NOT rostered. Check whether he's a free agent
+   after Wednesday's waivers; if so, add him (drop Vele or Bateman) and start
+   him. Otherwise keep Gordon over Bigsby or White.
 3. Everything else stands. Lines: KC -4.5/47.5 @LV; LAR -3/43.5 @PHI;
    GB -4/39.5 @TB; DET -3.5/50.5 @CAR; SF -3/47.5 vs DEN.
 
