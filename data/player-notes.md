@@ -28,6 +28,22 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-10-02 (Friday — TNF result + Thursday practice reports)
+- **TNF: Browns 27, Steelers 24** on a 56-yd walk-off FG. Watson threw for
+  268. The Browns D/ST allowed 24, so expect a low D/ST score if Chatt-ESPN
+  kept them (sacks/turnovers not confirmed). Boston (Family-Yahoo bench) and
+  Metcalf (Chatt-ESPN bench): lines not confirmed.
+- **Travis Etienne placed on IR** (4+ games). Kamara is NO's lead back for at
+  least a month. If he's a free agent in Chatt-ESPN, he's a strong add.
+- **Jaylen Wright (MIA): full practice Thursday**, so he's back. Gordon's
+  share is likely the smaller side of the projected ~60/40 split.
+- **Braelon Allen (NYJ)** leads the Jets backfield while Hall is out (NYJ @
+  CHI, CHI -3 / 42.5). Likely a better Week 4 start than Gordon if available.
+- **Mike Evans: DNP Thursday** (2nd straight), not ruled out. If he sits,
+  Deebo is SF's top WR.
+- **DJ Moore: limited Thursday**, trending to play, which caps Kincaid's
+  target ceiling.
+
 ### Update 2026-10-01 (Thursday — Wednesday reports + Week 5 bye heads-up)
 - **Week 5 byes: Kansas City and Carolina.**
   - Chatt-ESPN loses Mahomes and Rice. QB fill-in needed by next Tuesday's
