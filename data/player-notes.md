@@ -28,6 +28,23 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-10-03 (Saturday — Friday final reports, weather)
+- **Breece Hall: OUT** (quad), as expected.
+- **Mike Evans (SF): game-time decision** (ribs). If out, Deebo (Chatt-ESPN
+  FLEX) is SF's top WR. Inactives come out ~2:55pm ET for the 4:25 game.
+- **Puka Nacua: no designation, playing** (Chatt-ESPN opponent's FLEX, ~20.5
+  proj). **Bucky Irving: no designation** (same opponent). That team is
+  whole.
+- **DJ Moore: no designation, playing.** Caps Kincaid's targets
+  (Family-Yahoo).
+- **Aaron Jones: no designation.** Good vs. MIA (Family-Yahoo).
+- **Weather:**
+  - GB @ TB: 84-90°F, 35-50% chance of storms after the first hour.
+    Possible lightning delay (Golden, Chatt-ESPN).
+  - DET @ CAR SNF: rain easing from ~52% at kickoff to ~42% by 11pm, 9 mph
+    wind (LaPorta, Chatt-ESPN; McMillan, Family-Yahoo).
+  - MIA @ MIN: dome.
+
 ### Update 2026-10-02 (Friday — TNF result + Thursday practice reports)
 - **TNF: Browns 27, Steelers 24** on a 56-yd walk-off FG. Watson threw for
   268. The Browns D/ST allowed 24, so expect a low D/ST score if Chatt-ESPN
