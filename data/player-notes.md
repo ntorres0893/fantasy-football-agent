@@ -28,6 +28,25 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-10-04 (Sunday morning — game day)
+- **Justin Jefferson (MIN): OUT** (ankle) vs. MIA. Addison and Jennings
+  move up. This lowers MIN's scoring ceiling, which matters for Reichard
+  (K, Chatt-ESPN). For the Vikings DEF (Family-Yahoo, and Chatt-ESPN if
+  added) it makes no difference, since MIA's offense is unchanged. Aaron
+  Jones (Family-Yahoo) has no designation and may see more of the offense.
+- **Mike Evans (SF): still a game-time decision.** He was limited Friday,
+  and Shanahan's status is unchanged. Evans says he'll play with padding if
+  he can. Inactives come out ~2:55pm ET.
+- **TB starts undrafted rookie QB Jalon Daniels** vs. GB at 1pm ET (Mayfield
+  has a dislocated thumb and is out about 3 weeks). That helps the opponent's
+  Packers D/ST (Chatt-ESPN) and should tilt game script toward GB, which
+  slightly favors Golden. Storms are still possible.
+- **Caleb Williams (CHI): out** (grade 2 hamstring, 3-4 weeks). Bagent is
+  expected to start vs. NYJ, which matters for Swift (Family-Yahoo, if the
+  trade went through) and Braelon Allen.
+- ⚠️ Some search results returned stale injury stories (Keenan Allen on LAC,
+  Godwin/Julio, a 2021-era Kamara London note). These were ignored.
+
 ### Update 2026-10-03 (Saturday — Friday final reports, weather)
 - **Breece Hall: OUT** (quad), as expected.
 - **Mike Evans (SF): game-time decision** (ribs). If out, Deebo (Chatt-ESPN
