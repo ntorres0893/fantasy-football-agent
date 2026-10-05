@@ -28,6 +28,34 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-10-05 (Monday — Sunday results, Week 5 setup)
+- **Saquon Barkley (PHI): right hamstring, left in the 1st quarter** (2 car,
+  8 yds) and was ruled out. One report said he walked normally afterward,
+  and Sirianni gave no update. A sports-medicine physician estimates "could
+  be several weeks." **Tank Bigsby took over (14 car, 55 yds)**; Will
+  Shipley is the other PHI back. Chatt-ESPN: Bigsby is on our bench, so he's
+  the Week 5 RB start if Barkley sits.
+- **Ja'Marr Chase (CIN): concussion, left the game** (JAX 22, CIN 17). He's
+  the Chatt-ESPN Week 4 opponent's WR.
+- **SNF: Panthers 32, Lions 26.** McMillan had 14 catches for 192 yds and 2
+  TD (Family-Yahoo, his best game of the year, before a Week 5 bye). Goff
+  threw for 412 yds. LaPorta caught a TD late (full line not confirmed).
+- **Other finals:** KC beat LV (KC 4-0). SF 24, DEN 14 (Evans was active).
+  MIN 15, MIA 10, so the Vikings DEF allowed only 10. GB 17, TB 14. IND 30,
+  WAS 13 in London. NE 29, BUF 26. CHI 23, NYJ 12. NYG 36, ARI 24. Rams beat
+  PHI 24-20.
+- **MNF tonight: ATL @ NO** (Shough and Bijan, Family-Yahoo). Our Chatt-ESPN
+  players are all done. The Chatt opponent's Juwan Johnson (NO) plays
+  tonight.
+- **Individual box scores for our players weren't available** in search
+  snippets. Don't infer fantasy totals; get the app screenshots.
+- **Week 5 streaming QBs (Mahomes bye):** Goff @ ARI (DET -8.5 / 48.5, ~28.5
+  implied, 4:25pm ET) and Stroud @ TEN (HOU -3.5 / 43.5, ~23.5 implied,
+  1pm). ⚠️ These are look-ahead lines from Sept. 7; recheck midweek.
+- **Week 5 waiver names:** Emanuel Wilson (SEA RB), Will Shipley (PHI RB),
+  Keon Coleman (WR, 26.6 pts Week 4), TJ Hockenson (TE, while Jefferson is
+  out), Tyler Allgeier (ARI RB).
+
 ### Update 2026-10-04 (Sunday morning — game day)
 - **Justin Jefferson (MIN): OUT** (ankle) vs. MIA. Addison and Jennings
   move up. This lowers MIN's scoring ceiling, which matters for Reichard

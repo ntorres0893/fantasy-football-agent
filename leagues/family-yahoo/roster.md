@@ -101,6 +101,17 @@ consideration anyway.
 - Vikings D/ST: held GB to 22, 4 sacks, 1 INT — solid week despite tough matchup on paper (MIN beat GB 39-22)
 - **Waddle: 1 catch/2 yds on 3 targets (incl. a dropped 3rd-down target) — genuinely bad game**, ~0.2 pts in our scoring. New Denver offense under new OC — one bad week, not a verdict yet, but a real watch item.
 
+## Week 4 result / Week 5 prep (10/5)
+- **McMillan: 14 catches, 192 yds, 2 TD on SNF.** Vikings DEF allowed 10
+  (MIN 15-10). Kincaid's BUF lost 29-26 to NE. Shrader's IND won 30-13 in
+  London. Individual lines aren't confirmed.
+- **MNF tonight: Shough and Bijan (ATL @ NO).** The matchup is still live.
+- **Week 5: McMillan on bye** (Coker too, if still rostered). Raymond (CHI)
+  is the in-house WR fill. Yahoo claims process Tuesday, so any WR claim
+  goes in today.
+- Pollard was OUT in Week 4. Confirm whether the Swift trade went through,
+  since RB depth is still the weak spot.
+
 ## Week 4 — lineup as set by manager (app, 10/1), proj 104.89
 
 Starters (manager's own moves):

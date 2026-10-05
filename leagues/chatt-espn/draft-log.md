@@ -320,6 +320,21 @@ Recommendations:
 3. Everything else stands. Lines: KC -4.5/47.5 @LV; LAR -3/43.5 @PHI;
    GB -4/39.5 @TB; DET -3.5/50.5 @CAR; SF -3/47.5 vs DEN.
 
+### Week 4 result / Week 5 prep (10/5)
+- Week 4 final not yet confirmed (no app screenshot). Our players are all
+  done. The opponent's Juwan Johnson (NO) plays MNF, and his Ja'Marr Chase
+  left with a concussion.
+- **Barkley: hamstring, left in Q1.** Possibly several weeks. **Bigsby**
+  (bench, 14/55 in relief) is the Week 5 RB start if Barkley sits. Will
+  Shipley is the other PHI back; consider him only if a roster spot is free.
+- **Week 5 (vs Pigskin Pugs): Mahomes and Rice on bye.** QB claims (ESPN
+  processes Wed AM), in order:
+  1. **Goff @ ARI** (DET -8.5 / 48.5 look-ahead; 412 yds Sunday)
+  2. **Stroud @ TEN** (HOU -3.5 / 43.5)
+  Drop Vele or Bateman.
+- WR for Rice's slot: Golden, Deebo, Metcalf, Bateman, Wicks. Decide at
+  lineup time.
+
 ## Action items before Week 1
 1. **Add a backup/streaming QB before Week 5** — top priority waiver action once
    the season's underway; don't leave it until bye week itself.
