@@ -101,6 +101,19 @@ consideration anyway.
 - Vikings D/ST: held GB to 22, 4 sacks, 1 INT — solid week despite tough matchup on paper (MIN beat GB 39-22)
 - **Waddle: 1 catch/2 yds on 3 targets (incl. a dropped 3rd-down target) — genuinely bad game**, ~0.2 pts in our scoring. New Denver offense under new OC — one bad week, not a verdict yet, but a real watch item.
 
+## Week 5 prep (10/6)
+- **MNF: Bijan 145 rush yds, 2 TD** (ATL 45, NO 24). That's 14.5 + 12 + the
+  100-yd bonus before receiving. Shough's line is unconfirmed. Week 4
+  final: awaiting a screenshot.
+- **Week 5 conflict: our QB Shough (NO) hosts our Vikings DEF** (MIN -1.5 /
+  43.5). Points for one take points from the other. Vikings also have a
+  Week 6 bye, so streaming DEF now is reasonable:
+  - **Bengals DEF @ MIA** (CIN -7.5, MIA ~19 implied, no Achane)
+  - **Jets DEF vs CLE** (lowest total of the week, 39.5, CLE ~19 implied)
+  - Add whichever is a free agent once waivers clear; drop Pollard if he's
+    still out.
+- Bijan's Week 5: vs BAL on SNF (BAL -3.5 / 46.5). A. Jones: @ NO.
+
 ## Week 4 result / Week 5 prep (10/5)
 - **McMillan: 14 catches, 192 yds, 2 TD on SNF.** Vikings DEF allowed 10
   (MIN 15-10). Kincaid's BUF lost 29-26 to NE. Shrader's IND won 30-13 in

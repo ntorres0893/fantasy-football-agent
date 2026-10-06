@@ -335,6 +335,20 @@ Recommendations:
 - WR for Rice's slot: Golden, Deebo, Metcalf, Bateman, Wicks. Decide at
   lineup time.
 
+### Week 5 update (10/6) — Bigsby to IR
+- **Bigsby: IR, core-muscle surgery, ~6 weeks.** Barkley is week-to-week
+  and likely out Week 5. **Both PHI backs are out of the Week 5 plan.**
+- RB pool for Week 5: Gordon (@ MIA vs CIN; MIA +7.5, ~19 implied), White
+  (WAS vs NYG, ~23.75 implied, shoulder status unknown), Hall (no update).
+- **Claims (process Wed AM), in priority order:**
+  1. **QB Goff @ ARI** (DET -5.5 / 53.5, ~29.5 implied), else Stroud @ TEN
+     (HOU -3.5 / 43.5).
+  2. **RB Emanuel Wilson (SEA)**, lead back vs SF (SEA -3 / 46.5).
+     Fallback: Will Shipley (PHI's only active RB, but PHI ~19.5 implied
+     and likely to add a back).
+  - Drops: Vele, Bateman. Bigsby goes to IR if a second IR slot exists;
+    otherwise he's the next drop (~6 weeks out, behind Barkley on return).
+
 ## Action items before Week 1
 1. **Add a backup/streaming QB before Week 5** — top priority waiver action once
    the season's underway; don't leave it until bye week itself.

@@ -28,6 +28,42 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-10-06 (Tuesday — MNF, Bigsby IR, Week 5 lines)
+- **🚨 Tank Bigsby (PHI): placed on IR, needs core-muscle surgery.** He's
+  hoping for "six weeks or shorter." The abdomen injury worsened Sunday. This
+  breaks the Chatt-ESPN Week 5 plan to start Bigsby.
+- **Barkley: "week-to-week"** and likely to miss Week 5 (PFR). Sirianni will
+  update Wednesday. Will Shipley is PHI's only active RB right now, so expect
+  PHI to add a back.
+- **MNF: Falcons 45, Saints 24.** Bijan ran for 145 yds and 2 TD
+  (Family-Yahoo). Shough's line is unconfirmed (snippets looked mixed with
+  another game, so it isn't used).
+- **Emanuel Wilson (SEA)** is the lead back while Charbonnet works back from
+  PUP. SEA beat LAC 30-20. Week 5 vs SF: SEA -3 / 46.5 (~24.75 implied).
+- **Rachaad White (WAS, shoulder):** missed Week 4. Week 5 status is unclear
+  (reports conflict). Recheck Wednesday's practice.
+- **Breece Hall:** no new update.
+- **Week 5 opening lines** (Covers/SI, ET):
+  - TNF: TB @ DAL, DAL -9.5 / 47.5.
+  - 1pm:
+    - PHI @ JAX, JAX -3.5 / 42.5
+    - CHI @ GB, CHI -1.5 / 44.5
+    - CIN @ MIA, CIN -7.5 / 45.5
+    - MIN @ NO, MIN -1.5 / 43.5
+    - LV @ NE, NE -3.5 / 45.5
+    - CLE @ NYJ, NYJ -1.5 / 39.5
+    - IND @ PIT, PIT -2.5 / 44.5
+    - NYG @ WAS, WAS -3 / 44.5
+    - HOU @ TEN, HOU -3.5 / 43.5
+  - 4pm:
+    - DEN @ LAC, DEN -3.5 / 43.5
+    - **DET @ ARI, DET -5.5 / 53.5** (moved from the look-ahead -8.5 /
+      48.5; DET ~29.5 implied, the best QB-stream spot)
+    - SF @ SEA, SEA -3 / 46.5
+  - SNF: BAL @ ATL, BAL -3.5 / 46.5.
+  - MNF: BUF @ LAR, LAR -2.5 / 53.5.
+  - Byes: KC, CAR.
+
 ### Update 2026-10-05 (Monday — Sunday results, Week 5 setup)
 - **Saquon Barkley (PHI): right hamstring, left in the 1st quarter** (2 car,
   8 yds) and was ruled out. One report said he walked normally afterward,
