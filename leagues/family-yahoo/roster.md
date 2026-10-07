@@ -101,6 +101,44 @@ consideration anyway.
 - Vikings D/ST: held GB to 22, 4 sacks, 1 INT — solid week despite tough matchup on paper (MIN beat GB 39-22)
 - **Waddle: 1 catch/2 yds on 3 targets (incl. a dropped 3rd-down target) — genuinely bad game**, ~0.2 pts in our scoring. New Denver offense under new OC — one bad week, not a verdict yet, but a real watch item.
 
+## Week 5 lineup as set (app screenshot, 10/7) — proj 101.03 vs 115.76
+**Roster changes seen:** the Swift trade went through, and Braelon Allen and
+Keon Coleman were added. **Hockenson (MIN) is now the TE.** McBride,
+Kincaid, Boston, Wicks and Pollard are no longer shown. Roster: Shough |
+Bijan, A. Jones, Swift, B. Allen | M. Wilson, Coleman, Doubs, Raymond,
+McMillan (bye) | Hockenson | Shrader | Vikings.
+
+| Slot | Ours (proj) | Game (ET) | Implied | Read |
+|---|---|---|---|---|
+| QB | Shough (20.82) | NO vs MIN, 1pm, dome | NO ~21 | Faces our own DEF (conflict) |
+| RB | Bijan (18.94) | ATL vs BAL, SNF | ATL ~21.5 | Elite; same game as their Henry |
+| RB | A. Jones (11.40) | MIN @ NO, 1pm, dome | MIN ~22.5 | NO just allowed 5 rush TDs to ATL; Jefferson out = run-heavy. Keep over Swift |
+| WR | M. Wilson (11.47) | ARI vs DET, 4:25 | ARI ~24 | 53.5 shootout, good |
+| WR | Coleman (5.26) | BUF @ LAR, MNF | BUF ~25.5 | DJ Moore (shoulder) decides it: without Moore 12-179-1 in 2 games |
+| TE | Hockenson (5.17) | MIN @ NO | MIN ~22.5 | Target bump with Jefferson out |
+| W/T | Doubs (7.96) | NE vs LV, 1pm | NE ~24.5 | Fine |
+| K | Shrader (9.72) | IND @ PIT, 1pm | IND ~21 | Fine |
+| DEF | Vikings (10.29) | MIN @ NO | NO ~21 | Correlation conflict with Shough |
+
+Bench: Swift (11.44, CHI @ GB, Bagent at QB), B. Allen (9.08, vs CLE),
+Raymond (4.26), McMillan (bye).
+
+Opponent: Goff (26.13, DET ~29.5 implied @ ARI) | Henry (13.97, same game
+as Bijan), Skattebo (11.22) | JSN (17.36, SEA ~24.75), Pickens (9.89, TNF,
+DAL ~28.5) | Kraft (8.04) | W/T McLaurin **(Q)** (7.72). If he sits,
+Montgomery (10.43, HOU ~23.75) likely goes in, about +2.7 | Aubrey (TNF) |
+Broncos DEF (@ LAC ~20).
+
+Calls (15-pt underdog, so play for ceiling):
+1. Keep A. Jones over Swift (soft NO run defense, dome, volume).
+2. Coleman: if DJ Moore is OUT, Coleman is a strong start. If Moore plays,
+   Coleman and Raymond are both low (Coleman had 2-38 with Moore active),
+   so keep Coleman for the MNF ceiling in the 53.5 game.
+3. DEF: swap the Vikings only if a free-agent DEF projects about 8.5+ (the
+   Bengals @ MIA or Jets vs CLE); drop Raymond. Otherwise keep the Vikings
+   (10.29) and accept the Shough overlap. **Vikings bye Week 6 means a
+   streamer is needed next week anyway.**
+
 ## Week 5 prep (10/6)
 - **MNF: Bijan 145 rush yds, 2 TD** (ATL 45, NO 24). That's 14.5 + 12 + the
   100-yd bonus before receiving. Shough's line is unconfirmed. Week 4
