@@ -349,6 +349,15 @@ Recommendations:
   - Drops: Vele, Bateman. Bigsby goes to IR if a second IR slot exists;
     otherwise he's the next drop (~6 weeks out, behind Barkley on return).
 
+### Week 5 update (10/7) — claims processed this morning
+- Claim results unknown; asked for a screenshot.
+- **PHI @ JAX is in London (9:30am ET)**, so Shipley locks early. Use him
+  only if Barkley is ruled out by Friday.
+- **White (WAS):** Ekeler signed, so his Week 5 role is shaky even if he
+  practices. Don't count on him as the RB2.
+- If the Emanuel Wilson claim failed: Shipley (London lock) or the best
+  remaining FA RB. Gordon is the fallback starter.
+
 ## Action items before Week 1
 1. **Add a backup/streaming QB before Week 5** — top priority waiver action once
    the season's underway; don't leave it until bye week itself.

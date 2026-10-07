@@ -28,6 +28,24 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-10-07 (Wednesday — ESPN claims day)
+- **PHI @ JAX is the London game: Sunday 9:30am ET** (corrects the 10/6
+  line list, which had it at 1pm). Anyone from that game locks first:
+  Shipley, Barkley, Wicks (PHI).
+- **PHI RBs:** expected to sign Dameon Pierce or Carson Steele. Shipley is
+  framed as the pass-catching change-of-pace back, not a workhorse.
+  Barkley's status is still unclear (Sirianni updates today).
+- **Rachaad White (WAS):** Quinn says he "should" practice this week, but
+  **WAS signed Austin Ekeler**, a bad sign for White's role and availability.
+  Watch Wednesday's practice report.
+- **Breece Hall:** still week-to-week, no new update. Braelon Allen handled
+  a workhorse role in Week 4.
+- **Ja'Marr Chase:** concussion, Week 5 status in serious doubt (CIN @
+  MIA). That weakens CIN's offense but doesn't change the Bengals DEF
+  streaming case (Family-Yahoo).
+- **Lane Johnson (PHI RT) retired.** That hurts the PHI offense line-wide.
+- ⚠️ A Lamar Jackson ankle snippet couldn't be tied to 2026; ignored.
+
 ### Update 2026-10-06 (Tuesday — MNF, Bigsby IR, Week 5 lines)
 - **🚨 Tank Bigsby (PHI): placed on IR, needs core-muscle surgery.** He's
   hoping for "six weeks or shorter." The abdomen injury worsened Sunday. This
