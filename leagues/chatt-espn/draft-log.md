@@ -358,6 +358,40 @@ Recommendations:
 - If the Emanuel Wilson claim failed: Shipley (London lock) or the best
   remaining FA RB. Gordon is the fallback starter.
 
+### Week 5 lineup as set (app screenshot, 10/7) — vs Pigskin Pugs
+Claims landed: QB **Kirk Cousins (LV)**, RB **Brian Robinson Jr. (ATL)**,
+WR **Keon Coleman (BUF)**, WR **Mack Hollins (NE)**, **Bengals D/ST**;
+**T. Hill on IR**. Achane, Bigsby, White, Bateman and Wicks are no longer
+shown.
+
+| Slot | Player (ESPN proj) | Game (ET) | Line → implied | Def rank vs pos | Read |
+|---|---|---|---|---|---|
+| QB | Cousins (14.16) | LV @ NE, 1pm | NE -3.5 / 45.5 → LV ~21 | 7th (tough) | Fine; upgrade only if Stroud/Goff are FAs |
+| RB | Gordon (10.88) | MIA vs CIN, 1pm | CIN -7.5 / 45.5 → MIA ~19 | 12th | Dog script + Wright split; floor play |
+| RB | B. Robinson (8.1) | ATL vs BAL, SNF | BAL -3.5 / 46.5 → ATL ~21.5 | 11th | ~9-10 carries + goal line; TD-dependent |
+| WR | Golden (12.74) | GB vs CHI, 1pm | CHI -1.5 / 44.5 → GB ~21.5 | 4th (tough) | Start; target leader |
+| WR | Metcalf (12.01) | PIT vs IND, 1pm | PIT -2.5 / 44.5 → PIT ~23.5 | 21st | Start |
+| TE | LaPorta (13.09) | DET @ ARI, 4:25, dome | DET -5.5 / 53.5 → DET ~29.5 | 30th (soft) | Best spot on roster |
+| FLEX | Deebo (11.09) | SF @ SEA, 4:25, wind | SEA -3 / 46.5 → SF ~21.75 | 2nd (tough) | See Coleman rule |
+| D/ST | Bengals (6.8) | CIN @ MIA, 1pm | MIA ~19 implied | MIA 30th | Good stream |
+| K | Reichard (9.53) | MIN @ NO, 1pm, dome | MIN ~22.5 | 16th | Fine |
+
+Bench: Barkley (Q, London 9:30am, 0.0 proj), Coleman (MNF @LAR, 7.71), Hall
+(DOUB vs CLE, 16.36), Hollins (Q), Vele (vs MIN, 10.19), Mahomes/Rice (bye;
+Rice also tagged Q, so check before Week 6).
+
+Rules:
+1. **Hall:** if he's active at 11:30am ET inactives (1pm game), start him
+   over B. Robinson.
+2. **Coleman vs Deebo (FLEX):** decide after Saturday's BUF injury report.
+   If **DJ Moore (shoulder) is OUT**, start Coleman. Without Moore he has
+   12-179-1 on 13 targets over 2 games, and BUF @ LAR is the week's
+   highest total (53.5). If Moore plays, keep Deebo (Coleman had 2-38 on 3
+   targets with Moore active).
+3. **Barkley:** leave him benched unless he's off the injury report Friday.
+   The London lock comes first and ESPN projects 0.0.
+4. Still need the Pigskin Pugs lineup for the opponent read.
+
 ## Action items before Week 1
 1. **Add a backup/streaming QB before Week 5** — top priority waiver action once
    the season's underway; don't leave it until bye week itself.
