@@ -380,6 +380,27 @@ Bench: Barkley (Q, London 9:30am, 0.0 proj), Coleman (MNF @LAR, 7.71), Hall
 (DOUB vs CLE, 16.36), Hollins (Q), Vele (vs MIN, 10.19), Mahomes/Rice (bye;
 Rice also tagged Q, so check before Week 6).
 
+**Opponent (Pigskin Pugs), from app 10/7: projected ~126.1 vs our ~98.4
+(36% win).** We're a ~28-pt underdog, so **play for ceiling**.
+
+| Slot | Opp player (proj) | Game (ET) | Implied | Note |
+|---|---|---|---|---|
+| QB | J. Allen (19.9) | BUF @ LAR, MNF | BUF ~25.5 (53.5 total) | Highest total of the week |
+| RB | McCaffrey (18.72) | SF @ SEA, 4:25 | SF ~21.75 | Same game as our Deebo |
+| RB | Tuten (13.93) | JAX vs PHI, London 9:30am | JAX ~23 | PHI defense is short-handed too |
+| WR | G. Wilson (14.54) | NYJ vs CLE, 1pm | NYJ ~20.5 | Lowest total of the week (39.5) |
+| WR | Doubs (10.94) | NE vs LV, 1pm | NE ~24.5 | Faces the defense our Cousins doesn't |
+| TE | McBride (18.72) | ARI vs DET, 4:25 | ARI ~24 | Same shootout as our LaPorta |
+| FLEX | E. Wilson (13.58) | SEA vs SF, 4:25 | SEA ~24.75 | They got the RB we targeted |
+| D/ST | Jaguars (7.21) | vs PHI, London | PHI ~19.5 | PHI missing Barkley, Bigsby, Smith, L. Johnson |
+| K | Pineiro (8.56) | SF @ SEA, 4:25 | SF ~21.75 | |
+
+**Hedge logic:** the opponent's QB is Josh Allen, and **Coleman is a BUF
+WR**. An Allen TD pass to Coleman gives them 4 and us 6 + catch + yards.
+Combined with the underdog ceiling rule, **lean Coleman over Deebo in FLEX
+unless DJ Moore is fully cleared** (no designation Saturday). Deebo also
+faces SEA's #2 WR defense.
+
 Rules:
 1. **Hall:** if he's active at 11:30am ET inactives (1pm game), start him
    over B. Robinson.
