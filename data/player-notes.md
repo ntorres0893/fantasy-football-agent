@@ -28,6 +28,26 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-10-08 (Thursday — Wednesday practice reports)
+- **Justin Jefferson: LIMITED Wednesday**, says he plans to play Week 5 @
+  NO (not yet cleared).
+  - Chatt-ESPN: good for Reichard.
+  - Family-Yahoo: it shrinks Hockenson's target bump and may make MIN less
+    run-heavy for A. Jones, but a better MIN offense helps both overall.
+- **Barkley: DNP Wednesday.** Expected out (not IR). Shipley leads PHI with
+  Dameon Pierce (elevated from the practice squad) behind him.
+- **Breece Hall:** still week-to-week, "a long shot at best" for Week 5.
+  Braelon Allen leads NYJ.
+- **DJ Moore (BUF): no practice Wednesday** per Yahoo's tracker; NBC
+  didn't list his participation. Not long-term (Schefter). The MNF game
+  gives him an extra day. This leans Coleman's way (both leagues).
+- **McLaurin (WAS, Family-Yahoo opponent's W/T):** hamstring, Wednesday
+  status not found. Quinn is "still evaluating." He sat Week 4.
+- TNF tonight: TB @ DAL (DAL -9.5 / 47.5). Pickens and Aubrey are the
+  Family-Yahoo opponent's.
+- ⚠️ Several McLaurin, Jones and Hockenson results were from 2024/2025
+  seasons; ignored.
+
 ### Update 2026-10-07 (Wednesday — ESPN claims day)
 - **PHI @ JAX is the London game: Sunday 9:30am ET** (corrects the 10/6
   line list, which had it at 1pm). Anyone from that game locks first:
