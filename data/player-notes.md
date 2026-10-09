@@ -28,6 +28,28 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-10-09 (Friday — TNF result + Thursday practice)
+- **TNF: Buccaneers 24, Cowboys 16.**
+  - **Pickens 9 catches, 130 yds, 1 TD** (Family-Yahoo opponent's WR). In
+    standard scoring that's ~13 + 6 + the 100-yd bonus, far over his 9.89
+    projection.
+  - Aubrey's line (same opponent) isn't confirmed.
+  - Bucky Irving had 165 rush yds and 2 TD, and rookie QB Jalon Daniels won
+    his 2nd start.
+- **DJ Moore: DNP Thursday** (2nd straight). Not ruled out; CBS calls it
+  "an uphill battle," and DraftSharks doesn't expect him to play.
+  **Coleman becomes the start in both leagues** unless Moore practices
+  fully Friday or Saturday.
+- **Breece Hall: DNP Thursday**, absent for warmups. Effectively out. B.
+  Robinson stays at RB2 (Chatt-ESPN). B. Allen leads NYJ (Family-Yahoo
+  bench).
+- **Jefferson: limited again Thursday.** Trending to play but not certain.
+  Friday designation pending.
+- **Barkley:** no new practice info (DNP Wednesday). Unlikely for London.
+- **McLaurin (Family-Yahoo opponent's W/T): DNP Thursday** (hamstring),
+  likely out. Expect the opponent to swap in Montgomery (10.43), about
+  +2.7 on their projection.
+
 ### Update 2026-10-08 (Thursday — Wednesday practice reports)
 - **Justin Jefferson: LIMITED Wednesday**, says he plans to play Week 5 @
   NO (not yet cleared).
