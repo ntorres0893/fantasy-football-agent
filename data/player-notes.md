@@ -28,6 +28,36 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-10-10 (Saturday — Friday designations, weather)
+- **Barkley: OUT** (confirmed, CBS/Yahoo). DeVonta Smith OUT.
+- **Lamar Jackson: OUT** for SNF @ ATL (Cooper Rush expected to start;
+  sources differ, ankle vs hamstring).
+  - ATL's game script improves: up for **Bijan** (Family-Yahoo) and **B.
+    Robinson** (Chatt-ESPN).
+  - Down for **Henry** (Family-Yahoo opponent).
+- **DJ Moore:** RotoWire says "not spotted at practice Friday." That's 3
+  straight missed days, on the doubtful side. The Bills rule Saturday.
+  Coleman FLEX (Chatt) and WR2 (Yahoo) stand.
+- **Jefferson and Addison: QUESTIONABLE** (Yahoo tracker). Jefferson was
+  limited all week. Other search results were 2023 stories and were ignored.
+- **Michael Pittman Jr. (PIT): OUT** (foot). Metcalf (Chatt-ESPN) should
+  see more targets vs IND.
+- **Ashton Jeanty (LV): questionable**, didn't practice Friday. Matters for
+  Cousins's supporting cast (Chatt-ESPN).
+- **Caleb Williams: questionable** (Swift, Family-Yahoo bench).
+- ⚠️ **Braelon Allen to IR (knee):** one 2026 tracker snippet says so, but
+  verification only returned the identical **2025** story (MCL, 8-12
+  weeks). Treat it as unverified. Hall was DNP all week as of Thursday.
+- **Weather (Sunday):**
+  - IND @ PIT: ~98% rain (Metcalf; Shrader K in Family-Yahoo).
+  - NYG @ WAS and CLE @ NYJ: rain.
+  - LV @ NE: forecasts conflict (2% vs 95%) (Cousins; Doubs in
+    Family-Yahoo).
+  - CIN @ MIA: ~90°F with possible storms (Gordon, Bengals D/ST).
+  - CHI @ GB: dry, 13 mph (Golden).
+  - London: 59°F, 12 mph.
+  - MIN @ NO and DET @ ARI: dome.
+
 ### Update 2026-10-09 (Friday — TNF result + Thursday practice)
 - **TNF: Buccaneers 24, Cowboys 16.**
   - **Pickens 9 catches, 130 yds, 1 TD** (Family-Yahoo opponent's WR). In
