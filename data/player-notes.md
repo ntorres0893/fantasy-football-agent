@@ -28,6 +28,17 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-10-11 (Sunday — game day)
+- **DJ Moore: QUESTIONABLE.** He was **limited Saturday** after two DNPs.
+  Joshua Palmer (BUF WR) is OUT. If Moore sits, Shakir and Coleman are the
+  top 2 WRs. Final word comes ~6:45pm ET Monday, after Deebo's Sunday 4:25
+  lock.
+- **Breece Hall: OUT** (confirmed Friday). **Braelon Allen starts for NYJ.**
+  The "Allen to IR" item was a 2025 story, so it's confirmed false for
+  2026.
+- **Jefferson and Addison: QUESTIONABLE.** MIN elevated Odell Beckham Jr.
+  as insurance. Decision ~11:30am ET.
+
 ### Update 2026-10-10 (Saturday — Friday designations, weather)
 - **Barkley: OUT** (confirmed, CBS/Yahoo). DeVonta Smith OUT.
 - **Lamar Jackson: OUT** for SNF @ ATL (Cooper Rush expected to start;
