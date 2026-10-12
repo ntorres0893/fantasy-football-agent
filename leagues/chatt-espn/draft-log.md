@@ -413,6 +413,14 @@ Rules:
    The London lock comes first and ESPN projects 0.0.
 4. Still need the Pigskin Pugs lineup for the opponent read.
 
+### Week 6 prep (10/12) — four-team bye (CIN, DET, MIA, MIN)
+- Out: **LaPorta (only TE)**, **Gordon**, **Reichard (K)**, **Bengals
+  D/ST**. Back: Mahomes and Rice (Rice had a minor tag).
+- Needs by Tuesday night claims (ESPN processes Wed AM): **TE, K, D/ST**.
+  RB depends on Barkley and Hall updates (B. Robinson is available).
+- Drops: Vele, Hollins (if healthy, keep one as WR depth), Cousins (once
+  Mahomes is back).
+
 ## Action items before Week 1
 1. **Add a backup/streaming QB before Week 5** — top priority waiver action once
    the season's underway; don't leave it until bye week itself.

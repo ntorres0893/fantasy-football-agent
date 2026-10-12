@@ -101,6 +101,12 @@ consideration anyway.
 - Vikings D/ST: held GB to 22, 4 sacks, 1 INT — solid week despite tough matchup on paper (MIN beat GB 39-22)
 - **Waddle: 1 catch/2 yds on 3 targets (incl. a dropped 3rd-down target) — genuinely bad game**, ~0.2 pts in our scoring. New Denver offense under new OC — one bad week, not a verdict yet, but a real watch item.
 
+## Week 6 prep (10/12) — four-team bye (CIN, DET, MIA, MIN)
+- Out: **A. Jones**, **Hockenson (only TE)**, **Vikings DEF**.
+- Needs by **Tuesday** waivers: **TE** and **DEF**. RB2 is Swift or B.
+  Allen (Hall status matters for Allen).
+- McMillan returns from his bye.
+
 ## Week 5 lineup as set (app screenshot, 10/7) — proj 101.03 vs 115.76
 **Roster changes seen:** the Swift trade went through, and Braelon Allen and
 Keon Coleman were added. **Hockenson (MIN) is now the TE.** McBride,

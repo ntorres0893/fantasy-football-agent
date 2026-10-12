@@ -28,6 +28,36 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-10-12 (Monday — Week 5 Sunday results, Week 6 byes)
+- **Finals (Sunday):**
+  - JAX 19, PHI 17 (London)
+  - GB 31, CHI 7
+  - CIN 31, MIA 24
+  - NE 45, LV 17
+  - HOU 26, TEN 3
+  - PIT 34, IND 22
+  - MIN 23, NO 13
+  - NYJ 17, CLE 12
+  - NYG 27, WAS 27 (tie)
+  - DEN 23, LAC 17
+  - Live-blog only (not confirmed final): DET 45, ARI 21; SF 32, SEA 29
+- **SNF: Ravens 30, Falcons 23 (OT).** Huntley started for Lamar.
+  - **Bijan: 17 car, 86 yds + 4 rec, 32 yds, no TD** (~11.8 standard pts,
+    Family-Yahoo).
+  - Opp's **Henry: 120 scrimmage yds + TD**.
+  - B/R mentions a Penix injury late (rib?). Unverified: search returned
+    only 2025 knee stories.
+- ⚠️ The injury-recap search mixed in stale stories (Kelce/Rice with KC on
+  bye, Chase concussion from Week 4, Daniel Jones). Ignored. Individual
+  box scores for our players are not confirmed.
+- **MNF tonight: BUF @ LAR.** Coleman (both leagues) and the Chatt-ESPN
+  opponent's Josh Allen. DJ Moore's status comes ~6:45pm ET.
+- **🚨 Week 6 byes: CIN, DET, MIA, MIN** (first four-team bye).
+  - Chatt-ESPN loses **LaPorta (only TE)**, Gordon, Reichard and the
+    Bengals D/ST. Mahomes and Rice return.
+  - Family-Yahoo loses **A. Jones, Hockenson (only TE)** and the **Vikings
+    DEF**.
+
 ### Update 2026-10-11 (Sunday — game day)
 - **DJ Moore: QUESTIONABLE.** He was **limited Saturday** after two DNPs.
   Joshua Palmer (BUF WR) is OUT. If Moore sits, Shakir and Coleman are the
