@@ -28,6 +28,29 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-10-13 (Tuesday — MNF, Week 6 setup)
+- **MNF: Bills 37, Rams 34 (OT).**
+  - Josh Allen got his 100th win (he's the Chatt-ESPN opponent's QB).
+  - Nacua had 17 catches, 138 yds and a TD (an MNF record).
+  - Bass kicked the OT winner after Mevis had a FG blocked.
+  - **Coleman's line and whether DJ Moore played: not found.** Get the
+    app screenshots.
+- **Barkley: "hopeful" for Week 6 vs CAR** (Sirianni). Not committed to
+  practice; Wednesday is the checkpoint. If he sits: Dameon Pierce, Jaydon
+  Blue.
+- **Breece Hall:** not a lock for Week 6 (NYJ @ NE).
+- **Week 6 TE streamers (consensus):**
+  - **Brenton Strange (JAX, ~27% rostered)**, the top-cited add
+  - Pat Freiermuth (PIT)
+  - Chig Okonkwo (WAS)
+  - Cade Otton (TB)
+  - Higbee is mentioned, but his outlook is unconfirmed
+- **Week 6 DEF streamers:**
+  - **Chiefs vs winless LAC (~17%)**
+  - **Colts vs TEN (~4%)**
+  - Patriots vs NYJ (~53%)
+  - Giants (~6%)
+
 ### Update 2026-10-12 (Monday — Week 5 Sunday results, Week 6 byes)
 - **Finals (Sunday):**
   - JAX 19, PHI 17 (London)
