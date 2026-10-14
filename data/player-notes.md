@@ -35,6 +35,16 @@
   - Jaylen Wright fell to 14% and re-injured his foot.
   - Supersedes the 10/2 "smaller half of a 60/40 split" note.
 
+- **DJ Moore (BUF) update 10/14:**
+  - **Inactive for MNF Week 5** (ruled out ~90 min before kickoff after
+    one limited Saturday practice). AC joint sprain since Week 2,
+    re-aggravated Week 4.
+  - BUF WRs vs LAR were Shakir, **Coleman**, Dortch, Bell and Sherfield.
+  - **No Week 6 practice report yet**; Wednesday's report is next. BUF @ LV
+    Sunday 4:25pm ET.
+  - Family-Yahoo starts Moore at W/T, so add Coleman as the same-game
+    fallback. Chatt-ESPN: Coleman is still the #1 WR add.
+
 ### Research 2026-10-14 (c) — Patriots WR room (targets)
 QB Drake Maye: Wk5 26/34, 374 yds, 4 pass TD + 1 rush TD vs LV, and he
 spread it to **9 different receivers**. Week 6 vs NYJ: NE ~25.5 implied,
