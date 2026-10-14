@@ -141,6 +141,25 @@ Calls:
    Consider a FA RB (Woody Marks HOU, London 9:30am lock, lead back). The
    decision has to be made before 9:30am Sunday.
 
+## Shakir decision (10/14) — target-based, standard scoring
+| WR | Targets (games) | Tgt/g | Yds | Yds/target | TD | Wk6 spot |
+|---|---|---|---|---|---|---|
+| **Khalil Shakir (BUF)** | ~26 (5) | ~5.2 | 256 | ~9.8 | 0 | @ LV 4:25, BUF ~29.5 |
+| Keon Coleman (BUF) | ~18 (5) | ~3.6 | 224 | ~12.4 | 2 | same game |
+| DJ Moore (BUF) | n/a (4) | — | 178 | — | 1 | inactive Wk5, no Wk6 practice yet |
+| Xavier Worthy (KC) | ~22 (4: 15 in 3 + 7 Wk4) | ~5.5 | 63 thru 3 g | **~4.2** | 1 | vs LAC 4:25, KC ~25.5; Rice returning |
+- Shakir has a ~20% team target share (Covers) and leads BUF WRs in
+  targets. Wk4: 8 targets. Wk5: 3 targets (BUF went run-heavy with no
+  Moore/Palmer), 3-80 incl. a 57-yd catch in OT.
+- **Call: ADD Shakir; drop the Vikings DEF** (bye, Chiefs streaming).
+  - **Start Shakir at WR2 over Worthy.** Similar targets per game, but
+    more than twice the yards per target in a 0-PPR league, on a higher
+    team total, while Worthy's share shrinks with Rice back.
+  - **Keep Worthy on the bench as the 4:25 fallback for DJ Moore** at W/T.
+    It's the same kickoff window, so swap at ~2:55pm inactives if Moore
+    sits.
+  - Caveat: small samples (5 games).
+
 ## Research update (10/14) — scoring leaders
 - **Trey McBride is the TE1 in fantasy** (double-digit PPR every game) and
   is no longer on this roster. **If he's on Yahoo waivers, he's the #1
