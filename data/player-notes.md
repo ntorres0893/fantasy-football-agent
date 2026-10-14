@@ -28,6 +28,41 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Research 2026-10-14 — Season scoring leaders & matchup data (thru Week 5)
+⚠️ Sources disagree on exact totals (different week counts and scoring),
+so use them as rankings, not precise numbers.
+- **Fantasy leaders (PPR, ffbeacon/Legion Report/B/R):**
+  - QB: Josh Allen, Brock Purdy (~23.3/g) and Jared Goff are the top 3 (order
+    varies by source).
+  - RB: **Jahmyr Gibbs** (~116), **Kenneth Walker** (~110), **Bijan Robinson**
+    (~105, Family-Yahoo's own, RB3).
+  - WR: **Jaxon Smith-Njigba** (~117 in 4 games), **CeeDee Lamb** (~115),
+    Amon-Ra St. Brown (~91).
+  - TE: **Trey McBride**, double-digit PPR every game. ⚠️ Family-Yahoo
+    dropped him; check whether he's on Yahoo waivers.
+  - K: **Spencer Shrader leads all kickers** (Family-Yahoo's own).
+- **Team scoring (pts/g, approximate):**
+  - Top: **DET ~32.8, BUF ~31.8**.
+  - Bottom: **TEN ~11.6, MIA ~11.5**, DEN ~16.8.
+  - LAR moves the ball (#2 in yards, ~417/g) but only scores ~21.3/g, so
+    its Week 6 implied ~32.5 vs ARI is optimistic.
+- **Fantasy points allowed (defense vs position, mostly thru Week 4):**
+  - vs RB: softest are **CAR (~28/g)**, NYJ, NO and BUF.
+  - vs WR: **ARI (~34/g, 2nd-most)**, ATL (~31, 7th).
+  - vs TE: **ARI (~15/g, 5th)**, ATL (~14, 7th).
+  - vs DEF (best offenses to stream against): **LAC allows the most fantasy
+    pts to defenses (10.2/g)** and has Week 6's lowest implied total
+    (17.0). TEN is 7th-most. HOU is bottom-10 (not a good DEF target).
+- **Week 6 takeaways:**
+  - **Chiefs D/ST vs LAC is the best stream on the board.** Colts vs TEN
+    is second (~4% rostered).
+  - **Barkley vs CAR** (2nd-softest vs RB) is a strong spot if he's
+    healthy (Chatt-ESPN).
+  - **ARI is soft vs WR and TE.** The Chatt-ESPN opponent's Kyren and Adams
+    stack is in a great spot. Higbee (LAR TE) also gets support as a
+    streamer.
+  - **ATL is soft vs WR/TE**, which helps CHI pass-catchers @ ATL.
+
 ### Update 2026-10-14 (Wednesday — ESPN claims day, Week 6 lines)
 - **🚨 Deebo Samuel (SF): hamstring, left Week 5 in the 3rd quarter.**
   Schefter says "at least a couple of weeks." MRI pending. Chatt-ESPN

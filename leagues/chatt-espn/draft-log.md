@@ -466,6 +466,14 @@ projection):**
 - **Rice:** no WR on the bench kicks off after 4:25. If he's DNP or
   doubtful Friday, start Metcalf at WR instead and keep the FLEX plan.
 
+- **Research 10/14:**
+  - **Chiefs D/ST vs LAC is the top stream** (LAC allows the most fantasy
+    pts to DEFs, 10.2/g, and has the lowest implied total).
+  - **Barkley vs CAR** is a great spot if active (CAR is 2nd-softest vs
+    RB).
+  - The opponent's Kyren and Adams face ARI (2nd-most to WRs). Expect a big
+    week from them, so we need ceiling.
+
 ## Action items before Week 1
 1. **Add a backup/streaming QB before Week 5** — top priority waiver action once
    the season's underway; don't leave it until bye week itself.

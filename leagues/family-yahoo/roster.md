@@ -101,6 +101,15 @@ consideration anyway.
 - Vikings D/ST: held GB to 22, 4 sacks, 1 INT — solid week despite tough matchup on paper (MIN beat GB 39-22)
 - **Waddle: 1 catch/2 yds on 3 targets (incl. a dropped 3rd-down target) — genuinely bad game**, ~0.2 pts in our scoring. New Denver offense under new OC — one bad week, not a verdict yet, but a real watch item.
 
+## Research update (10/14) — scoring leaders
+- **Trey McBride is the TE1 in fantasy** (double-digit PPR every game) and
+  is no longer on this roster. **If he's on Yahoo waivers, he's the #1
+  add**, ahead of any streamer. Drop Raymond or B. Allen.
+- **Shrader leads all kickers.** Keep him; Week 6 vs TEN (IND ~25.6).
+- **Bijan is RB3 overall.**
+- Week 6 TE fallback: Higbee (LAR vs ARI, which is soft vs TE). DEF: Chiefs
+  vs LAC (LAC allows the most to DEFs), then Colts vs TEN.
+
 ## Week 6 prep (10/12) — four-team bye (CIN, DET, MIA, MIN)
 - Out: **A. Jones**, **Hockenson (only TE)**, **Vikings DEF**.
 - Needs by **Tuesday** waivers: **TE** and **DEF**. RB2 is Swift or B.
