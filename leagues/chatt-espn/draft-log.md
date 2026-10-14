@@ -421,6 +421,12 @@ Rules:
 - Drops: Vele, Hollins (if healthy, keep one as WR depth), Cousins (once
   Mahomes is back).
 
+- **10/14:** Deebo out (hamstring, "at least a couple of weeks"). Week 6
+  WRs: Rice (minor hamstring, vs LAC), Golden (vs DAL SNF, GB ~27), Metcalf
+  (@ TB, PIT ~21.25), Coleman (@ LV, BUF ~29.5). FLEX from Coleman,
+  Barkley (if active) or B. Robinson. Claims processed this morning;
+  results unknown.
+
 ## Action items before Week 1
 1. **Add a backup/streaming QB before Week 5** — top priority waiver action once
    the season's underway; don't leave it until bye week itself.

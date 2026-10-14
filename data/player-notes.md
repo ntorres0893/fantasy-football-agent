@@ -28,6 +28,31 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Update 2026-10-14 (Wednesday — ESPN claims day, Week 6 lines)
+- **🚨 Deebo Samuel (SF): hamstring, left Week 5 in the 3rd quarter.**
+  Schefter says "at least a couple of weeks." MRI pending. Chatt-ESPN
+  bench; he'll miss Week 6 (MNF vs WAS) at minimum.
+- **Rashee Rice (KC): hamstring "tweak"** suffered Week 4 vs LV, believed
+  minor, and he had the bye to recover. Watch Wednesday-Friday practice for
+  LAC.
+- **Barkley:** hopeful/questionable for Week 6 vs CAR; not on IR.
+- **DJ Moore:** still on the injury list (shoulder), no status note.
+- **Week 6 lines (Oct 13-14, ET), with implied totals:**
+  - TNF: SEA @ DEN, SEA -3 / 40.5
+  - HOU @ JAX (London), JAX -2.5 / 43
+  - CHI @ ATL, CHI -3 / 48.5 → ATL ~22.75, CHI ~25.75
+  - NYG @ NO, ~pick'em / 45 → NO ~22.5
+  - PIT @ TB, PIT -2.5 / 40 → PIT ~21.25
+  - TEN @ IND, IND -7 / 44.25 → TEN ~18.6, IND ~25.6
+  - **ARI @ LAR, LAR -13 / 52 → LAR ~32.5, ARI ~19.5**
+  - **BUF @ LV, BUF -6 / 53 → BUF ~29.5**
+  - **LAC @ KC, KC -8.5 / 42.5 → KC ~25.5, LAC ~17**
+  - DAL @ GB (SNF), GB -1.5 / 52.5 → GB ~27
+  - NYJ @ NE, NE -7 / 44 → NYJ ~18.5, NE ~25.5
+  - BAL vs CLE, BAL -4 / 41
+  - CAR @ PHI, PHI -1.5 / 42 → PHI ~21.75, CAR ~20.25 (moved from -6.5)
+  - MNF: WAS @ SF, SF -7.5 / 50.5 → SF ~29
+
 ### Update 2026-10-13 (Tuesday — MNF, Week 6 setup)
 - **MNF: Bills 37, Rams 34 (OT).**
   - Josh Allen got his 100th win (he's the Chatt-ESPN opponent's QB).
