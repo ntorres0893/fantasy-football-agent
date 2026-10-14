@@ -28,6 +28,40 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+### Research 2026-10-14 (b) — Targets × Week 6 QB projections (WR pickups)
+**Target leaders (thru Week 5, FantasyTools/PFF):**
+- JSN: 35.8% target share, 50 targets
+- Amon-Ra St. Brown: 31.2%, 57
+- Garrett Wilson: 30.0%, 42
+- Drake London: 28.4%
+- **Malik Washington (MIA): 28.2%**
+- Chris Olave: 28.0%, 53-54 targets (#2 in raw targets)
+- CeeDee Lamb: 27.4%
+- Malik Nabers had 20 targets in Week 5 alone.
+
+**Most pass-heavy teams (PROE, Sharp 10/12):** CAR, CIN, DAL, PIT, GB.
+KC is ~4th (ESPN).
+
+**Week 6 top QB projections (DraftSharks/4for4/SI/PFN consensus):**
+1. **Josh Allen** (BUF @ LV, ~25.3)
+2. **Purdy** (SF vs WAS)
+3. **Love** (GB vs DAL)
+4. Stafford (LAR vs ARI)
+5. Maye (NE vs NYJ)
+6. Prescott (DAL @ GB)
+7. Mahomes
+
+**Low-rostered WRs with target volume, mapped to those QBs:**
+| WR | Team / Wk6 | Target evidence | Rostered | QB tier |
+|---|---|---|---|---|
+| Keon Coleman | BUF @ LV, 4:25 (BUF ~29.5) | 13 tgts / 12-179-1 in 2 games without DJ Moore; Moore Q | ~22% ESPN | Allen #1 |
+| Keenan Allen | IND vs TEN, 1pm (IND ~25.6) | 9 targets in each of the last 2 games | ~31-37% | (IND pass game) |
+| Germie Bernard | PIT @ TB, 1pm (PIT ~21.25) | 25.8% tgt share, 47.5% air-yd share Wk5; Pittman IR, R. Wilson out | ~1-6% | PIT top-5 pass rate |
+| Efton Chism III | NE vs NYJ, 1pm (NE ~25.5) | team-high 6 targets Wk5 | 1-39% (varies) | Maye top-5 |
+| Kendrick Bourne | ARI @ LAR, 4:05 (ARI ~19.5) | 3rd option behind McBride and M. Wilson; ARI a 13-pt dog = volume | ~2-7% | garbage-time volume |
+| Jordyn Tyson | NO @ NYG | top-ranked mid-week add (RotoBaller); WR2 behind Olave | varies | stash |
+| Malik Washington | MIA (BYE Wk6) | 28.2% target share (top-5) | ? | stash for Wk7+ |
+
 ### Research 2026-10-14 — Season scoring leaders & matchup data (thru Week 5)
 ⚠️ Sources disagree on exact totals (different week counts and scoring),
 so use them as rankings, not precise numbers.

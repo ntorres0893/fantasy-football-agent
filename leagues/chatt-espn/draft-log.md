@@ -474,6 +474,24 @@ projection):**
   - The opponent's Kyren and Adams face ARI (2nd-most to WRs). Expect a big
     week from them, so we need ceiling.
 
+### Target-based WR pickups (10/14, manager request: "base pickups off attempts")
+ESPN claims already processed, so these are first-come FA adds. Verify
+availability in the app.
+1. **Keon Coleman (BUF):** Allen is the #1 projected QB, BUF ~29.5
+   implied, Moore Q. He also **fixes the Rice hole**: same 4:25 window, so
+   if Rice is inactive (~2:55pm) Coleman slides in.
+2. **Keenan Allen (IND vs TEN):** 9 targets in each of the last 2 games,
+   IND ~25.6 vs a weak TEN. PPR floor. Use him as the 1pm FLEX swap
+   instead of Vele.
+3. **Germie Bernard (PIT):** 25.8% target share in Wk5, PIT is a top-5 pass
+   rate, Pittman on IR. Cheap volume stash (shares targets with our
+   Metcalf).
+- Stashes: Malik Washington (MIA, 28.2% tgt share, on bye) and Jordyn
+  Tyson (NO, rising; threatens Vele).
+- **Drops, in order:** OBJ (bye, backup), Vele (Tyson rising), Gordon
+  (MIA worst offense, Wright split). Keep Deebo for now (out a couple of
+  weeks).
+
 ## Action items before Week 1
 1. **Add a backup/streaming QB before Week 5** — top priority waiver action once
    the season's underway; don't leave it until bye week itself.
