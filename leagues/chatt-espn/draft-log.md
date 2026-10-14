@@ -427,6 +427,45 @@ Rules:
   Barkley (if active) or B. Robinson. Claims processed this morning;
   results unknown.
 
+### Week 6 lineup as set (app, 10/14) — proj ~114.4, 46% win
+Manager's moves: added Freiermuth (TE), 49ers D/ST, Zvada (K, NYG), Woody
+Marks (RB, HOU), OBJ (MIN). Cousins, Hollins and **Coleman are gone**.
+
+| Slot | Ours (ESPN proj) | Game (ET) | Implied | Read |
+|---|---|---|---|---|
+| QB | Mahomes (18.77) | KC vs LAC, 4:25 | KC ~25.5 | LAC winless. Start |
+| RB | Barkley Q (13.82) | PHI vs CAR, 1pm | PHI ~21.75 | Hamstring return; 11:30 inactives |
+| RB | Hall Q (14.04) | NYJ @ NE, 1pm | NYJ ~18.5 | Missed all of last week; dog script |
+| WR | Rice Q (14.4) | KC vs LAC, 4:25 | KC ~25.5 | Hamstring tweak; no later fallback on bench |
+| WR | Golden (16.1) | GB vs DAL, SNF | GB ~27 (52.5 total) | Start |
+| TE | Freiermuth (10.27) | PIT @ TB, 1pm, wind | PIT ~21.25 | Only healthy TE. Start |
+| FLEX | Vele (11.18) | NO @ NYG, 1pm | NO ~22.5 | Metcalf (11.76) projects higher |
+| D/ST | 49ers (4.86) | vs WAS, MNF | WAS ~21.5 | Weak; stream if possible |
+| K | Zvada (10.91) | NYG vs NO, 1pm | NYG ~22.5 | Fine |
+Bench: Metcalf (11.76), B. Robinson (7.56, 1pm), **Woody Marks (10.82,
+HOU @ JAX London 9:30am, lead back with Montgomery week-to-week; JAX run D
+stingy)**, OBJ (bye), Gordon (bye), LaPorta (bye), Deebo (OUT). IR: T. Hill.
+
+Opponent: Purdy (21.38, MNF) | J. Love (11.34, ARI ~19.5), Kyren Williams
+(20.92, LAR ~32.5) | A. St. Brown **BYE in lineup (0.0)**, Lamb Q (18.55,
+SNF) | Kittle (14.72, MNF) | FLEX D. Adams (15.99, LAR) | Ravens D/ST |
+Loop. Their ~120 becomes ~130 once they replace ASB (Waddle TNF 10.0,
+Monangai, Dobbins on bench). **LAR stack (Kyren + Adams) is in the week's
+best spot.**
+
+**Recommended structure (full injury insurance, about even on
+projection):**
+- RB **Barkley**, RB **Woody Marks** (locks 9:30am London), **FLEX Hall**.
+- WR Rice, Golden · TE Freiermuth · K Zvada.
+- Bench Metcalf, B. Robinson and Vele as 1pm swaps.
+- At 11:30am inactives: Barkley out → B. Robinson; Hall out → Metcalf in
+  FLEX. Every case is covered.
+- **D/ST:** replace the 49ers (4.86) with the **Chiefs vs LAC** (LAC ~17,
+  winless, ~17% rostered) or the **Colts vs TEN** (~4%). Drop OBJ (bye,
+  backup role).
+- **Rice:** no WR on the bench kicks off after 4:25. If he's DNP or
+  doubtful Friday, start Metcalf at WR instead and keep the FLEX plan.
+
 ## Action items before Week 1
 1. **Add a backup/streaming QB before Week 5** — top priority waiver action once
    the season's underway; don't leave it until bye week itself.
