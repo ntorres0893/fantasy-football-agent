@@ -35,6 +35,25 @@
   - Jaylen Wright fell to 14% and re-injured his foot.
   - Supersedes the 10/2 "smaller half of a 60/40 split" note.
 
+### Research 2026-10-14 (c) — Patriots WR room (targets)
+QB Drake Maye: Wk5 26/34, 374 yds, 4 pass TD + 1 rush TD vs LV, and he
+spread it to **9 different receivers**. Week 6 vs NYJ: NE ~25.5 implied,
+Maye a top-5 QB projection.
+| WR | Season targets (5 g) | Recent | Notes |
+|---|---|---|---|
+| Romeo Doubs | 23 (13-219-2) | led WR snaps 2 straight weeks (62 in Wk5) | De facto WR1; rostered in Chatt-ESPN (Wk5 opponent had him) |
+| DeMario Douglas | 22 (13-147-2) | Wk5: 5 tgts, 4-65-2 TD | TD-driven; ~4.4 tgt/g |
+| **Efton Chism III** | ~10-12 (est.) | Wk4: 4 tgts, 42 yds. **Wk5: team-high 6 tgts, 5-57, career-high 76% snaps** | Rising slot role; best NE add by volume trend |
+| Kyle Williams | n/a | Wk5: 3-91-1 (34-yd TD) | Big-play only, low volume |
+| Mack Hollins | — | **IR, out at least 3 more games** (Boston Globe) | Opened Chism's role |
+| A.J. Brown | — | ankle, out since Wk1 (IR per RotoBaller) | Return timeline unknown; stash only if FA |
+| Kayshon Boutte | — | traded to HOU | — |
+**Verdict:** NE targets are spread thin. No WR is above ~5 targets/g or a
+~20% share. They're behind Keenan Allen (9 tgts x2), Coleman (6.5/g
+without Moore) and Germie Bernard (25.8% share) on volume. **If adding
+one: Chism** (snaps and targets trending up, cheap 1pm depth). Douglas is
+a TD dart.
+
 ### Research 2026-10-14 (b) — Targets × Week 6 QB projections (WR pickups)
 **Target leaders (thru Week 5, FantasyTools/PFF):**
 - JSN: 35.8% target share, 50 targets
