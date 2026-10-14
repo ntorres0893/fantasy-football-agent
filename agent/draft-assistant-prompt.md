@@ -3,7 +3,25 @@
 Use this when the draft is happening. Kick off with:
 *"It's draft day — let's run the playbook."*
 
+## ⚠️ Lesson from 2026 (manager, 10/14): our draft was a miss
+We didn't look at **prior seasons' actual highest fantasy scorers** before
+drafting. Before the 2027 draft, both leagues:
+- Pull the **final 2026 fantasy-points leaders by position** (both PPR for
+  Chatt-ESPN and standard for Family-Yahoo), plus points per game and games
+  played. Also pull 2-3 year trends for repeat top scorers.
+- Build the board from **proven production first**, then adjust for
+  role/age/injury. Projections and hype are tiebreakers, not the
+  foundation.
+- Flag any player we rank well above his prior-year finish and make the
+  case explicitly.
+- 2026 evidence that this matters (as of Week 5): Trey McBride (TE1, 10+
+  PPR every week), Jaxon Smith-Njigba, Jahmyr Gibbs, Bijan, Josh Allen and
+  Spencer Shrader (top K). Proven producers kept producing. Our
+  RB-depth-by-volume approach (Achane, Hall, Barkley) got hit by injuries.
+
 ## Setup (once, at the start)
+0. **Load last season's final fantasy-points leaders** (see lesson above)
+   and cross-check the board against them.
 1. Read `leagues/chatt-espn/draft-day-playbook.md` (the operating procedure),
    `leagues/chatt-espn/draft-board.md` (the tiered big board), `data/player-notes.md`, and
    `leagues/chatt-espn/league-settings.md` (confirm slot + roster slots).

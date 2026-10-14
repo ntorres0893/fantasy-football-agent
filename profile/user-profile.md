@@ -31,6 +31,9 @@
 | Zero-RB / Hero-RB / Robust-RB | **Undecided** | The playbook covers all three; we pick based on your slot + how the board falls |
 | Autodraft fallback ranking | Maintained in `leagues/chatt-espn/draft-board.md` | If you can't make the draft live, this is the queue |
 
+- **Next season (from 2026):** start draft prep from the prior years'
+  actual top fantasy scorers by position. 2026's draft missed this.
+
 ## Learning goals
 - Understand positional scarcity (why RB/TE differ from WR/QB).
 - Learn to read a matchup and set an optimal weekly lineup.

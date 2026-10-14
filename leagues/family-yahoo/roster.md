@@ -101,6 +101,46 @@ consideration anyway.
 - Vikings D/ST: held GB to 22, 4 sacks, 1 INT — solid week despite tough matchup on paper (MIN beat GB 39-22)
 - **Waddle: 1 catch/2 yds on 3 targets (incl. a dropped 3rd-down target) — genuinely bad game**, ~0.2 pts in our scoring. New Denver offense under new OC — one bad week, not a verdict yet, but a real watch item.
 
+## Week 6 lineup as set (app, 10/14) — proj 106.01 vs 82.62
+Roster turned over again: **QB Drake Maye and Jordan Love**, WR **Xavier
+Worthy** and **DJ Moore**, TE **Freiermuth**, **Chiefs DEF**, and **Ollie
+Gordon** added. Shough, Swift, M. Wilson, Coleman, Doubs and Hockenson are
+no longer shown.
+
+| Slot | Ours (proj) | Game (ET) | Implied | Read |
+|---|---|---|---|---|
+| QB | Maye (24.45) | NE vs NYJ, 1pm | NE ~25.5 (44 total) | Bench for Love |
+| RB | Bijan (18.94) | ATL vs CHI, 1pm | ATL ~22.75 | Start |
+| RB | B. Allen (8.64) | NYJ @ NE, 1pm | NYJ ~18.5 | Role depends on Hall (Q) |
+| WR | McMillan (9.26) | CAR @ PHI, 1pm | CAR ~20.25 | Start |
+| WR | Worthy (7.43) | KC vs LAC, 4:25 | KC ~25.5 | Start |
+| TE | Freiermuth (6.10) | PIT @ TB, 1pm, wind | PIT ~21.25 | Upgrade to McBride if he's a FA |
+| W/T | DJ Moore **Q** (9.71) | BUF @ LV, 4:25 | BUF ~29.5 | No later W/T fallback on bench |
+| K | Shrader (11.00) | IND vs TEN, 1pm | IND ~25.6 | Top K. Start |
+| DEF | Chiefs (10.48) | KC vs LAC, 4:25 | LAC ~17 (most pts allowed to DEF) | Best stream. Start |
+Bench: **Jordan Love (25.05, GB vs DAL SNF)**, A. Jones (bye), Gordon
+(bye), Vikings (bye).
+
+Opponent: Prescott (22.47, SNF) | Cook (15.11, BUF), J. Williams (13.21,
+DAL SNF) | Egbuka (7.14), C. Tate (7.58) | Likely (7.95) | W/T **Higgins on
+bye (0.0)** | Myers (TNF) | **Bengals DEF on bye (0.0)**. Their ~83 becomes
+~97 once they fill the two bye slots (Odunze 6.91 on the bench + a DEF).
+**We're favored, so play for floor and reduce variance.**
+
+Calls:
+1. **QB: Jordan Love over Maye.** Love projects higher (25.05 vs 24.45) in
+   the best environment (52.5 total, GB ~27 vs NE ~25.5). It's also **the
+   same game as their Prescott and J. Williams**, which offsets their best
+   players. That lowers variance, which is right for a favorite.
+2. **TE: claim McBride if he's on waivers** (TE1 in 2026). Drop the Vikings
+   DEF (bye, and the Chiefs are streaming).
+3. **DJ Moore insurance:** add **Keon Coleman** if he's a FA (same BUF
+   game). If Moore is inactive at ~2:55pm, swap Coleman into W/T. Drop
+   Gordon (bye, backup).
+4. **RB2:** if Hall practices fully and has no tag, Allen loses work.
+   Consider a FA RB (Woody Marks HOU, London 9:30am lock, lead back). The
+   decision has to be made before 9:30am Sunday.
+
 ## Research update (10/14) — scoring leaders
 - **Trey McBride is the TE1 in fantasy** (double-digit PPR every game) and
   is no longer on this roster. **If he's on Yahoo waivers, he's the #1
