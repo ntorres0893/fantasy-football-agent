@@ -28,6 +28,13 @@
 > see `leagues/family-yahoo/league-settings.md` for full detail.
 
 ## 🚑 Injuries / status clouds
+- **Ollie Gordon (MIA): clear lead back** (verified 10/14).
+  - Wk4: 9-100-1 on 56% snaps.
+  - Wk5: 18-88-1 on ~65% snaps, 18 of 24 RB opportunities, 9 red-zone
+    carries.
+  - Jaylen Wright fell to 14% and re-injured his foot.
+  - Supersedes the 10/2 "smaller half of a 60/40 split" note.
+
 ### Research 2026-10-14 (b) — Targets × Week 6 QB projections (WR pickups)
 **Target leaders (thru Week 5, FantasyTools/PFF):**
 - JSN: 35.8% target share, 50 targets

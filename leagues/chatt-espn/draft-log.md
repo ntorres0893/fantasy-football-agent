@@ -488,9 +488,19 @@ availability in the app.
    Metcalf).
 - Stashes: Malik Washington (MIA, 28.2% tgt share, on bye) and Jordyn
   Tyson (NO, rising; threatens Vele).
-- **Drops, in order:** OBJ (bye, backup), Vele (Tyson rising), Gordon
-  (MIA worst offense, Wright split). Keep Deebo for now (out a couple of
-  weeks).
+- **Drops, in order:** OBJ (bye, backup), Vele (Tyson rising). Keep
+  Deebo for now (out a couple of weeks).
+- **CORRECTION (manager pushback, verified): KEEP Ollie Gordon.** He's the
+  clear MIA lead back since Achane's IR:
+  - Wk4: 9 car, 100 yds, TD (56% snaps).
+  - Wk5: 18 car, 88 yds, TD, ~65% snaps, 18 of 24 RB opportunities, 9
+    red-zone carries (2nd-most in any game this season).
+  - Wright fell to 14% snaps and re-hurt his foot.
+  - My "Wright split" read was from the 10/2 practice reports and was
+    stale. The Week 6 bye is the only reason to bench him; he starts Week
+    7+.
+  - Third drop (if needed) is B. Robinson after this week (TD-dependent
+    backup), not Gordon.
 
 ## Action items before Week 1
 1. **Add a backup/streaming QB before Week 5** — top priority waiver action once
