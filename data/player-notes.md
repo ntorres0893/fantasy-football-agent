@@ -45,6 +45,18 @@
   - Family-Yahoo starts Moore at W/T, so add Coleman as the same-game
     fallback. Chatt-ESPN: Coleman is still the #1 WR add.
 
+### Update 2026-10-15b (Thursday morning — more Wednesday reports)
+- **DJ Moore (BUF): DNP Wednesday** (estimated, walk-through), AC joint.
+  Trending toward a 2nd straight missed game. Boosts Shakir (Family-Yahoo
+  bench) and Coleman.
+- **Kelce: not on KC's Wednesday injury report** (healthy). Rice DNP, so
+  more targets for Kelce and Worthy.
+- **PIT:** Roman Wilson ruled out (finger), Pittman on IR. **Freiermuth
+  (Chatt-ESPN TE) and Bernard (Family-Yahoo W/T) both saw expanded roles**;
+  Freiermuth is a fringe TE1 this week.
+- Woody Marks / Golden: no injury designations found.
+- TNF tonight: SEA @ DEN (SEA -3 / 40.5).
+
 ### Update 2026-10-15 (Wednesday practice, Week 6)
 - **Rashee Rice: DNP** (hamstring). Reid wouldn't commit to Thu/Fri; more
   likely than not to miss Week 6.
