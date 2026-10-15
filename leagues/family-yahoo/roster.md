@@ -151,7 +151,15 @@ Calls:
 - Shakir has a ~20% team target share (Covers) and leads BUF WRs in
   targets. Wk4: 8 targets. Wk5: 3 targets (BUF went run-heavy with no
   Moore/Palmer), 3-80 incl. a 57-yd catch in OT.
-- **Call: ADD Shakir; drop the Vikings DEF** (bye, Chiefs streaming).
+- **Call: ADD Shakir. Drop Drake Maye, NOT the Vikings DEF** (revised
+  10/15 after manager pushback; data confirms it).
+  - Vikings DEF is **#1 in fantasy**: 61 pts in 5 games (12.2/g), 17 sacks,
+    6 INT, #1 in points allowed per game and pressure rate.
+  - Their schedule after the bye: Wk7 vs IND, Wk8 @ DET, Wk9 vs BUF (MNF).
+    DET and BUF are the top-2 scoring offenses, so those two weeks may be
+    stream-around weeks.
+  - Maye is the bench QB behind Love (Wk6: 24.45 vs 25.05). In an 8-team
+    league, starting QBs are replaceable on waivers. An elite DEF isn't.
   - **Start Shakir at WR2 over Worthy.** Similar targets per game, but
     more than twice the yards per target in a 0-PPR league, on a higher
     team total, while Worthy's share shrinks with Rice back.
