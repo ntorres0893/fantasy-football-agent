@@ -141,6 +141,26 @@ Calls:
    Consider a FA RB (Woody Marks HOU, London 9:30am lock, lead back). The
    decision has to be made before 9:30am Sunday.
 
+## Strategy reset (10/15) — record 1-4 (manager)
+- Week 6: we're projected 106 vs 83, so a likely win (would go 2-4).
+- **Don't trade Bijan for depth.** He's RB3 overall (chart 76.0), and in an
+  8-team league depth is free on waivers.
+- **The structural problem is wasted RB depth.** There's no RB flex (2 RB
+  slots only), but we hold Bijan, A. Jones, Gordon and B. Allen. The weak
+  spots are WR2/W-T (Shakir, Worthy, Moore at ~8-9 PPR FPG on the chart)
+  and TE (Freiermuth).
+- Plan:
+  1. **Free fixes first:** check Yahoo FA for McBride (TE1), Keenan Allen,
+     Malik Washington (28% tgt share), Germie Bernard, Chism and Jordyn
+     Tyson.
+  2. **Trade surplus RB for WR/TE:** keep Bijan and Gordon (younger, lead,
+     red-zone work).
+     - Sell **A. Jones (27.5) + B. Allen (7.5) [+ Worthy 11.0 / DJ Moore
+       27.0*]** for a WR1/TE1.
+     - Targets: Garrett Wilson (55.0, 30% tgt share), Mike Evans (48.0),
+       Kittle (45.0, buy), Tee Higgins (42.0).
+     - Example: Jones + DJ Moore (54.5) for G. Wilson (55.0).
+
 ## ✅ Roster move DONE (10/15): added Khalil Shakir, dropped Drake Maye
 Current Wk6 plan: QB Love | RB Bijan, B. Allen | WR McMillan, **Shakir** |
 TE Freiermuth | W/T DJ Moore (Q; **Worthy is the 4:25 fallback**) | K
