@@ -574,6 +574,18 @@ Deebo 1.0*.
   Rice for Hubbard, to different managers). Pending. If both are accepted
   we send 4 and get 2, which frees 2 spots (add Pierre Strong Jr.). Note:
   Rice is in both offers, so only one can actually go through.
+- **Follow-up trade (Rice can only go once). Need after either deal: WR,
+  chosen by targets.**
+  - **If A lands (Henry/Cook in):** sell Barkley next.
+    - **Barkley + Vele (46.5) for Tetairoa McMillan (44.0, 18.9 FPG,
+      FPOE +2.1; CAR is the #1 pass-heavy team, 14 targets/catches type
+      games).**
+    - Alt: Barkley + Metcalf (49.5).
+  - **If B lands (Hubbard in):** sell Hall next.
+    - **Hall + Vele (60.0) for Garrett Wilson (55.0, 17.3 FPG, BUY, 30%
+      target share, #3 in the NFL).**
+    - Or Hall for McMillan 1-for-1 (46.0 vs 44.0).
+  - Untouchables: Golden, LaPorta, Gordon, Marks, Mahomes.
 - If Offer B (Barkley + Rice for Hubbard):
   - Wk6 RBs: Hubbard (CAR @ PHI, 1pm) + Marks (London); B. Robinson
     bench.
