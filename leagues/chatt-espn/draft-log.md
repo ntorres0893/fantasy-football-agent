@@ -520,6 +520,21 @@ availability in the app.
 - Drops for adds: OBJ, Vele, B. Robinson (after B. Allen lands). Keep
   Gordon and Deebo.
 
+### Backup RB for Barkley (10/15, from the ESPN waiver list)
+Available RBs by ESPN proj: Spears Q 8.8 (TEN, worst offense, status
+murky) · **Pierre Strong Jr. 8.5 (GB vs DAL SNF; trending +3.4)** · Holani
+7.9 (TNF tonight, locks too early) · R. White 7.4 (MNF @ SF, Ekeler signed)
+· T. Johnson Q 6.8 · Dowdle Q 6.4 · Kiner 6.0 · Vidal 5.9 · I. Davis 5.8.
+Braelon Allen isn't listed (rostered).
+- GB backfield: Jacobs out. Wk5 snaps: MarShawn Lloyd 44% (11 touches, 2
+  TD; rostered), **Strong 41% (8 touches)**, Kaleb Johnson 7 carries.
+  GB ~27 implied, DAL 25th vs RB.
+- **Call: add Pierre Strong Jr., drop OBJ.** Healthy active RBs right now
+  are only Marks and B. Robinson (Barkley and Hall DNP, Gordon bye).
+- **If Barkley is out:** start **B. Robinson** at RB on volume (10+
+  carries/g + goal line). Strong is bench insurance with the latest kickoff
+  (SNF).
+
 ## Action items before Week 1
 1. **Add a backup/streaming QB before Week 5** — top priority waiver action once
    the season's underway; don't leave it until bye week itself.
