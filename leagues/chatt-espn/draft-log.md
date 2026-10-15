@@ -566,6 +566,10 @@ Deebo 1.0*.
 - Keep: Golden, LaPorta, Gordon, Marks (all buy-trend), Mahomes.
 - **Record (manager, 10/15): 1-4, tied for last.** Win-now mode:
   consolidate for healthy weekly points.
+- Kyren is owned by this week's opponent, so that offer is off. **Revised
+  A: Hall + Rice (73.5) for Derrick Henry (65.5, 22.4 FPG, FPOE +3.2) or
+  James Cook (68.5, 18.3 FPG, +3.3).** Offer B stays as the fallback, and
+  both can be sent to different managers.
 - If Offer B (Barkley + Rice for Hubbard):
   - Wk6 RBs: Hubbard (CAR @ PHI, 1pm) + Marks (London); B. Robinson
     bench.
