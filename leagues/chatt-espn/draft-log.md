@@ -535,6 +535,14 @@ Braelon Allen isn't listed (rostered).
   carries/g + goal line). Strong is bench insurance with the latest kickoff
   (SNF).
 
+### ✅ Move done (10/15): dropped OBJ, added Efton Chism III (NE WR)
+- Chism: team-high 6 targets in Wk5 (5-57), career-high 76% snaps, rising
+  slot role with Hollins on IR. Wk6 vs NYJ 1pm, NE ~25.5, Maye a top-5 QB
+  projection. He's now the 1pm WR swap/FLEX option (overlaps Vele).
+- RB backup still needed: **drop Vele, add Pierre Strong Jr.** (Chism
+  covers Vele's role). Keep Deebo (SF WR room is gutted, so he'll matter
+  on return).
+
 ## Action items before Week 1
 1. **Add a backup/streaming QB before Week 5** — top priority waiver action once
    the season's underway; don't leave it until bye week itself.
