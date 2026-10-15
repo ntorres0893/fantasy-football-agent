@@ -595,6 +595,16 @@ Deebo 1.0*.
     Henry/Cook + Gordon, WR Golden + McMillan, FLEX Marks.
   - If Papacito insists on Rice, pick between that deal and Offer A, since
     Rice can only be traded once.
+- **Scenario: only McMillan lands (Barkley + Vele out), A and B rejected.**
+  - RBs left: Marks, B. Robinson, Gordon (Wk6 bye), Hall (out). The 2-for-1
+    frees a spot, so **add Pierre Strong Jr.**
+  - Wk6: RB Marks + B. Robinson; FLEX Metcalf or Chism (or Coleman);
+    Strong on the bench as SNF insurance.
+  - Wk7+: RB Gordon + Marks; FLEX the best of Metcalf, Chism and Hall
+    (when back).
+  - Next trade: Hall + Rice (both injured) for a healthy RB with other
+    managers (Hubbard, Henry, Cook owners). Or wait 1-2 weeks for Rice to
+    play and sell him then at higher value.
 - If Offer B (Barkley + Rice for Hubbard):
   - Wk6 RBs: Hubbard (CAR @ PHI, 1pm) + Marks (London); B. Robinson
     bench.
