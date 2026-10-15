@@ -564,7 +564,14 @@ Deebo 1.0*.
   - B) **Barkley + Rice (60.0) for Hubbard (55.0, 19.8 FPG, FPOE +4.4,
     some regression risk)** or similar.
 - Keep: Golden, LaPorta, Gordon, Marks (all buy-trend), Mahomes.
-- Need: current record to set urgency (last confirmed 0-2 after Wk2).
+- **Record (manager, 10/15): 1-4, tied for last.** Win-now mode:
+  consolidate for healthy weekly points.
+- If Offer B (Barkley + Rice for Hubbard):
+  - Wk6 RBs: Hubbard (CAR @ PHI, 1pm) + Marks (London); B. Robinson
+    bench.
+  - Wk7+: Hubbard + Gordon, with Marks, then Hall (when healthy) at FLEX.
+  - WR after the trade: Golden, Metcalf, Chism (+Coleman if added); Deebo
+    back in ~2 wks.
 
 ## Action items before Week 1
 1. **Add a backup/streaming QB before Week 5** — top priority waiver action once
