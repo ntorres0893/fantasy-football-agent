@@ -141,6 +141,18 @@ Calls:
    Consider a FA RB (Woody Marks HOU, London 9:30am lock, lead back). The
    decision has to be made before 9:30am Sunday.
 
+## ✅ Moves done (10/15 evening)
+- **Added Kelce, dropped Freiermuth.**
+- Michael Wilson can't be claimed: Yahoo blocks re-adding a player we
+  dropped until his waiver period ends. He becomes a FA **Sat 10/17**.
+  Plan: add him then if he's unclaimed, drop Shakir, and play him at W/T.
+- **Coker rejected:** same team as McMillan (shared targets, correlated
+  downside, CAR ~20.25 implied vs PHI's #5 WR defense). As the favorite we
+  avoid stacking. Worthy kept (KC ~25.5, Rice likely out).
+- Current lineup: QB Love | RB Bijan, B. Allen | WR McMillan, Worthy | TE
+  Kelce | W/T Bernard | K Shrader | DEF Chiefs. Bench: Shakir, A. Jones,
+  Gordon, Vikings.
+
 ## Current roster (app, 10/15 9:05) — proj 105.50
 DJ Moore and Maye are both gone; **Germie Bernard added**.
 - Starters: QB Love 25.00 | RB Bijan 19.45, B. Allen 10.91 | WR McMillan
