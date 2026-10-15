@@ -586,6 +586,15 @@ Deebo 1.0*.
       target share, #3 in the NFL).**
     - Or Hall for McMillan 1-for-1 (46.0 vs 44.0).
   - Untouchables: Golden, LaPorta, Gordon, Marks, Mahomes.
+- **10/15 calculator check (Papacito owns McMillan):** Barkley + Rice +
+  Vele for McMillan shows "Even" on the manager's calculator. On the
+  Menton chart that's 74.0 vs 44.0, an overpay.
+  - **Recommendation:** cancel Offer B and offer Papacito **Barkley + Vele
+    (46.5) for McMillan (44.0)**.
+  - Keep Rice for Offer A (Hall + Rice for Henry/Cook). If both land: RB
+    Henry/Cook + Gordon, WR Golden + McMillan, FLEX Marks.
+  - If Papacito insists on Rice, pick between that deal and Offer A, since
+    Rice can only be traded once.
 - If Offer B (Barkley + Rice for Hubbard):
   - Wk6 RBs: Hubbard (CAR @ PHI, 1pm) + Marks (London); B. Robinson
     bench.
