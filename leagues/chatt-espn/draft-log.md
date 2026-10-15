@@ -605,6 +605,20 @@ Deebo 1.0*.
   - Next trade: Hall + Rice (both injured) for a healthy RB with other
     managers (Hubbard, Henry, Cook owners). Or wait 1-2 weeks for Rice to
     play and sell him then at higher value.
+- **4-for-1 / 4-for-2 consolidation (10/15):**
+  - Core package: **Hall + Barkley + Rice + Metcalf = ~123 chart pts**
+    (three injured, one underperformer).
+  - Partners discount injured players, and a 4-for-1 forces them to drop 3
+    (hard sell). **4-for-2 is more realistic.**
+  - 4-for-1 targets (high FPG with sustainable FPOE):
+    - **Puka Nacua (76.0, 25.9 FPG, +2.2)**
+    - Jahmyr Gibbs (80.0, 30.9, +3.9)
+    - CeeDee Lamb (66.0, 23.0, +1.7; Q quad)
+  - 4-for-2 shape: one RB (~55-65) + one WR (~45-55) from the same manager,
+    e.g. Henry/Cook/Taylor-tier RB + McMillan/G. Wilson-tier WR.
+  - Must cancel pending offers first (Hall, Barkley and Rice are all in
+    them). Need league rosters to find a partner (deep bench, short at the
+    positions we're sending, ideally a contender who can wait on injuries).
 - If Offer B (Barkley + Rice for Hubbard):
   - Wk6 RBs: Hubbard (CAR @ PHI, 1pm) + Marks (London); B. Robinson
     bench.
