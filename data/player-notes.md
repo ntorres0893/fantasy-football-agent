@@ -45,6 +45,18 @@
   - Family-Yahoo starts Moore at W/T, so add Coleman as the same-game
     fallback. Chatt-ESPN: Coleman is still the #1 WR add.
 
+### Update 2026-10-15 (Wednesday practice, Week 6)
+- **Rashee Rice: DNP** (hamstring). Reid wouldn't commit to Thu/Fri; more
+  likely than not to miss Week 6.
+- **Saquon Barkley: DNP.** Sirianni "hopeful," but one report says he
+  won't play. PHI next men up: Dameon Pierce, Jaydon Blue.
+- **Breece Hall: DNP**, week-to-week. **Braelon Allen bellcow again**
+  (NYJ @ NE).
+- Caleb Williams: full participant (good for CHI pass game; ATL soft vs
+  WR/TE).
+- Marvin Harrison Jr. to make his HOU debut in Week 6.
+- DJ Moore: no Wednesday info found.
+
 ### Research 2026-10-14 (c) — Patriots WR room (targets)
 QB Drake Maye: Wk5 26/34, 374 yds, 4 pass TD + 1 rush TD vs LV, and he
 spread it to **9 different receivers**. Week 6 vs NYJ: NE ~25.5 implied,

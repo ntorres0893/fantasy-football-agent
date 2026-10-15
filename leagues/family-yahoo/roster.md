@@ -141,6 +141,12 @@ Calls:
    Consider a FA RB (Woody Marks HOU, London 9:30am lock, lead back). The
    decision has to be made before 9:30am Sunday.
 
+## ✅ Roster move DONE (10/15): added Khalil Shakir, dropped Drake Maye
+Current Wk6 plan: QB Love | RB Bijan, B. Allen | WR McMillan, **Shakir** |
+TE Freiermuth | W/T DJ Moore (Q; **Worthy is the 4:25 fallback**) | K
+Shrader | DEF Chiefs. Bench: Worthy, A. Jones (bye), Gordon (bye), Vikings
+(bye, kept as #1 DEF).
+
 ## Shakir decision (10/14) — target-based, standard scoring
 | WR | Targets (games) | Tgt/g | Yds | Yds/target | TD | Wk6 spot |
 |---|---|---|---|---|---|---|

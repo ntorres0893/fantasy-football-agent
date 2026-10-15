@@ -502,6 +502,24 @@ availability in the app.
   - Third drop (if needed) is B. Robinson after this week (TD-dependent
     backup), not Gordon.
 
+### Week 6 update (10/15) — Wednesday practice
+- **Barkley: DNP Wed.** One report says he won't play Week 6.
+- **Hall: DNP**, still week-to-week; doubtful per the manager.
+  **Braelon Allen is the NYJ bellcow again.**
+- **Rice: DNP Wed.** Reid wouldn't commit to Thu/Fri; "more likely than not
+  to miss."
+- Manager: **Woody Marks is RB2** (London 9:30am lock).
+- Revised plan:
+  - QB Mahomes
+  - RB Marks + **Braelon Allen (add if FA)**, else B. Robinson
+  - WR Golden + **Metcalf** (sit Rice unless he practices Thu/Fri)
+  - TE Freiermuth
+  - FLEX Coleman or Keenan Allen if added, else Vele
+  - D/ST **Chiefs** if FA (else 49ers)
+  - K Zvada
+- Drops for adds: OBJ, Vele, B. Robinson (after B. Allen lands). Keep
+  Gordon and Deebo.
+
 ## Action items before Week 1
 1. **Add a backup/streaming QB before Week 5** — top priority waiver action once
    the season's underway; don't leave it until bye week itself.
