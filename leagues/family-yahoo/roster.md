@@ -141,6 +141,21 @@ Calls:
    Consider a FA RB (Woody Marks HOU, London 9:30am lock, lead back). The
    decision has to be made before 9:30am Sunday.
 
+## Current roster (app, 10/15 9:05) — proj 105.50
+DJ Moore and Maye are both gone; **Germie Bernard added**.
+- Starters: QB Love 25.00 | RB Bijan 19.45, B. Allen 10.91 | WR McMillan
+  9.22, Shakir 6.11 | TE Freiermuth 6.06 | W/T Worthy 7.39 | K Shrader
+  11.00 | DEF Chiefs 10.36.
+- Bench: A. Jones (bye), Gordon (bye), Bernard 6.45 (PIT @ TB), Vikings
+  (bye).
+- Moves:
+  1. **Add Kelce (7.46), drop Freiermuth (6.06)** now.
+  2. **Claim Michael Wilson (8.80, waivers clear 10/17), drop Worthy
+     (7.39).**
+- Target lineup: WR McMillan + M. Wilson; W/T **Bernard (6.45; 25.8%
+  tgt share Wk5, Pittman IR) over Shakir (6.11)**, a near coin flip;
+  Shakir to the bench. Projected ~108.6.
+
 ## Yahoo waiver review (10/15 screenshots)
 TE free agents (Yahoo Wk6 proj | chart PPR FPG, FPOE):
 - **Kelce 7.46 | 13.2, +3.3** (KC vs LAC; Rice likely out, so more targets)
