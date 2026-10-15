@@ -141,6 +141,39 @@ Calls:
    Consider a FA RB (Woody Marks HOU, London 9:30am lock, lead back). The
    decision has to be made before 9:30am Sunday.
 
+## Yahoo waiver review (10/15 screenshots)
+TE free agents (Yahoo Wk6 proj | chart PPR FPG, FPOE):
+- **Kelce 7.46 | 13.2, +3.3** (KC vs LAC; Rice likely out, so more targets)
+- Goedert 6.86 | 11.6, +2.5 (PHI vs CAR)
+- Fannin 6.72 | 10.3
+- Loveland 6.21 | 4.8
+- Strange 6.17 | 10.1
+- H. Henry 5.41
+- Andrews 5.32
+- Pitts 5.20
+- Waller 4.77
+- McBride not listed (rostered). Ours: Freiermuth 6.10 (not on the chart).
+
+WR:
+- D. Moore Q 9.72 shows as **FA** (did we drop him instead of Maye?)
+- Rice Q 9.24 (waivers to 10/17)
+- **Michael Wilson 8.80 (waivers to 10/17; 12.8 FPG, FPOE -4.5 =
+  underperforming his volume; ARI's unquestioned WR1; ARI a 13-pt dog @
+  LAR, so pass volume)**
+- DeVonta Smith Q 8.52
+- Coker 8.07 (FA; CAR, the most pass-heavy team; chart 17.4 FPG*)
+- Diggs Q 7.13
+- Tucker 6.50
+- Doubs (waivers) 6.45
+- Vele 6.40
+
+Calls:
+1. **Add Kelce, drop Freiermuth** (higher volume, projection and team
+   total).
+2. **Claim Michael Wilson, drop Worthy** (ARI WR1 on volume with positive
+   regression due; Worthy is 4.2 yds/target).
+3. Confirm DJ Moore's status on our roster.
+
 ## Strategy reset (10/15) — record 1-4 (manager)
 - Week 6: we're projected 106 vs 83, so a likely win (would go 2-4).
 - **Don't trade Bijan for depth.** He's RB3 overall (chart 76.0), and in an
