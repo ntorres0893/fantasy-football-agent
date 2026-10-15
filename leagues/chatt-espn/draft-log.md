@@ -570,6 +570,10 @@ Deebo 1.0*.
   A: Hall + Rice (73.5) for Derrick Henry (65.5, 22.4 FPG, FPOE +3.2) or
   James Cook (68.5, 18.3 FPG, +3.3).** Offer B stays as the fallback, and
   both can be sent to different managers.
+- **10/15: both offers SENT** (A: Hall + Rice for Henry/Cook; B: Barkley +
+  Rice for Hubbard, to different managers). Pending. If both are accepted
+  we send 4 and get 2, which frees 2 spots (add Pierre Strong Jr.). Note:
+  Rice is in both offers, so only one can actually go through.
 - If Offer B (Barkley + Rice for Hubbard):
   - Wk6 RBs: Hubbard (CAR @ PHI, 1pm) + Marks (London); B. Robinson
     bench.
