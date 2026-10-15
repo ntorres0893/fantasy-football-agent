@@ -543,6 +543,29 @@ Braelon Allen isn't listed (rostered).
   covers Vele's role). Keep Deebo (SF WR room is gutted, so he'll matter
   on return).
 
+### Trade analysis (10/15) — Kyle Menton trade chart (12-team PPR; we're 10-team)
+Our chart values: Hall 46.0* (14.2 FPG, FPOE -2.3) · Golden 45.0 (buy) ·
+LaPorta 44.0 (trend +12) · **Barkley 32.5* (SELL, 5.8 FPG)** · Mahomes 30.5
+· **Rice 27.5* (SELL, 9.5 FPG)** · Metcalf 17.0 (FPOE -2.5) · Gordon 16.0
+(buy) · Marks 15.0 (buy) · Vele 14.0 · B. Robinson 8.0 · Coleman 6.5 ·
+Deebo 1.0*.
+- Problem: three of our best names are hurt (Barkley, Hall, Rice), and the
+  chart flags Barkley and Rice as SELL.
+- 10-team league means waiver depth is plentiful, so **consolidating
+  2-for-1 into one healthy star is favored.**
+- Targets (healthy, high volume; FPOE near 0 = sustainable):
+  - **Kyren Williams (62.5, 22.1 FPG, FPOE +1.9)**
+  - **James Cook (68.5, 18.3 FPG, +3.3, BUF top offense)**
+  - Derrick Henry (65.5, 22.4, +3.2)
+  - Avoid paying for big positive FPOE (likely regression): Jaylen Warren
+    (+5.6), C. Watson (+5.7).
+- Offers:
+  - A) **Hall + Rice (73.5) for Kyren or Cook.**
+  - B) **Barkley + Rice (60.0) for Hubbard (55.0, 19.8 FPG, FPOE +4.4,
+    some regression risk)** or similar.
+- Keep: Golden, LaPorta, Gordon, Marks (all buy-trend), Mahomes.
+- Need: current record to set urgency (last confirmed 0-2 after Wk2).
+
 ## Action items before Week 1
 1. **Add a backup/streaming QB before Week 5** — top priority waiver action once
    the season's underway; don't leave it until bye week itself.
