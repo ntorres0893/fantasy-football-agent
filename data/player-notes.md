@@ -45,6 +45,16 @@
   - Family-Yahoo starts Moore at W/T, so add Coleman as the same-game
     fallback. Chatt-ESPN: Coleman is still the #1 WR add.
 
+### Update 2026-10-16 (Friday — Thursday practice)
+- **Barkley: DNP Thu** (2nd straight). Called a long shot; Sportsbook
+  Review lists him doubtful.
+- **Rice: DNP Thu**, now listed hamstring/knee. Likely out Week 6.
+- **Breece Hall: DNP Thu.** Week-to-week, likely out.
+- **DJ Moore: DNP Thu** (2nd straight). Likely out again, which boosts
+  Shakir and Coleman (BUF @ LV 4:25, BUF ~29.5).
+- Caleb Williams: full practice again (CHI pass game normal).
+- TNF SEA @ DEN final not found in search (no players of ours involved).
+
 ### Update 2026-10-15b (Thursday morning — more Wednesday reports)
 - **DJ Moore (BUF): DNP Wednesday** (estimated, walk-through), AC joint.
   Trending toward a 2nd straight missed game. Boosts Shakir (Family-Yahoo

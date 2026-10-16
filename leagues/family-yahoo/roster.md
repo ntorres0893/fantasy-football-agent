@@ -141,6 +141,14 @@ Calls:
    Consider a FA RB (Woody Marks HOU, London 9:30am lock, lead back). The
    decision has to be made before 9:30am Sunday.
 
+## Revision (10/16): Moore 2 DNPs, so keep Shakir and drop Worthy for Wilson
+- Shakir (BUF ~29.5 implied, ~9.8 yds/target, Moore likely out) beats
+  Worthy (KC ~25.5, ~4.2 yds/target) in standard scoring.
+- Sat plan: add Michael Wilson and **drop Worthy** (not Shakir). Lineup:
+  WR McMillan + Shakir, W/T M. Wilson, bench Bernard.
+- If the Wilson add fails: WR McMillan + Shakir, W/T Bernard, bench
+  Worthy.
+
 ## ✅ Moves done (10/15 evening)
 - **Added Kelce, dropped Freiermuth.**
 - Michael Wilson can't be claimed: Yahoo blocks re-adding a player we
