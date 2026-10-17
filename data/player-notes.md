@@ -45,6 +45,25 @@
   - Family-Yahoo starts Moore at W/T, so add Coleman as the same-game
     fallback. Chatt-ESPN: Coleman is still the #1 WR add.
 
+### Update 2026-10-17 (Saturday — Friday final designations, weather)
+- **Barkley: OUT** (2nd straight). **Jalen Hurts: OUT** (superficial blood
+  clot / listed calf); Tanner McKee starts. **Will Shipley: OUT.**
+  DeVonta Smith returns, no designation.
+- **Rashee Rice: OUT** (not IR; Reid expects a quick turnaround).
+- **DJ Moore: QUESTIONABLE, LIMITED Friday** (first practice of the week).
+  4:25 kickoff, so decide at ~2:55pm inactives. Josh Palmer Q too.
+- **Breece Hall:** on report (quad), DNP all week, so plan OUT.
+- Lamar Jackson OUT again. **Baker Mayfield OUT** (TB vs PIT), which helps
+  the PIT D.
+- **Weather:** **PIT @ TB: 17 mph wind, gusts 28-31 mph.** That's a real
+  passing downgrade for Metcalf and Freiermuth (Chatt-ESPN) and Bernard
+  (Family-Yahoo).
+  - ARI @ LAR calm (84°).
+  - LAC @ KC 66°, 10 mph.
+  - BUF @ LV dome. CHI @ ATL and TEN @ IND are roof games.
+  - London 57°.
+  - MNF WAS @ SF: up to 15 mph.
+
 ### Update 2026-10-16 (Friday — Thursday practice)
 - **Barkley: DNP Thu** (2nd straight). Called a long shot; Sportsbook
   Review lists him doubtful.

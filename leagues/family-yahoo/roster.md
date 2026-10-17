@@ -141,6 +141,17 @@ Calls:
    Consider a FA RB (Woody Marks HOU, London 9:30am lock, lead back). The
    decision has to be made before 9:30am Sunday.
 
+## Final Wk6 plan (10/17)
+- Add **Michael Wilson**, but **drop Bernard** (PIT game has 28-31 mph
+  gusts; he's benched anyway). Keep Worthy as the 4:25 swap.
+- Lineup: QB Love | RB Bijan, B. Allen | WR McMillan + **Shakir OR
+  Worthy** | TE Kelce | W/T **M. Wilson** | K Shrader | DEF Chiefs.
+- At ~2:55pm: **if DJ Moore is active, start Worthy** (Rice OUT means more
+  KC targets). **If Moore is inactive, start Shakir.** Both kick off at
+  4:25.
+- If the Wilson add fails: W/T Worthy/Shakir (whichever isn't at WR) and
+  keep Bernard.
+
 ## Revision (10/16): Moore 2 DNPs, so keep Shakir and drop Worthy for Wilson
 - Shakir (BUF ~29.5 implied, ~9.8 yds/target, Moore likely out) beats
   Worthy (KC ~25.5, ~4.2 yds/target) in standard scoring.

@@ -626,6 +626,14 @@ Deebo 1.0*.
   - WR after the trade: Golden, Metcalf, Chism (+Coleman if added); Deebo
     back in ~2 wks.
 
+### Final Wk6 plan (10/17)
+- Barkley, Rice and Hall OUT. RB **Marks + B. Robinson**.
+- PIT @ TB wind (gusts 28-31) downgrades Metcalf; Freiermuth stays as the
+  only TE.
+- With Coleman: WR Golden + Chism, FLEX Coleman (4:25), bench Metcalf.
+- Without Coleman: WR Golden + Chism, FLEX Metcalf.
+- D/ST Chiefs if added (LAC most fantasy pts allowed to DEF). K Zvada.
+
 ## Action items before Week 1
 1. **Add a backup/streaming QB before Week 5** — top priority waiver action once
    the season's underway; don't leave it until bye week itself.
