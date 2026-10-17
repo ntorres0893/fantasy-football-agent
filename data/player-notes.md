@@ -45,6 +45,21 @@
   - Family-Yahoo starts Moore at W/T, so add Coleman as the same-game
     fallback. Chatt-ESPN: Coleman is still the #1 WR add.
 
+### Research 2026-10-17 — NE WRs vs NYJ (Week 6 consensus)
+- NYJ pass D allows the 9th-fewest fantasy pts to WRs and only 6.7
+  yds/target to outside WRs. NE is a 7-pt home favorite, so the script may
+  be run-heavy.
+- **A.J. Brown: QUESTIONABLE**, could return this week and compress
+  everyone's targets (hurts outside WR Doubs most).
+- **Doubs:** sit or low-end flex (NFL.com, B/R, CBS).
+- **Chism:** low-end PPR flex (CBS). FantasySP projects ~6.6 pts on ~3
+  targets. Praised by Vrabel: 7-99-1 over the last 2 games.
+- **Douglas:** conflicting (CBS sit, Footballnation flex).
+- **Kyle Williams:** sit.
+- **Call:** no NE WR is a confident start. **Tre Tucker (LV vs BUF, dome,
+  53 total, trailing script, 4:25) over Chism.** If forced to pick a
+  Patriot, take Chism (slot, so less exposed to NYJ's outside coverage).
+
 ### Update 2026-10-17 (Saturday — Friday final designations, weather)
 - **Barkley: OUT** (2nd straight). **Jalen Hurts: OUT** (superficial blood
   clot / listed calf); Tanner McKee starts. **Will Shipley: OUT.**
