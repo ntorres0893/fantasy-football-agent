@@ -45,6 +45,21 @@
   - Family-Yahoo starts Moore at W/T, so add Coleman as the same-game
     fallback. Chatt-ESPN: Coleman is still the #1 WR add.
 
+### Update 2026-10-18 (Sunday — game day)
+- **DK Metcalf: OFF the injury report** (Steelers.com updated Saturday).
+  ESPN: still a WR2. The ESPN "Q" seen 10/17 is resolved.
+- **🚨 Pat Freiermuth: added Saturday, calf, QUESTIONABLE.** He's Chatt's
+  only TE (LaPorta on bye). PIT 1pm, so decide at 11:30am inactives.
+- **A.J. Brown expected to be activated** (NE), which compresses Chism,
+  Doubs and Douglas further.
+- **DJ Moore: QUESTIONABLE**, limited Friday. Brady wouldn't commit; some
+  think BUF rests him into the Week 7 bye. Decide at ~2:55pm.
+- Hurts: conflicting reports (IR per Yahoo, not IR per ESPN); out either
+  way. McKee starts.
+- WAS: Croskey-Merritt OUT, McLaurin on a rest designation, so the 49ers
+  D/ST (Chatt-ESPN) looks slightly better.
+- Brock Bowers no designation (LV vs BUF; Tucker's target competition).
+
 ### Research 2026-10-17 — NE WRs vs NYJ (Week 6 consensus)
 - NYJ pass D allows the 9th-fewest fantasy pts to WRs and only 6.7
   yds/target to outside WRs. NE is a 7-pt home favorite, so the script may
