@@ -45,6 +45,33 @@
   - Family-Yahoo starts Moore at W/T, so add Coleman as the same-game
     fallback. Chatt-ESPN: Coleman is still the #1 WR add.
 
+### Update 2026-10-19 (Monday — Week 6 Sunday results, Week 7 byes)
+- **Finals:**
+  - HOU 34, JAX 31 (London; Marks)
+  - CAR 25, PHI 14 (McMillan)
+  - PIT 26, TB 19 OT (Metcalf/Freiermuth)
+  - TEN 26, IND 20 (Shrader)
+  - NE 26, NYJ 19
+  - NO 34, NYG 27 (Vele, Zvada)
+  - CHI 31, ATL 23 (Bijan/B. Robinson; ESPN lists Bijan as a "disappoint")
+  - CLE 13, BAL 10
+  - **ARI 18, LAR 16** (Chatt-ESPN opp's Kyren/Adams in a low-scoring game;
+    Higbee too; Yahoo's M. Wilson)
+  - **KC 22, LAC 6** (Chiefs DEF allowed 6; Kelce heavily targeted through
+    a right-ankle injury)
+  - BUF 33, LV 30 (Shakir/Worthy/Tucker)
+- **SNF: GB 23, DAL 13.** Love 23/41, 276 yds, pass TD to **Golden**, plus
+  a 1-yd rush TD. Prescott threw 2 INTs (Yahoo opponent's QB).
+- **MNF tonight: WAS @ SF.** Chatt-ESPN: our 49ers D/ST vs the opponent's
+  Purdy and Kittle.
+- Injuries: Penix ribs (Tua finished, which affects Bijan/B. Robinson
+  going forward); TreVeyon Henderson high-ankle, out multiple weeks;
+  Wicks (PHI) leg; McConkey concussion; Kelce right ankle (played
+  through).
+- **Week 7 byes: BUF, JAX, LAC, WAS.** Family-Yahoo loses **Shakir**.
+  Chatt-ESPN: Coleman if rostered.
+- Individual fantasy lines not confirmed. Get the screenshots.
+
 ### Update 2026-10-18 (Sunday — game day)
 - **DK Metcalf: OFF the injury report** (Steelers.com updated Saturday).
   ESPN: still a WR2. The ESPN "Q" seen 10/17 is resolved.
