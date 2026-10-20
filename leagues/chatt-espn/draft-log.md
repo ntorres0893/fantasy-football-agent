@@ -685,6 +685,21 @@ Lessons:
   - Keenan Allen.
   - Omar Cooper Jr.
 
+### Week 7 revision (10/20) — manager: no same-team doubles; **Strong dropped**
+- Skip Germie Bernard (PIT, same team as Metcalf). WR add: **Kendrick
+  Bourne** (ARI WR2 after the MHJ trade; no ARI players on our roster).
+- D/ST: avoid the Texans (Marks is HOU) and the Jets (if Hall starts).
+  **Priority: Vikings vs IND (IND ~18.25)** if available, then Broncos @
+  ARI (ARI ~20).
+- K: avoid HOU (Marks) and DET (LaPorta). **Bears K (CHI ~26 vs NE)** or
+  **Rams K (LAR ~27.25 @ LV)**. The Rams kicker is fine, since Tucker
+  plays for the opponent (LV), not the same team.
+- RB2 (Strong gone, White on bye): **Hall** if he practices fully
+  (Wed-Fri), else Gordon (MIA ~17). B. Robinson (ATL ~23) is the
+  alternative. Barkley TBD (MNF).
+- Watch: if Rice returns, Mahomes + Rice is a KC double. Ask the manager
+  whether QB-WR stacks count.
+
 ## Action items before Week 1
 1. **Add a backup/streaming QB before Week 5** — top priority waiver action once
    the season's underway; don't leave it until bye week itself.

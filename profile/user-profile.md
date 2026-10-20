@@ -34,6 +34,10 @@
 - **Next season (from 2026):** start draft prep from the prior years'
   actual top fantasy scorers by position. 2026's draft missed this.
 
+- **No same-team doubles (manager rule, 10/20):** don't start two players
+  from the same NFL team in one lineup. That includes D/ST or K with a
+  skill player from the same team. Apply it to pickups too.
+
 ## Learning goals
 - Understand positional scarcity (why RB/TE differ from WR/QB).
 - Learn to read a matchup and set an optimal weekly lineup.
