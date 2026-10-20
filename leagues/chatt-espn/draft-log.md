@@ -634,6 +634,34 @@ Deebo 1.0*.
 - Without Coleman: WR Golden + Chism, FLEX Metcalf.
 - D/ST Chiefs if added (LAC most fantasy pts allowed to DEF). K Zvada.
 
+### ✅ Week 6 RESULT (app final, 10/20): WON 122.88 – 97.16 → record 2-4
+Our lineup:
+- Mahomes 10.48 (272 yds, INT)
+- Marks 10.1 (56 yds)
+- **R. White 15.7** (manager added him; rec TD)
+- **Golden 22.4** (6-104-1)
+- **Tucker 26.7** (5-97-2 TD; the "Tucker over Chism" call)
+- Higbee 4.2 (4-22; my TE pick, a dud)
+- **FLEX Metcalf 20.3** (11-93; target concentration in the depleted PIT
+  room paid off despite the wind)
+- 49ers D/ST 5.0
+- Zvada 8.0
+
+Opponent:
+- Purdy 17.36
+- Kyren 9.7 and Adams 6.9 (the Rams stack flopped, 16 pts)
+- Ekeler 2.7
+- Lamb 16.0
+- Kittle 17.9
+- Dobbins 13.6
+- Ravens 10.0
+- Loop 3.0
+
+Lessons:
+- Target volume and game environment beat names (Tucker, Metcalf).
+- Higbee's matchup-only stream failed: no established target share. Weight
+  targets over matchup for streamers.
+
 ## Action items before Week 1
 1. **Add a backup/streaming QB before Week 5** — top priority waiver action once
    the season's underway; don't leave it until bye week itself.
