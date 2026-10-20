@@ -45,6 +45,60 @@
   - Family-Yahoo starts Moore at W/T, so add Coleman as the same-game
     fallback. Chatt-ESPN: Coleman is still the #1 WR add.
 
+### Week 7 prep research (2026-10-20)
+**Targets / usage (through Week 6; MNF excluded):**
+- WR:
+  - **Germie Bernard** (PIT): the consensus #1 WR add, "priority claim in
+    any format."
+  - **Parker Washington** (JAX): 35 targets, 25% share (JAX on bye Wk7).
+  - Mike Evans (SF): 25% share.
+  - **Kendrick Bourne** (ARI): now the WR2 after **Marvin Harrison Jr. was
+    traded to HOU**; 5-8 in Wk5.
+  - **Keenan Allen** (IND): 9 targets in each of 2 straight games.
+  - **Omar Cooper Jr.** (NYJ): returned from a month out with 100 yds;
+    volume concern.
+  - Jordyn Tyson (NO): hamstring, stash.
+  - Ja'Kobi Lane (BAL): WR4/5.
+- TE:
+  - **Brenton Strange** (JAX): 26.2% target share over his last 2 games
+    (bye Wk7).
+  - McBride leads all receivers with 42 receptions.
+  - Darnell Washington (PIT): catches in 4 straight games.
+  - Dalton Schultz (HOU): 30 targets, but MHJ's arrival may shrink his
+    role.
+- RB:
+  - **Jawhar Jordan** (HOU): limited but strong work; could cut into
+    Marks.
+  - Kendre Miller (NO).
+  - Montgomery week-to-week, likely out Wk7 again, so **Marks stays the
+    lead back**.
+- QB: Tanner McKee (PHI) starts the rest of the season (**Hurts out for
+  the season**, DVT/pulmonary emboli).
+
+**Injuries:**
+- **Hall:** projected to return to practice this week.
+- **Barkley:** still on the report.
+- **Davante Adams** (LAR): non-contact injury late in Wk6.
+- McConkey: concussion (LAC bye).
+- No Kelce, Rice or Deebo update yet.
+
+**Week 7 opening lines (SBD, ET), with implied totals:**
+- TNF: NE @ CHI, CHI -2.5 / 49.5
+- **PIT @ NO in PARIS, Sun 9:30am**, PIT -2.5 / 44.5 → PIT ~23.5, NO ~21
+- BAL vs CIN, BAL -3.5 / 50.5
+- CLE @ TEN, CLE -1.5 / 36.5
+- **IND @ MIN, MIN -6 / 42.5 → MIN ~24.25, IND ~18.25**
+- **MIA @ NYJ, NYJ -4.5 / 38.5 → MIA ~17, NYJ ~21.5**
+- **NYG @ HOU, HOU -9.5 / 42.5 → HOU ~26, NYG ~16.5**
+- SF @ ATL, SF -4.5 / 50.5 → SF ~27.5, ATL ~23
+- TB @ CAR, CAR -3 / 43.5 → CAR ~23.25
+- DEN @ ARI, DEN -4.5 / 44.5 → ARI ~20
+- **GB @ DET, DET -3 / 52.5 → DET ~27.75, GB ~24.75** (week's top total)
+- LAR @ LV, LAR -6 / 48.5 → LV ~21.25
+- KC @ SEA, SEA -1.5 / 42.5 → KC ~20.5
+- MNF: DAL @ PHI, DAL -5.5 / 44.5 → PHI ~19.5
+- Byes: BUF, JAX, LAC, WAS.
+
 ### Update 2026-10-19 (Monday — Week 6 Sunday results, Week 7 byes)
 - **Finals:**
   - HOU 34, JAX 31 (London; Marks)

@@ -141,6 +141,25 @@ Calls:
    Consider a FA RB (Woody Marks HOU, London 9:30am lock, lead back). The
    decision has to be made before 9:30am Sunday.
 
+## Week 7 prep (10/20) — record 1-4 (Wk6 result pending screenshot)
+| Slot | Plan | Game (ET) | Implied | Note |
+|---|---|---|---|---|
+| QB | **Love** | GB @ DET | GB ~24.75 (52.5 top total) | Start |
+| RB | **Bijan** | ATL vs SF | ATL ~23 | Penix ribs; Tua may start |
+| RB | **A. Jones** | MIN vs IND | **MIN ~24.25** (MIN -6) | Over Gordon (MIA ~17) and B. Allen |
+| WR | **McMillan** | CAR vs TB | CAR ~23.25 | Start |
+| WR | **M. Wilson** (if added) | ARI vs DEN | ARI ~20 | MHJ traded away, so more targets |
+| W/T | Worthy, or a waiver WR | KC @ SEA | KC ~20.5 | **Shakir is on bye** |
+| TE | Kelce | KC @ SEA | | Right ankle; monitor |
+| K | Shrader | IND @ MIN | IND ~18.25 | Weak spot; consider a stream |
+| DEF | **Vikings** | vs IND | IND ~18.25 | #1 DEF returns |
+- Waiver targets for W/T:
+  - **Germie Bernard** (consensus #1 WR add; we dropped him 10/17, so
+    re-add once his waiver period ends).
+  - Omar Cooper Jr.
+  - Keenan Allen.
+  - Avoid Bourne (same team as M. Wilson).
+
 ## Final Wk6 plan (10/17)
 - Add **Michael Wilson**, but **drop Bernard** (PIT game has 28-31 mph
   gusts; he's benched anyway). Keep Worthy as the 4:25 swap.

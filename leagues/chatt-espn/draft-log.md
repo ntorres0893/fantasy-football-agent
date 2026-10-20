@@ -662,6 +662,29 @@ Lessons:
 - Higbee's matchup-only stream failed: no established target share. Weight
   targets over matchup for streamers.
 
+### ❌ All trade offers rejected (manager, 10/20). Roster stays as is.
+
+### Week 7 prep (10/20) — record 2-4
+| Slot | Plan | Game (ET) | Implied | Note |
+|---|---|---|---|---|
+| QB | Mahomes | KC @ SEA 4:05/4:25 | KC ~20.5 | Low total (42.5); Rice status TBD |
+| RB | **Marks** | HOU vs NYG | **HOU ~26** (HOU -9.5) | Montgomery likely out again; watch Jawhar Jordan |
+| RB | Gordon / Hall / Strong | MIA @ NYJ ~17 · NYJ ~21.5 · GB @ DET ~24.75 | | Hall may practice. If he's healthy, Hall > Gordon (MIA's offense is weak) |
+| WR | **Golden** | GB @ DET | GB ~24.75 (52.5, top total) | Start |
+| WR | **Metcalf** | PIT @ NO, **Paris 9:30am** | PIT ~23.5 | Early lock |
+| FLEX | **Tucker** or Rice (if back) | LV vs LAR | LV ~21.25 | Tucker 26.7 last week |
+| TE | **LaPorta** | DET vs GB | **DET ~27.75** | Back from bye. Start |
+| D/ST | **Stream Texans vs NYG** (NYG ~16.5) | | | 49ers @ ATL is meh |
+| K | **Stream a HOU or DET kicker** | | | Zvada (NYG ~16.5) is a poor spot |
+- R. White on bye (WAS). Drops: Higbee (LaPorta back), Chism (A.J. Brown
+  back).
+- Waiver targets by targets:
+  - **Germie Bernard** (consensus #1 WR add). Note he's a PIT teammate of
+    Metcalf.
+  - Kendrick Bourne (ARI WR2 after MHJ trade).
+  - Keenan Allen.
+  - Omar Cooper Jr.
+
 ## Action items before Week 1
 1. **Add a backup/streaming QB before Week 5** — top priority waiver action once
    the season's underway; don't leave it until bye week itself.
