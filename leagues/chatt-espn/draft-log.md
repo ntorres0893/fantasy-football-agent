@@ -708,6 +708,27 @@ Lessons:
 - Watch: if Rice returns, Mahomes + Rice is a KC double. Ask the manager
   whether QB-WR stacks count.
 
+### Week 7 volume-based plan (10/20, using DD "Follow the Volume")
+- Lineup:
+  - QB Mahomes
+  - RB **Marks** (72% opp share) + **Gordon**
+  - WR **Golden** (25.7% season share) + **Metcalf** (30% Wk6)
+  - TE **LaPorta**
+  - **FLEX: Keenan Allen if added** (32% share, 12 targets) over Tucker
+    (18%)
+  - D/ST / K as below
+- **Adds (target share, no same-team conflicts):**
+  1. **Keenan Allen** (IND). @ MIN is a tough D, but the volume is elite.
+  2. **Carnell Tate** (TEN), 38% share, if available.
+  3. Kendrick Bourne (ARI).
+  - Drop **Higbee** (out-targeted by Parkinson) and **Chism** (1 target).
+- **D/ST must not face our WRs:**
+  - With Keenan Allen, pick the **Broncos** (@ ARI), not the Vikings
+    (they'd face Allen).
+  - With Bourne, pick the Vikings.
+- Pierre Strong: real role if Jacobs is out, but GB is the same team as
+  Golden (manager rule). Bench depth only; fine to leave dropped.
+
 ## Action items before Week 1
 1. **Add a backup/streaming QB before Week 5** — top priority waiver action once
    the season's underway; don't leave it until bye week itself.

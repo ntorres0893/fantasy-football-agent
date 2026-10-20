@@ -45,6 +45,41 @@
   - Family-Yahoo starts Moore at W/T, so add Coleman as the same-game
     fallback. Chatt-ESPN: Coleman is still the #1 WR add.
 
+### DD Fantasy Football "Follow the Volume: Week 6" (Shane Manila, 10/19; pasted by manager)
+Relevant volume, Week 6:
+- **Woody Marks:** 78% snaps, 72% opportunity share, dominated every
+  situation. Jawhar Jordan got 13 of 14 snaps on early downs only. Faced
+  the league's best run D (JAX).
+- **Golden:** led GB target share in 4 of 6 games; season 25.7% vs Watson
+  21.6%; above 20% in every game; air-yards leader 4 of 6.
+- **Metcalf:** at least 23% share in 4 of 6 games, 30% in Wk6.
+  **Germie Bernard:** 28% share, 94% snaps, 61% slot, 3 RZ targets.
+- **Tre Tucker:** 18-19% share in 3 games, steady but not a hog. Bowers
+  21% (his season low).
+- **Keenan Allen (IND): 12 targets, 32% share** (Downs 19%).
+- **Carnell Tate (TEN): 38% share, 65% of team air yards**, 3.19 YPRR.
+- **Michael Wilson** (66 snaps) and **Kendrick Bourne** both 7 targets
+  after the MHJ trade; McBride 26%.
+- **Xavier Worthy:** de facto KC WR1 (Rice out, Thornton done for the
+  year). Led KC WRs in snaps, routes, targets (7) and catches (7).
+- **Keon Coleman 21% share**; Shakir 5 targets (BUF bye Wk7).
+- **Coker vs McMillan (CAR):** when both play, Coker leads on targets
+  31-27. Wk6: Coker 11, McMillan 8 (Family-Yahoo concern).
+- **Pierre Strong (GB):** the back to own if Jacobs is out (11 rushes to
+  Lloyd's 8, 6 of 7 backfield targets, 2-minute and 3rd-down work). GB,
+  same team as Golden.
+- **NE:** Chism 1 target, Douglas 8. A.J. Brown 9 targets (3 catches,
+  drops).
+- **Higbee was out-targeted 6-4 by Colby Parkinson.**
+- **Kyren Williams:** 58% opportunity share (lowest since Wk2); Corum 9 of
+  19 rushes.
+- **PHI:** Dameon Pierce 17 of 18 opportunities while Barkley is out.
+  DeVonta Smith 31%, Goedert 20%.
+- Nabers 37-38% share two weeks running. Egbuka 39% (36%+ with Daniels at
+  QB). Isaiah Likely 25%.
+- Cook 83% of BUF backfield. Jeanty's share is falling (57%). Hubbard 29
+  of 30 opportunities (workload concern).
+
 ### Week 7 prep research (2026-10-20)
 **Targets / usage (through Week 6; MNF excluded):**
 - WR:
