@@ -694,9 +694,17 @@ Lessons:
 - K: avoid HOU (Marks) and DET (LaPorta). **Bears K (CHI ~26 vs NE)** or
   **Rams K (LAR ~27.25 @ LV)**. The Rams kicker is fine, since Tucker
   plays for the opponent (LV), not the same team.
-- RB2 (Strong gone, White on bye): **Hall** if he practices fully
-  (Wed-Fri), else Gordon (MIA ~17). B. Robinson (ATL ~23) is the
-  alternative. Barkley TBD (MNF).
+- **RB2 = GORDON (corrected 10/20 after manager pushback; I was wrong to
+  rank Hall first):**
+  - Gordon's volume is established: 65% snaps, 18 of 24 RB opportunities,
+    9 red-zone carries in Wk5.
+  - **NYJ is one of the softest run defenses (~28 RB fantasy pts/g
+    allowed, top-3).**
+  - Hall hasn't played since Wk3 (quad) and would be splitting with
+    Braelon Allen in his return.
+  - MIA's low team total (~17) matters less than volume plus matchup for
+    an RB.
+  - Hall stays on the bench until he shows a full workload.
 - Watch: if Rice returns, Mahomes + Rice is a KC double. Ask the manager
   whether QB-WR stacks count.
 
