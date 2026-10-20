@@ -729,6 +729,26 @@ Lessons:
 - Pierre Strong: real role if Jacobs is out, but GB is the same team as
   Golden (manager rule). Bench depth only; fine to leave dropped.
 
+### Week 7 start/sit by opponent defense (10/20)
+DvP tables (gridironai, fantasyteamadvice) are blocked by the network
+policy, so this uses team-defense reporting plus earlier DvP data
+(DeepMetric/DraftEdge, thru ~Wk4).
+| Player | Opp D | Evidence | Call |
+|---|---|---|---|
+| Mahomes | @ SEA | SEA a top scoring D (~17-18 ppg allowed), efficient vs pass; 42.5 total | Start (no better QB); lowered ceiling |
+| Marks | vs NYG | NYG run D middling (~104-109 rush yds/g, 4.7 YPC); HOU -9.5, so a run-heavy script | **Start** (smash) |
+| Gordon | @ NYJ | Mixed: DraftEdge had NYJ among the softest vs RB (~28/g), but the front was rebuilt (Sweat, Onyemata) and Jets D/ST is a top stream vs MIA; MIA +4.5 | **Start on volume**; matchup neutral |
+| Golden | @ DET | **DET pass D last in yards allowed (~423/g)**, 2nd-most points allowed entering Wk5; Branch, Joseph, Ya-Sin hurt | **Start** (smash) |
+| Metcalf | vs NO (Paris) | NO projected 23rd D, aging; 2025 pass D was strong (179 yds/g) | **Start** (30% share) |
+| LaPorta | vs GB | No 2026 TE split. GB D held DAL to 13 (2 INTs). DET ~27.75 implied | Start (only TE; volume + game total) |
+| FLEX: Douglas | @ CHI | Bears were 29th in total D in 2025 (6.0 YPP); also hedges the opponent's Maye | **Best matchup of the FLEX options** |
+| FLEX: Tucker | vs LAR | Rams 2025 top-10 in INT, sacks, passer rating allowed | Tougher |
+| FLEX: Keenan Allen | @ MIN | **MIN is the #1 fantasy D** (pts allowed, pressure, 17 sacks) | Toughest matchup despite a 32% share |
+- FLEX call by matchup: **Douglas > Tucker > K. Allen this week.** Volume
+  still favors Allen ROS.
+- D/ST: avoid facing our own players. With Douglas in the lineup, avoid
+  the Bears D.
+
 ## Action items before Week 1
 1. **Add a backup/streaming QB before Week 5** — top priority waiver action once
    the season's underway; don't leave it until bye week itself.
