@@ -691,8 +691,8 @@ Lessons:
 - D/ST: avoid the Texans (Marks is HOU) and the Jets (if Hall starts).
   **Priority: Vikings vs IND (IND ~18.25)** if available, then Broncos @
   ARI (ARI ~20).
-- K: avoid HOU (Marks) and DET (LaPorta). **Bears K (CHI ~26 vs NE)** or
-  **Rams K (LAR ~27.25 @ LV)**. The Rams kicker is fine, since Tucker
+- K: avoid HOU (Marks) and DET (LaPorta). **Bears K (CHI ~26 vs NE).**
+  (10/20: Rams K Grupe on IR with a torn ACL, so skip the Rams kicker.) The Rams kicker is fine, since Tucker
   plays for the opponent (LV), not the same team.
 - **RB2 = GORDON (corrected 10/20 after manager pushback; I was wrong to
   rank Hall first):**

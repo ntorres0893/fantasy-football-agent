@@ -45,6 +45,17 @@
   - Family-Yahoo starts Moore at W/T, so add Coleman as the same-game
     fallback. Chatt-ESPN: Coleman is still the #1 WR add.
 
+### Update 2026-10-20 (Tuesday)
+- **Davante Adams: hamstring, out 6-10 weeks** (McVay). Konata Mumpfield
+  gets the bump; Nacua's share should rebound.
+- **Rams K: Blake Grupe on IR (torn ACL)** in his first game after
+  replacing Mevis. Don't stream a Rams kicker; **use the Bears K** in
+  Chatt-ESPN.
+- Hurts out for the season (blood clots in lungs).
+- Tank Dell expected to play Wk7 (HOU WR; no effect on Marks).
+- Colts fired GM Chris Ballard.
+- No news found on Barkley, Rice or Jacobs.
+
 ### DD Fantasy Football "Follow the Volume: Week 6" (Shane Manila, 10/19; pasted by manager)
 Relevant volume, Week 6:
 - **Woody Marks:** 78% snaps, 72% opportunity share, dominated every
