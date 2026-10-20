@@ -749,6 +749,22 @@ policy, so this uses team-defense reporting plus earlier DvP data
 - D/ST: avoid facing our own players. With Douglas in the lineup, avoid
   the Bears D.
 
+### Trade SENT by manager (10/20): we get Malik Nabers; they get Mahomes, LaPorta, Barkley
+- Menton chart: we send Mahomes 30.5 + LaPorta 44.0 + Barkley 32.5* =
+  107.0; we get **Nabers 56.0** (14.8 FPG season, FPOE -3.9 = unlucky
+  early; now a 37-38% target share and 3 straight 20+ point games).
+- On paper a heavy overpay. It also leaves us with **no QB and no TE**.
+  LaPorta (15.3 FPG, trend +12, DET top offense) is the costly piece,
+  since TE is scarce.
+- Counter recommended: **Mahomes + Barkley (63.0) for Nabers (56.0)**,
+  keep LaPorta.
+- If the original is accepted: add a QB and TE immediately from waivers,
+  respecting no-same-team (avoid NYG [Nabers], HOU [Marks], GB [Golden],
+  PIT [Metcalf], LV [Tucker], NE [Douglas], MIA [Gordon]). Also drop
+  Zvada (NYG K, same team as Nabers).
+- Wk7: Nabers @ HOU (NYG ~16.5 implied; HOU a top D), a poor first-week
+  matchup.
+
 ## Action items before Week 1
 1. **Add a backup/streaming QB before Week 5** — top priority waiver action once
    the season's underway; don't leave it until bye week itself.
