@@ -45,6 +45,20 @@
   - Family-Yahoo starts Moore at W/T, so add Coleman as the same-game
     fallback. Chatt-ESPN: Coleman is still the #1 WR add.
 
+### Week 7 start/sit consensus (10/21; 4for4 Hoopes article blocked by network policy, only the DAL snippet was visible)
+- **Doubs out at least 4 more games** (shoulder), so **Douglas gets
+  consistent targets** from Maye.
+  - StatChasers projects Douglas 9.5 PPR vs K. Allen 8.6.
+  - FPTrack ranks CHI 25th vs WR.
+- **MIN allows the 5th-fewest fantasy pts to WRs**, so K. Allen and
+  Tucker are a coin flip (Parlae: Tucker 8.8 / Allen 9.8). SI WR ranks:
+  Allen 31, Tucker 33, Douglas 37.
+- **LaPorta:** high-confidence start, ~12.7 PPR, TE8 (Stat Pick).
+- **Nabers:** "start with confidence as a PPR WR1" despite a tough
+  matchup.
+- 4for4: Lamb and Pickens are locks; Flournoy a flex given byes and DAL's
+  high implied total; Javonte Williams a must-start.
+
 ### Update 2026-10-21 (Wednesday)
 - **Josh Jacobs (GB):** conflicting reports. One says he's off the
   Commissioner's Exempt List, another lists a personal issue. If back,
