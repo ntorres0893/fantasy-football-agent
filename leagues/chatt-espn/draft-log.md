@@ -856,6 +856,15 @@ Some logos overlap, so DET, NE, HOU and ATL can't be placed.
   defense read. His rushing matchup is 36th percentile, and PHI's offense is
   bad and passing more. Don't force him in.
 
+### Same-team rule lifted (10/21)
+These options were excluded only by the rule and are back in play:
+- **D/ST: Texans vs NYG.** HOU -9.5, NYG ~16.5 implied (the lowest of the
+  week except CLE/TEN), NYG at the 32nd rush pct on the Hoopes chart. Beats
+  the Titans vs CLE (CLE ~19). Add it if it's a free agent.
+- **K: DET kicker** (DET ~27.75, top total) or **HOU kicker** (~26). Both
+  are better than Reichard (MIN ~24.25) and Zvada (NYG ~16.5).
+- **Jets D/ST vs MIA** (MIA ~17) is a fallback.
+
 ## Action items before Week 1
 1. **Add a backup/streaming QB before Week 5** — top priority waiver action once
    the season's underway; don't leave it until bye week itself.

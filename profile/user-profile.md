@@ -34,9 +34,10 @@
 - **Next season (from 2026):** start draft prep from the prior years'
   actual top fantasy scorers by position. 2026's draft missed this.
 
-- **No same-team doubles (manager rule, 10/20):** don't start two players
-  from the same NFL team in one lineup. That includes D/ST or K with a
-  skill player from the same team. Apply it to pickups too.
+- **Same-team doubles are allowed (10/21).** The manager lifted the 10/20
+  no-doubles rule, so judge players on volume and matchup alone.
+  - Still flag one thing: a DEF facing our own QB or K. That's opposing
+    teams, and the two scores work against each other.
 
 ## Learning goals
 - Understand positional scarcity (why RB/TE differ from WR/QB).

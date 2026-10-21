@@ -156,7 +156,17 @@ Roster changed from the earlier plan: Kelce, M. Wilson and Worthy are gone.
   MIN) | DEF Vikings 10.24 (v IND).
 - Bench: Shakir (bye), A. Jones 9.33, Gordon 10.11, Jacobs 10.33.
 
-Same-team rule check:
+**10/21 update: the manager lifted the same-team rule.** Re-check:
+- Jacobs (10.33) and A. Jones (9.33) are eligible again.
+- **Gordon still starts at RB2.**
+  - Jacobs: tough spot. DET is 22nd vs RB on Yahoo, and GB is at the 30th
+    rush percentile on the Hoopes chart. Stacking with Love gives TD upside.
+  - A. Jones: MIN ~24.25 implied, IND 7th vs RB, but Mason's return cuts
+    his share.
+  - Gordon: the most certain volume.
+  - Jacobs is the coin-flip alternative for ceiling.
+
+(Superseded) Same-team rule check:
 - **Jacobs (GB) can't start with Love (GB).**
 - **A. Jones (MIN) can't start with the Vikings DEF (MIN).** Keep the DEF:
   IND is the worst offense matchup on the Hoopes percentile chart.
