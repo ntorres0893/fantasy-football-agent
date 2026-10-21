@@ -765,6 +765,28 @@ policy, so this uses team-defense reporting plus earlier DvP data
 - Wk7: Nabers @ HOU (NYG ~16.5 implied; HOU a top D), a poor first-week
   matchup.
 
+### Week 7 roster as set (app, 10/21) — no Keenan Allen; Nabers trade not reflected
+ESPN proj (opp rank vs pos):
+- Starters:
+  - QB Mahomes 15.59 (@ SEA 2nd, SNF 8:20)
+  - RB Gordon 11.8 (@ NYJ 19th), Hall Q 15.5 (vs MIA 30th)
+  - WR Golden 16.89 (@ DET 30th), Metcalf 14.86 (@ NO 16th, Paris 9:30am)
+  - TE LaPorta 12.66 (vs GB 5th)
+  - FLEX Tucker 10.48 (vs LAR 4th)
+  - D/ST Titans 7.19 (vs CLE 29th)
+  - K Zvada 10.82 (@ HOU 28th)
+- Bench: Barkley Q 14.74 (vs DAL 22nd, MNF), Douglas 10.53 (@ CHI 15th,
+  TNF), Higbee 7.36, Marks 9.21 (vs NYG 18th), Rice Q 13.45 (@ SEA 2nd),
+  Vele 10.28, R. White (bye), IR T. Hill.
+- **Recommended:**
+  - **FLEX Douglas over Tucker** (LAR 4th-toughest vs WR; Douglas has the
+    TNF hedge vs Maye, Doubs out 4+ wks).
+  - **Hall at RB only if he practices fully by Friday.** If he's still Q
+    at 11:30am Sunday inactives, swap **Marks** in (1pm, still unlocked).
+  - Gordon stays.
+  - Keep Zvada (ESPN rates @ HOU a favorable K matchup; Nabers not
+    acquired, so no NYG conflict).
+
 ## Action items before Week 1
 1. **Add a backup/streaming QB before Week 5** — top priority waiver action once
    the season's underway; don't leave it until bye week itself.
