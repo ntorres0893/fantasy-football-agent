@@ -828,6 +828,34 @@ gives up, so a high number is a soft defense.
     alternative.
   - Gordon's matchup is tough on efficiency, but his snap share carries him.
 
+### Week 7 Hoopes charts: matchup percentiles, PROE trend, EPA vs plays (10/21)
+Three more charts pasted by the user. Chart 1 shows each offense's pass and
+rush EPA matchup percentile against its Week 7 opponent (higher = easier).
+Some logos overlap, so DET, NE, HOU and ATL can't be placed.
+
+| Player | Team on chart 1 (pass, rush pct) | PROE trend | EPA/play, plays/gm | Read |
+|---|---|---|---|---|
+| Mahomes | KC (52, 59): neutral-plus | Rising, about +8 last week | +0.12, ~61 | **Upgrade** from "tough" to neutral. Start |
+| Golden | GB (73, 30): strong pass spot | Climbing to about +8 | ~0.00, ~60 | **Smash** (confirmed) |
+| LaPorta | DET (not placeable) | Near 0 | **+0.18, ~66** (best combo in the NFL) | Start |
+| Metcalf | PIT (42, 75): below-median pass spot | +7 | -0.05, ~62 | **Downgrade** to neutral. Still start: 30% target share, pass-leaning team |
+| Gordon | MIA (37, 32): bad on both | Down to about -20 (most run-heavy) | -0.12, **~54 (2nd fewest)** | Volume share is fine but total plays are low. Floor play |
+| Marks | HOU (not placeable) | +4 | +0.04, ~61 | HOU ~26 implied, -9.5 favorite, 72% opportunity share. **Best RB environment on the roster** |
+| Hall | NYJ (70, 36): below-median rush spot | about -4 | ~-0.01, ~58 | Coming back Q, rush spot below median |
+| Douglas | NE (not placeable) | about -4 | +0.05, ~63; CHI **~72 plays** (most) | High-play game, 49.5 total. Start |
+| Tucker | LV (63, 25): above-median pass spot | ~0 | +0.03, ~63 | Mixed with the CPOE table. Still bench (Douglas locked TNF) |
+| Titans D/ST | CLE (56, 22) | about -4 (fewer dropbacks) | -0.08, ~58 | Lowest total (36.5). Start |
+| Barkley | PHI (62, **36**) | **+13** (passing more) | **-0.12**, ~58 | **Correction:** DAL's weakness is pass D, not run D. Downgrade to depth |
+
+- **Change:** **Marks is now the default RB1**, not Hall.
+  - Marks has a dominant role in the best RB game environment.
+  - Hall is questionable and his rush matchup is below median.
+  - Start Hall over Marks only if he practices fully and carries no
+    designation. Gordon stays at RB2.
+- **Correction:** I had called Barkley's MNF spot "great." That was a pass
+  defense read. His rushing matchup is 36th percentile, and PHI's offense is
+  bad and passing more. Don't force him in.
+
 ## Action items before Week 1
 1. **Add a backup/streaming QB before Week 5** — top priority waiver action once
    the season's underway; don't leave it until bye week itself.
