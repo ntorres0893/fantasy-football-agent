@@ -45,6 +45,43 @@
   - Family-Yahoo starts Moore at W/T, so add Coleman as the same-game
     fallback. Chatt-ESPN: Coleman is still the #1 WR add.
 
+### 4for4 "Hoopes There It Is" Week 7 (pasted by manager, 10/21) — key reads
+- **PIT @ NO:** PIT 2nd in PROE; **Metcalf and Bernard each had 12+
+  targets**; NO pass D bottom-5 in success rate and plays fast, so
+  Metcalf is a clear start.
+- **HOU vs NYG:** Montgomery likely sits again (no practice, Wk8 bye).
+  **Marks dominated (25 routes to Jordan's 4, 15 carries to 6)**. NYG run
+  D below average; HOU 26.25 implied. NYG 16.25 implied (maybe JJ
+  McCarthy at QB), so avoid NYG RBs; Zvada's spot is weak.
+- **MIA @ NYJ:** Gordon had 18 of 24 RB carries and 20 routes but 0
+  targets; scored in 3 straight. "Like Pollard": volume but few
+  high-value touches. **"Fire up Hall if he plays"**; Allen a strong
+  start if Hall sits. MIA pass D bottom-2.
+- **GB @ DET (53.5):** **Golden 13 targets, must-start vs a very bad DET
+  pass D. "Start as many Lions as you can"** (LaPorta). Jacobs expected to
+  return (GB RB role unclear).
+- **LAR @ LV:** **Higbee = START** (Adams out 6-10 wks; Higbee 29 routes vs
+  Parkinson 19; LV pass D bottom-8). **Tucker: wouldn't trust** (WR31 in
+  expected pts). Bowers TE1 in expected pts.
+- **NE @ CHI:** A.J. Brown start (CHI last in explosive plays allowed but
+  7th in efficiency, 3rd in success rate). **Douglas "an option"**; Doubs
+  on IR.
+- **KC @ SEA:** SEA pass D top-2 in efficiency, success rate, explosive
+  plays and air yards allowed, so temper Mahomes, Kelce and Worthy. Rice
+  assumed to play (unconfirmed).
+- **IND @ MIN:** MIN pass D #1 in efficiency, success rate and CPOE
+  allowed, so sit IND pass catchers (K. Allen). **Jordan Mason returns
+  for MIN and is expected to get the bulk of carries, a risk for A.
+  Jones** (Family-Yahoo).
+- **TB @ CAR:** Coker and McMillan are must-starts (19 of 31 targets).
+- **DEN @ ARI:** M. Wilson still a start but cooling; Bourne earning
+  targets.
+- **DAL @ PHI:** if Barkley starts, play him (DAL pass D bottom-5 in
+  everything; PHI +12.5% PROE). Pierce took 61 of 64 snaps.
+- **SF @ ATL:** Evans likely sits (Wk8 bye). Bijan always a start.
+- **CLE @ TEN:** Judkins expected back. Titans run D is their strength;
+  slow, low-scoring game.
+
 ### Week 7 start/sit consensus (10/21; 4for4 Hoopes article blocked by network policy, only the DAL snippet was visible)
 - **Doubs out at least 4 more games** (shoulder), so **Douglas gets
   consistent targets** from Maye.

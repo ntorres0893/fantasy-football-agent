@@ -787,6 +787,21 @@ ESPN proj (opp rank vs pos):
   - Keep Zvada (ESPN rates @ HOU a favorable K matchup; Nabers not
     acquired, so no NYG conflict).
 
+### Week 7 final plan after the 4for4 article (10/21)
+- QB Mahomes (no alternative; SEA elite pass D)
+- RB **Hall** if he practices and is active ("fire up Hall"), else
+  **Marks** (dominant role, HOU 26.25 implied)
+- RB **Gordon**
+- WR **Golden** (must-start) + **Metcalf** (12+ targets, bad NO pass D)
+- TE **LaPorta** ("start as many Lions as you can")
+- FLEX **Douglas** (Doubs IR; also the hedge vs Maye). Higbee (4for4
+  start) is the alternative. **Not Tucker** (4for4: don't trust).
+- D/ST Titans
+- K: upgrade **Zvada → Reichard** if available (NYG only 16.25 implied,
+  maybe McCarthy at QB)
+- Barkley: if active for MNF, start him (4for4: DAL pass D bottom-5).
+  Only if a 1pm slot is still open; otherwise he's late depth.
+
 ## Action items before Week 1
 1. **Add a backup/streaming QB before Week 5** — top priority waiver action once
    the season's underway; don't leave it until bye week itself.

@@ -141,6 +141,12 @@ Calls:
    Consider a FA RB (Woody Marks HOU, London 9:30am lock, lead back). The
    decision has to be made before 9:30am Sunday.
 
+## ⚠️ 4for4 flag (10/21): Jordan Mason returns for MIN and is expected to get the bulk of carries
+That puts A. Jones's RB2 role at risk. Alternatives: Gordon (MIA 17
+implied; volume but few high-value touches) or B. Allen (strong start if
+Hall sits). Decide after Friday's injury reports. The Vikings DEF vs IND
+is a great spot (IND run-heavy, poor passing; MIN #1 pass D).
+
 ## Week 7 prep (10/20) — record 1-4 (Wk6 result pending screenshot)
 | Slot | Plan | Game (ET) | Implied | Note |
 |---|---|---|---|---|
