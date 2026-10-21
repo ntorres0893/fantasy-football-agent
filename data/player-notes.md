@@ -45,6 +45,21 @@
   - Family-Yahoo starts Moore at W/T, so add Coleman as the same-game
     fallback. Chatt-ESPN: Coleman is still the #1 WR add.
 
+### Update 2026-10-21 (Wednesday)
+- **Josh Jacobs (GB):** conflicting reports. One says he's off the
+  Commissioner's Exempt List, another lists a personal issue. If back,
+  Strong/Lloyd lose value; Golden is unaffected.
+- **Barkley:** return "looming" after missing 2 games. That raises his
+  value in the pending Nabers trade (Chatt-ESPN).
+- **Breece Hall:** projected to return to practice this week.
+- **Rice:** no return timeline; Jalen Royals stepped into his role.
+- **Mike Evans (SF):** aggravated his Achilles on MNF; Shanahan hopes he
+  plays. More targets for Deebo whenever Deebo returns.
+- **McLaurin (WAS):** carted off, significant knee injury, possibly out
+  for the season.
+- Lamar: day-to-day, could practice Wednesday.
+- No Kelce ankle news found.
+
 ### Update 2026-10-20 (Tuesday)
 - **Davante Adams: hamstring, out 6-10 weeks** (McVay). Konata Mumpfield
   gets the bump; Nacua's share should rebound.
