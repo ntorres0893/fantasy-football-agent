@@ -858,8 +858,8 @@ Some logos overlap, so DET, NE, HOU and ATL can't be placed.
 
 ### Same-team rule lifted (10/21)
 These options were excluded only by the rule and are back in play:
-- **D/ST: Texans vs NYG.** HOU -9.5, NYG ~16.5 implied (the lowest of the
-  week except CLE/TEN), NYG at the 32nd rush pct on the Hoopes chart. Beats
+- **D/ST: Texans vs NYG.** HOU -9.5, NYG ~16.5 implied (the lowest of the week),
+  NYG at the 32nd rush pct on the Hoopes chart. Beats
   the Titans vs CLE (CLE ~19). Add it if it's a free agent.
 - **K: DET kicker** (DET ~27.75, top total) or **HOU kicker** (~26). Both
   are better than Reichard (MIN ~24.25) and Zvada (NYG ~16.5).
