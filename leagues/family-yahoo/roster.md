@@ -580,3 +580,10 @@ isn't even a close call once real numbers are in.
   issue). Not confirmed either way — recheck before the Week 1 lineup lock
   (Sun 9/13), don't assume a clean bill of health.
 - 2026-09-02 — Initial roster recorded from Monday 8/31 draft.
+
+### Week 7 matchup notes from the Hoopes tables (10/21)
+- **Bijan @ SF:** SF is 2nd in rush EPA allowed, against ATL's 3rd-ranked
+  rushing offense. Tough-ish, but he's still a must-start on volume.
+- **M. Wilson vs DEN:** DEN is 3rd in pass EPA allowed. Tough matchup, so
+  it doesn't help the W/T fill case.
+- **Vikings DEF vs IND:** 4for4 rates MIN's pass D #1. Start.

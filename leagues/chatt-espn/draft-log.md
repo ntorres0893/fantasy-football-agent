@@ -802,6 +802,32 @@ ESPN proj (opp rank vs pos):
 - Barkley: if active for MNF, start him (4for4: DAL pass D bottom-5).
   Only if a 1pm slot is still open; otherwise he's late depth.
 
+### Week 7 start/sit by opponent defense: Hoopes matchup tables (10/21)
+Source: 4for4 Hoopes "Offense vs Defense" tables pasted by the user (16
+images). Ranks are out of 32. "Allowed" means the defense's rank in what it
+gives up, so a high number is a soft defense.
+
+| Slot | Player | Opp D | Table read | Call |
+|---|---|---|---|---|
+| QB | Mahomes | SEA | 2nd EPA, 2nd pass EPA, 2nd explosive pass, 1st air yards allowed | **Start, low expectations** (no better QB on roster) |
+| RB | Hall / Marks | MIA / NYG | No table for these games. ESPN: MIA 30th vs RB | **Hall if active, else Marks** (unchanged) |
+| RB | Gordon | NYJ | 4th rush EPA allowed but 26th rush success. MIA offense 29th EPA, 31st plays/gm, 32nd PROE | **Start on volume.** Tough efficiency matchup, but he has 65% of snaps. Floor play, not ceiling |
+| WR | Golden | DET | 32nd EPA allowed, 30th pass success, 28th pass EPA. GB PROE 88th pct | **Smash** |
+| WR | Metcalf | NO | No table for this game. 4for4: bad NO pass D, 12+ targets | **Start** |
+| TE | LaPorta | GB | DET offense 3rd EPA, 2nd success. GB 24th success allowed but 1st explosive pass, 3rd air yards | **Start.** Short-area, high-success TE usage fits a GB D that stops deep shots |
+| FLEX | Douglas | CHI | No table for TNF | **Start** (Doubs IR, hedge vs Maye) |
+| bench | Tucker | LA | 2nd CPOE allowed, 6th air yards, 4th PROE allowed | **Sit** (confirmed) |
+| bench | Higbee | LV | 27th pass success, 28th air yards allowed | Good matchup, but stays behind Douglas on targets |
+| bench | Rice | SEA | Same elite SEA pass D | Sit |
+| D/ST | Titans | CLE | CLE offense 32nd sack rate, 25th EPA. TEN 8th sack rate | **Start** |
+| K | Reichard / Zvada | NYG / HOU | No table | Reichard if claimable |
+| MNF | Barkley | DAL | 32nd pass EPA, 32nd pass success, 31st EPA | **Great matchup if active.** Only usable if a slot whose game hasn't kicked off is open at his decision time |
+
+- Net: the tables **confirm the 4for4 plan with no changes.**
+  - The only starter in a bad matchup is Mahomes, and there's no QB
+    alternative.
+  - Gordon's matchup is tough on efficiency, but his snap share carries him.
+
 ## Action items before Week 1
 1. **Add a backup/streaming QB before Week 5** — top priority waiver action once
    the season's underway; don't leave it until bye week itself.
