@@ -147,6 +147,35 @@ implied; volume but few high-value touches) or B. Allen (strong start if
 Hall sits). Decide after Friday's injury reports. The Vikings DEF vs IND
 is a great spot (IND run-heavy, poor passing; MIN #1 pass D).
 
+## Week 7 plan from the Hoopes charts (10/21)
+Same-team rule check (manager's rule: no doubles, D/ST and K included):
+- **A. Jones (MIN) + Vikings DEF (MIN)** is a double, so one must sit.
+  - Keep the DEF. IND is the worst offense matchup on the percentile chart
+    (pass 14th pct). MIN -6 at home, IND ~18.25 implied.
+  - Jones's role is also threatened by Jordan Mason's return.
+- **Worthy (KC) + Kelce (KC)** is a double, so Worthy can't fill W/T.
+- **Shrader (IND) faces our Vikings DEF.** Not a same-team double, but the
+  two work against each other, and IND is only ~18.25 implied. Stream a K if
+  a DET (~27.75), SF (~27.5), HOU (~26) or CHI (~26, TNF) kicker is free.
+  Otherwise keep Shrader, the season K leader.
+
+| Slot | Player | Chart read | Call |
+|---|---|---|---|
+| QB | Love | GB (73, 30) pass pct, PROE climbing to about +8, 52.5 top total | **Smash** |
+| RB | Bijan | ATL hosts SF; SF 2nd in rush EPA allowed | Start (volume) |
+| RB | **Gordon** | MIA (37, 32), PROE about -20 (most run-heavy), but ~54 plays/gm | Start on rush share. Alternative: B. Allen if Hall is OUT (NYJ -4.5, ~21.5) |
+| WR | McMillan | CAR (52, 38); CAR +0.08 EPA, ~67 plays, PROE +7 | Start |
+| WR | M. Wilson (if added) | ARI (40, 52); DEN 3rd in pass EPA allowed | Start on volume (WR1 role); tough spot |
+| W/T | **Germie Bernard** (re-add) | PIT (42, 75), PROE +7, ~26% tgt share with Pittman IR | Start. Paris 9:30am lock |
+| TE | Kelce | KC (52, 59) neutral | Start; monitor ankle |
+| K | Shrader or a stream | see above | Stream if possible |
+| DEF | Vikings | IND worst matchup on the chart | **Start** |
+- Bench: A. Jones (rule), B. Allen, Worthy (rule), Shakir (bye).
+- W/T fallbacks if Bernard is gone: Omar Cooper Jr. Keenan Allen only if
+  he's not on a bye team (BUF, JAX, LAC, WAS).
+- "Xavier" add (10/20): if this is Legette (CAR), he doubles with
+  McMillan, so don't start him.
+
 ## Week 7 prep (10/20) — record 1-4 (Wk6 result pending screenshot)
 | Slot | Plan | Game (ET) | Implied | Note |
 |---|---|---|---|---|
@@ -580,10 +609,3 @@ isn't even a close call once real numbers are in.
   issue). Not confirmed either way — recheck before the Week 1 lineup lock
   (Sun 9/13), don't assume a clean bill of health.
 - 2026-09-02 — Initial roster recorded from Monday 8/31 draft.
-
-### Week 7 matchup notes from the Hoopes tables (10/21)
-- **Bijan @ SF:** SF is 2nd in rush EPA allowed, against ATL's 3rd-ranked
-  rushing offense. Tough-ish, but he's still a must-start on volume.
-- **M. Wilson vs DEN:** DEN is 3rd in pass EPA allowed. Tough matchup, so
-  it doesn't help the W/T fill case.
-- **Vikings DEF vs IND:** 4for4 rates MIN's pass D #1. Start.
