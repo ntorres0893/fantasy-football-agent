@@ -147,34 +147,28 @@ implied; volume but few high-value touches) or B. Allen (strong start if
 Hall sits). Decide after Friday's injury reports. The Vikings DEF vs IND
 is a great spot (IND run-heavy, poor passing; MIN #1 pass D).
 
-## Week 7 plan from the Hoopes charts (10/21)
-Same-team rule check (manager's rule: no doubles, D/ST and K included):
-- **A. Jones (MIN) + Vikings DEF (MIN)** is a double, so one must sit.
-  - Keep the DEF. IND is the worst offense matchup on the percentile chart
-    (pass 14th pct). MIN -6 at home, IND ~18.25 implied.
-  - Jones's role is also threatened by Jordan Mason's return.
-- **Worthy (KC) + Kelce (KC)** is a double, so Worthy can't fill W/T.
-- **Shrader (IND) faces our Vikings DEF.** Not a same-team double, but the
-  two work against each other, and IND is only ~18.25 implied. Stream a K if
-  a DET (~27.75), SF (~27.5), HOU (~26) or CHI (~26, TNF) kicker is free.
-  Otherwise keep Shrader, the season K leader.
+## Week 7 lineup as seen in the app (10/21 12:41) — proj 97.17
+Roster changed from the earlier plan: Kelce, M. Wilson and Worthy are gone.
+**Higbee (TE), Douglas (W/T) and Jacobs (GB RB) were added.**
+- Starters: QB Love 23.85 (@ DET) | RB B. Allen 6.71 (v MIA), Bijan 17.13
+  (v SF) | WR McMillan 9.90 (v TB), Bernard 7.84 (@ NO, Paris 9:30am) | TE
+  Higbee 5.88 (@ LV) | W/T Douglas 6.34 (@ CHI, TNF) | K Shrader 9.28 (@
+  MIN) | DEF Vikings 10.24 (v IND).
+- Bench: Shakir (bye), A. Jones 9.33, Gordon 10.11, Jacobs 10.33.
 
-| Slot | Player | Chart read | Call |
-|---|---|---|---|
-| QB | Love | GB (73, 30) pass pct, PROE climbing to about +8, 52.5 top total | **Smash** |
-| RB | Bijan | ATL hosts SF; SF 2nd in rush EPA allowed | Start (volume) |
-| RB | **Gordon** | MIA (37, 32), PROE about -20 (most run-heavy), but ~54 plays/gm | Start on rush share. Alternative: B. Allen if Hall is OUT (NYJ -4.5, ~21.5) |
-| WR | McMillan | CAR (52, 38); CAR +0.08 EPA, ~67 plays, PROE +7 | Start |
-| WR | M. Wilson (if added) | ARI (40, 52); DEN 3rd in pass EPA allowed | Start on volume (WR1 role); tough spot |
-| W/T | **Germie Bernard** (re-add) | PIT (42, 75), PROE +7, ~26% tgt share with Pittman IR | Start. Paris 9:30am lock |
-| TE | Kelce | KC (52, 59) neutral | Start; monitor ankle |
-| K | Shrader or a stream | see above | Stream if possible |
-| DEF | Vikings | IND worst matchup on the chart | **Start** |
-- Bench: A. Jones (rule), B. Allen, Worthy (rule), Shakir (bye).
-- W/T fallbacks if Bernard is gone: Omar Cooper Jr. Keenan Allen only if
-  he's not on a bye team (BUF, JAX, LAC, WAS).
-- "Xavier" add (10/20): if this is Legette (CAR), he doubles with
-  McMillan, so don't start him.
+Same-team rule check:
+- **Jacobs (GB) can't start with Love (GB).**
+- **A. Jones (MIN) can't start with the Vikings DEF (MIN).** Keep the DEF:
+  IND is the worst offense matchup on the Hoopes percentile chart.
+- Shrader (IND) kicks against our Vikings DEF. That isn't a double, but
+  they work against each other. Optional stream: a DET, SF, HOU or CHI K;
+  drop B. Allen to make room.
+
+**Move: start Gordon (10.11) over B. Allen (6.71). Projected about 100.6.**
+- Allen's low projection signals Hall's return.
+- Gordon: about 65% of snaps on the most run-heavy team (PROE about -20).
+- Yahoo's own suggestion agrees.
+- The final lineup has no same-team doubles.
 
 ## Week 7 prep (10/20) — record 1-4 (Wk6 result pending screenshot)
 | Slot | Plan | Game (ET) | Implied | Note |
