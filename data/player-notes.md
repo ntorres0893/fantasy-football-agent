@@ -96,6 +96,29 @@
 - 4for4: Lamb and Pickens are locks; Flournoy a flex given byes and DAL's
   high implied total; Javonte Williams a must-start.
 
+### Update 2026-10-22 (Thursday — Wednesday practice reports, TNF NE @ CHI)
+- **Breece Hall (NYJ, quad): DNP Wednesday.** Glenn says he hasn't been
+  ruled out vs MIA. One outlet calls him week-to-week, and SBR lists him
+  Doubtful. Glenn: B. Allen is "going to get touches, too" when Hall returns.
+- **Saquon Barkley (PHI, hamstring):** has missed two straight games, with
+  no team update this week. SBR lists him Doubtful for MNF vs DAL. Dameon
+  Pierce had every PHI RB carry last Sunday.
+- **GB, Wednesday:** Jordan Love (back) and Matthew Golden (shoulder) were
+  both limited, along with Watson, Banks and Cisse. Bo Melton DNP. DET is
+  nearly fully healthy after its bye.
+- **Jordan Mason (MIN):** designated to return from IR on Monday (thumb).
+  The team is optimistic he plays vs IND, depending on conditioning. Expected
+  to retake early-down work, which pushes A. Jones toward change-of-pace.
+  Jones had 20+ carries in 3 of his last 4 games.
+- **Demario Douglas (NE):** healthy. He's NE's leading receiver (20 rec, 30
+  targets). NE ruled out five for TNF, including OL Vera-Tucker and Ben
+  Brown; OT Moses is Q. CHI: RB Monangai out.
+- **PIT, Wednesday:** Rico Dowdle (knee) limited; Ramsey DNP. No Metcalf
+  listing.
+- Couldn't verify a Week 7 practice status for Rice, Marks, Gordon or
+  Bijan. Several fetches failed (DNS), and searches mostly returned prior
+  seasons.
+
 ### Update 2026-10-21 (Wednesday)
 - **Josh Jacobs (GB):** conflicting reports. One says he's off the
   Commissioner's Exempt List, another lists a personal issue. If back,
