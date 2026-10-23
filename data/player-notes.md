@@ -96,6 +96,22 @@
 - 4for4: Lamb and Pickens are locks; Flournoy a flex given byes and DAL's
   high implied total; Javonte Williams a must-start.
 
+### Update 2026-10-23 (Friday — TNF result, Thursday practice)
+- **TNF: CHI 30, NE 24.**
+  - Maye: 24/31, 321 yds, 2 TD, 1 INT, plus 26 rush yds and a rush TD.
+    NE's leading rusher.
+  - Recaps call out Stevenson (48-yd TD catch), Henry and Raridon as good
+    fantasy games. A.J. Brown had an "off night."
+  - **Douglas isn't named among the standouts.** His line couldn't be
+    verified; check the app.
+  - CHI: Williams 308 yds, 2 TD; Swift 22-78-1; Burden and Loveland TDs.
+- **Breece Hall:** an undated report says he didn't practice again
+  Thursday. He's missed three straight games. Friday's designation is next.
+- **Love / Golden:** no Thursday report found after Wednesday's limited
+  sessions. LaFleur on Jacobs: "We'll see."
+- **Davante Adams is now a Jet** (CBS Week 7 report headline) and practiced
+  fully. Neither league rosters him.
+
 ### Update 2026-10-22 (Thursday — Wednesday practice reports, TNF NE @ CHI)
 - **Breece Hall (NYJ, quad): DNP Wednesday.** Glenn says he hasn't been
   ruled out vs MIA. One outlet calls him week-to-week, and SBR lists him
