@@ -96,6 +96,21 @@
 - 4for4: Lamb and Pickens are locks; Flournoy a flex given byes and DAL's
   high implied total; Javonte Williams a must-start.
 
+### Update 2026-10-24 (Saturday — final designations)
+- **Breece Hall (NYJ):** DNP Wednesday, then **limited Thursday**. NFL.com
+  lists him **Questionable** vs MIA (Yahoo: "finally some good Breece Hall
+  news"). Friday's report wasn't found.
+- **Jordan Love (GB):** **full practice Thursday, no game designation.** He
+  plays. **Golden:** no game status listed, so he plays.
+- **Josh Jacobs (GB):** off the Commissioner's Exempt List Monday, with a
+  roster exemption through 10/26. LaFleur hasn't decided whether he debuts
+  at DET. If he doesn't, GB uses Lloyd, Strong and K. Johnson.
+- **Saquon Barkley (PHI):** limited Thursday. Garafolo (NFL Network)
+  reports he's **in line to play MNF vs DAL**. Sirianni: "We'll see where
+  we are at the end of it."
+- **Rashee Rice (KC): OUT** vs SEA (DNP all week, hamstring/knee).
+- **Zach Charbonnet (SEA)** won't return for KC.
+
 ### Update 2026-10-23 (Friday — TNF result, Thursday practice)
 - **TNF: CHI 30, NE 24.**
   - Maye: 24/31, 321 yds, 2 TD, 1 INT, plus 26 rush yds and a rush TD.
