@@ -96,6 +96,20 @@
 - 4for4: Lamb and Pickens are locks; Flournoy a flex given byes and DAL's
   high implied total; Javonte Williams a must-start.
 
+### Update 2026-10-25 (Sunday — game day)
+- **Breece Hall:** practiced DNP/LP/LP, listed Questionable, a **game-time
+  decision** (Glenn: "see how he feels"). FantasyPros model: 48% to play.
+- **PHI (MNF): DeVonta Smith and Dontayvion Wicks are OUT** (ESPN). That
+  makes Barkley a bigger part of the passing game if he plays.
+- **IND inactives @ MIN:** TE Tyler Warren, CB Sauce Gardner (calf) and
+  Anthony Gould. Good for the MIN DEF and MIN offense.
+- **Puka Nacua (LAR, calf):** missed Friday, a possible 4:25 game-time
+  call. If he's out, Higbee gets more targets.
+- **Paris (PIT @ NO, 9:30am):** an early-week read showed winds around 16
+  mph, gusting into the low 20s. That's a modest passing downgrade, not a
+  bench trigger.
+- **Rico Dowdle (PIT, knee):** likely to play, not certain.
+
 ### Update 2026-10-24 (Saturday — final designations)
 - **Breece Hall (NYJ):** DNP Wednesday, then **limited Thursday**. NFL.com
   lists him **Questionable** vs MIA (Yahoo: "finally some good Breece Hall
