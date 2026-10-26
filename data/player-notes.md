@@ -96,6 +96,30 @@
 - 4for4: Lamb and Pickens are locks; Flournoy a flex given byes and DAL's
   high implied total; Javonte Williams a must-start.
 
+### Update 2026-10-26 (Monday — Week 7 Sunday results; only verified items)
+- **NYG 27, HOU 21 (OT).**
+  - Skattebo 124 rush yds and a TD; Singletary 30-yd OT TD run.
+  - McCarthy 20/28, 252 yds in his first start; Stroud 2 TD.
+  - HOU is 2-5. Marks's line not found.
+- **DET 20, GB 17** on a walk-off Bates FG.
+  - Love: TD to Kraft (14 yds) and TD to Jacobs (25-yd catch-and-run).
+    Jacobs made his debut and scored; one outlet says he dropped a
+    potential game-winning TD.
+  - Love missed Golden on a third-and-goal.
+  - Goff 22/32, 303 yds, 2 TD, both to Jameson Williams (5-91-2).
+  - LaPorta and Golden lines not found.
+- **MIA 28, NYJ 25** (Miami's first lead of the season). Gordon, Hall and
+  Allen lines not found.
+- **MIN 16, IND 10.** Vikings DEF allowed 10. MIN is undefeated.
+- **ATL 29, SF 20.** **TB 43, CAR 13** (Mayfield back). **PIT beat NO in
+  Paris** (Warren 18-101). **LAR beat LV.** **DEN 30, ARI 16. CIN 35, BAL
+  13.**
+- **KC @ SEA: conflicting.** Yahoo reports SEA 20-3; a CBS recap line
+  differs. Unverified.
+- ESPN fantasy winners: Pollard (25-129-3), Burrow, Zay Flowers. Losers:
+  Purdy, Henry, K. Walker.
+- **MNF tonight: DAL @ PHI.** Barkley expected back; Smith and Wicks out.
+
 ### Update 2026-10-25 (Sunday — game day)
 - **Breece Hall:** practiced DNP/LP/LP, listed Questionable, a **game-time
   decision** (Glenn: "see how he feels"). FantasyPros model: 48% to play.
