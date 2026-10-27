@@ -96,6 +96,27 @@
 - 4for4: Lamb and Pickens are locks; Flournoy a flex given byes and DAL's
   high implied total; Javonte Williams a must-start.
 
+### Update 2026-10-27 (Tuesday — MNF result, Week 8 byes and waivers)
+- **MNF: DAL 38, PHI 21.**
+  - **Barkley: 7 carries, 62 yds, 1 TD on limited snaps.** One source (NBC
+    winners/losers) says he left with a **back injury**. Not confirmed
+    elsewhere yet.
+  - Tanner McKee started for Hurts (20/35, 211 yds, 1 TD, 1 INT). Javonte
+    Williams had 15 carries for 155 yds.
+- **Week 8 byes: SF, NYG, NO, HOU.**
+- **Week 8 waiver consensus:**
+  - Omar Cooper Jr. (NYJ WR, ~47%)
+  - Jordyn Tyson (NO WR, bye Week 8)
+  - Jonah Coleman (DEN RB, ~35%, back from IR)
+  - Rachaad White (WAS RB)
+  - Caleb Douglas (MIA WR)
+  - Kaelon Black (SF RB handcuff, bye)
+  - Dylan Sampson (CLE RB)
+  - Streamers: Brissett and Darnold (QB), Strange (TE)
+- Golden was cleared before Week 7 (no designation; LaFleur "no concern").
+  Marks had the HOU backfield to himself in Week 7 (Montgomery groin and
+  J. Jordan quad both out).
+
 ### Update 2026-10-26 (Monday — Week 7 Sunday results; only verified items)
 - **NYG 27, HOU 21 (OT).**
   - Skattebo 124 rush yds and a TD; Singletary 30-yd OT TD run.
