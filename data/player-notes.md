@@ -96,6 +96,23 @@
 - 4for4: Lamb and Pickens are locks; Flournoy a flex given byes and DAL's
   high implied total; Javonte Williams a must-start.
 
+### Update 2026-10-28 (Wednesday — Week 8 slate and lines)
+- **Correction to Week 7:** Hall was **inactive** vs MIA, and **B. Allen
+  topped 100 rush yds** as the lead back (he had 54/62, 60/70 and 30/32
+  snaps in Weeks 4-6).
+- **Barkley:** tweaked his hamstring on his first carry, then hurt his back
+  compensating. He was pulled after 9 carries. He says neither will keep
+  him out of Week 8 (@ WAS, SNF). No diagnosis yet. Pierce is also hurt,
+  so Elijah Mitchell is next up.
+- **Week 8 slate (ET):**
+  - TNF: CAR @ GB, GB -3.5 / 47.5.
+  - Sun 1pm: BAL @ BUF (~52.5), TEN @ CIN (CIN -10), ARI @ DAL (54.5, the
+    top total per ESPN), MIN @ DET, LV @ NYJ, CLE @ PIT, ATL @ TB,
+    IND @ JAX.
+  - Late: KC @ DEN, LAC (0-6) @ LAR 4:05, NE @ MIA 4:25.
+  - SNF: PHI @ WAS. MNF: CHI @ SEA (SEA -3, 46.5).
+  - Byes: SF, NYG, NO, HOU.
+
 ### Update 2026-10-27 (Tuesday — MNF result, Week 8 byes and waivers)
 - **MNF: DAL 38, PHI 21.**
   - **Barkley: 7 carries, 62 yds, 1 TD on limited snaps.** One source (NBC
