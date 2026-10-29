@@ -96,6 +96,19 @@
 - 4for4: Lamb and Pickens are locks; Flournoy a flex given byes and DAL's
   high implied total; Javonte Williams a must-start.
 
+### Update 2026-10-29 (Thursday — TNF CAR @ GB tonight)
+- **Matthew Golden (GB): DNP Monday and Tuesday estimates** (shoulder plus
+  a new foot issue). Sat out the walkthrough. LaFleur on playing Thursday:
+  "I sure hope so." **At risk of being inactive.** If he's out, Watson and
+  Kraft take the targets.
+- **CAR:** G Damien Lewis (knee) and **WR Jalen Coker** were added to the
+  report. If Coker sits, McMillan's target share goes up.
+- **Aaron Jones (MIN): DNP Wednesday (knee).**
+- **Jahmyr Gibbs (DET): DNP Wednesday (shoulder).**
+- **Lamar Jackson (BAL): full practice Wednesday** after missing three
+  games. This affects BAL @ BUF (Shakir).
+- Hall's and Barkley's Week 8 Wednesday practice status wasn't found.
+
 ### Update 2026-10-28 (Wednesday — Week 8 slate and lines)
 - **Correction to Week 7:** Hall was **inactive** vs MIA, and **B. Allen
   topped 100 rush yds** as the lead back (he had 54/62, 60/70 and 30/32
