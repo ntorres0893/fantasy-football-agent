@@ -147,6 +147,29 @@ implied; volume but few high-value touches) or B. Allen (strong start if
 Hall sits). Decide after Friday's injury reports. The Vikings DEF vs IND
 is a great spot (IND run-heavy, poor passing; MIN #1 pass D).
 
+## Week 8 matchup as seen in the app (10/30 7:06pm) — 51.52 vs 0.00 (proj 105.05 vs 118.72)
+The roster changed since 10/21: **O. Cooper Jr., R. Flournoy (DAL) and
+B. Strange (JAX TE) were added.** Jacobs was **started** on TNF, not
+benched. The 10/30 brief was wrong about that.
+- Ours:
+  - **Done:** Love 28.52 (final), Jacobs 17.20 (final), McMillan 5.80
+    (W/T, final).
+  - **Sunday:** Bijan 16.47 (@ TB), Cooper Jr. 6.98 (vs LV), Flournoy 6.34
+    (vs ARI), Strange 6.46 (vs IND), Shrader 9.19 (@ JAX), Vikings DEF
+    8.09 (@ DET). Douglas visible below the fold (bench).
+- Opponent:
+  - QB J. Allen 27.96 (vs BAL).
+  - RB Irving 13.23, **Gibbs 19.23 (DNP Wednesday, shoulder)**.
+  - WR J. Williams 7.46, P. Washington 11.23.
+  - TE **LaPorta** 7.09. W/T Z. Flowers 12.32.
+  - K Gay 9.45. DEF Bengals 10.75.
+- **Keep the Vikings DEF @ DET.** The opponent starts three Lions (Gibbs,
+  J. Williams, LaPorta), so every stop by our DEF also takes points from
+  them. It's a hedge plus a #1 DEF.
+- Douglas vs Flournoy: A.J. Brown is out (NE), so Douglas gets more
+  targets. Start whichever projects higher. Flournoy is in the week's top
+  total (ARI @ DAL 54.5).
+
 ## Week 7 lineup as seen in the app (10/21 12:41) — proj 97.17
 Roster changed from the earlier plan: Kelce, M. Wilson and Worthy are gone.
 **Higbee (TE), Douglas (W/T) and Jacobs (GB RB) were added.**

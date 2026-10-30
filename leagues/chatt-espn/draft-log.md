@@ -865,6 +865,35 @@ These options were excluded only by the rule and are back in play:
   are better than Reichard (MIN ~24.25) and Zvada (NYG ~16.5).
 - **Jets D/ST vs MIA** (MIA ~17) is a fallback.
 
+### Week 8 matchup (app, 10/30) — 20.9 vs 0.0, win probability 42% / 58%
+Roster changed: **Mahomes, LaPorta and Barkley are gone.** That implies the
+Nabers trade (Mahomes + LaPorta + Barkley) was accepted; Nabers is on bye
+(NYG). **G. Smith (NYJ QB), Pitts (ATL TE), the Bucs D/ST and McPherson
+(CIN K) were added.**
+- Ours:
+  - QB G. Smith 18.45 (vs LV)
+  - RB **B. Hall Q** 15.41 (vs LV), Gordon 14.39 (vs NE, 4:25)
+  - WR Metcalf 12.2 (vs CLE), **Golden 20.9 FINAL (7 rec, 79 yds, TD)**
+  - TE Pitts 10.33 (@ TB)
+  - FLEX Tucker 10.83 (@ NYJ)
+  - D/ST Bucs 4.05 (vs ATL)
+  - K McPherson 8.38 (vs TEN)
+- Opponent:
+  - QB Cousins (LV)
+  - RB Bijan, A. Jones Q
+  - WR London, Burden (MNF)
+  - TE Bowers
+  - FLEX T. Higgins
+  - D/ST Steelers
+  - K Aubrey
+- Calls:
+  - **Hall is a risky start.** He worked with trainers on the side
+    Thursday and is week-to-week. Have a 1pm RB ready for 11:30am
+    inactives; B. Allen is ideal if he's a free agent.
+  - **Bucs D/ST at 4.05 is the weakest slot.** Stream the Rams vs LAC
+    (0-6) if available.
+  - **FLEX:** Douglas (A.J. Brown out) vs Tucker. Compare projections.
+
 ## Action items before Week 1
 1. **Add a backup/streaming QB before Week 5** — top priority waiver action once
    the season's underway; don't leave it until bye week itself.
