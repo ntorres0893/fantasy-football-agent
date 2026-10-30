@@ -866,10 +866,15 @@ These options were excluded only by the rule and are back in play:
 - **Jets D/ST vs MIA** (MIA ~17) is a fallback.
 
 ### Week 8 matchup (app, 10/30) — 20.9 vs 0.0, win probability 42% / 58%
-Roster changed: **Mahomes, LaPorta and Barkley are gone.** That implies the
-Nabers trade (Mahomes + LaPorta + Barkley) was accepted; Nabers is on bye
-(NYG). **G. Smith (NYJ QB), Pitts (ATL TE), the Bucs D/ST and McPherson
-(CIN K) were added.**
+**Correction (manager, 10/30): the Nabers trade did NOT happen.** Mahomes,
+LaPorta and Barkley are on the bench. The manager added G. Smith (NYJ QB),
+Pitts (ATL TE), the Bucs D/ST and McPherson (CIN K), and started Smith and
+Pitts.
+- **Smith over Mahomes is supported by matchup data:** LV's pass D is 27th
+  in success rate and 28th in air yards allowed; DEN's is 3rd in pass EPA
+  allowed.
+- **Pitts over LaPorta:** LaPorta faces MIN, the #1 pass D.
+- **Barkley benched:** DNP Wednesday and Thursday, and his game is SNF.
 - Ours:
   - QB G. Smith 18.45 (vs LV)
   - RB **B. Hall Q** 15.41 (vs LV), Gordon 14.39 (vs NE, 4:25)
