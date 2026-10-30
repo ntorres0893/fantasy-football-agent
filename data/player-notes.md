@@ -96,6 +96,21 @@
 - 4for4: Lamb and Pickens are locks; Flournoy a flex given byes and DAL's
   high implied total; Javonte Williams a must-start.
 
+### Update 2026-10-30 (Friday — TNF result, Thursday practice)
+- **TNF: GB 27, CAR 19.**
+  - **Love: 288 yds, 3 TD** (Bleacher Report).
+  - **Jacobs: rushing TD, 53 scrimmage yds.**
+  - **Golden played**: a 14-yd catch, plus a deep target that was
+    intercepted. Full line not found.
+  - McMillan's line not found. CAR is 3-4.
+- **Barkley: DNP Wednesday AND Thursday** (back plus hamstring). Only
+  Friday left before SNF @ WAS. Trending toward OUT or a game-time call.
+- **Breece Hall:** reports conflict. NFL.com says limited; NBC says he
+  worked with trainers on the side Thursday and is still week-to-week.
+  Lean OUT, which would make **B. Allen** the Jets' lead back again vs LV.
+- **A.J. Brown (NE): sidelined by a knee injury** (NFL.com, Thursday
+  roundup). More targets for Douglas and Henry.
+
 ### Update 2026-10-29 (Thursday — TNF CAR @ GB tonight)
 - **Matthew Golden (GB): DNP Monday and Tuesday estimates** (shoulder plus
   a new foot issue). Sat out the walkthrough. LaFleur on playing Thursday:
