@@ -96,6 +96,17 @@
 - 4for4: Lamb and Pickens are locks; Flournoy a flex given byes and DAL's
   high implied total; Javonte Williams a must-start.
 
+### Update 2026-10-31 (Saturday — Week 8 final designations)
+- **Breece Hall: QUESTIONABLE** for the second straight week, limited
+  Wednesday through Friday.
+- **Saquon Barkley:** limited Friday. Yahoo shows **no injury
+  designation**; RotoWire says good to go; RAW CHILI says the Eagles "will
+  have" him. One outlet (The RX) lists him Q. SI expects him to play but
+  be limited. PHI's backfield is thin (Pierce hurt).
+- **A.J. Brown (NE): QUESTIONABLE** (ankle/knee), upgraded from
+  "sidelined" Thursday. The Douglas target boost is less certain.
+- **Jahmyr Gibbs (DET): good to go** (shoulder).
+
 ### Update 2026-10-30 (Friday — TNF result, Thursday practice)
 - **TNF: GB 27, CAR 19.**
   - **Love: 288 yds, 3 TD** (Bleacher Report).
