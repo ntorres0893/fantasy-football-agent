@@ -96,6 +96,16 @@
 - 4for4: Lamb and Pickens are locks; Flournoy a flex given byes and DAL's
   high implied total; Javonte Williams a must-start.
 
+### Update 2026-11-01 (Sunday — Week 8 game day)
+- **A.J. Brown (NE): ESPN's injury page lists him OUT vs MIA**
+  (knee/ankle). Single source, but it fits NE @ MIA. That gives Douglas the
+  target boost.
+- **Breece Hall:** still Questionable, a 1pm game-time call.
+- **Barkley:** no new news beyond Friday (limited, no designation). SNF.
+- **Weather:** NE @ MIA has a chance of rain, ~84°F. PHI @ WAS is cloudy,
+  ~47°F. ARI @ DAL is under a retractable roof. No major wind games
+  flagged.
+
 ### Update 2026-10-31 (Saturday — Week 8 final designations)
 - **Breece Hall: QUESTIONABLE** for the second straight week, limited
   Wednesday through Friday.
