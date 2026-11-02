@@ -96,6 +96,24 @@
 - 4for4: Lamb and Pickens are locks; Flournoy a flex given byes and DAL's
   high implied total; Javonte Williams a must-start.
 
+### Update 2026-11-02 (Monday — Week 8 Sunday results)
+- **SNF: WAS 27, PHI 10.**
+  - **Barkley: 13 carries, 30 yds, 1 TD (3-yd direct snap), plus a 24-yd
+    catch.** Elijah Mitchell had 11 carries, a real split.
+  - McKee started again (Hurts out). PHI is 2-6.
+- **DET 19, MIN 15.** **Gibbs: 23 carries, 153 yds, 1 TD.**
+- **PIT 27, CLE 6. DEN 28, KC 24** (KC blew an 11-pt lead). **ARI 33, DAL
+  30 (OT). LAR 24, LAC 9** (LAC 0-7). BUF beat BAL; Lamar Jackson and
+  Huntley both left hurt.
+- **CIN routed TEN:** Burrow had 5-6 total TDs and 460+ yds per reports;
+  Higgins and Chase boomed. **Bowers: 28.2 fantasy pts.**
+- **ATL @ TB:** one summary says **TB won 16-0 with Mayfield 0-for-3
+  passing.** Not verified by a box score; other searches returned older
+  seasons.
+- **NE @ MIA:** final not verified. One Spanish-language headline says
+  Miami "crushed" NE.
+- MNF tonight: CHI @ SEA.
+
 ### Update 2026-11-01 (Sunday — Week 8 game day)
 - **A.J. Brown (NE): ESPN's injury page lists him OUT vs MIA**
   (knee/ankle). Single source, but it fits NE @ MIA. That gives Douglas the
