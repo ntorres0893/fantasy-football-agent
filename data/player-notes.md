@@ -96,6 +96,19 @@
 - 4for4: Lamb and Pickens are locks; Flournoy a flex given byes and DAL's
   high implied total; Javonte Williams a must-start.
 
+### Update 2026-11-03 (Tuesday — MNF, Week 9 byes and waivers)
+- **MNF: SEA beat CHI** in one of the lowest-scoring games of the season
+  (Flashscore). Score not verified.
+- **Week 9 byes: PIT, TEN only.** Week 10 byes: PHI, TB, CHI, DEN.
+- **Week 9 waiver consensus:**
+  - RB: **Mike Washington Jr. (LV)** (Yahoo's #1 overall), Emmett Johnson
+    (KC), Seth McGowan (IND), Kenny Gainwell (TB), Kaelon Black (SF),
+    Devin Singletary (NYG, ~5% rostered; scored the Week 7 OT TD)
+  - TE: Mike Gesicki (CIN); Eli Raridon (NE) as a speculative add
+  - QB: Malik Willis (MIA)
+  - WR: Adonai Mitchell (NYJ), Antonio Williams (WAS), Flournoy (DAL)
+  - D/ST streams: HOU, KC, DET, CHI, BUF, NYG, NO, DAL
+
 ### Update 2026-11-02 (Monday — Week 8 Sunday results)
 - **SNF: WAS 27, PHI 10.**
   - **Barkley: 13 carries, 30 yds, 1 TD (3-yd direct snap), plus a 24-yd
