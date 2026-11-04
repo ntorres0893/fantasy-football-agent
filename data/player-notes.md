@@ -96,6 +96,16 @@
 - 4for4: Lamb and Pickens are locks; Flournoy a flex given byes and DAL's
   high implied total; Javonte Williams a must-start.
 
+### Update 2026-11-04 (Wednesday — Week 9 lines)
+- **TNF (11/5): JAX @ BAL**, JAX -9.5/-10, total 40.5-43.5. Lamar Jackson
+  is out (Lamar-less Ravens).
+- **Madrid: CIN vs ATL, Sun 11/8 at 9:30am ET.** CIN -3 to -3.5, 51.5-52.5,
+  tied with LV @ SF for the top total.
+- **SEA -10.5 to -12.5 vs ARI**, the biggest favorite. Also: NYJ @ KC, NYG
+  @ PHI, GB vs NE.
+- **MNF: BUF @ MIN**, BUF -2.5 to -3.5, ~46-47.5.
+- Byes: PIT, TEN.
+
 ### Update 2026-11-03 (Tuesday — MNF, Week 9 byes and waivers)
 - **MNF: SEA beat CHI** in one of the lowest-scoring games of the season
   (Flashscore). Score not verified.
