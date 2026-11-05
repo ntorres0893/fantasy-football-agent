@@ -96,6 +96,14 @@
 - 4for4: Lamb and Pickens are locks; Flournoy a flex given byes and DAL's
   high implied total; Javonte Williams a must-start.
 
+### Update 2026-11-05 (Thursday — TNF JAX @ BAL tonight)
+- **Lamar Jackson (BAL): thumb surgery, likely out for the season**, headed
+  to IR (HC Jesse Minter, 11/1). Backup Huntley (toe) is uncertain.
+  **Undrafted rookie Joe Fagnano may start tonight.** JAX is -9.5/-10.
+  **Jaguars D/ST is a premium stream tonight.**
+- Brenton Strange (JAX TE): practiced in full in Week 8 with an eye issue
+  and had no designation. No Week 9 issue found.
+
 ### Update 2026-11-04 (Wednesday — Week 9 lines)
 - **TNF (11/5): JAX @ BAL**, JAX -9.5/-10, total 40.5-43.5. Lamar Jackson
   is out (Lamar-less Ravens).
