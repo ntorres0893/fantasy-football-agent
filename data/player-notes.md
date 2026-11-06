@@ -96,6 +96,14 @@
 - 4for4: Lamb and Pickens are locks; Flournoy a flex given byes and DAL's
   high implied total; Javonte Williams a must-start.
 
+### Update 2026-11-06 (Friday — TNF result)
+- **TNF: JAX 33, BAL 10** in the rain. Rookie Fagnano started; "Jaguars
+  defense drowns Ravens" (Yahoo). JAX is 6-2, BAL 4-5. Lawrence: 197 yds,
+  1 TD.
+- **Brenton Strange: 2 catches, 22 yds.** A quiet game.
+- No Week 9 Thursday practice reports were found for our players
+  (searches returned prior seasons).
+
 ### Update 2026-11-05 (Thursday — TNF JAX @ BAL tonight)
 - **Lamar Jackson (BAL): thumb surgery, likely out for the season**, headed
   to IR (HC Jesse Minter, 11/1). Backup Huntley (toe) is uncertain.
