@@ -96,6 +96,19 @@
 - 4for4: Lamb and Pickens are locks; Flournoy a flex given byes and DAL's
   high implied total; Javonte Williams a must-start.
 
+### Update 2026-11-07 (Saturday — Week 9 final designations)
+- **GB @ NE is at Foxborough, 4:25pm** (correction: not a GB home game).
+  Packers Q: Chris Brooks, MarShawn Lloyd, Brenden Schooler. No
+  designation found for Love, Jacobs or Golden.
+- **MIA: RBs Jaylen Wright and Kaytron Allen both Q (quad).** Gordon's
+  workload should be secure or larger.
+- **PHI: Tanner McKee Q (ribs)**; Smith and Wicks OUT again. Barkley's
+  offense stays shaky.
+- **ATL (Madrid): WR Zachariah Branch and DE Ebukam OUT** (hamstrings).
+  No designation found for Bijan, Pitts or London.
+- **CLE: Watson Q (concussion)**; Shedeur Sanders starts if he sits. **DAL:
+  Pickens and Ferguson Q.** **NYG: Nabers expected to play.**
+
 ### Update 2026-11-06 (Friday — TNF result)
 - **TNF: JAX 33, BAL 10** in the rain. Rookie Fagnano started; "Jaguars
   defense drowns Ravens" (Yahoo). JAX is 6-2, BAL 4-5. Lawrence: 197 yds,
