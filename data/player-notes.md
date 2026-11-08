@@ -96,6 +96,16 @@
 - 4for4: Lamb and Pickens are locks; Flournoy a flex given byes and DAL's
   high implied total; Javonte Williams a must-start.
 
+### Update 2026-11-08 (Sunday — Week 9 game day)
+- **Madrid (CIN vs ATL, 9:30am):** retractable roof, so weather doesn't
+  matter. Bengals CB DJ Turner (heel) is uncertain, which helps the ATL
+  pass game (Pitts).
+- **Garrett Wilson (NYJ) OUT** (RotoWire), weakening the Jets' offense vs
+  KC. Sam Darnold (SEA) out.
+- **Weather:** no wind games (all at or under 8 mph sustained). DET @ MIA
+  has a small thunderstorm chance; ARI @ SEA ~33% rain.
+- Inactives: ~11:30am for 1pm games, ~2:55pm for 4:25pm games.
+
 ### Update 2026-11-07 (Saturday — Week 9 final designations)
 - **GB @ NE is at Foxborough, 4:25pm** (correction: not a GB home game).
   Packers Q: Chris Brooks, MarShawn Lloyd, Brenden Schooler. No
