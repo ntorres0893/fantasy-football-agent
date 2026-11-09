@@ -96,6 +96,22 @@
 - 4for4: Lamb and Pickens are locks; Flournoy a flex given byes and DAL's
   high implied total; Javonte Williams a must-start.
 
+### Update 2026-11-09 (Monday — Week 9 Sunday results)
+- **GB routed NE at Foxborough** (Yahoo: "Packers rout Patriots"; CBS:
+  "Packers WRs go ballistic," "Drake Maye's turnover woes return").
+  Individual lines not verified.
+- **CIN 34, ATL 17 (Madrid).** Chase: 10 catches, 155 yds, 1 TD. Burrow and
+  Higgins kept rolling. London: 5 targets, 11.8 pts. Bijan and Pitts lines
+  not found.
+- **KC beat NYJ** (27-14 or 35-12, sources differ). **K. Walker III: 36.3
+  pts.** Mahomes had a knee listing but practiced fully all week.
+- **Gibbs: 13.4 pts vs MIA**, his season low. Gordon's line not found.
+- **Nacua (LAR): 14 catches, 150 yds, 1 TD**, then hurt his knee late. The
+  team doesn't believe it's an ACL.
+- CeeDee Lamb 33.5. Bucky Irving 28.5. J. Taylor under 10 for the second
+  straight week.
+- **MNF tonight: BUF @ MIN.**
+
 ### Update 2026-11-08 (Sunday — Week 9 game day)
 - **Madrid (CIN vs ATL, 9:30am):** retractable roof, so weather doesn't
   matter. Bengals CB DJ Turner (heel) is uncertain, which helps the ATL
