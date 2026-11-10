@@ -96,6 +96,21 @@
 - 4for4: Lamb and Pickens are locks; Flournoy a flex given byes and DAL's
   high implied total; Javonte Williams a must-start.
 
+### Update 2026-11-10 (Tuesday — Week 10 waivers, trade deadline)
+- **NFL trade deadline: today (Tue 11/10).**
+- **Week 10 byes: CHI, DEN, TB, PHI.**
+- MNF BUF @ MIN: final not found. Shakir had no designation going in.
+- **Rhamondre Stevenson (NE) hurt in Week 9.** **Corey Kiner** could lead
+  NE's backfield in Week 10.
+- **Week 10 waiver consensus:**
+  - RB: Seth McGowan (IND; Yahoo's top pickup), Corey Kiner (NE), Kaleb
+    Johnson (GB; Jacobs's backup), Audric Estime (NO); handcuffs Emmett
+    Johnson (KC) and Kaelon Black (SF)
+  - WR: Tank Dell (HOU, @ CLE; part-time role per RotoWire), Pat Bryant
+    (DEN, bye), Jordan Watkins (SF)
+  - TE: Chig Okonkwo (WAS), Waller (CAR), Raridon (NE)
+  - QB: Jacoby Brissett (BAL), Bryce Young (CAR)
+
 ### Update 2026-11-09 (Monday — Week 9 Sunday results)
 - **GB routed NE at Foxborough** (Yahoo: "Packers rout Patriots"; CBS:
   "Packers WRs go ballistic," "Drake Maye's turnover woes return").
