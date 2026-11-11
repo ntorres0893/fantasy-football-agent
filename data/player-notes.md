@@ -96,6 +96,22 @@
 - 4for4: Lamb and Pickens are locks; Flournoy a flex given byes and DAL's
   high implied total; Javonte Williams a must-start.
 
+### Update 2026-11-11 (Wednesday — trade deadline fallout, Week 10 slate)
+- **Trade deadline deals (11/10):**
+  - **Kirk Cousins: LV to MIN.** Winners: Jefferson, Addison, MIN K,
+    Bowers and Mayer (LV TEs absorb volume). Losers: LV WRs (**Tre Tucker**,
+    Nailor) and MIN QBs (Murray, Wentz).
+  - **Josh Downs: IND to KC.** He gives Mahomes another target. Tyler
+    Warren becomes IND's clear #1.
+  - **Keenan Allen: IND to SF.**
+  - **Marvin Harrison Jr.: ARI to HOU** (for 2027 2nd- and 6th-round
+    picks).
+  - **Jacoby Brissett: ARI to BAL** (backup insurance).
+  - Jonathan Taylor stays in IND. Amani Hooker: TEN to BUF.
+- **Week 10 slate:** TNF **WAS @ NYG** (8:15pm Thu). SNF **PIT @ CIN** (CIN
+  favored). MNF **LAC @ BAL**. Byes: CHI, DEN, TB, PHI. Lines not yet
+  posted.
+
 ### Update 2026-11-10 (Tuesday — Week 10 waivers, trade deadline)
 - **NFL trade deadline: today (Tue 11/10).**
 - **Week 10 byes: CHI, DEN, TB, PHI.**
