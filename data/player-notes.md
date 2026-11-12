@@ -96,6 +96,19 @@
 - 4for4: Lamb and Pickens are locks; Flournoy a flex given byes and DAL's
   high implied total; Javonte Williams a must-start.
 
+### Update 2026-11-12 (Thursday — Week 10 Wednesday reports)
+- **Josh Jacobs (GB): fractured finger, reportedly set for surgery. OUT
+  for Week 10 vs MIN**, with a possible return in 2-3 weeks. MarShawn
+  Lloyd is off the report and returns; Kaleb Johnson is the other GB RB.
+- **NE @ DET in MUNICH, Sunday 11/15, 9:30am ET.** Early lock.
+  TreVeyon Henderson is OUT (illness) and Stevenson was hurt in Week 9, so
+  NE's backfield is in flux (Kiner).
+- **Mahomes** practiced fully (KC hosts ATL). **Goff** limited (chest).
+  **Garrett Wilson** limited (concussion). **Puka Nacua** faces a
+  multi-week absence. **Mike Evans** still not practicing.
+- **TNF: WAS @ NYG**, NYG -1.5 to -2.5, total 42.5-47.5. McCarthy is
+  healthy. WAS RB Croskey-Merritt limited (groin).
+
 ### Update 2026-11-11 (Wednesday — trade deadline fallout, Week 10 slate)
 - **Trade deadline deals (11/10):**
   - **Kirk Cousins: LV to MIN.** Winners: Jefferson, Addison, MIN K,
