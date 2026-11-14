@@ -96,6 +96,19 @@
 - 4for4: Lamb and Pickens are locks; Flournoy a flex given byes and DAL's
   high implied total; Javonte Williams a must-start.
 
+### Update 2026-11-14 (Saturday — Week 10 final designations)
+- **Munich (NE @ DET, Sun 9:30am; DET -2.5):**
+  - NE: **A.J. Brown Q** (ankle/knee). **Stevenson Q** (knee; limited
+    Thu/Fri, maybe passing downs only). **Henderson OUT** (illness). Maye
+    has no designation.
+  - DET: **S Kerby Joseph, CB D.J. Reed and C Cade Mays OUT.**
+    **Amon-Ra St. Brown Q** (rib, limited all week). Sione Vaki Q.
+  - The Lions' depleted secondary helps NE WRs (Douglas). If St. Brown
+    sits, LaPorta's targets go up.
+- **Kenneth Walker (KC): new groin injury** (CBS). Pass-game volume for
+  Mahomes could rise if he's limited.
+- Jacobs remains OUT (finger surgery).
+
 ### Update 2026-11-12 (Thursday — Week 10 Wednesday reports)
 - **Josh Jacobs (GB): fractured finger, reportedly set for surgery. OUT
   for Week 10 vs MIN**, with a possible return in 2-3 weeks. MarShawn
