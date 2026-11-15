@@ -96,6 +96,12 @@
 - 4for4: Lamb and Pickens are locks; Flournoy a flex given byes and DAL's
   high implied total; Javonte Williams a must-start.
 
+### Update 2026-11-15 (Sunday — Week 10 game day)
+- **Amon-Ra St. Brown: expected to PLAY** (ESPN's Fowler), despite being
+  Q. Played through the same rib issue last week. Munich inactives at 8am.
+- **A.J. Brown:** Vrabel feels "pretty good" about him playing. It would be
+  his first game since 10/22, which cuts into Douglas's target share.
+
 ### Update 2026-11-14 (Saturday — Week 10 final designations)
 - **Munich (NE @ DET, Sun 9:30am; DET -2.5):**
   - NE: **A.J. Brown Q** (ankle/knee). **Stevenson Q** (knee; limited
