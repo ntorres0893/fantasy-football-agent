@@ -96,6 +96,21 @@
 - 4for4: Lamb and Pickens are locks; Flournoy a flex given byes and DAL's
   high implied total; Javonte Williams a must-start.
 
+### Update 2026-11-16 (Monday — Week 10 Sunday results)
+- **Mahomes: 348 yds, 5 TD** in KC 35, ATL 13. Rookie **Emmett Johnson**
+  (171 total yds, 2 TD) filled in for the injured K. Walker.
+- **MIN 30, GB 10.** Cousins' debut was a win. **Love had a season-low**
+  game.
+- **Gibbs dominated** in Munich (DET vs NE). Yahoo headline: **"Patriots
+  lose Drake Maye."** Injury details not yet verified; watch Douglas's QB
+  situation.
+- **CLE 27, HOU 24** (Cleveland rallied from 17-0 down).
+- **CIN beat PIT on SNF**; Chase Brown scored 28.3.
+- **SF 46, DAL 40**: McCaffrey 3 rushing TDs, Kaelon Black scored.
+- IND beat MIA; J. Taylor 103 total yds. JAX 40, TEN 23 (Lawrence 352, 3
+  TD). LAR 34, ARI 6. BUF 31, NYJ 12.
+- NO's backfield (Etienne, Estime) flopped vs CAR.
+
 ### Update 2026-11-15 (Sunday — Week 10 game day)
 - **Amon-Ra St. Brown: expected to PLAY** (ESPN's Fowler), despite being
   Q. Played through the same rib issue last week. Munich inactives at 8am.
