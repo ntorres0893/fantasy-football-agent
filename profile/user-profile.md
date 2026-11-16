@@ -38,6 +38,9 @@
   no-doubles rule, so judge players on volume and matchup alone.
   - Still flag one thing: a DEF facing our own QB or K. That's opposing
     teams, and the two scores work against each other.
+  - **Lesson (Week 10, 11/16):** treat that overlap as a tiebreaker only.
+    An **elite** DEF (like the #1 Vikings) still starts against our own QB.
+    Stream around it only when the DEF is average.
 
 ## Learning goals
 - Understand positional scarcity (why RB/TE differ from WR/QB).
