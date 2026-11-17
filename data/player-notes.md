@@ -96,6 +96,23 @@
 - 4for4: Lamb and Pickens are locks; Flournoy a flex given byes and DAL's
   high implied total; Javonte Williams a must-start.
 
+### Update 2026-11-17 (Tuesday — Maye injury, Week 11 bye-pocalypse)
+- **Drake Maye (NE): feared fractured ankle**, possibly season-ending
+  (ESPN, CBS). He stayed in Germany for tests. Vrabel: "I wouldn't imagine
+  him being available coming out of the bye." **NE lost 35-10.** NE's
+  passing game takes a big downgrade, so **Douglas's value crashes**.
+- **Week 11 byes (6 teams): ATL, CLE, GB, LAR, NE, SEA.**
+- **Woody Marks (HOU): concussion** (on the Week 11 injury list).
+  Emari Demercado is the HOU fill-in if Marks and Montgomery sit.
+- **Week 11 waiver adds:**
+  - WR: **Ryan Flournoy** (DAL; 6-71-1 on 7 targets; Ferguson out), Caleb
+    Douglas (MIA), Adonai Mitchell (NYJ), Antonio Williams (WAS; McLaurin
+    out for the season)
+  - RB: **Kaelon Black** (SF; 11+ touches in recent games), Demercado
+    (HOU), Kaleb Johnson (GB; on bye this week)
+  - QB: **Cam Ward** (TEN vs DAL), Brissett, Watson (CLE, on bye)
+- Mayfield (TB) is banged up. K. Walker (KC, groin) is still listed.
+
 ### Update 2026-11-16 (Monday — Week 10 Sunday results)
 - **Mahomes: 348 yds, 5 TD** in KC 35, ATL 13. Rookie **Emmett Johnson**
   (171 total yds, 2 TD) filled in for the injured K. Walker.
