@@ -96,6 +96,15 @@
 - 4for4: Lamb and Pickens are locks; Flournoy a flex given byes and DAL's
   high implied total; Javonte Williams a must-start.
 
+### Update 2026-11-18 (Wednesday — Week 11 lines, Marks)
+- **TNF (11/19): IND @ HOU, HOU -10, total 44.5.**
+- **Woody Marks: likely OUT for TNF.** Concussion in Week 10. DeMeco
+  Ryans: "just not enough time for him to turn it around that quickly."
+  **Emari Demercado** takes over.
+- **SNF: MIN @ SF** (SF favored, spread under 4). **MNF: CIN @ WAS, CIN
+  -3.5, total 51.5.**
+- Byes: ATL, CLE, GB, LAR, NE, SEA.
+
 ### Update 2026-11-17 (Tuesday — Maye injury, Week 11 bye-pocalypse)
 - **Drake Maye (NE): feared fractured ankle**, possibly season-ending
   (ESPN, CBS). He stayed in Germany for tests. Vrabel: "I wouldn't imagine
