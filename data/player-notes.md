@@ -96,6 +96,11 @@
 - 4for4: Lamb and Pickens are locks; Flournoy a flex given byes and DAL's
   high implied total; Javonte Williams a must-start.
 
+### Update 2026-11-19 (Thursday — TNF IND @ HOU tonight)
+- **Woody Marks: DNP Monday (estimated report).** Still in concussion
+  protocol, so treat him as OUT for TNF. No official ruling found yet.
+- No other Week 11 practice news found for our players.
+
 ### Update 2026-11-18 (Wednesday — Week 11 lines, Marks)
 - **TNF (11/19): IND @ HOU, HOU -10, total 44.5.**
 - **Woody Marks: likely OUT for TNF.** Concussion in Week 10. DeMeco
