@@ -96,6 +96,15 @@
 - 4for4: Lamb and Pickens are locks; Flournoy a flex given byes and DAL's
   high implied total; Javonte Williams a must-start.
 
+### Update 2026-11-21 (Saturday — Week 11 final designations)
+- **Woody Marks: OUT** for TNF (concussion, confirmed). HOU also ruled out
+  Marvin Harrison Jr. (hamstring).
+- **KC vs ARI:** **Kenneth Walker III OUT** (groin). Emmett Johnson leads
+  again. KC also lost RT Jaylon Moore and RG Trey Smith. ARI QB Carson Beck
+  Q (back).
+- **Brock Bowers (LV) Q.** DAL ruled out Jake Ferguson. BAL: Lamar Jackson
+  listed Q.
+
 ### Update 2026-11-19 (Thursday — TNF IND @ HOU tonight)
 - **Woody Marks: DNP Monday (estimated report).** Still in concussion
   protocol, so treat him as OUT for TNF. No official ruling found yet.
