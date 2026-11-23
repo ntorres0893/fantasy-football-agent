@@ -96,6 +96,19 @@
 - 4for4: Lamb and Pickens are locks; Flournoy a flex given byes and DAL's
   high implied total; Javonte Williams a must-start.
 
+### Update 2026-11-23 (Monday — Week 11 Sunday results)
+- **KC 34, ARI 7.** Kelce: 6-74-2. Mahomes's line not verified.
+- **DAL 51, TEN 30.** Prescott: 28/33, 325 yds, 4 pass TD, 1 rush TD;
+  Dallas scored on 8 straight possessions. **Cam Ward: 22.22 pts** (248
+  yds, 2 TD, 1 rush TD). Flournoy's line not found.
+- **BUF 26, MIA 9.** Low ceiling for Gordon.
+- **PHI 19, PIT 16** (Joe Milton). **Barkley: 75 rush yds and a TD, then
+  left with another injury late.**
+- **SF beat MIN in Mexico City (SNF).** Kaelon Black's line not found.
+  Jefferson: 13.7.
+- DET 31, TB 21. CAR 35, BAL 33. CHI 21, NO 13. NYG 23, JAX 18.
+- **MNF tonight: CIN @ WAS** (McPherson, A. Williams).
+
 ### Update 2026-11-21 (Saturday — Week 11 final designations)
 - **Woody Marks: OUT** for TNF (concussion, confirmed). HOU also ruled out
   Marvin Harrison Jr. (hamstring).
