@@ -96,6 +96,23 @@
 - 4for4: Lamb and Pickens are locks; Flournoy a flex given byes and DAL's
   high implied total; Javonte Williams a must-start.
 
+### Update 2026-11-24 (Tuesday — Week 12 Thanksgiving schedule, waivers)
+- **Week 12: no byes. Games Wednesday through Monday:**
+  - **Wed 11/25, 8pm: GB @ LAR** (Netflix; the first Thanksgiving Eve game)
+  - **Thu 11/26:** CHI @ DET 1pm, **PHI @ DAL 4:30pm**, **KC @ BUF
+    8:20pm**
+  - **Fri 11/27: DEN @ PIT 3pm**
+  - Sun: TEN-JAX moved to 1pm, NE-LAC to 4:05pm, **LV @ CLE on SNF**
+    (flexed)
+- **Barkley: stinger**, left Sunday's win and didn't return. Thanksgiving
+  status uncertain. **Will Shipley** is the top add if Barkley sits.
+- **Week 12 waiver adds:** Shipley (PHI), Justice Hill (BAL), Dylan
+  Sampson (CLE; has out-snapped Judkins for three weeks), Chris Rodriguez
+  Jr. (JAX; Tuten hurt), Konata Mumpfield (LAR WR), Chimere Dike (TEN WR),
+  Higbee and Okonkwo (TE), Fernando Mendoza (LV QB), Joe Milton (PHI QB @
+  DAL).
+- MNF CIN @ WAS final not found.
+
 ### Update 2026-11-23 (Monday — Week 11 Sunday results)
 - **KC 34, ARI 7.** Kelce: 6-74-2. Mahomes's line not verified.
 - **DAL 51, TEN 30.** Prescott: 28/33, 325 yds, 4 pass TD, 1 rush TD;
