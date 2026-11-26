@@ -96,6 +96,23 @@
 - 4for4: Lamb and Pickens are locks; Flournoy a flex given byes and DAL's
   high implied total; Javonte Williams a must-start.
 
+### Update 2026-11-26 (Thursday — Thanksgiving; Wednesday result, practice reports)
+- **Wed GB @ LAR final: Rams 26, Packers 13.** Blake Corum ran 32 times for
+  184 yards and a TD (career high). Kyren also scored. **Love: 2 INTs.**
+  Box-score reports differ: one says 17-29, 198 yards, 1 TD; another says
+  162 passing yards. **Golden: 1 catch, 39 yards** (one report says 1 of 5
+  targets), and his miscommunication with Love led to an INT. Watson
+  (GB) was out.
+- **Barkley: full practice, no designation.** Expected to play Thursday
+  4:30pm @ DAL. Dallas ruled out TE Jake Ferguson.
+- **Woody Marks: FULL practice Wednesday** (concussion). The Texans'
+  official report lists him FP. HOU hosts BAL on Sunday. On track to play
+  unless he has a setback.
+- **Derrick Henry (BAL): concussion, limited Wednesday.**
+- **KC ruled out Kenneth Walker III (groin)** for Thursday @ BUF.
+- **CHI @ DET:** CHI ruled out Roschon Johnson, Kyler Gordon and Elijah Hicks.
+  DET ruled out Gill-Howard and Rakestraw. No LaPorta designation found.
+
 ### Update 2026-11-24 (Tuesday — Week 12 Thanksgiving schedule, waivers)
 - **Week 12: no byes. Games Wednesday through Monday:**
   - **Wed 11/25, 8pm: GB @ LAR** (Netflix; the first Thanksgiving Eve game)
