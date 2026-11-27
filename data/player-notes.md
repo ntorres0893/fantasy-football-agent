@@ -96,6 +96,27 @@
 - 4for4: Lamb and Pickens are locks; Flournoy a flex given byes and DAL's
   high implied total; Javonte Williams a must-start.
 
+### Update 2026-11-27 (Friday — Thanksgiving results, Black Friday)
+- **CHI 39, DET 35.** Caleb Williams hit Odunze for the winning TD with 3
+  seconds left. **LaPorta: 2 TDs.**
+- **PHI 39, DAL 38.** The Eagles came back from 21 down, the biggest
+  Thanksgiving comeback ever, on Elliott's 59-yard FG. **Barkley
+  re-aggravated the stinger: 5 carries, 7 yards, left early.** Shipley took
+  over. Joe Milton threw for 331 yards and 3 TDs; DeVonta Smith had 11
+  catches, 200 yards and 2 TDs. Javonte Williams (DAL) had 3 total TDs.
+- **BUF 13, KC 10.** Bass hit a 57-yard FG at the gun in rain and wind.
+  **Mahomes: 16-29, 174 yards, 0 TD, 0 INT.** **Shakir: 3 catches, 33
+  yards** (likely on 6 targets). Cook had 32 carries for 117 yards and a TD.
+  Allen went 10-21 for 81 yards with 2 INTs.
+- **🚨 Steelers benched Aaron Rodgers on Tuesday night and then WAIVED him**
+  after his McAfee Show comments about Mike McCarthy. **Mason Rudolph
+  starts today (Fri 3pm) vs DEN.** I missed this in the 11/25 and 11/26
+  briefs. Metcalf is active (no suspension for the spitting incident; fine
+  only), but this is a downgrade: backup QB, DEN pass D (3rd in pass EPA
+  allowed as of Week 8), and **Michael Pittman Jr. activated from IR**.
+- **Woody Marks: second straight FULL practice (Thursday).** Not yet
+  formally cleared from protocol. HOU vs BAL Sunday.
+
 ### Update 2026-11-26 (Thursday — Thanksgiving; Wednesday result, practice reports)
 - **Wed GB @ LAR final: Rams 26, Packers 13.** Blake Corum ran 32 times for
   184 yards and a TD (career high). Kyren also scored. **Love: 2 INTs.**
