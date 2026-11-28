@@ -96,6 +96,25 @@
 - 4for4: Lamb and Pickens are locks; Flournoy a flex given byes and DAL's
   high implied total; Javonte Williams a must-start.
 
+### Update 2026-11-28 (Saturday — Black Friday result, final Week 12 designations)
+- **PIT 27, DEN 5** (first 27-5 final in NFL history). Two defensive TDs:
+  Ramsey pick-six, Watt fumble return. Bo Nix had 3 turnovers. Rudolph went
+  9-15, 142 yards, 1 TD per one unverified summary. **Metcalf's line was
+  not found.** Pittsburgh threw only ~15 times, so expect a low score.
+- **Woody Marks: CLEARED concussion protocol, no designation** for Sunday vs
+  BAL. **Split warning:** David Montgomery had 26 carries vs IND while Marks
+  was out, so expect a shared backfield. **Derrick Henry (BAL) also
+  cleared.**
+- **Omar Cooper Jr. (NYJ WR): OUT (ankle/groin)** for Sunday @ MIA, per the
+  NFL.com Week 12 injury report summary. Confirm in the app.
+- **ATL @ MIN:** MIN ruled out Jordan Addison, Darrisaw and Isaiah Rodgers.
+  ATL ruled out WRs Zachariah Branch and Jahan Dotson, among others. Bijan
+  had no designation found.
+- **QBs out:** Herbert (LAC, concussion), Purdy (SF, ankle) and Maye (NE).
+- **Bowers (LV): DNP Friday** after two limited days. Raiders play on SNF @ CLE.
+- **Tee Higgins: hamstring soreness,** but Zac Taylor says he's expected to play.
+- Barkley: no new post-Thanksgiving update found.
+
 ### Update 2026-11-27 (Friday — Thanksgiving results, Black Friday)
 - **CHI 39, DET 35.** Caleb Williams hit Odunze for the winning TD with 3
   seconds left. **LaPorta: 2 TDs.**
